@@ -1,39 +1,26 @@
 ## All RFCs till date ##
 
-Descending Order (All)
+[All - Descending Order - HTML](https://www.rfc-editor.org/rfc-index2.html)
 
-https://www.rfc-editor.org/rfc-index2.html
+[Latest 100 - Descending Order - HTML](https://www.rfc-editor.org/rfc-index-100d.html)
 
-Descending Order (Latest 100)
+[All - Ascending Order - HTML](https://www.rfc-editor.org/rfc-index.html)
 
-https://www.rfc-editor.org/rfc-index-100d.html
+[All - Ascending Order - TXT](https://www.rfc-editor.org/rfc-index.txt)
 
-Ascending Order (All)
+[All - Ascending Order - XML](https://www.rfc-editor.org/rfc-index.xml)
 
-https://www.rfc-editor.org/rfc-index.html
-https://www.rfc-editor.org/rfc-index.txt
-https://www.rfc-editor.org/rfc-index.xml
+[First 100 - Ascending Order - HTML](https://www.rfc-editor.org/rfc-index-100a.html)
 
-Ascending Order (First 100)
+[Index - Standards](https://www.rfc-editor.org/standards)
 
-https://www.rfc-editor.org/rfc-index-100a.html
+[Index - Informational / Search](https://www.rfc-editor.org/search/rfc_search_detail.php?sortkey=Number&sorting=DESC&page=All&pubstatus%5B%5D=Standards%20Track&std_trk=Internet%20Standard)
 
-HomePage
+[WikiPedia](https://en.wikipedia.org/wiki/List_of_RFCs)
 
-https://www.rfc-editor.org/
-https://www.ietf.org/
+[HomePage - Request for Comments](https://www.rfc-editor.org/)
 
-Informational Index / Search
-
-https://www.rfc-editor.org/search/rfc_search_detail.php?sortkey=Number&sorting=DESC&page=All&pubstatus%5B%5D=Standards%20Track&std_trk=Internet%20Standard
-
-Standards Index
-
-https://www.rfc-editor.org/standards
-
-WikiPedia
-
-https://en.wikipedia.org/wiki/List_of_RFCs
+[HomePage - Internet Engineering Task Force](https://www.ietf.org/)
 
 
 ## Any Individual RFC ###
