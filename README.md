@@ -9,7 +9,7 @@
 
 This repository contains all the Internet Standards specified in the RFC (Request for Comments) documents, published by the the IEFT (Internet Engineering Task Force) Society
 
-To view the RFCs, browse into the `docs` directory, and the respective sub directories `txt`, `pdf`, `html`, `ps`, `xml`
+To view the RFCs, browse into the `docs` directory, and the respective sub directories `txt`, `pdf`, `html`, `ps`, `xml`, `pdf-original`
 
 Best would be to clone the whole repository, and view locally, since github has a constraint of listing only 1000 files
 
