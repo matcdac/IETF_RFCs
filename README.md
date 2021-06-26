@@ -1,3 +1,4 @@
+
 ## All RFCs till date ##
 
 [All - Descending Order - HTML](https://www.rfc-editor.org/rfc-index2.html)
@@ -62,6 +63,17 @@ https://tools.ietf.org/pdf/rfc9059.xml
 BIBTEX
 
 https://datatracker.ietf.org/doc/rfc9059/bibtex
+
+
+## Download Scripts ##
+
+	cd docs
+
+	./download-RFCs-txt.sh &> txt.out
+
+	./download-RFCs-pdf.sh &> pdf.out
+
+	./download-RFCs-html.sh &> html.out
 
 
 ## License / Licence ##
