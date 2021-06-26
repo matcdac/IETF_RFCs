@@ -9,7 +9,7 @@
 
 This repository contains all the Internet Standards specified in the RFC (Request for Comments) documents, published by the the IEFT (Internet Engineering Task Force) Society
 
-To view the RFCs, browse into the `docs` directory, and the respective sub directories `txt`, `pdf`, `html`
+To view the RFCs, browse into the `docs` directory, and the respective sub directories `txt`, `pdf`, `html`, `ps`, `xml`
 
 Best would be to clone the whole repository, and view locally, since github has a constraint of listing only 1000 files
 
@@ -50,6 +50,10 @@ Do it yourself, if you want to, source documents are already available in this g
 
 	./download-RFCs-html.sh &> html.out
 
+	./download-RFCs-ps.sh &> ps.out
+
+	./download-RFCs-xml.sh &> xml.out
+
 To download the latest RFCs, and update this current repository, along with appending the output files
 
 	cd docs
@@ -60,6 +64,9 @@ To download the latest RFCs, and update this current repository, along with appe
 
 	./download-RFCs-html.sh &>> html.out
 
+	./download-RFCs-ps.sh &>> ps.out
+
+	./download-RFCs-xml.sh &>> xml.out
 
 Command Reference Link
 
