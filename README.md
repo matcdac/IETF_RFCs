@@ -47,6 +47,8 @@ https://tools.ietf.org/rfc/rfc9059.txt
 
 PDF
 
+https://www.rfc-editor.org/rfc/pdfrfc/rfc9059.txt.pdf
+
 https://www.rfc-editor.org/rfc/rfc9059.pdf
 
 https://tools.ietf.org/pdf/rfc9059.pdf
