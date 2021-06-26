@@ -25,25 +25,41 @@
 
 ## Any Individual RFC ###
 
-Root
+RFC Root
 
 https://www.rfc-editor.org/info/rfc9059
+
+IEFT Root
+
+https://datatracker.ietf.org/doc/rfc9059
 
 HTML
 
 https://www.rfc-editor.org/rfc/rfc9059.html
 
+https://tools.ietf.org/html/rfc9059
+
 TXT
 
 https://www.rfc-editor.org/rfc/rfc9059.txt
+
+https://tools.ietf.org/rfc/rfc9059.txt
 
 PDF
 
 https://www.rfc-editor.org/rfc/rfc9059.pdf
 
+https://tools.ietf.org/pdf/rfc9059.pdf
+
 XML
 
 https://www.rfc-editor.org/rfc/rfc9059.xml
+
+https://tools.ietf.org/pdf/rfc9059.xml
+
+BIBTEX
+
+https://datatracker.ietf.org/doc/rfc9059/bibtex
 
 
 ## License / Licence ##
