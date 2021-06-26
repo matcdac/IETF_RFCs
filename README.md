@@ -89,7 +89,7 @@ Unless provided with a written consent and permission (signed hard copy) from th
 not abiding to this license / licence will be considered as Digital Theft,
 and shall be called on for trial on any matter / space / antimatter in the universe / multiverse at any / every heirarchy of judiciary,
 demanding a hefty fine to be imposed, of atleast 1 TRILLION DINARS / RIAL / POUNDS / DOLLARS / EUROS / FRANCS / RUPPEES,
-whichever is most expensive on each and every particular daily, to be fined daily for the breach of the above stated contract.
+whichever is most expensive on each day, liable every day, as a fine, for the breach of the above stated contract.
 
 
 ## Contact ##
