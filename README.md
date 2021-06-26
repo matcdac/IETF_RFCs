@@ -54,6 +54,8 @@ Do it yourself, if you want to, source documents are already available in this g
 
 	./download-RFCs-xml.sh &> xml.out
 
+	./download-RFCs-pdf-original.sh &> pdf-original.out
+
 To download the latest RFCs, and update this current repository, along with appending the output files
 
 	cd docs
@@ -67,6 +69,8 @@ To download the latest RFCs, and update this current repository, along with appe
 	./download-RFCs-ps.sh &>> ps.out
 
 	./download-RFCs-xml.sh &>> xml.out
+
+	./download-RFCs-pdf-original.sh &>> pdf-original.out
 
 Command Reference Link
 
