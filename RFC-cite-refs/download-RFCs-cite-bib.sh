@@ -38,7 +38,7 @@ do
       echo "$target exists, skipping"
     else
       echo "$target does not exist, going to download"
-      wget $link
+      wget --output-document $target $link
   fi
 
   echo "----------------------------------------------------------------"
