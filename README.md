@@ -11,6 +11,8 @@ This repository contains all the Internet Standards specified in the RFC (Reques
 
 To view the RFCs, browse into the `RFC-docs` directory, and the respective sub directories `txt`, `pdf`, `html`, `ps`, `xml`, `pdf-original`
 
+To cite the RFCs, browse into the `RFC-cite-refs` directory, and the respective sub directories `txt`, `xml`, `bib`
+
 Best would be to clone the whole repository, and view locally, since github has a constraint of listing only 1000 files
 
 
