@@ -48,6 +48,7 @@ But still, if you want to "do it yourself"
 
 * RFCs
 
+```
 	cd RFC-docs
 
 	./download-RFCs-txt.sh &> txt.out
@@ -61,9 +62,11 @@ But still, if you want to "do it yourself"
 	./download-RFCs-xml.sh &> xml.out
 
 	./download-RFCs-pdf-original.sh &> pdf-original.out
+```
 
 * Citations
 
+```
 	cd RFC-cite-refs
 
 	./download-RFCs-cite-bib.sh &> cite-bib.out
@@ -71,6 +74,7 @@ But still, if you want to "do it yourself"
 	./download-RFCs-cite-txt.sh &> cite-txt.out
 
 	./download-RFCs-cite-xml.sh &> cite-xml.out
+```
 
 
 ## Update - Prerequisite - How to ? ##
@@ -94,6 +98,7 @@ To download the latest updates in this current repository, and append the output
 
 * RFCs
 
+```
 	cd RFC-docs
 
 	./download-RFCs-txt.sh &>> txt.out
@@ -107,9 +112,11 @@ To download the latest updates in this current repository, and append the output
 	./download-RFCs-xml.sh &>> xml.out
 
 	./download-RFCs-pdf-original.sh &>> pdf-original.out
+```
 
 * Citations
 
+```
 	cd RFC-cite-refs
 
 	./download-RFCs-cite-bib.sh &>> cite-bib.out
@@ -117,6 +124,7 @@ To download the latest updates in this current repository, and append the output
 	./download-RFCs-cite-txt.sh &>> cite-txt.out
 
 	./download-RFCs-cite-xml.sh &>> cite-xml.out
+```
 
 
 ## Linux Command Reference Link ##
