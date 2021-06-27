@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference  anchor='RFC2169' target='https://www.rfc-editor.org/info/rfc2169'>
+<front>
+<title>A Trivial Convention for using HTTP in URN Resolution</title>
+<author initials='R.' surname='Daniel' fullname='R. Daniel'><organization /></author>
+<date year='1997' month='June' />
+<abstract><t>This document specifies the &quot;THTTP&quot; resolution protocol - a trivial convention for encoding resolution service requests and responses as HTTP 1.0 or 1.1 requests and responses.  This memo defines an Experimental Protocol for the Internet community.  This memo does not specify an Internet standard of any kind.  Discussion and suggestions for improvement are requested.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2169'/>
+<seriesInfo name='DOI' value='10.17487/RFC2169'/>
+</reference>
