@@ -38,9 +38,13 @@ Best would be to clone the whole repository, and view locally, since github has 
 	```gh repo clone matcdac/IETF_RFCs```
 
 
-## Download Scripts ##
+## Download Data Scripts - First Time ##
 
-Do it yourself, if you want to, source documents are already available in this git repository
+Source documents are already available in this git repository
+
+But still, if you want to "do it yourself"
+
+* RFCs
 
 	cd RFC-docs
 
@@ -56,7 +60,37 @@ Do it yourself, if you want to, source documents are already available in this g
 
 	./download-RFCs-pdf-original.sh &> pdf-original.out
 
-To download the latest RFCs, and update this current repository, along with appending the output files
+* Citations
+
+	cd RFC-cite-refs
+
+	./download-RFCs-cite-bib.sh &> cite-bib.out
+
+	./download-RFCs-cite-txt.sh &> cite-txt.out
+
+	./download-RFCs-cite-xml.sh &> cite-xml.out
+
+
+## Update - Prerequisite - How to ? ##
+
+To identify any updates made to the RFCs, kindly refer either of the following links
+
+DESCENDING https://www.rfc-editor.org/rfc-index2.html
+
+ASCENDING https://www.rfc-editor.org/rfc-index.txt
+
+and check if any new RFCs have been added after `RFC 9083`
+
+If yes, then make the modifications in the file `published-RFC-numbers.txt`
+
+by adding those new RFC numbers
+
+
+## Download Data Scripts - Update Later on ##
+
+To download the latest updates in this current repository, and append the output files
+
+* RFCs
 
 	cd RFC-docs
 
@@ -72,12 +106,23 @@ To download the latest RFCs, and update this current repository, along with appe
 
 	./download-RFCs-pdf-original.sh &>> pdf-original.out
 
-Command Reference Link
+* Citations
+
+	cd RFC-cite-refs
+
+	./download-RFCs-cite-bib.sh &>> cite-bib.out
+
+	./download-RFCs-cite-txt.sh &>> cite-txt.out
+
+	./download-RFCs-cite-xml.sh &>> cite-xml.out
+
+
+## Linux Command Reference Link ##
 
 https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file
 
 
-## All RFCs - till date 26 June 2021 ##
+## All RFCs - till date 27 June 2021 ##
 
 [All - Descending Order - HTML](https://www.rfc-editor.org/rfc-index2.html)
 
