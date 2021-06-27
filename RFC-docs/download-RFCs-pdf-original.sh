@@ -2,15 +2,15 @@
 
 # configurable
 directory=pdf-original
+cd $directory
 
 # configurable
 target_extension=pdf
-cd $directory
 
 pwd
 echo "----------------------------------------------------------------"
 
-input="../published-RFC-numbers.txt"
+input="../../published-RFC-numbers.txt"
 
 while IFS= read -r line
 do

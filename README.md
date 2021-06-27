@@ -118,7 +118,7 @@ https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file
 [Bulk Download - Request for Comments](https://www.rfc-editor.org/retrieve/bulk/)
 
 
-## Resource Original Reference Links ###
+## Resource Original Documents & Citation Reference Links ###
 
 Consider an Individual RFC, say `rfc9059`, it will be available at :
 
@@ -159,6 +159,14 @@ https://tools.ietf.org/pdf/rfc9059.xml
 BIBTEX
 
 https://datatracker.ietf.org/doc/rfc9059/bibtex
+
+Cite XML
+
+https://www.rfc-editor.org/refs/bibxml/reference.RFC.0012.xml
+
+Cite TXT
+
+https://www.rfc-editor.org/refs/ref0012.txt
 
 
 ## License / Licence ##

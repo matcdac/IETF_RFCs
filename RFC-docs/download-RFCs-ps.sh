@@ -2,15 +2,15 @@
 
 # configurable
 directory=ps
+cd $directory
 
 # configurable
 target_extension=ps
-cd $directory
 
 pwd
 echo "----------------------------------------------------------------"
 
-input="../published-RFC-numbers.txt"
+input="../../published-RFC-numbers.txt"
 
 while IFS= read -r line
 do

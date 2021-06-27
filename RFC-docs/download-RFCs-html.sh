@@ -2,15 +2,15 @@
 
 # configurable
 directory=html
+cd $directory
 
 # configurable
 target_extension=html
-cd $directory
 
 pwd
 echo "----------------------------------------------------------------"
 
-input="../published-RFC-numbers.txt"
+input="../../published-RFC-numbers.txt"
 
 while IFS= read -r line
 do
