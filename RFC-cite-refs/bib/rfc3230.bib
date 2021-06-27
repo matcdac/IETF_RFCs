@@ -1,0 +1,18 @@
+% Datatracker information for RFCs on the Legacy Stream is unfortunately often
+% incorrect. Please correct the bibtex below based on the information in the
+% actual RFC at https://rfc-editor.org/rfc/rfc3230.txt
+
+@misc{rfc3230,
+	series =	{Request for Comments},
+	number =	3230,
+	howpublished =	{RFC 3230},
+	publisher =	{RFC Editor},
+	doi =		{10.17487/RFC3230},
+	url =		{https://rfc-editor.org/rfc/rfc3230.txt},
+        author =	{Jeffrey Mogul and Arthur van Hoff},
+	title =		{{Instance Digests in HTTP}},
+	pagetotal =	13,
+	year =		2002,
+	month =		jan,
+	abstract =	{HTTP/1.1 defines a Content-MD5 header that allows a server to include a digest of the response body. However, this is specifically defined to cover the body of the actual message, not the contents of the full file (which might be quite different, if the response is a Content-Range, or uses a delta encoding). Also, the Content-MD5 is limited to one specific digest algorithm; other algorithms, such as SHA-1 (Secure Hash Standard), may be more appropriate in some circumstances. Finally, HTTP/1.1 provides no explicit mechanism by which a client may request a digest. This document proposes HTTP extensions that solve these problems. {[}STANDARDS-TRACK{]}},
+}

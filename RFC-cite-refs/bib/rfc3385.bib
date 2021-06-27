@@ -1,0 +1,18 @@
+% Datatracker information for RFCs on the Legacy Stream is unfortunately often
+% incorrect. Please correct the bibtex below based on the information in the
+% actual RFC at https://rfc-editor.org/rfc/rfc3385.txt
+
+@misc{rfc3385,
+	series =	{Request for Comments},
+	number =	3385,
+	howpublished =	{RFC 3385},
+	publisher =	{RFC Editor},
+	doi =		{10.17487/RFC3385},
+	url =		{https://rfc-editor.org/rfc/rfc3385.txt},
+        author =	{Dafna Sheinwald and Patricia Thaler and Julian Satran and Vincente Cavanna},
+	title =		{{Internet Protocol Small Computer System Interface (iSCSI) Cyclic Redundancy Check (CRC)/Checksum Considerations}},
+	pagetotal =	23,
+	year =		2002,
+	month =		sep,
+	abstract =	{Cyclic redundancy check (CRC) codes {[}Peterson{]} are shortened cyclic codes used for error detection. A number of CRC codes have been adopted in standards: ATM, IEC, IEEE, CCITT, IBM-SDLC, and more {[}Baicheva{]}. The most important expectation from this kind of code is a very low probability for undetected errors. The probability of undetected errors in such codes has been, and still is, subject to extensive studies that have included both analytical models and simulations. Those codes have been used extensively in communications and magnetic recording as they demonstrate good 'burst error' detection capabilities, but are also good at detecting several independent bit errors. Hardware implementations are very simple and well known; their simplicity has made them popular with hardware developers for many years. However, algorithms and software for effective implementations of CRC are now also widely available {[}Williams{]}. The probability of undetected errors depends on the polynomial selected to generate the code, the error distribution (error model), and the data length. In this memo, we attempt to give some estimates for the probability of undetected errors to facilitate the selection of an error detection code for iSCSI. We will also attempt to compare CRCs with other checksum forms (Fletcher, Adler, weighted checksums), as permitted by available data.},
+}

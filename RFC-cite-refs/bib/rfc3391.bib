@@ -1,0 +1,18 @@
+% Datatracker information for RFCs on the Legacy Stream is unfortunately often
+% incorrect. Please correct the bibtex below based on the information in the
+% actual RFC at https://rfc-editor.org/rfc/rfc3391.txt
+
+@misc{rfc3391,
+	series =	{Request for Comments},
+	number =	3391,
+	howpublished =	{RFC 3391},
+	publisher =	{RFC Editor},
+	doi =		{10.17487/RFC3391},
+	url =		{https://rfc-editor.org/rfc/rfc3391.txt},
+        author =	{Robert G. Herriot},
+	title =		{{The MIME Application/Vnd.pwg-multiplexed Content-Type}},
+	pagetotal =	25,
+	year =		2002,
+	month =		dec,
+	abstract =	{The Application/Vnd.pwg-multiplexed content-type, like the Multipart/Related content-type, provides a mechanism for representing objects that consist of multiple components. An Application/Vnd.pwg- multiplexed entity contains a sequence of chunks. Each chunk contains a MIME message or a part of a MIME message. Each MIME message represents a component of the compound object, just as a body part of a Multipart/Related entity represents a component. With a Multipart/Related entity, a body part and its reference in some other body part may be separated by many octets. With an Application/Vnd.pwg-multiplexed entity, a message and its reference in some other message can be made quite close by chunking the message containing the reference. For example, if a long message contains references to images and the producer does not know of the need for each image until it generates the reference, then Application/Vnd.pwg-multiplexed allows the consumer to process the reference to the image and the image before it consumes the entire long message. This ability is important in printing and scanning applications. This document defines the Application/Vnd.pwg- multiplexed content-type. It also provides examples of its use.},
+}

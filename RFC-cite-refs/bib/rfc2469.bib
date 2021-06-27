@@ -1,0 +1,18 @@
+% Datatracker information for RFCs on the Legacy Stream is unfortunately often
+% incorrect. Please correct the bibtex below based on the information in the
+% actual RFC at https://rfc-editor.org/rfc/rfc2469.txt
+
+@misc{rfc2469,
+	series =	{Request for Comments},
+	number =	2469,
+	howpublished =	{RFC 2469},
+	publisher =	{RFC Editor},
+	doi =		{10.17487/RFC2469},
+	url =		{https://rfc-editor.org/rfc/rfc2469.txt},
+        author =	{Dr. Thomas Narten and Charles Burton},
+	title =		{{A Caution On The Canonical Ordering Of Link-Layer Addresses}},
+	pagetotal =	5,
+	year =		1998,
+	month =		dec,
+	abstract =	{Protocols such as ARP and Neighbor Discovery have data fields that contain link-layer addresses. In order to interoperate properly, a sender setting such a field must insure that the receiver extracts those bits and interprets them correctly. In most cases, such fields must be in "canonical form". Unfortunately, not all LAN adaptors are consistent in their use of canonical form, and implementations may need to explicitly bit swap individual bytes in order to obtain the correct format. This document provides information to implementors to help them avoid the pitfall of using non-canonical forms when canonical forms are required. This memo provides information for the Internet community.},
+}
