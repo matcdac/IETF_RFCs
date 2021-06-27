@@ -1,0 +1,1 @@
+Feinstein, B. and G. Matthews, "The Intrusion Detection Exchange Protocol (IDXP)", RFC 4767, DOI 10.17487/RFC4767, March 2007, <https://www.rfc-editor.org/info/rfc4767>.

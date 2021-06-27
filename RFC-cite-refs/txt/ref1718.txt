@@ -1,0 +1,1 @@
+IETF Secretariat and G. Malkin, "The Tao of IETF - A Guide for New Attendees of the Internet Engineering Task Force", RFC 1718, DOI 10.17487/RFC1718, November 1994, <https://www.rfc-editor.org/info/rfc1718>.

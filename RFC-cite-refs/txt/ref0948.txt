@@ -1,0 +1,1 @@
+Winston, I., "Two methods for the transmission of IP datagrams over IEEE 802.3 networks", RFC 948, DOI 10.17487/RFC0948, June 1985, <https://www.rfc-editor.org/info/rfc948>.

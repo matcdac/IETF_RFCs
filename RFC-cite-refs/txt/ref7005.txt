@@ -1,0 +1,1 @@
+Clark, A., Singh, V., and Q. Wu, "RTP Control Protocol (RTCP) Extended Report (XR) Block for De-Jitter Buffer Metric Reporting", RFC 7005, DOI 10.17487/RFC7005, September 2013, <https://www.rfc-editor.org/info/rfc7005>.

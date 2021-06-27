@@ -1,0 +1,1 @@
+Harrenstien, K., "NAME/FINGER Protocol", RFC 742, DOI 10.17487/RFC0742, December 1977, <https://www.rfc-editor.org/info/rfc742>.

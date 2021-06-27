@@ -1,0 +1,1 @@
+Touch, J., Eggert, L., and Y. Wang, "Use of IPsec Transport Mode for Dynamic Routing", RFC 3884, DOI 10.17487/RFC3884, September 2004, <https://www.rfc-editor.org/info/rfc3884>.

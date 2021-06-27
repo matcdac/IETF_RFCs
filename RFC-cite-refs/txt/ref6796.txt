@@ -1,0 +1,1 @@
+Hilt, V., Camarillo, G., Rosenberg, J., and D. Worley, "A User Agent Profile Data Set for Media Policy", RFC 6796, DOI 10.17487/RFC6796, December 2012, <https://www.rfc-editor.org/info/rfc6796>.

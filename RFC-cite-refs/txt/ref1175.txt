@@ -1,0 +1,1 @@
+Bowers, K., LaQuey, T., Reynolds, J., Roubicek, K., Stahl, M., and A. Yuan, "FYI on where to start: A bibliography of internetworking information", FYI 3, RFC 1175, DOI 10.17487/RFC1175, August 1990, <https://www.rfc-editor.org/info/rfc1175>.

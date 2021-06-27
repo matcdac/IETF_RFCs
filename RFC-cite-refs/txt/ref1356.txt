@@ -1,0 +1,1 @@
+Malis, A., Robinson, D., and R. Ullmann, "Multiprotocol Interconnect on X.25 and ISDN in the Packet Mode", RFC 1356, DOI 10.17487/RFC1356, August 1992, <https://www.rfc-editor.org/info/rfc1356>.

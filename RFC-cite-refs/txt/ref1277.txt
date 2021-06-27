@@ -1,0 +1,1 @@
+Hardcastle-Kille, S., "Encoding Network Addresses to Support Operation over Non-OSI Lower Layers", RFC 1277, DOI 10.17487/RFC1277, November 1991, <https://www.rfc-editor.org/info/rfc1277>.

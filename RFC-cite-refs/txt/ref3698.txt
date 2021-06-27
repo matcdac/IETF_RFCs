@@ -1,0 +1,1 @@
+Zeilenga, K., Ed., "Lightweight Directory Access Protocol (LDAP): Additional Matching Rules", RFC 3698, DOI 10.17487/RFC3698, February 2004, <https://www.rfc-editor.org/info/rfc3698>.

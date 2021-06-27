@@ -1,0 +1,1 @@
+Schryver, V., "PPP BSD Compression Protocol", RFC 1977, DOI 10.17487/RFC1977, August 1996, <https://www.rfc-editor.org/info/rfc1977>.

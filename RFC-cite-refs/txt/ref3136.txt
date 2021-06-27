@@ -1,0 +1,1 @@
+Slutsman, L., Ed., Faynberg, I., Lu, H., and M. Weissman, "The SPIRITS Architecture", RFC 3136, DOI 10.17487/RFC3136, June 2001, <https://www.rfc-editor.org/info/rfc3136>.

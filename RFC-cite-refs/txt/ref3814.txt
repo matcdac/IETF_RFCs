@@ -1,0 +1,1 @@
+Nadeau, T., Srinivasan, C., and A. Viswanathan, "Multiprotocol Label Switching (MPLS) Forwarding Equivalence Class To Next Hop Label Forwarding Entry (FEC-To-NHLFE) Management Information Base (MIB)", RFC 3814, DOI 10.17487/RFC3814, June 2004, <https://www.rfc-editor.org/info/rfc3814>.

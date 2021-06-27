@@ -1,0 +1,1 @@
+Kastenholz, F., "Variance for The PPP Compression Control Protocol and The PPP Encryption Control Protocol", BCP 3, RFC 1915, DOI 10.17487/RFC1915, February 1996, <https://www.rfc-editor.org/info/rfc1915>.

@@ -1,0 +1,1 @@
+Kuarsingh, V., Ed., and L. Howard, "Wireline Incremental IPv6", RFC 6782, DOI 10.17487/RFC6782, November 2012, <https://www.rfc-editor.org/info/rfc6782>.

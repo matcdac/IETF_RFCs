@@ -1,0 +1,1 @@
+Adamson, B., Bormann, C., Handley, M., and J. Macker, "Negative-acknowledgment (NACK)-Oriented Reliable Multicast (NORM) Protocol", RFC 3940, DOI 10.17487/RFC3940, November 2004, <https://www.rfc-editor.org/info/rfc3940>.

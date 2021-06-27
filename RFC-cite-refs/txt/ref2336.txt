@@ -1,0 +1,1 @@
+Luciani, J., "Classical IP and ARP over ATM to NHRP Transition", RFC 2336, DOI 10.17487/RFC2336, July 1998, <https://www.rfc-editor.org/info/rfc2336>.

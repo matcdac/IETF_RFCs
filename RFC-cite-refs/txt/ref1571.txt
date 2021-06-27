@@ -1,0 +1,1 @@
+Borman, D., "Telnet Environment Option Interoperability Issues", RFC 1571, DOI 10.17487/RFC1571, January 1994, <https://www.rfc-editor.org/info/rfc1571>.

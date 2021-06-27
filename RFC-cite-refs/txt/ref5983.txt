@@ -1,0 +1,1 @@
+Gellens, R., "Mailing Lists and Internationalized Email Addresses", RFC 5983, DOI 10.17487/RFC5983, October 2010, <https://www.rfc-editor.org/info/rfc5983>.

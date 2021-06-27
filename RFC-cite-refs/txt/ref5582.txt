@@ -1,0 +1,1 @@
+Schulzrinne, H., "Location-to-URL Mapping Architecture and Framework", RFC 5582, DOI 10.17487/RFC5582, September 2009, <https://www.rfc-editor.org/info/rfc5582>.

@@ -1,0 +1,1 @@
+Moonesamy, S., "Using Ed25519 in SSHFP Resource Records", RFC 7479, DOI 10.17487/RFC7479, March 2015, <https://www.rfc-editor.org/info/rfc7479>.

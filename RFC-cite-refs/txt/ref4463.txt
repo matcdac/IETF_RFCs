@@ -1,0 +1,1 @@
+Shanmugham, S., Monaco, P., and B. Eberman, "A Media Resource Control Protocol (MRCP) Developed by Cisco, Nuance, and Speechworks", RFC 4463, DOI 10.17487/RFC4463, April 2006, <https://www.rfc-editor.org/info/rfc4463>.

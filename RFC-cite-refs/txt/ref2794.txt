@@ -1,0 +1,1 @@
+Calhoun, P. and C. Perkins, "Mobile IP Network Access Identifier Extension for IPv4", RFC 2794, DOI 10.17487/RFC2794, March 2000, <https://www.rfc-editor.org/info/rfc2794>.

@@ -1,0 +1,1 @@
+Meyer, D. and J. Scudder, "Request to Move RFC 1745 to Historic Status", RFC 3167, DOI 10.17487/RFC3167, August 2001, <https://www.rfc-editor.org/info/rfc3167>.

@@ -1,0 +1,1 @@
+McFadden, M., "Request to Move RFC 2754 to Historic Status", RFC 6254, DOI 10.17487/RFC6254, May 2011, <https://www.rfc-editor.org/info/rfc6254>.

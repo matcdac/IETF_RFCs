@@ -1,0 +1,1 @@
+Jacobsen, O. and J. Postel, "Protocol document order information", RFC 980, DOI 10.17487/RFC0980, March 1986, <https://www.rfc-editor.org/info/rfc980>.

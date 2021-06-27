@@ -1,0 +1,1 @@
+Sattley, J., "MARS - a Message Archiving and Retrieval Service", RFC 744, DOI 10.17487/RFC0744, January 1978, <https://www.rfc-editor.org/info/rfc744>.

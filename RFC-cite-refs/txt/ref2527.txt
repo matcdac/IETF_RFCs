@@ -1,0 +1,1 @@
+Chokhani, S. and W. Ford, "Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework", RFC 2527, DOI 10.17487/RFC2527, March 1999, <https://www.rfc-editor.org/info/rfc2527>.

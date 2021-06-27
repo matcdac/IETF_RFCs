@@ -1,0 +1,1 @@
+Camarillo, G. and A. Keranen, "Host Identity Protocol (HIP) Multi-Hop Routing Extension", RFC 6028, DOI 10.17487/RFC6028, October 2010, <https://www.rfc-editor.org/info/rfc6028>.

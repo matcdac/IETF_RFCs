@@ -1,0 +1,1 @@
+Sprague, D., Benedyk, R., Brendes, D., and J. Keller, "Tekelec's Transport Adapter Layer Interface", RFC 3094, DOI 10.17487/RFC3094, April 2001, <https://www.rfc-editor.org/info/rfc3094>.

@@ -1,0 +1,1 @@
+Kempf, J., Ed., "Goals for Network-Based Localized Mobility Management (NETLMM)", RFC 4831, DOI 10.17487/RFC4831, April 2007, <https://www.rfc-editor.org/info/rfc4831>.

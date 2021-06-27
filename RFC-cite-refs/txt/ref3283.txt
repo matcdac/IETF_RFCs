@@ -1,0 +1,1 @@
+Mahoney, B., Babics, G., and A. Taler, "Guide to Internet Calendaring", RFC 3283, DOI 10.17487/RFC3283, June 2002, <https://www.rfc-editor.org/info/rfc3283>.

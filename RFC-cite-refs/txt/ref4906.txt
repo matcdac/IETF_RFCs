@@ -1,0 +1,1 @@
+Martini, L., Ed., Rosen, E., Ed., and N. El-Aawar, Ed., "Transport of Layer 2 Frames Over MPLS", RFC 4906, DOI 10.17487/RFC4906, June 2007, <https://www.rfc-editor.org/info/rfc4906>.

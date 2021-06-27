@@ -1,0 +1,1 @@
+Stephan, E. and J. Palet, "Remote Network Monitoring (RMON) Protocol Identifiers for IPv6 and Multi Protocol Label Switching (MPLS)", RFC 3919, DOI 10.17487/RFC3919, October 2004, <https://www.rfc-editor.org/info/rfc3919>.

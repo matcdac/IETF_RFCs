@@ -1,0 +1,1 @@
+Finn, G., "Reliable Asynchronous Transfer Protocol (RATP)", RFC 916, DOI 10.17487/RFC0916, October 1984, <https://www.rfc-editor.org/info/rfc916>.

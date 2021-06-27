@@ -1,0 +1,1 @@
+Sjostrand, H., Buerkle, J., and B. Srinivasan, "Definitions of Managed Objects for the General Switch Management Protocol (GSMP)", RFC 3295, DOI 10.17487/RFC3295, June 2002, <https://www.rfc-editor.org/info/rfc3295>.

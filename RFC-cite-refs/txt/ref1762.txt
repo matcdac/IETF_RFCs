@@ -1,0 +1,1 @@
+Senum, S., "The PPP DECnet Phase IV Control Protocol (DNCP)", RFC 1762, DOI 10.17487/RFC1762, March 1995, <https://www.rfc-editor.org/info/rfc1762>.

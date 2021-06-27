@@ -1,0 +1,1 @@
+Xia, J., "Content Splicing for RTP Sessions", RFC 6828, DOI 10.17487/RFC6828, January 2013, <https://www.rfc-editor.org/info/rfc6828>.

@@ -1,0 +1,1 @@
+Pullen, M., Myjak, M., and C. Bouwens, "Limitations of Internet Protocol Suite for Distributed Simulation the Large Multicast Environment", RFC 2502, DOI 10.17487/RFC2502, February 1999, <https://www.rfc-editor.org/info/rfc2502>.

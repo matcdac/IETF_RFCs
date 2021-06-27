@@ -1,0 +1,1 @@
+McPherson, D., Donnelly, R., and F. Scalzo, "Unique Origin Autonomous System Numbers (ASNs) per Node for Globally Anycasted Services", BCP 169, RFC 6382, DOI 10.17487/RFC6382, October 2011, <https://www.rfc-editor.org/info/rfc6382>.

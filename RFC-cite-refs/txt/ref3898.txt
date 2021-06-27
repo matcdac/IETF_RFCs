@@ -1,0 +1,1 @@
+Kalusivalingam, V., "Network Information Service (NIS) Configuration Options for Dynamic Host Configuration Protocol for IPv6 (DHCPv6)", RFC 3898, DOI 10.17487/RFC3898, October 2004, <https://www.rfc-editor.org/info/rfc3898>.

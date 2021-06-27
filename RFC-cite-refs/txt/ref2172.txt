@@ -1,0 +1,1 @@
+Maruyama, M. and K. Murakami, "MAPOS Version 1 Assigned Numbers", RFC 2172, DOI 10.17487/RFC2172, June 1997, <https://www.rfc-editor.org/info/rfc2172>.

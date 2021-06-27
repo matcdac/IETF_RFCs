@@ -1,0 +1,1 @@
+Allman, M., Ostermann, S., and C. Metz, "FTP Extensions for IPv6 and NATs", RFC 2428, DOI 10.17487/RFC2428, September 1998, <https://www.rfc-editor.org/info/rfc2428>.

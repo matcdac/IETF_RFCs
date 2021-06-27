@@ -1,0 +1,1 @@
+Murchison, K., "A JSON Meta Application Protocol (JMAP) Subprotocol for WebSocket", RFC 8887, DOI 10.17487/RFC8887, August 2020, <https://www.rfc-editor.org/info/rfc8887>.

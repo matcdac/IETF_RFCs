@@ -1,0 +1,1 @@
+Krilanovich, M. and G. Gregg, "Comments on the File Transfer Protocol", RFC 607, DOI 10.17487/RFC0607, January 1974, <https://www.rfc-editor.org/info/rfc607>.

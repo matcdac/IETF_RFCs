@@ -1,0 +1,1 @@
+Kucherawy, M., "Authentication-Results Registration Update for Sender Policy Framework (SPF) Results", RFC 6577, DOI 10.17487/RFC6577, March 2012, <https://www.rfc-editor.org/info/rfc6577>.

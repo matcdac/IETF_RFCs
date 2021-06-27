@@ -1,0 +1,1 @@
+Donley, C., Ed., Howard, L., Kuarsingh, V., Berg, J., and J. Doshi, "Assessing the Impact of Carrier-Grade NAT on Network Applications", RFC 7021, DOI 10.17487/RFC7021, September 2013, <https://www.rfc-editor.org/info/rfc7021>.

@@ -1,0 +1,1 @@
+Parker, B., "The PPP AppleTalk Control Protocol (ATCP)", RFC 1378, DOI 10.17487/RFC1378, November 1992, <https://www.rfc-editor.org/info/rfc1378>.

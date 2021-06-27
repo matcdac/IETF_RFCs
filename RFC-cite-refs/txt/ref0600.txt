@@ -1,0 +1,1 @@
+Berggreen, A., "Interfacing an Illinois plasma terminal to the ARPANET", RFC 600, DOI 10.17487/RFC0600, November 1973, <https://www.rfc-editor.org/info/rfc600>.

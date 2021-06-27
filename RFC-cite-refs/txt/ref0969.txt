@@ -1,0 +1,1 @@
+Clark, D., Lambert, M., and L. Zhang, "NETBLT: A bulk data transfer protocol", RFC 969, DOI 10.17487/RFC0969, December 1985, <https://www.rfc-editor.org/info/rfc969>.

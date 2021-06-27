@@ -1,0 +1,1 @@
+Kornijenko, J., "A Uniform Resource Name (URN) Formal Namespace for the Latvian National Government Integration Project", RFC 4617, DOI 10.17487/RFC4617, August 2006, <https://www.rfc-editor.org/info/rfc4617>.

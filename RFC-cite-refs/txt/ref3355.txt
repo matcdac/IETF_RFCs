@@ -1,0 +1,1 @@
+Singh, A., Turner, R., Tio, R., and S. Nanji, "Layer Two Tunnelling Protocol (L2TP) Over ATM Adaptation Layer 5 (AAL5)", RFC 3355, DOI 10.17487/RFC3355, August 2002, <https://www.rfc-editor.org/info/rfc3355>.

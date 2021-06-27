@@ -1,0 +1,1 @@
+Dean, T. and W. Ottaway, "Domain Security Services using S/MIME", RFC 3183, DOI 10.17487/RFC3183, October 2001, <https://www.rfc-editor.org/info/rfc3183>.

@@ -1,0 +1,1 @@
+Eastlake 3rd, D., Smith, C., and D. Soroka, "HTTP MIME Type Handler Detection", RFC 2936, DOI 10.17487/RFC2936, September 2000, <https://www.rfc-editor.org/info/rfc2936>.

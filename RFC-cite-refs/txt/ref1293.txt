@@ -1,0 +1,1 @@
+Bradley, T. and C. Brown, "Inverse Address Resolution Protocol", RFC 1293, DOI 10.17487/RFC1293, January 1992, <https://www.rfc-editor.org/info/rfc1293>.

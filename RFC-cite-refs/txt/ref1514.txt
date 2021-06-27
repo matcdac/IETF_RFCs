@@ -1,0 +1,1 @@
+Grillo, P. and S. Waldbusser, "Host Resources MIB", RFC 1514, DOI 10.17487/RFC1514, September 1993, <https://www.rfc-editor.org/info/rfc1514>.

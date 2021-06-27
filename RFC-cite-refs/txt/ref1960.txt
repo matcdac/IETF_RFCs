@@ -1,0 +1,1 @@
+Howes, T., "A String Representation of LDAP Search Filters", RFC 1960, DOI 10.17487/RFC1960, June 1996, <https://www.rfc-editor.org/info/rfc1960>.

@@ -1,0 +1,1 @@
+Ko, M., Chadalapaka, M., Hufferd, J., Elzur, U., Shah, H., and P. Thaler, "Internet Small Computer System Interface (iSCSI) Extensions for Remote Direct Memory Access (RDMA)", RFC 5046, DOI 10.17487/RFC5046, October 2007, <https://www.rfc-editor.org/info/rfc5046>.

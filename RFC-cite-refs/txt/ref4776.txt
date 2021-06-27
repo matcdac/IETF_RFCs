@@ -1,0 +1,1 @@
+Schulzrinne, H., "Dynamic Host Configuration Protocol (DHCPv4 and DHCPv6) Option for Civic Addresses Configuration Information", RFC 4776, DOI 10.17487/RFC4776, November 2006, <https://www.rfc-editor.org/info/rfc4776>.

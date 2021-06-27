@@ -1,0 +1,1 @@
+Durham, D., Ed., Boyle, J., Cohen, R., Herzog, S., Rajan, R., and A. Sastry, "The COPS (Common Open Policy Service) Protocol", RFC 2748, DOI 10.17487/RFC2748, January 2000, <https://www.rfc-editor.org/info/rfc2748>.

@@ -1,0 +1,1 @@
+Pinkas, D., Ross, J., and N. Pope, "Electronic Signature Formats for long term electronic signatures", RFC 3126, DOI 10.17487/RFC3126, September 2001, <https://www.rfc-editor.org/info/rfc3126>.

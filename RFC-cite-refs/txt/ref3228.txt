@@ -1,0 +1,1 @@
+Fenner, B., "IANA Considerations for IPv4 Internet Group Management Protocol (IGMP)", BCP 57, RFC 3228, DOI 10.17487/RFC3228, February 2002, <https://www.rfc-editor.org/info/rfc3228>.

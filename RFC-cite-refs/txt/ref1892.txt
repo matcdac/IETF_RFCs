@@ -1,0 +1,1 @@
+Vaudreuil, G., "The Multipart/Report Content Type for the Reporting of Mail System Administrative Messages", RFC 1892, DOI 10.17487/RFC1892, January 1996, <https://www.rfc-editor.org/info/rfc1892>.

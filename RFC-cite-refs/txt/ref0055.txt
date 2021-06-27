@@ -1,0 +1,1 @@
+Newkirk, J., Kraley, M., Postel, J., and S. Crocker, "Prototypical implementation of the NCP", RFC 55, DOI 10.17487/RFC0055, June 1970, <https://www.rfc-editor.org/info/rfc55>.

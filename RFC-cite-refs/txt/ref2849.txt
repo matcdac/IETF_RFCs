@@ -1,0 +1,1 @@
+Good, G., "The LDAP Data Interchange Format (LDIF) - Technical Specification", RFC 2849, DOI 10.17487/RFC2849, June 2000, <https://www.rfc-editor.org/info/rfc2849>.

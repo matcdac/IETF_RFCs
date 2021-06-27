@@ -1,0 +1,1 @@
+Stokes, E., Weiser, R., Moats, R., and R. Huber, "Lightweight Directory Access Protocol (version 3) Replication Requirements", RFC 3384, DOI 10.17487/RFC3384, October 2002, <https://www.rfc-editor.org/info/rfc3384>.

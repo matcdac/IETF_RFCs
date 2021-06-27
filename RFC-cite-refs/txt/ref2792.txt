@@ -1,0 +1,1 @@
+Blaze, M., Ioannidis, J., and A. Keromytis, "DSA and RSA Key and Signature Encoding for the KeyNote Trust Management System", RFC 2792, DOI 10.17487/RFC2792, March 2000, <https://www.rfc-editor.org/info/rfc2792>.

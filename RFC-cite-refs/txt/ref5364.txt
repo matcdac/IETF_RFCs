@@ -1,0 +1,1 @@
+Garcia-Martin, M. and G. Camarillo, "Extensible Markup Language (XML) Format Extension for Representing Copy Control Attributes in Resource Lists", RFC 5364, DOI 10.17487/RFC5364, October 2008, <https://www.rfc-editor.org/info/rfc5364>.

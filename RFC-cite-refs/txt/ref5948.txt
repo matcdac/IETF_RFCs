@@ -1,0 +1,1 @@
+Madanapalli, S., Park, S., Chakrabarti, S., and G. Montenegro, "Transmission of IPv4 Packets over the IP Convergence Sublayer of IEEE 802.16", RFC 5948, DOI 10.17487/RFC5948, August 2010, <https://www.rfc-editor.org/info/rfc5948>.

@@ -1,0 +1,1 @@
+Fajardo, V., Ed., Ohba, Y., and R. Marin-Lopez, "State Machines for the Protocol for Carrying Authentication for Network Access (PANA)", RFC 5609, DOI 10.17487/RFC5609, August 2009, <https://www.rfc-editor.org/info/rfc5609>.

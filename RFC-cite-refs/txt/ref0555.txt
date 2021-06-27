@@ -1,0 +1,1 @@
+White, J., "Responses to critiques of the proposed mail protocol", RFC 555, DOI 10.17487/RFC0555, July 1973, <https://www.rfc-editor.org/info/rfc555>.

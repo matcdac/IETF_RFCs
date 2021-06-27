@@ -1,0 +1,1 @@
+Megginson, R., Ed., Smith, M., Natkovich, O., and J. Parham, "Lightweight Directory Access Protocol (LDAP) Client Update Protocol (LCUP)", RFC 3928, DOI 10.17487/RFC3928, October 2004, <https://www.rfc-editor.org/info/rfc3928>.

@@ -1,0 +1,1 @@
+Zorn, G., "RADIUS Attributes for IEEE 802.16 Privacy Key Management Version 1 (PKMv1) Protocol Support", RFC 5904, DOI 10.17487/RFC5904, June 2010, <https://www.rfc-editor.org/info/rfc5904>.

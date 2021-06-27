@@ -1,0 +1,1 @@
+Marcy, G., "Telnet X display location option", RFC 1096, DOI 10.17487/RFC1096, March 1989, <https://www.rfc-editor.org/info/rfc1096>.

@@ -1,0 +1,1 @@
+Laubach, M., "Classical IP and ARP over ATM", RFC 1577, DOI 10.17487/RFC1577, January 1994, <https://www.rfc-editor.org/info/rfc1577>.

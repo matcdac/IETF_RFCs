@@ -1,0 +1,1 @@
+Mekking, W. and D. Mahoney, "Moving DNSSEC Lookaside Validation (DLV) to Historic Status", RFC 8749, DOI 10.17487/RFC8749, March 2020, <https://www.rfc-editor.org/info/rfc8749>.

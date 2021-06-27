@@ -1,0 +1,1 @@
+Jacobson, V., Nichols, K., and K. Poduri, "An Expedited Forwarding PHB", RFC 2598, DOI 10.17487/RFC2598, June 1999, <https://www.rfc-editor.org/info/rfc2598>.

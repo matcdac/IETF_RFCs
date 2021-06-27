@@ -1,0 +1,1 @@
+Bhushan, A., Braden, R., Harslem, E., Heafner, J., McKenzie, A., Melvin, J., Sundberg, R., Watson, R., and J. White, "Revision of the Mail Box Protocol", RFC 278, DOI 10.17487/RFC0278, November 1971, <https://www.rfc-editor.org/info/rfc278>.

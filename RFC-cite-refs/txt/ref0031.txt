@@ -1,0 +1,1 @@
+Bobrow, D. and W. Sutherland, "Binary Message Forms in Computer", RFC 31, DOI 10.17487/RFC0031, February 1968, <https://www.rfc-editor.org/info/rfc31>.

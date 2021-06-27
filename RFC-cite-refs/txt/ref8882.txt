@@ -1,0 +1,1 @@
+Huitema, C. and D. Kaiser, "DNS-Based Service Discovery (DNS-SD) Privacy and Security Requirements", RFC 8882, DOI 10.17487/RFC8882, September 2020, <https://www.rfc-editor.org/info/rfc8882>.

@@ -1,0 +1,1 @@
+Sweet, M. and I. McDonald, "Internet Printing Protocol/1.1: Encoding and Transport", STD 92, RFC 8010, DOI 10.17487/RFC8010, January 2017, <https://www.rfc-editor.org/info/rfc8010>.

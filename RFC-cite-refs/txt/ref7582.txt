@@ -1,0 +1,1 @@
+Rosen, E., Wijnands, IJ., Cai, Y., and A. Boers, "Multicast Virtual Private Network (MVPN): Using Bidirectional P-Tunnels", RFC 7582, DOI 10.17487/RFC7582, July 2015, <https://www.rfc-editor.org/info/rfc7582>.

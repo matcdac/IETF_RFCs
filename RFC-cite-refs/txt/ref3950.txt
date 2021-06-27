@@ -1,0 +1,1 @@
+McIntyre, L., Parsons, G., and J. Rafferty, "Tag Image File Format Fax eXtended (TIFF-FX) - image/tiff-fx MIME Sub-type Registration", RFC 3950, DOI 10.17487/RFC3950, February 2005, <https://www.rfc-editor.org/info/rfc3950>.

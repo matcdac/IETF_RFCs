@@ -1,0 +1,1 @@
+Malamud, C., "A No Soliciting Simple Mail Transfer Protocol (SMTP) Service Extension", RFC 3865, DOI 10.17487/RFC3865, September 2004, <https://www.rfc-editor.org/info/rfc3865>.

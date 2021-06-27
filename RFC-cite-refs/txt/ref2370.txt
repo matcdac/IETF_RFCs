@@ -1,0 +1,1 @@
+Coltun, R., "The OSPF Opaque LSA Option", RFC 2370, DOI 10.17487/RFC2370, July 1998, <https://www.rfc-editor.org/info/rfc2370>.

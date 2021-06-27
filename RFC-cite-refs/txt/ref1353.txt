@@ -1,0 +1,1 @@
+McCloghrie, K., Davin, J., and J. Galvin, "Definitions of Managed Objects for Administration of SNMP Parties", RFC 1353, DOI 10.17487/RFC1353, July 1992, <https://www.rfc-editor.org/info/rfc1353>.

@@ -1,0 +1,1 @@
+West, M., "Initial Assignment for the Content Security Policy Directives Registry", RFC 7762, DOI 10.17487/RFC7762, January 2016, <https://www.rfc-editor.org/info/rfc7762>.

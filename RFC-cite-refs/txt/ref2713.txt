@@ -1,0 +1,1 @@
+Ryan, V., Seligman, S., and R. Lee, "Schema for Representing Java(tm) Objects in an LDAP Directory", RFC 2713, DOI 10.17487/RFC2713, October 1999, <https://www.rfc-editor.org/info/rfc2713>.

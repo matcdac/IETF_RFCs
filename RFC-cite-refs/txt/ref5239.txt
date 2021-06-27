@@ -1,0 +1,1 @@
+Barnes, M., Boulton, C., and O. Levin, "A Framework for Centralized Conferencing", RFC 5239, DOI 10.17487/RFC5239, June 2008, <https://www.rfc-editor.org/info/rfc5239>.

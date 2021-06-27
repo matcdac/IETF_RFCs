@@ -1,0 +1,1 @@
+Walden, D., "Scheduled network software maintenance", RFC 440, DOI 10.17487/RFC0440, January 1973, <https://www.rfc-editor.org/info/rfc440>.

@@ -1,0 +1,1 @@
+Salowey, J. and R. Droms, "RADIUS Delegated-IPv6-Prefix Attribute", RFC 4818, DOI 10.17487/RFC4818, April 2007, <https://www.rfc-editor.org/info/rfc4818>.

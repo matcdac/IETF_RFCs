@@ -1,0 +1,1 @@
+Burleigh, S., Ramadas, M., and S. Farrell, "Licklider Transmission Protocol - Motivation", RFC 5325, DOI 10.17487/RFC5325, September 2008, <https://www.rfc-editor.org/info/rfc5325>.

@@ -1,0 +1,1 @@
+Kawatsura, Y., Hiroya, M., and H. Beykirch, "Payment Application Programmers Interface (API) for v1.0 Internet Open Trading Protocol (IOTP)", RFC 3867, DOI 10.17487/RFC3867, November 2004, <https://www.rfc-editor.org/info/rfc3867>.

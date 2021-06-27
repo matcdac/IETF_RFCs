@@ -1,0 +1,1 @@
+Sury, O., Toorop, W., Eastlake 3rd, D., and M. Andrews, "Interoperable Domain Name System (DNS) Server Cookies", RFC 9018, DOI 10.17487/RFC9018, April 2021, <https://www.rfc-editor.org/info/rfc9018>.

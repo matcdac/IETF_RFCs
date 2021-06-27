@@ -1,0 +1,1 @@
+Allen, M., Clouston, B., Kielczewski, Z., Kwan, W., and B. Moore, "Definitions of Managed Objects for APPC using SMIv2", RFC 2051, DOI 10.17487/RFC2051, October 1996, <https://www.rfc-editor.org/info/rfc2051>.

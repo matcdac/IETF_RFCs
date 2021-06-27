@@ -1,0 +1,1 @@
+Rosenberg, J., "Extensible Markup Language (XML) Formats for Representing Resource Lists", RFC 4826, DOI 10.17487/RFC4826, May 2007, <https://www.rfc-editor.org/info/rfc4826>.

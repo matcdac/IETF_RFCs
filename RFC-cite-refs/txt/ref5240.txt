@@ -1,0 +1,1 @@
+Joshi, B. and R. Bijlani, "Protocol Independent Multicast (PIM) Bootstrap Router MIB", RFC 5240, DOI 10.17487/RFC5240, June 2008, <https://www.rfc-editor.org/info/rfc5240>.

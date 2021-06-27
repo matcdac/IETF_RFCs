@@ -1,0 +1,1 @@
+Watson, R., "Some factors which a Network Graphics Protocol must consider", RFC 192, DOI 10.17487/RFC0192, July 1971, <https://www.rfc-editor.org/info/rfc192>.

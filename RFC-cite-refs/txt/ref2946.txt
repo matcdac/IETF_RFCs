@@ -1,0 +1,1 @@
+Ts'o, T., "Telnet Data Encryption Option", RFC 2946, DOI 10.17487/RFC2946, September 2000, <https://www.rfc-editor.org/info/rfc2946>.

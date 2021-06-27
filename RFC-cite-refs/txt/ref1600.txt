@@ -1,0 +1,1 @@
+Postel, J., "Internet Official Protocol Standards", RFC 1600, DOI 10.17487/RFC1600, March 1994, <https://www.rfc-editor.org/info/rfc1600>.

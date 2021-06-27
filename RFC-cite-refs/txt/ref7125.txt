@@ -1,0 +1,1 @@
+Trammell, B. and P. Aitken, "Revision of the tcpControlBits IP Flow Information Export (IPFIX) Information Element", RFC 7125, DOI 10.17487/RFC7125, February 2014, <https://www.rfc-editor.org/info/rfc7125>.

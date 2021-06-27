@@ -1,0 +1,1 @@
+McConnell, J., "Modifications to RFC 177", RFC 181, DOI 10.17487/RFC0181, July 1971, <https://www.rfc-editor.org/info/rfc181>.

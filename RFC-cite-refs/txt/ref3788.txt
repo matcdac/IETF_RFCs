@@ -1,0 +1,1 @@
+Loughney, J., Tuexen, M., Ed., and J. Pastor-Balbas, "Security Considerations for Signaling Transport (SIGTRAN) Protocols", RFC 3788, DOI 10.17487/RFC3788, June 2004, <https://www.rfc-editor.org/info/rfc3788>.

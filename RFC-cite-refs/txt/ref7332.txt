@@ -1,0 +1,1 @@
+Kaplan, H. and V. Pascual, "Loop Detection Mechanisms for Session Initiation Protocol (SIP) Back-to-Back User Agents (B2BUAs)", RFC 7332, DOI 10.17487/RFC7332, August 2014, <https://www.rfc-editor.org/info/rfc7332>.

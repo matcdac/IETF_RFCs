@@ -1,0 +1,1 @@
+Throop, D., Ed., "SNMP MIB Extension for the X.25 Packet Layer", RFC 1382, DOI 10.17487/RFC1382, November 1992, <https://www.rfc-editor.org/info/rfc1382>.

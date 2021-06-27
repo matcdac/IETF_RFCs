@@ -1,0 +1,1 @@
+Hoschka, P., "The application/smil and application/smil+xml Media Types", RFC 4536, DOI 10.17487/RFC4536, July 2006, <https://www.rfc-editor.org/info/rfc4536>.

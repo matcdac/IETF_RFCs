@@ -1,0 +1,1 @@
+Sury, O., "Use of the SHA-256 Algorithm with RSA, Digital Signature Algorithm (DSA), and Elliptic Curve DSA (ECDSA) in SSHFP Resource Records", RFC 6594, DOI 10.17487/RFC6594, April 2012, <https://www.rfc-editor.org/info/rfc6594>.

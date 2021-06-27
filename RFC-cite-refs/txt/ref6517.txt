@@ -1,0 +1,1 @@
+Morin, T., Ed., Niven-Jenkins, B., Ed., Kamite, Y., Zhang, R., Leymann, N., and N. Bitar, "Mandatory Features in a Layer 3 Multicast BGP/MPLS VPN Solution", RFC 6517, DOI 10.17487/RFC6517, February 2012, <https://www.rfc-editor.org/info/rfc6517>.

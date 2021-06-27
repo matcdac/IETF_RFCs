@@ -1,0 +1,1 @@
+Strombergson, J. and S. Josefsson, "Test Vectors for the Stream Cipher RC4", RFC 6229, DOI 10.17487/RFC6229, May 2011, <https://www.rfc-editor.org/info/rfc6229>.

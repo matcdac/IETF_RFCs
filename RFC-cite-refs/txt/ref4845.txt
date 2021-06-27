@@ -1,0 +1,1 @@
+Daigle, L., Ed., and Internet Architecture Board, "Process for Publication of IAB RFCs", RFC 4845, DOI 10.17487/RFC4845, July 2007, <https://www.rfc-editor.org/info/rfc4845>.

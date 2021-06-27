@@ -1,0 +1,1 @@
+Dong, J., Chen, M., Li, Z., and D. Ceccarelli, "GMPLS RSVP-TE Extensions for Lock Instruct and Loopback", RFC 7571, DOI 10.17487/RFC7571, July 2015, <https://www.rfc-editor.org/info/rfc7571>.

@@ -1,0 +1,1 @@
+Partridge, C. and G. Trewitt, "High-level Entity Management Protocol (HEMP)", RFC 1022, DOI 10.17487/RFC1022, October 1987, <https://www.rfc-editor.org/info/rfc1022>.

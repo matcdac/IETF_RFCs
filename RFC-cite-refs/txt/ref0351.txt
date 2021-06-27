@@ -1,0 +1,1 @@
+Crocker, D., "Graphics information form for the ARPANET graphics resources notebook", RFC 351, DOI 10.17487/RFC0351, June 1972, <https://www.rfc-editor.org/info/rfc351>.

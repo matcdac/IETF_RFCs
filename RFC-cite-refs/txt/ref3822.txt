@@ -1,0 +1,1 @@
+Peterson, D., "Finding Fibre Channel over TCP/IP (FCIP) Entities Using Service Location Protocol version 2 (SLPv2)", RFC 3822, DOI 10.17487/RFC3822, July 2004, <https://www.rfc-editor.org/info/rfc3822>.

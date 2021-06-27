@@ -1,0 +1,1 @@
+Thomas, E., "Listserv Distribute Protocol", RFC 1429, DOI 10.17487/RFC1429, February 1993, <https://www.rfc-editor.org/info/rfc1429>.

@@ -1,0 +1,1 @@
+Eklof, T. and L. Daigle, "Wide Area Directory Deployment - Experiences from TISDAG", RFC 2969, DOI 10.17487/RFC2969, October 2000, <https://www.rfc-editor.org/info/rfc2969>.

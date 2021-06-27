@@ -1,0 +1,1 @@
+RJ Atkinson and SN Bhatti, "ICMP Locator Update Message for the Identifier-Locator Network Protocol for IPv4 (ILNPv4)", RFC 6745, DOI 10.17487/RFC6745, November 2012, <https://www.rfc-editor.org/info/rfc6745>.

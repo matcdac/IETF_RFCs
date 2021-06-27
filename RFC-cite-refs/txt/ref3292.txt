@@ -1,0 +1,1 @@
+Doria, A., Hellstrand, F., Sundell, K., and T. Worster, "General Switch Management Protocol (GSMP) V3", RFC 3292, DOI 10.17487/RFC3292, June 2002, <https://www.rfc-editor.org/info/rfc3292>.

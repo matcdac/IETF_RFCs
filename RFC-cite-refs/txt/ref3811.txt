@@ -1,0 +1,1 @@
+Nadeau, T., Ed., and J. Cucchiara, Ed., "Definitions of Textual Conventions (TCs) for Multiprotocol Label Switching (MPLS) Management", RFC 3811, DOI 10.17487/RFC3811, June 2004, <https://www.rfc-editor.org/info/rfc3811>.

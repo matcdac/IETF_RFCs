@@ -1,0 +1,1 @@
+Lebowitz, K. and D. Mankins, "Multi-network broadcasting within the Internet", RFC 947, DOI 10.17487/RFC0947, June 1985, <https://www.rfc-editor.org/info/rfc947>.

@@ -1,0 +1,1 @@
+Su, Z., "Distributed system for Internet name service", RFC 830, DOI 10.17487/RFC0830, October 1982, <https://www.rfc-editor.org/info/rfc830>.

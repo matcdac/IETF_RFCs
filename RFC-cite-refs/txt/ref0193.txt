@@ -1,0 +1,1 @@
+Harslem, E. and J. Heafner, "NETWORK CHECKOUT", RFC 193, DOI 10.17487/RFC0193, July 1971, <https://www.rfc-editor.org/info/rfc193>.

@@ -1,0 +1,1 @@
+Ali, Z., Ed., Swallow, G., Ed., Zhang, F., Ed., and D. Beller, Ed., "RSVP-TE Path Diversity Using Exclude Route", RFC 8390, DOI 10.17487/RFC8390, July 2018, <https://www.rfc-editor.org/info/rfc8390>.

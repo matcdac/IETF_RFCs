@@ -1,0 +1,1 @@
+Elkins, M., "MIME Security with Pretty Good Privacy (PGP)", RFC 2015, DOI 10.17487/RFC2015, October 1996, <https://www.rfc-editor.org/info/rfc2015>.

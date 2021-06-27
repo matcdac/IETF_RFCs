@@ -1,0 +1,1 @@
+Brown, C. and F. Baker, "Management Information Base for Frame Relay DTEs Using SMIv2", RFC 2115, DOI 10.17487/RFC2115, September 1997, <https://www.rfc-editor.org/info/rfc2115>.

@@ -1,0 +1,1 @@
+Handley, M., Floyd, S., Padhye, J., and J. Widmer, "TCP Friendly Rate Control (TFRC): Protocol Specification", RFC 3448, DOI 10.17487/RFC3448, January 2003, <https://www.rfc-editor.org/info/rfc3448>.

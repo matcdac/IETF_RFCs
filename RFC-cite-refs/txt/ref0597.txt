@@ -1,0 +1,1 @@
+Neigus, N. and E. Feinler, "Host status", RFC 597, DOI 10.17487/RFC0597, December 1973, <https://www.rfc-editor.org/info/rfc597>.

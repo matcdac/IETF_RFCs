@@ -1,0 +1,1 @@
+Tessman, D., "A Uniform Resource Name (URN) Namespace for Federated Content", RFC 4198, DOI 10.17487/RFC4198, November 2005, <https://www.rfc-editor.org/info/rfc4198>.

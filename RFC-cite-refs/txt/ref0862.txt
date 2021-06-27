@@ -1,0 +1,1 @@
+Postel, J., "Echo Protocol", STD 20, RFC 862, DOI 10.17487/RFC0862, May 1983, <https://www.rfc-editor.org/info/rfc862>.

@@ -1,0 +1,1 @@
+Owen, K., "Data communications: IFIP's international "network" of experts", RFC 828, DOI 10.17487/RFC0828, August 1982, <https://www.rfc-editor.org/info/rfc828>.

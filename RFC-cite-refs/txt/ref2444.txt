@@ -1,0 +1,1 @@
+Newman, C., "The One-Time-Password SASL Mechanism", RFC 2444, DOI 10.17487/RFC2444, October 1998, <https://www.rfc-editor.org/info/rfc2444>.

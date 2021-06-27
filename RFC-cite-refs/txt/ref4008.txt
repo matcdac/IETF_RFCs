@@ -1,0 +1,1 @@
+Rohit, R., Srisuresh, P., Raghunarayan, R., Pai, N., and C. Wang, "Definitions of Managed Objects for Network Address Translators (NAT)", RFC 4008, DOI 10.17487/RFC4008, March 2005, <https://www.rfc-editor.org/info/rfc4008>.

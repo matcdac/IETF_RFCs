@@ -1,0 +1,1 @@
+Bolt Beranek and Newman Laboratories, "Host Access Protocol specification", STD 40, RFC 907, DOI 10.17487/RFC0907, July 1984, <https://www.rfc-editor.org/info/rfc907>.

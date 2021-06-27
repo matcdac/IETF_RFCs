@@ -1,0 +1,1 @@
+Cardona, E., Channabasappa, S., and J-F. Mule, "A Uniform Resource Name (URN) Namespace for CableLabs", RFC 6289, DOI 10.17487/RFC6289, June 2011, <https://www.rfc-editor.org/info/rfc6289>.

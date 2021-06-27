@@ -1,0 +1,1 @@
+McIntyre, L. and G. Klyne, "Internet Fax T.30 Feature Mapping", RFC 2880, DOI 10.17487/RFC2880, August 2000, <https://www.rfc-editor.org/info/rfc2880>.

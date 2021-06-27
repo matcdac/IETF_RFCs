@@ -1,0 +1,1 @@
+Hartman, S., Wasserman, M., and D. Zhang, "Extensible Authentication Protocol (EAP) Mutual Cryptographic Binding", RFC 7029, DOI 10.17487/RFC7029, October 2013, <https://www.rfc-editor.org/info/rfc7029>.

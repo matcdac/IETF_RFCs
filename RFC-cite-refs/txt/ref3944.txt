@@ -1,0 +1,1 @@
+Johnson, T., Okubo, S., and S. Campos, "H.350 Directory Services", RFC 3944, DOI 10.17487/RFC3944, December 2004, <https://www.rfc-editor.org/info/rfc3944>.

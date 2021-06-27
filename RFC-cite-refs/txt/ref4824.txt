@@ -1,0 +1,1 @@
+Hofmueller, J., Ed., Bachmann, A., Ed., and IO. zmoelnig, Ed., "The Transmission of IP Datagrams over the Semaphore Flag Signaling System (SFSS)", RFC 4824, DOI 10.17487/RFC4824, April 1 2007, <https://www.rfc-editor.org/info/rfc4824>.

@@ -1,0 +1,1 @@
+Kunze, J., "Functional Recommendations for Internet Resource Locators", RFC 1736, DOI 10.17487/RFC1736, February 1995, <https://www.rfc-editor.org/info/rfc1736>.

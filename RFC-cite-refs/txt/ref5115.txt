@@ -1,0 +1,1 @@
+Carlberg, K. and P. O'Hanlon, "Telephony Routing over IP (TRIP) Attribute for Resource Priority", RFC 5115, DOI 10.17487/RFC5115, January 2008, <https://www.rfc-editor.org/info/rfc5115>.

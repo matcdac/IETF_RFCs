@@ -1,0 +1,1 @@
+Herberg, U., Cole, R., Chakeres, I., and T. Clausen, "Definition of Managed Objects for the Neighborhood Discovery Protocol", RFC 7939, DOI 10.17487/RFC7939, August 2016, <https://www.rfc-editor.org/info/rfc7939>.

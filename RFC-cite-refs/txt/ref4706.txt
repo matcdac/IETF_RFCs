@@ -1,0 +1,1 @@
+Morgenstern, M., Dodge, M., Baillie, S., and U. Bonollo, "Definitions of Managed Objects for Asymmetric Digital Subscriber Line 2 (ADSL2)", RFC 4706, DOI 10.17487/RFC4706, November 2006, <https://www.rfc-editor.org/info/rfc4706>.

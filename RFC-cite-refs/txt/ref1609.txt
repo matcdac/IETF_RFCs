@@ -1,0 +1,1 @@
+Mansfield, G., Johannsen, T., and M. Knopper, "Charting Networks in the X.500 Directory", RFC 1609, DOI 10.17487/RFC1609, March 1994, <https://www.rfc-editor.org/info/rfc1609>.

@@ -1,0 +1,1 @@
+Clark, D. and M. Lambert, "PCMAIL: A distributed mail system for personal computers", RFC 993, DOI 10.17487/RFC0993, December 1986, <https://www.rfc-editor.org/info/rfc993>.

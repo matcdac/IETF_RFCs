@@ -1,0 +1,1 @@
+Maes, S. and A. Melnikov, "Internet Email to Support Diverse Service Environments (Lemonade) Profile", RFC 4550, DOI 10.17487/RFC4550, June 2006, <https://www.rfc-editor.org/info/rfc4550>.

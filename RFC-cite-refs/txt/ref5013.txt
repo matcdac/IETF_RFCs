@@ -1,0 +1,1 @@
+Kunze, J. and T. Baker, "The Dublin Core Metadata Element Set", RFC 5013, DOI 10.17487/RFC5013, August 2007, <https://www.rfc-editor.org/info/rfc5013>.

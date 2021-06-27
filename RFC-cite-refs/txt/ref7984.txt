@@ -1,0 +1,1 @@
+Johansson, O., Salgueiro, G., Gurbani, V., and D. Worley, Ed., "Locating Session Initiation Protocol (SIP) Servers in a Dual-Stack IP Network", RFC 7984, DOI 10.17487/RFC7984, September 2016, <https://www.rfc-editor.org/info/rfc7984>.

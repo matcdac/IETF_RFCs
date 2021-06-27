@@ -1,0 +1,1 @@
+Pfeifer, L. and J. McAfee, "Real-time data transmission on the ARPANET", RFC 508, DOI 10.17487/RFC0508, May 1973, <https://www.rfc-editor.org/info/rfc508>.

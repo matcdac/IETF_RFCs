@@ -1,0 +1,1 @@
+Postel, J., "Standard for the transmission of IP datagrams over experimental Ethernet networks", STD 42, RFC 895, DOI 10.17487/RFC0895, April 1984, <https://www.rfc-editor.org/info/rfc895>.

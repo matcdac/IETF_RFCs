@@ -1,0 +1,1 @@
+Noto, M., Spiegel, E., and K. Tesink, "Definitions of Textual Conventions and OBJECT-IDENTITIES for ATM Management", RFC 2514, DOI 10.17487/RFC2514, February 1999, <https://www.rfc-editor.org/info/rfc2514>.

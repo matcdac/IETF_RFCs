@@ -1,0 +1,1 @@
+Matsumoto, A., Fujisaki, T., Hiromi, R., and K. Kanayama, "Requirements for Address Selection Mechanisms", RFC 5221, DOI 10.17487/RFC5221, July 2008, <https://www.rfc-editor.org/info/rfc5221>.

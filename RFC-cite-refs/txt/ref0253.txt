@@ -1,0 +1,1 @@
+Moorer, J., "Second Network Graphics meeting details", RFC 253, DOI 10.17487/RFC0253, October 1971, <https://www.rfc-editor.org/info/rfc253>.

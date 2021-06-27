@@ -1,0 +1,1 @@
+Kapor, M., "Building the open road: The NREN as test-bed for the national public network", RFC 1259, DOI 10.17487/RFC1259, September 1991, <https://www.rfc-editor.org/info/rfc1259>.

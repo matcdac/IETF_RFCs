@@ -1,0 +1,1 @@
+Srinath, A., Levendel, G., Fritz, K., and R. Kalyanaram, "MGCP Business Phone Packages", RFC 3149, DOI 10.17487/RFC3149, September 2001, <https://www.rfc-editor.org/info/rfc3149>.

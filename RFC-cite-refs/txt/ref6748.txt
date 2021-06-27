@@ -1,0 +1,1 @@
+RJ Atkinson and SN Bhatti, "Optional Advanced Deployment Scenarios for the Identifier-Locator Network Protocol (ILNP)", RFC 6748, DOI 10.17487/RFC6748, November 2012, <https://www.rfc-editor.org/info/rfc6748>.

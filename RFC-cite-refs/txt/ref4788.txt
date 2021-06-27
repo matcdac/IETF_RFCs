@@ -1,0 +1,1 @@
+Xie, Q. and R. Kapoor, "Enhancements to RTP Payload Formats for EVRC Family Codecs", RFC 4788, DOI 10.17487/RFC4788, January 2007, <https://www.rfc-editor.org/info/rfc4788>.

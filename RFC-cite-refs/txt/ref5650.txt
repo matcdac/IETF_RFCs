@@ -1,0 +1,1 @@
+Morgenstern, M., Baillie, S., and U. Bonollo, "Definitions of Managed Objects for Very High Speed Digital Subscriber Line 2 (VDSL2)", RFC 5650, DOI 10.17487/RFC5650, September 2009, <https://www.rfc-editor.org/info/rfc5650>.

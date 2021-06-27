@@ -1,0 +1,1 @@
+Zeilenga, K., "Lightweight Directory Access Protocol version 2 (LDAPv2) to Historic Status", RFC 3494, DOI 10.17487/RFC3494, March 2003, <https://www.rfc-editor.org/info/rfc3494>.

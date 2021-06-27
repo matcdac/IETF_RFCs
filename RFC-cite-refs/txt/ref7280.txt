@@ -1,0 +1,1 @@
+Fairhurst, G., "IANA Guidance for Managing the Unidirectional Lightweight Encapsulation (ULE) Next-Header Registry", RFC 7280, DOI 10.17487/RFC7280, June 2014, <https://www.rfc-editor.org/info/rfc7280>.

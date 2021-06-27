@@ -1,0 +1,1 @@
+Burleigh, S., "Compressed Bundle Header Encoding (CBHE)", RFC 6260, DOI 10.17487/RFC6260, May 2011, <https://www.rfc-editor.org/info/rfc6260>.

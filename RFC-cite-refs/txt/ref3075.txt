@@ -1,0 +1,1 @@
+Eastlake 3rd, D., Reagle, J., and D. Solo, "XML-Signature Syntax and Processing", RFC 3075, DOI 10.17487/RFC3075, March 2001, <https://www.rfc-editor.org/info/rfc3075>.

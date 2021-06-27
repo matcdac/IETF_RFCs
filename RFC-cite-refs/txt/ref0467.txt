@@ -1,0 +1,1 @@
+Burchfiel, J. and R. Tomlinson, "Proposed change to Host-Host Protocol: Resynchronization of connection status", RFC 467, DOI 10.17487/RFC0467, February 1973, <https://www.rfc-editor.org/info/rfc467>.

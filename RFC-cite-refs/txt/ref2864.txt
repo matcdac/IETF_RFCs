@@ -1,0 +1,1 @@
+McCloghrie, K. and G. Hanson, "The Inverted Stack Table Extension to the Interfaces Group MIB", RFC 2864, DOI 10.17487/RFC2864, June 2000, <https://www.rfc-editor.org/info/rfc2864>.

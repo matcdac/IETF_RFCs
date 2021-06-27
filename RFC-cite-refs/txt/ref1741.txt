@@ -1,0 +1,1 @@
+Faltstrom, P., Crocker, D., and E. Fair, "MIME Content Type for BinHex Encoded Files", RFC 1741, DOI 10.17487/RFC1741, December 1994, <https://www.rfc-editor.org/info/rfc1741>.

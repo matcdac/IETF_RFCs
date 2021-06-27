@@ -1,0 +1,1 @@
+Hastings, T. and C. Manros, "Internet Printing Protocol/1.0: Implementer's Guide", RFC 2639, DOI 10.17487/RFC2639, July 1999, <https://www.rfc-editor.org/info/rfc2639>.

@@ -1,0 +1,1 @@
+Daigle, L. and R. Hedberg, "TISDAG - Technical Infrastructure for Swedish Directory Access Gateways", RFC 2967, DOI 10.17487/RFC2967, October 2000, <https://www.rfc-editor.org/info/rfc2967>.

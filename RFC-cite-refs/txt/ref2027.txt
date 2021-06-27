@@ -1,0 +1,1 @@
+Galvin, J., "IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees", RFC 2027, DOI 10.17487/RFC2027, October 1996, <https://www.rfc-editor.org/info/rfc2027>.

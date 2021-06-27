@@ -1,0 +1,1 @@
+Fenner, B., "The IPv6-Specific MIB Modules Are Obsolete", RFC 8096, DOI 10.17487/RFC8096, April 2017, <https://www.rfc-editor.org/info/rfc8096>.

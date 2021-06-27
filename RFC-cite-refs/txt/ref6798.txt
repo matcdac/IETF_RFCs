@@ -1,0 +1,1 @@
+Clark, A. and Q. Wu, "RTP Control Protocol (RTCP) Extended Report (XR) Block for Packet Delay Variation Metric Reporting", RFC 6798, DOI 10.17487/RFC6798, November 2012, <https://www.rfc-editor.org/info/rfc6798>.

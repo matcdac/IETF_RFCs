@@ -1,0 +1,1 @@
+Sollins, K. and L. Masinter, "Functional Requirements for Uniform Resource Names", RFC 1737, DOI 10.17487/RFC1737, December 1994, <https://www.rfc-editor.org/info/rfc1737>.

@@ -1,0 +1,1 @@
+Harrenstien, K., White, V., and E. Feinler, "Hostnames Server", RFC 811, DOI 10.17487/RFC0811, March 1982, <https://www.rfc-editor.org/info/rfc811>.

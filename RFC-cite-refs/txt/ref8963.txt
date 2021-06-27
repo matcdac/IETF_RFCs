@@ -1,0 +1,1 @@
+Huitema, C., "Evaluation of a Sample of RFCs Produced in 2018", RFC 8963, DOI 10.17487/RFC8963, January 2021, <https://www.rfc-editor.org/info/rfc8963>.

@@ -1,0 +1,1 @@
+Elliott, C., Harrington, D., Jason, J., Schoenwaelder, J., Strauss, F., and W. Weiss, "SMIng Objectives", RFC 3216, DOI 10.17487/RFC3216, December 2001, <https://www.rfc-editor.org/info/rfc3216>.

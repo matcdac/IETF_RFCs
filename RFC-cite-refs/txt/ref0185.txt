@@ -1,0 +1,1 @@
+North, J., "NIC distribution of manuals and handbooks", RFC 185, DOI 10.17487/RFC0185, July 1971, <https://www.rfc-editor.org/info/rfc185>.

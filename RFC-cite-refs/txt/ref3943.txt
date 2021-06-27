@@ -1,0 +1,1 @@
+Friend, R., "Transport Layer Security (TLS) Protocol Compression Using Lempel-Ziv-Stac (LZS)", RFC 3943, DOI 10.17487/RFC3943, November 2004, <https://www.rfc-editor.org/info/rfc3943>.

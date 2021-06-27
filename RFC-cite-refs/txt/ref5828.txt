@@ -1,0 +1,1 @@
+Fedyk, D., Berger, L., and L. Andersson, "Generalized Multiprotocol Label Switching (GMPLS) Ethernet Label Switching Architecture and Framework", RFC 5828, DOI 10.17487/RFC5828, March 2010, <https://www.rfc-editor.org/info/rfc5828>.

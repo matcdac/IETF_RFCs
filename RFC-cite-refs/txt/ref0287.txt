@@ -1,0 +1,1 @@
+Westheimer, E., "Status of Network Hosts", RFC 287, DOI 10.17487/RFC0287, December 1971, <https://www.rfc-editor.org/info/rfc287>.

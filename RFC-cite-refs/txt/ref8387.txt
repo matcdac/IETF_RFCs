@@ -1,0 +1,1 @@
+Sethi, M., Arkko, J., Keranen, A., and H. Back, "Practical Considerations and Implementation Experiences in Securing Smart Object Networks", RFC 8387, DOI 10.17487/RFC8387, May 2018, <https://www.rfc-editor.org/info/rfc8387>.

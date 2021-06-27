@@ -1,0 +1,1 @@
+Okumura, S., Sawada, T., and P. Kyzivat, "Session Initiation Protocol (SIP) Usage of the Offer/Answer Model", RFC 6337, DOI 10.17487/RFC6337, August 2011, <https://www.rfc-editor.org/info/rfc6337>.

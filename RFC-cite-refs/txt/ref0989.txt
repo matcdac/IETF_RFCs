@@ -1,0 +1,1 @@
+Linn, J., "Privacy enhancement for Internet electronic mail: Part I: Message encipherment and authentication procedures", RFC 989, DOI 10.17487/RFC0989, February 1987, <https://www.rfc-editor.org/info/rfc989>.

@@ -1,0 +1,1 @@
+Hartman, S. and J. Howlett, "Name Attributes for the GSS-API Extensible Authentication Protocol (EAP) Mechanism", RFC 7056, DOI 10.17487/RFC7056, December 2013, <https://www.rfc-editor.org/info/rfc7056>.

@@ -1,0 +1,1 @@
+Berners-Lee, T., Fielding, R., and L. Masinter, "Uniform Resource Identifiers (URI): Generic Syntax", RFC 2396, DOI 10.17487/RFC2396, August 1998, <https://www.rfc-editor.org/info/rfc2396>.

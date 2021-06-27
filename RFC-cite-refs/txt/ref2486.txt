@@ -1,0 +1,1 @@
+Aboba, B. and M. Beadles, "The Network Access Identifier", RFC 2486, DOI 10.17487/RFC2486, January 1999, <https://www.rfc-editor.org/info/rfc2486>.

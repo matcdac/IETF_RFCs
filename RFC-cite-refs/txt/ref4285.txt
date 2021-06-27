@@ -1,0 +1,1 @@
+Patel, A., Leung, K., Khalil, M., Akhtar, H., and K. Chowdhury, "Authentication Protocol for Mobile IPv6", RFC 4285, DOI 10.17487/RFC4285, January 2006, <https://www.rfc-editor.org/info/rfc4285>.

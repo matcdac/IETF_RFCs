@@ -1,0 +1,1 @@
+Kempf, J., "Instructions for Seamoby and Experimental Mobility Protocol IANA Allocations", RFC 4065, DOI 10.17487/RFC4065, July 2005, <https://www.rfc-editor.org/info/rfc4065>.

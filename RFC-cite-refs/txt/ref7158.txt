@@ -1,0 +1,1 @@
+Bray, T., Ed., "The JavaScript Object Notation (JSON) Data Interchange Format", RFC 7158, DOI 10.17487/RFC7158, March 2014, <https://www.rfc-editor.org/info/rfc7158>.

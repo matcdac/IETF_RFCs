@@ -1,0 +1,1 @@
+Chroboczek, J., "Extension Mechanism for the Babel Routing Protocol", RFC 7557, DOI 10.17487/RFC7557, May 2015, <https://www.rfc-editor.org/info/rfc7557>.

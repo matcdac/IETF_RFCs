@@ -1,0 +1,1 @@
+Yi, J., Herberg, U., and T. Clausen, "Security Threats for the Neighborhood Discovery Protocol (NHDP)", RFC 7186, DOI 10.17487/RFC7186, April 2014, <https://www.rfc-editor.org/info/rfc7186>.

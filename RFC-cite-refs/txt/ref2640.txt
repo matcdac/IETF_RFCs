@@ -1,0 +1,1 @@
+Curtin, B., "Internationalization of the File Transfer Protocol", RFC 2640, DOI 10.17487/RFC2640, July 1999, <https://www.rfc-editor.org/info/rfc2640>.

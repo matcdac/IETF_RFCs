@@ -1,0 +1,1 @@
+Braden, R., "Extending TCP for Transactions -- Concepts", RFC 1379, DOI 10.17487/RFC1379, November 1992, <https://www.rfc-editor.org/info/rfc1379>.

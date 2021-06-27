@@ -1,0 +1,1 @@
+Alvestrand, H., "Mapping between X.400 and RFC-822/MIME Message Bodies", RFC 2157, DOI 10.17487/RFC2157, January 1998, <https://www.rfc-editor.org/info/rfc2157>.

@@ -1,0 +1,1 @@
+Freytag, A., "Guidance on Designing Label Generation Rulesets (LGRs) Supporting Variant Labels", RFC 8228, DOI 10.17487/RFC8228, August 2017, <https://www.rfc-editor.org/info/rfc8228>.

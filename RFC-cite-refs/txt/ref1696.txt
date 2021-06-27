@@ -1,0 +1,1 @@
+Barnes, J., Brown, L., Royston, R., and S. Waldbusser, "Modem Management Information Base (MIB) using SMIv2", RFC 1696, DOI 10.17487/RFC1696, August 1994, <https://www.rfc-editor.org/info/rfc1696>.

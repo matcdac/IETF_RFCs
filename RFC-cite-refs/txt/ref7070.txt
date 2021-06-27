@@ -1,0 +1,1 @@
+Borenstein, N. and M. Kucherawy, "An Architecture for Reputation Reporting", RFC 7070, DOI 10.17487/RFC7070, November 2013, <https://www.rfc-editor.org/info/rfc7070>.

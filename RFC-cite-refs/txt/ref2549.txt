@@ -1,0 +1,1 @@
+Waitzman, D., "IP over Avian Carriers with Quality of Service", RFC 2549, DOI 10.17487/RFC2549, April 1 1999, <https://www.rfc-editor.org/info/rfc2549>.

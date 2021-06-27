@@ -1,0 +1,1 @@
+Borman, D., Ed., "Telnet Authentication: Kerberos Version 4", RFC 1411, DOI 10.17487/RFC1411, January 1993, <https://www.rfc-editor.org/info/rfc1411>.

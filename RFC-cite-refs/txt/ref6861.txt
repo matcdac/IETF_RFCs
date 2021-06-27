@@ -1,0 +1,1 @@
+Dzmanashvili, I., "The "create-form" and "edit-form" Link Relations", RFC 6861, DOI 10.17487/RFC6861, January 2013, <https://www.rfc-editor.org/info/rfc6861>.

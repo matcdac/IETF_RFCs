@@ -1,0 +1,1 @@
+Davids, C., Gurbani, V., and S. Poretsky, "Methodology for Benchmarking Session Initiation Protocol (SIP) Devices: Basic Session Setup and Registration", RFC 7502, DOI 10.17487/RFC7502, April 2015, <https://www.rfc-editor.org/info/rfc7502>.

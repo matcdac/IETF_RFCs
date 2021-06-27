@@ -1,0 +1,1 @@
+Housley, R., Yee, P., and W. Nace, "Encryption using KEA and SKIPJACK", RFC 2773, DOI 10.17487/RFC2773, February 2000, <https://www.rfc-editor.org/info/rfc2773>.

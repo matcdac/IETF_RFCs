@@ -1,0 +1,1 @@
+Chown, T., "IPv6 Implications for Network Scanning", RFC 5157, DOI 10.17487/RFC5157, March 2008, <https://www.rfc-editor.org/info/rfc5157>.

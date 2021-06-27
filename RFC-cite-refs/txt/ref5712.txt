@@ -1,0 +1,1 @@
+Meyer, M., Ed., and JP. Vasseur, Ed., "MPLS Traffic Engineering Soft Preemption", RFC 5712, DOI 10.17487/RFC5712, January 2010, <https://www.rfc-editor.org/info/rfc5712>.

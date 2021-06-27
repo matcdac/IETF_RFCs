@@ -1,0 +1,1 @@
+Nagami, K., Katsube, Y., Shobatake, Y., Mogi, A., Matsuzawa, S., Jinmei, T., and H. Esaki, "Toshiba's Flow Attribute Notification Protocol (FANP) Specification", RFC 2129, DOI 10.17487/RFC2129, April 1997, <https://www.rfc-editor.org/info/rfc2129>.

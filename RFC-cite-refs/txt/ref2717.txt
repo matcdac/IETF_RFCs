@@ -1,0 +1,1 @@
+Petke, R. and I. King, "Registration Procedures for URL Scheme Names", RFC 2717, DOI 10.17487/RFC2717, November 1999, <https://www.rfc-editor.org/info/rfc2717>.

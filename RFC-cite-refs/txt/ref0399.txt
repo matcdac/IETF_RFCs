@@ -1,0 +1,1 @@
+Krilanovich, M., "SMFS Login and Logout", RFC 399, DOI 10.17487/RFC0399, September 1972, <https://www.rfc-editor.org/info/rfc399>.

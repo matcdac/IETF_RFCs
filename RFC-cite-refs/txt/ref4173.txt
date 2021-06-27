@@ -1,0 +1,1 @@
+Sarkar, P., Missimer, D., and C. Sapuntzakis, "Bootstrapping Clients using the Internet Small Computer System Interface (iSCSI) Protocol", RFC 4173, DOI 10.17487/RFC4173, September 2005, <https://www.rfc-editor.org/info/rfc4173>.

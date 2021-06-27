@@ -1,0 +1,1 @@
+Crocker, D. and R. Gumpertz, "Revised Telnet byte macro option", RFC 735, DOI 10.17487/RFC0735, November 1977, <https://www.rfc-editor.org/info/rfc735>.

@@ -1,0 +1,1 @@
+St. Pierre, M., Fullton, J., Gamiel, K., Goldman, J., Kahle, B., Kunze, J., Morris, H., and F. Schiettecatte, "WAIS over Z39.50-1988", RFC 1625, DOI 10.17487/RFC1625, June 1994, <https://www.rfc-editor.org/info/rfc1625>.

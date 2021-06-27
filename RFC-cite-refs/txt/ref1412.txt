@@ -1,0 +1,1 @@
+Alagappan, K., "Telnet Authentication: SPX", RFC 1412, DOI 10.17487/RFC1412, January 1993, <https://www.rfc-editor.org/info/rfc1412>.

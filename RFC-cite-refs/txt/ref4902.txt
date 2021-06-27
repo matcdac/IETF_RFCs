@@ -1,0 +1,1 @@
+Stecher, M., "Integrity, Privacy, and Security in Open Pluggable Edge Services (OPES) for SMTP", RFC 4902, DOI 10.17487/RFC4902, May 2007, <https://www.rfc-editor.org/info/rfc4902>.

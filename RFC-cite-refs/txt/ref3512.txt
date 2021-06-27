@@ -1,0 +1,1 @@
+MacFaden, M., Partain, D., Saperia, J., and W. Tackabury, "Configuring Networks and Devices with Simple Network Management Protocol (SNMP)", RFC 3512, DOI 10.17487/RFC3512, April 2003, <https://www.rfc-editor.org/info/rfc3512>.

@@ -1,0 +1,1 @@
+Hinden, R., Ed., and S. Deering, Ed., "IP Version 6 Addressing Architecture", RFC 1884, DOI 10.17487/RFC1884, December 1995, <https://www.rfc-editor.org/info/rfc1884>.

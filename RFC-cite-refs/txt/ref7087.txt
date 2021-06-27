@@ -1,0 +1,1 @@
+van Helvoort, H., Ed., Andersson, L., Ed., and N. Sprecher, Ed., "A Thesaurus for the Interpretation of Terminology Used in MPLS Transport Profile (MPLS-TP) Internet-Drafts and RFCs in the Context of the ITU-T's Transport Network Recommendations", RFC 7087, DOI 10.17487/RFC7087, December 2013, <https://www.rfc-editor.org/info/rfc7087>.

@@ -1,0 +1,1 @@
+Allbery, R., Ed., and C. Lindsey, "Netnews Architecture and Protocols", RFC 5537, DOI 10.17487/RFC5537, November 2009, <https://www.rfc-editor.org/info/rfc5537>.

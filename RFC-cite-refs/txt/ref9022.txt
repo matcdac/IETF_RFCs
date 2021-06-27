@@ -1,0 +1,1 @@
+Lozano, G., Gould, J., and C. Thippeswamy, "Domain Name Registration Data (DNRD) Objects Mapping", RFC 9022, DOI 10.17487/RFC9022, May 2021, <https://www.rfc-editor.org/info/rfc9022>.

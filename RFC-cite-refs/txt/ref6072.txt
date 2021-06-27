@@ -1,0 +1,1 @@
+Jennings, C. and J. Fischl, Ed., "Certificate Management Service for the Session Initiation Protocol (SIP)", RFC 6072, DOI 10.17487/RFC6072, February 2011, <https://www.rfc-editor.org/info/rfc6072>.

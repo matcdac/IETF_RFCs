@@ -1,0 +1,1 @@
+Harslem, E. and J. Heafner, "More Comments on the Forthcoming Protocol", RFC 40, DOI 10.17487/RFC0040, March 1970, <https://www.rfc-editor.org/info/rfc40>.

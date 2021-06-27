@@ -1,0 +1,1 @@
+Manral, V., White, R., and A. Shaikh, "Considerations When Using Basic OSPF Convergence Benchmarks", RFC 4063, DOI 10.17487/RFC4063, April 2005, <https://www.rfc-editor.org/info/rfc4063>.

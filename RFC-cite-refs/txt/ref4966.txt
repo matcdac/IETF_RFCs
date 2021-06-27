@@ -1,0 +1,1 @@
+Aoun, C. and E. Davies, "Reasons to Move the Network Address Translator - Protocol Translator (NAT-PT) to Historic Status", RFC 4966, DOI 10.17487/RFC4966, July 2007, <https://www.rfc-editor.org/info/rfc4966>.

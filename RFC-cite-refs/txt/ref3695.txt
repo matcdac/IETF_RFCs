@@ -1,0 +1,1 @@
+Luby, M. and L. Vicisano, "Compact Forward Error Correction (FEC) Schemes", RFC 3695, DOI 10.17487/RFC3695, February 2004, <https://www.rfc-editor.org/info/rfc3695>.

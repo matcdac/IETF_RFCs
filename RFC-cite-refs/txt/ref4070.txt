@@ -1,0 +1,1 @@
+Dodge, M. and B. Ray, "Definitions of Managed Object Extensions for Very High Speed Digital Subscriber Lines (VDSL) Using Multiple Carrier Modulation (MCM) Line Coding", RFC 4070, DOI 10.17487/RFC4070, May 2005, <https://www.rfc-editor.org/info/rfc4070>.

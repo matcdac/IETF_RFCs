@@ -1,0 +1,1 @@
+Holmberg, C., Holm, J., Jesske, R., and M. Dolly, "3GPP SIP URI Inter-Operator Traffic Leg Parameter", RFC 7549, DOI 10.17487/RFC7549, May 2015, <https://www.rfc-editor.org/info/rfc7549>.

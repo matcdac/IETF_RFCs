@@ -1,0 +1,1 @@
+Waldbusser, S., "Remote Network Monitoring Management Information Base for High Capacity Networks", RFC 3273, DOI 10.17487/RFC3273, July 2002, <https://www.rfc-editor.org/info/rfc3273>.

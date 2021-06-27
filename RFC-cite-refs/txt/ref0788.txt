@@ -1,0 +1,1 @@
+Postel, J., "Simple Mail Transfer Protocol", RFC 788, DOI 10.17487/RFC0788, November 1981, <https://www.rfc-editor.org/info/rfc788>.

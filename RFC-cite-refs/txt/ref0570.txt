@@ -1,0 +1,1 @@
+Pickens, J., "Experimental input mapping between NVT ASCII and UCSB On Line System", RFC 570, DOI 10.17487/RFC0570, October 1973, <https://www.rfc-editor.org/info/rfc570>.

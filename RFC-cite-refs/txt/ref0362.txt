@@ -1,0 +1,1 @@
+Westheimer, E., "Network Host Status", RFC 362, DOI 10.17487/RFC0362, June 1972, <https://www.rfc-editor.org/info/rfc362>.

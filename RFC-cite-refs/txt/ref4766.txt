@@ -1,0 +1,1 @@
+Wood, M. and M. Erlinger, "Intrusion Detection Message Exchange Requirements", RFC 4766, DOI 10.17487/RFC4766, March 2007, <https://www.rfc-editor.org/info/rfc4766>.

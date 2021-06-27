@@ -1,0 +1,1 @@
+Kille, S., "A String Representation of Distinguished Names", RFC 1779, DOI 10.17487/RFC1779, March 1995, <https://www.rfc-editor.org/info/rfc1779>.

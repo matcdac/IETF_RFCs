@@ -1,0 +1,1 @@
+Rekhter, Y., "BGP Protocol Analysis", RFC 1265, DOI 10.17487/RFC1265, October 1991, <https://www.rfc-editor.org/info/rfc1265>.

@@ -1,0 +1,1 @@
+Houttuin, J., "A Tutorial on Gatewaying between X.400 and Internet Mail", RFC 1506, DOI 10.17487/RFC1506, August 1993, <https://www.rfc-editor.org/info/rfc1506>.

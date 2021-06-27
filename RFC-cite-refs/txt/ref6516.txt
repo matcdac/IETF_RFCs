@@ -1,0 +1,1 @@
+Cai, Y., Rosen, E., Ed., and I. Wijnands, "IPv6 Multicast VPN (MVPN) Support Using PIM Control Plane and Selective Provider Multicast Service Interface (S-PMSI) Join Messages", RFC 6516, DOI 10.17487/RFC6516, February 2012, <https://www.rfc-editor.org/info/rfc6516>.

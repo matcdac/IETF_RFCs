@@ -1,0 +1,1 @@
+Park, J-S., Shin, M-K., and H-J. Kim, "A Method for Generating Link-Scoped IPv6 Multicast Addresses", RFC 4489, DOI 10.17487/RFC4489, April 2006, <https://www.rfc-editor.org/info/rfc4489>.

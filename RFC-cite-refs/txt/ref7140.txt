@@ -1,0 +1,1 @@
+Jin, L., Jounay, F., Wijnands, IJ., and N. Leymann, "LDP Extensions for Hub and Spoke Multipoint Label Switched Path", RFC 7140, DOI 10.17487/RFC7140, March 2014, <https://www.rfc-editor.org/info/rfc7140>.

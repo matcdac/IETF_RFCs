@@ -1,0 +1,1 @@
+George, T., Bidulock, B., Dantu, R., Schwarzbauer, H., and K. Morneault, "Signaling System 7 (SS7) Message Transfer Part 2 (MTP2) - User Peer-to-Peer Adaptation Layer (M2PA)", RFC 4165, DOI 10.17487/RFC4165, September 2005, <https://www.rfc-editor.org/info/rfc4165>.

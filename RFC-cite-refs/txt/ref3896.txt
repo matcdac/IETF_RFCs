@@ -1,0 +1,1 @@
+Nicklass, O., Ed., "Definitions of Managed Objects for the DS3/E3 Interface Type", RFC 3896, DOI 10.17487/RFC3896, September 2004, <https://www.rfc-editor.org/info/rfc3896>.

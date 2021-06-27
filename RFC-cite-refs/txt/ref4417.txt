@@ -1,0 +1,1 @@
+Resnick, P., Ed., and P. Saint-Andre, Ed., "Report of the 2004 IAB Messaging Workshop", RFC 4417, DOI 10.17487/RFC4417, February 2006, <https://www.rfc-editor.org/info/rfc4417>.

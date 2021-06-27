@@ -1,0 +1,1 @@
+Chandramouli, M., Claise, B., Schoening, B., Quittek, J., and T. Dietz, "Monitoring and Control MIB for Power and Energy", RFC 7460, DOI 10.17487/RFC7460, March 2015, <https://www.rfc-editor.org/info/rfc7460>.

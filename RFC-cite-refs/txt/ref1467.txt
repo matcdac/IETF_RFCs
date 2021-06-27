@@ -1,0 +1,1 @@
+Topolcic, C., "Status of CIDR Deployment in the Internet", RFC 1467, DOI 10.17487/RFC1467, August 1993, <https://www.rfc-editor.org/info/rfc1467>.

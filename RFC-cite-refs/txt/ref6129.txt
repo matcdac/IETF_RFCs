@@ -1,0 +1,1 @@
+Romary, L. and S. Lundberg, "The 'application/tei+xml' Media Type", RFC 6129, DOI 10.17487/RFC6129, February 2011, <https://www.rfc-editor.org/info/rfc6129>.

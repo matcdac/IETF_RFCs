@@ -1,0 +1,1 @@
+Fenner, B., "RFC 1264 Is Obsolete", RFC 4794, DOI 10.17487/RFC4794, December 2006, <https://www.rfc-editor.org/info/rfc4794>.

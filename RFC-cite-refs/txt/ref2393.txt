@@ -1,0 +1,1 @@
+Shacham, A., Monsour, R., Pereira, R., and M. Thomas, "IP Payload Compression Protocol (IPComp)", RFC 2393, DOI 10.17487/RFC2393, December 1998, <https://www.rfc-editor.org/info/rfc2393>.

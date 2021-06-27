@@ -1,0 +1,1 @@
+Teow, K., "Definitions of Managed Objects for the Fabric Element in Fibre Channel Standard", RFC 2837, DOI 10.17487/RFC2837, May 2000, <https://www.rfc-editor.org/info/rfc2837>.

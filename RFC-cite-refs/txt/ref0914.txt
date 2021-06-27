@@ -1,0 +1,1 @@
+Farber, D., Delp, G., and T. Conte, "Thinwire protocol for connecting personal computers to the Internet", RFC 914, DOI 10.17487/RFC0914, September 1984, <https://www.rfc-editor.org/info/rfc914>.

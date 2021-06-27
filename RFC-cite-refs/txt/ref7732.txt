@@ -1,0 +1,1 @@
+van der Stok, P. and R. Cragie, "Forwarder Policy for Multicast with Admin-Local Scope in the Multicast Protocol for Low-Power and Lossy Networks (MPL)", RFC 7732, DOI 10.17487/RFC7732, February 2016, <https://www.rfc-editor.org/info/rfc7732>.

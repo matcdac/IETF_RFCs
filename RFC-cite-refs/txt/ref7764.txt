@@ -1,0 +1,1 @@
+Leonard, S., "Guidance on Markdown: Design Philosophies, Stability Strategies, and Select Registrations", RFC 7764, DOI 10.17487/RFC7764, March 2016, <https://www.rfc-editor.org/info/rfc7764>.

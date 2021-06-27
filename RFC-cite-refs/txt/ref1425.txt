@@ -1,0 +1,1 @@
+Klensin, J., Freed, N., Ed., Rose, M., Stefferud, E., and D. Crocker, "SMTP Service Extensions", RFC 1425, DOI 10.17487/RFC1425, February 1993, <https://www.rfc-editor.org/info/rfc1425>.

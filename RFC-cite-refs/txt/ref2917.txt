@@ -1,0 +1,1 @@
+Muthukrishnan, K. and A. Malis, "A Core MPLS IP VPN Architecture", RFC 2917, DOI 10.17487/RFC2917, September 2000, <https://www.rfc-editor.org/info/rfc2917>.

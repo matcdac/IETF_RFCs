@@ -1,0 +1,1 @@
+Rosenberg, J., Ed., and IAB, "What's in a Name: False Assumptions about DNS Names", RFC 4367, DOI 10.17487/RFC4367, February 2006, <https://www.rfc-editor.org/info/rfc4367>.

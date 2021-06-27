@@ -1,0 +1,1 @@
+Freed, N., "SMTP Service Extension for Command Pipelining", RFC 1854, DOI 10.17487/RFC1854, October 1995, <https://www.rfc-editor.org/info/rfc1854>.

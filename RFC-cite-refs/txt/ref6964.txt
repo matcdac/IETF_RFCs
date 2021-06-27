@@ -1,0 +1,1 @@
+Templin, F., "Operational Guidance for IPv6 Deployment in IPv4 Sites Using the Intra-Site Automatic Tunnel Addressing Protocol (ISATAP)", RFC 6964, DOI 10.17487/RFC6964, May 2013, <https://www.rfc-editor.org/info/rfc6964>.

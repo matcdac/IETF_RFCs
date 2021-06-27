@@ -1,0 +1,1 @@
+Thaler, D., Zhang, L., and G. Lebovitz, "IAB Thoughts on IPv6 Network Address Translation", RFC 5902, DOI 10.17487/RFC5902, July 2010, <https://www.rfc-editor.org/info/rfc5902>.

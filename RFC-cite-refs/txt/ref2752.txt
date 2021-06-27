@@ -1,0 +1,1 @@
+Yadav, S., Yavatkar, R., Pabbati, R., Ford, P., Moore, T., and S. Herzog, "Identity Representation for RSVP", RFC 2752, DOI 10.17487/RFC2752, January 2000, <https://www.rfc-editor.org/info/rfc2752>.

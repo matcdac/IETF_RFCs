@@ -1,0 +1,1 @@
+Karn, P., Metzger, P., and W. Simpson, "The ESP DES-CBC Transform", RFC 1829, DOI 10.17487/RFC1829, August 1995, <https://www.rfc-editor.org/info/rfc1829>.

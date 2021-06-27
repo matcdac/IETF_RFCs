@@ -1,0 +1,1 @@
+Lentini, J., Tewari, R., and C. Lever, Ed., "Namespace Database (NSDB) Protocol for Federated File Systems", RFC 7532, DOI 10.17487/RFC7532, March 2015, <https://www.rfc-editor.org/info/rfc7532>.

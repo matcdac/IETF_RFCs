@@ -1,0 +1,1 @@
+Rose, S., "DNS Security (DNSSEC) DNSKEY Algorithm IANA Registry Updates", RFC 6725, DOI 10.17487/RFC6725, August 2012, <https://www.rfc-editor.org/info/rfc6725>.

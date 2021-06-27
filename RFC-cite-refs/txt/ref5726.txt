@@ -1,0 +1,1 @@
+Qiu, Y., Zhao, F., Ed., and R. Koodli, "Mobile IPv6 Location Privacy Solutions", RFC 5726, DOI 10.17487/RFC5726, February 2010, <https://www.rfc-editor.org/info/rfc5726>.

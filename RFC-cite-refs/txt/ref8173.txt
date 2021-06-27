@@ -1,0 +1,1 @@
+Shankarkumar, V., Montini, L., Frost, T., and G. Dowd, "Precision Time Protocol Version 2 (PTPv2) Management Information Base", RFC 8173, DOI 10.17487/RFC8173, June 2017, <https://www.rfc-editor.org/info/rfc8173>.

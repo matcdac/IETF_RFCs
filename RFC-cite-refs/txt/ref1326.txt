@@ -1,0 +1,1 @@
+Tsuchiya, P., "Mutual Encapsulation Considered Dangerous", RFC 1326, DOI 10.17487/RFC1326, May 1992, <https://www.rfc-editor.org/info/rfc1326>.

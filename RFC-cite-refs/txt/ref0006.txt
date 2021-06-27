@@ -1,0 +1,1 @@
+Crocker, S., "Conversation with Bob Kahn", RFC 6, DOI 10.17487/RFC0006, April 1969, <https://www.rfc-editor.org/info/rfc6>.

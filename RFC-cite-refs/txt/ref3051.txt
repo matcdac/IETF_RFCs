@@ -1,0 +1,1 @@
+Heath, J. and J. Border, "IP Payload Compression Using ITU-T V.44 Packet Method", RFC 3051, DOI 10.17487/RFC3051, January 2001, <https://www.rfc-editor.org/info/rfc3051>.

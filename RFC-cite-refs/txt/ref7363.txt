@@ -1,0 +1,1 @@
+Maenpaa, J. and G. Camarillo, "Self-Tuning Distributed Hash Table (DHT) for REsource LOcation And Discovery (RELOAD)", RFC 7363, DOI 10.17487/RFC7363, September 2014, <https://www.rfc-editor.org/info/rfc7363>.

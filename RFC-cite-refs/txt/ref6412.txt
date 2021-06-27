@@ -1,0 +1,1 @@
+Poretsky, S., Imhoff, B., and K. Michielsen, "Terminology for Benchmarking Link-State IGP Data-Plane Route Convergence", RFC 6412, DOI 10.17487/RFC6412, November 2011, <https://www.rfc-editor.org/info/rfc6412>.

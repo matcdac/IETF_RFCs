@@ -1,0 +1,1 @@
+Carugi, M., Ed., and D. McDysan, Ed., "Service Requirements for Layer 3 Provider Provisioned Virtual Private Networks (PPVPNs)", RFC 4031, DOI 10.17487/RFC4031, April 2005, <https://www.rfc-editor.org/info/rfc4031>.

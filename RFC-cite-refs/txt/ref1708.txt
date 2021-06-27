@@ -1,0 +1,1 @@
+Gowin, D., "NTP PICS PROFORMA - For the Network Time Protocol Version 3", RFC 1708, DOI 10.17487/RFC1708, October 1994, <https://www.rfc-editor.org/info/rfc1708>.

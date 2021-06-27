@@ -1,0 +1,1 @@
+Crocker, D., "Address Specification Syntax for Network Mail", RFC 720, DOI 10.17487/RFC0720, August 1976, <https://www.rfc-editor.org/info/rfc720>.

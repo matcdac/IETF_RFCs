@@ -1,0 +1,1 @@
+Ahmadi, S., "Real-Time Transport Protocol (RTP) Payload Format for the Variable-Rate Multimode Wideband (VMR-WB) Extension Audio Codec", RFC 4424, DOI 10.17487/RFC4424, February 2006, <https://www.rfc-editor.org/info/rfc4424>.

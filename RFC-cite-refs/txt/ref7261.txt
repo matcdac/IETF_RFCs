@@ -1,0 +1,1 @@
+Perumal, M. and P. Ravindran, "Offer/Answer Considerations for G723 Annex A and G729 Annex B", RFC 7261, DOI 10.17487/RFC7261, May 2014, <https://www.rfc-editor.org/info/rfc7261>.

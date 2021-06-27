@@ -1,0 +1,1 @@
+Raza, K., Boutros, S., Martini, L., and N. Leymann, "Label Advertisement Discipline for LDP Forwarding Equivalence Classes (FECs)", RFC 7358, DOI 10.17487/RFC7358, October 2014, <https://www.rfc-editor.org/info/rfc7358>.

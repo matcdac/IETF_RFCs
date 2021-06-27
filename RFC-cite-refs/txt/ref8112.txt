@@ -1,0 +1,1 @@
+Farinacci, D., Jain, A., Kouvelas, I., and D. Lewis, "Locator/ID Separation Protocol Delegated Database Tree (LISP-DDT) Referral Internet Groper (RIG)", RFC 8112, DOI 10.17487/RFC8112, May 2017, <https://www.rfc-editor.org/info/rfc8112>.

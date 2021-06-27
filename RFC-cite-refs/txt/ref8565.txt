@@ -1,0 +1,1 @@
+Fokschaner, E., "Hypertext Jeopardy Protocol (HTJP/1.0)", RFC 8565, DOI 10.17487/RFC8565, April 1 2019, <https://www.rfc-editor.org/info/rfc8565>.

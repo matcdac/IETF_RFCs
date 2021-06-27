@@ -1,0 +1,1 @@
+Rzewski, P., Day, M., and D. Gilletti, "Content Internetworking (CDI) Scenarios", RFC 3570, DOI 10.17487/RFC3570, July 2003, <https://www.rfc-editor.org/info/rfc3570>.

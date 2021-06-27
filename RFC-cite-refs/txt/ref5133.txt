@@ -1,0 +1,1 @@
+Tuexen, M. and K. Morneault, "Terminal Endpoint Identifier (TEI) Query Request Number Change", RFC 5133, DOI 10.17487/RFC5133, December 2007, <https://www.rfc-editor.org/info/rfc5133>.

@@ -1,0 +1,1 @@
+Guy, E. and K. Darilion, "IANA Registration for Enumservice 'iax'", RFC 6315, DOI 10.17487/RFC6315, July 2011, <https://www.rfc-editor.org/info/rfc6315>.

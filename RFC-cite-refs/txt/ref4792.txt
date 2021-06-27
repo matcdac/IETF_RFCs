@@ -1,0 +1,1 @@
+Legg, S., "Encoding Instructions for the Generic String Encoding Rules (GSER)", RFC 4792, DOI 10.17487/RFC4792, January 2007, <https://www.rfc-editor.org/info/rfc4792>.

@@ -1,0 +1,1 @@
+Lee, J., Lee, J., Kim, J., Kwon, D., and C. Kim, "A Description of the ARIA Encryption Algorithm", RFC 5794, DOI 10.17487/RFC5794, March 2010, <https://www.rfc-editor.org/info/rfc5794>.

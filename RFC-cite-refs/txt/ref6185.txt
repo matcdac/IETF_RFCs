@@ -1,0 +1,1 @@
+Kristensen, T. and P. Luthi, "RTP Payload Format for H.264 Reduced-Complexity Decoding Operation (RCDO) Video", RFC 6185, DOI 10.17487/RFC6185, May 2011, <https://www.rfc-editor.org/info/rfc6185>.

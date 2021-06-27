@@ -1,0 +1,1 @@
+Bressler, R. and R. Thomas, "Inter-Entity Communication - an experiment", RFC 441, DOI 10.17487/RFC0441, January 1973, <https://www.rfc-editor.org/info/rfc441>.

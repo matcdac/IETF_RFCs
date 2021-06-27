@@ -1,0 +1,1 @@
+Morin, T., Ed., "Requirements for Multicast in Layer 3 Provider-Provisioned Virtual Private Networks (PPVPNs)", RFC 4834, DOI 10.17487/RFC4834, April 2007, <https://www.rfc-editor.org/info/rfc4834>.

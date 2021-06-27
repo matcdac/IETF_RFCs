@@ -1,0 +1,1 @@
+Francis, P., "Pip Near-term Architecture", RFC 1621, DOI 10.17487/RFC1621, May 1994, <https://www.rfc-editor.org/info/rfc1621>.

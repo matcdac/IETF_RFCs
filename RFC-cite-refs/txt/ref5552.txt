@@ -1,0 +1,1 @@
+Burke, D. and M. Scott, "SIP Interface to VoiceXML Media Services", RFC 5552, DOI 10.17487/RFC5552, May 2009, <https://www.rfc-editor.org/info/rfc5552>.

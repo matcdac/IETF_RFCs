@@ -1,0 +1,1 @@
+Rogers, C., "Suggested Additional MIME Types for Associating Documents", RFC 1927, DOI 10.17487/RFC1927, April 1 1996, <https://www.rfc-editor.org/info/rfc1927>.

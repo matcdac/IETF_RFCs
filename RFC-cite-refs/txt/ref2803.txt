@@ -1,0 +1,1 @@
+Maruyama, H., Tamura, K., and N. Uramoto, "Digest Values for DOM (DOMHASH)", RFC 2803, DOI 10.17487/RFC2803, April 2000, <https://www.rfc-editor.org/info/rfc2803>.

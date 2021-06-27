@@ -1,0 +1,1 @@
+Brown, C. and A. Malis, "Multiprotocol Interconnect over Frame Relay", STD 55, RFC 2427, DOI 10.17487/RFC2427, September 1998, <https://www.rfc-editor.org/info/rfc2427>.

@@ -1,0 +1,1 @@
+Wasserman, M. and P. Seite, "Current Practices for Multiple-Interface Hosts", RFC 6419, DOI 10.17487/RFC6419, November 2011, <https://www.rfc-editor.org/info/rfc6419>.

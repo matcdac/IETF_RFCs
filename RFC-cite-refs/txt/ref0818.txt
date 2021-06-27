@@ -1,0 +1,1 @@
+Postel, J., "Remote User Telnet service", RFC 818, DOI 10.17487/RFC0818, November 1982, <https://www.rfc-editor.org/info/rfc818>.

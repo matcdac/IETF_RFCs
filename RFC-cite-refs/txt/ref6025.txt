@@ -1,0 +1,1 @@
+Wallace, C. and C. Gardiner, "ASN.1 Translation", RFC 6025, DOI 10.17487/RFC6025, October 2010, <https://www.rfc-editor.org/info/rfc6025>.

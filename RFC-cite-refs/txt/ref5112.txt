@@ -1,0 +1,1 @@
+Garcia-Martin, M., "The Presence-Specific Static Dictionary for Signaling Compression (Sigcomp)", RFC 5112, DOI 10.17487/RFC5112, January 2008, <https://www.rfc-editor.org/info/rfc5112>.

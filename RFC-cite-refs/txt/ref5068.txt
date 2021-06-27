@@ -1,0 +1,1 @@
+Hutzler, C., Crocker, D., Resnick, P., Allman, E., and T. Finch, "Email Submission Operations: Access and Accountability Requirements", BCP 134, RFC 5068, DOI 10.17487/RFC5068, November 2007, <https://www.rfc-editor.org/info/rfc5068>.

@@ -1,0 +1,1 @@
+Johansson, F. and T. Johansson, "Mobile IPv4 Extension for Carrying Network Access Identifiers", RFC 3846, DOI 10.17487/RFC3846, June 2004, <https://www.rfc-editor.org/info/rfc3846>.

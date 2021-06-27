@@ -1,0 +1,1 @@
+Zhang, Y. and N. Zong, "Problem Statement and Requirements of the Peer-to-Peer Streaming Protocol (PPSP)", RFC 6972, DOI 10.17487/RFC6972, July 2013, <https://www.rfc-editor.org/info/rfc6972>.

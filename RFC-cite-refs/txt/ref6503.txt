@@ -1,0 +1,1 @@
+Barnes, M., Boulton, C., Romano, S., and H. Schulzrinne, "Centralized Conferencing Manipulation Protocol", RFC 6503, DOI 10.17487/RFC6503, March 2012, <https://www.rfc-editor.org/info/rfc6503>.

@@ -1,0 +1,1 @@
+Cheng, B. and L. Berger, Ed., "Dynamic Link Exchange Protocol (DLEP) Latency Range Extension", RFC 8757, DOI 10.17487/RFC8757, March 2020, <https://www.rfc-editor.org/info/rfc8757>.

@@ -1,0 +1,1 @@
+Henderson, T., Nikander, P., and M. Komu, "Using the Host Identity Protocol with Legacy Applications", RFC 5338, DOI 10.17487/RFC5338, September 2008, <https://www.rfc-editor.org/info/rfc5338>.

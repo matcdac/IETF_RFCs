@@ -1,0 +1,1 @@
+Burnett, D. and S. Shanmugham, "Media Resource Control Protocol Version 2 (MRCPv2)", RFC 6787, DOI 10.17487/RFC6787, November 2012, <https://www.rfc-editor.org/info/rfc6787>.

@@ -1,0 +1,1 @@
+DeSanti, C., Gaonkar, V., McCloghrie, K., and S. Gai, "MIB for Fibre Channel's Fabric Shortest Path First (FSPF) Protocol", RFC 4626, DOI 10.17487/RFC4626, September 2006, <https://www.rfc-editor.org/info/rfc4626>.

@@ -1,0 +1,1 @@
+Chen, E. and S. Sangli, "Avoid BGP Best Path Transitions from One External to Another", RFC 5004, DOI 10.17487/RFC5004, September 2007, <https://www.rfc-editor.org/info/rfc5004>.

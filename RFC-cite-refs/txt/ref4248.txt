@@ -1,0 +1,1 @@
+Hoffman, P., "The telnet URI Scheme", RFC 4248, DOI 10.17487/RFC4248, October 2005, <https://www.rfc-editor.org/info/rfc4248>.

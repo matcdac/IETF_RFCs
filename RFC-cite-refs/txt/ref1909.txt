@@ -1,0 +1,1 @@
+McCloghrie, K., Ed., "An Administrative Infrastructure for SNMPv2", RFC 1909, DOI 10.17487/RFC1909, February 1996, <https://www.rfc-editor.org/info/rfc1909>.

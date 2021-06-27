@@ -1,0 +1,1 @@
+Garcia-Martin, M., Veikkolainen, S., and R. Gilman, "Miscellaneous Capabilities Negotiation in the Session Description Protocol (SDP)", RFC 7006, DOI 10.17487/RFC7006, September 2013, <https://www.rfc-editor.org/info/rfc7006>.

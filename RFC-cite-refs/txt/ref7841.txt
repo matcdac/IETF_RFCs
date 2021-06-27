@@ -1,0 +1,1 @@
+Halpern, J., Ed., Daigle, L., Ed., and O. Kolkman, Ed., "RFC Streams, Headers, and Boilerplates", RFC 7841, DOI 10.17487/RFC7841, May 2016, <https://www.rfc-editor.org/info/rfc7841>.

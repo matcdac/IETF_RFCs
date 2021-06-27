@@ -1,0 +1,1 @@
+Heafner, J. and E. Harslem, "Service center standards for remote usage: A user's view", RFC 231, DOI 10.17487/RFC0231, September 1971, <https://www.rfc-editor.org/info/rfc231>.

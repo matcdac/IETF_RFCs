@@ -1,0 +1,1 @@
+Eastlake 3rd, D., Umair, M., and Y. Li, "Transparent Interconnection of Lots of Links (TRILL): RBridge Channel Header Extension", RFC 7978, DOI 10.17487/RFC7978, September 2016, <https://www.rfc-editor.org/info/rfc7978>.

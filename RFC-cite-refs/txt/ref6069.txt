@@ -1,0 +1,1 @@
+Zimmermann, A. and A. Hannemann, "Making TCP More Robust to Long Connectivity Disruptions (TCP-LCD)", RFC 6069, DOI 10.17487/RFC6069, December 2010, <https://www.rfc-editor.org/info/rfc6069>.

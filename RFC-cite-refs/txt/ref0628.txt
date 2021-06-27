@@ -1,0 +1,1 @@
+Keeney, M., "Status of RFC numbers and a note on pre-assigned journal numbers", RFC 628, DOI 10.17487/RFC0628, March 1974, <https://www.rfc-editor.org/info/rfc628>.

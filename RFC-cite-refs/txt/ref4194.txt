@@ -1,0 +1,1 @@
+Strombergson, J., Walleij, L., and P. Faltstrom, "The S Hexdump Format", RFC 4194, DOI 10.17487/RFC4194, October 2005, <https://www.rfc-editor.org/info/rfc4194>.

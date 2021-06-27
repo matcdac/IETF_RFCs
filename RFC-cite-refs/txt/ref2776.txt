@@ -1,0 +1,1 @@
+Handley, M., Thaler, D., and R. Kermode, "Multicast-Scope Zone Announcement Protocol (MZAP)", RFC 2776, DOI 10.17487/RFC2776, February 2000, <https://www.rfc-editor.org/info/rfc2776>.

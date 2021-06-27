@@ -1,0 +1,1 @@
+Johansson, L., "An IANA Registry for Level of Assurance (LoA) Profiles", RFC 6711, DOI 10.17487/RFC6711, August 2012, <https://www.rfc-editor.org/info/rfc6711>.

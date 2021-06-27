@@ -1,0 +1,1 @@
+Petrie, C. and T. King, "Multi-Threaded Routing Toolkit (MRT) Routing Information Export Format with BGP Additional Path Extensions", RFC 8050, DOI 10.17487/RFC8050, May 2017, <https://www.rfc-editor.org/info/rfc8050>.

@@ -1,0 +1,1 @@
+Yi, J. and B. Parrein, "Multipath Extension for the Optimized Link State Routing Protocol Version 2 (OLSRv2)", RFC 8218, DOI 10.17487/RFC8218, August 2017, <https://www.rfc-editor.org/info/rfc8218>.

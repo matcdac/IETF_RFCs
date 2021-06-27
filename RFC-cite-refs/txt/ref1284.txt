@@ -1,0 +1,1 @@
+Cook, J., Ed., "Definitions of Managed Objects for the Ethernet-like Interface Types", RFC 1284, DOI 10.17487/RFC1284, December 1991, <https://www.rfc-editor.org/info/rfc1284>.

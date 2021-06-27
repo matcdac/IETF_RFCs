@@ -1,0 +1,1 @@
+Farrel, A., "Applicability Statement for Restart Mechanisms for the Label Distribution Protocol (LDP)", RFC 3612, DOI 10.17487/RFC3612, September 2003, <https://www.rfc-editor.org/info/rfc3612>.

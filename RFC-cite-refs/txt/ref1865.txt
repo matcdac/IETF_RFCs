@@ -1,0 +1,1 @@
+Houser, W., Griffin, J., and C. Hage, "EDI Meets the Internet Frequently Asked Questions about Electronic Data Interchange (EDI) on the Internet", RFC 1865, DOI 10.17487/RFC1865, January 1996, <https://www.rfc-editor.org/info/rfc1865>.

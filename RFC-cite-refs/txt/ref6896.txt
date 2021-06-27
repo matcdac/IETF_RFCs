@@ -1,0 +1,1 @@
+Barbato, S., Dorigotti, S., and T. Fossati, Ed., "SCS: KoanLogic's Secure Cookie Sessions for HTTP", RFC 6896, DOI 10.17487/RFC6896, March 2013, <https://www.rfc-editor.org/info/rfc6896>.

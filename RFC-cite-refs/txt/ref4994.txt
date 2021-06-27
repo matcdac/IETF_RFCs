@@ -1,0 +1,1 @@
+Zeng, S., Volz, B., Kinnear, K., and J. Brzozowski, "DHCPv6 Relay Agent Echo Request Option", RFC 4994, DOI 10.17487/RFC4994, September 2007, <https://www.rfc-editor.org/info/rfc4994>.

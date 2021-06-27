@@ -1,0 +1,1 @@
+Gont, F. and C. Pignataro, "Formally Deprecating Some ICMPv4 Message Types", RFC 6918, DOI 10.17487/RFC6918, April 2013, <https://www.rfc-editor.org/info/rfc6918>.

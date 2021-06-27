@@ -1,0 +1,1 @@
+Bakke, M., "String Profile for Internet Small Computer Systems Interface (iSCSI) Names", RFC 3722, DOI 10.17487/RFC3722, April 2004, <https://www.rfc-editor.org/info/rfc3722>.

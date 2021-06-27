@@ -1,0 +1,1 @@
+Moriarty, K. and M. Ford, "Coordinating Attack Response at Internet Scale (CARIS) Workshop Report", RFC 8073, DOI 10.17487/RFC8073, March 2017, <https://www.rfc-editor.org/info/rfc8073>.

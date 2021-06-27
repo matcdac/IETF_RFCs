@@ -1,0 +1,1 @@
+Boulton, C., Rosenberg, J., Camarillo, G., and F. Audet, "NAT Traversal Practices for Client-Server SIP", RFC 6314, DOI 10.17487/RFC6314, July 2011, <https://www.rfc-editor.org/info/rfc6314>.

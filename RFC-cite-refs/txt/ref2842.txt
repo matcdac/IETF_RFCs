@@ -1,0 +1,1 @@
+Chandra, R. and J. Scudder, "Capabilities Advertisement with BGP-4", RFC 2842, DOI 10.17487/RFC2842, May 2000, <https://www.rfc-editor.org/info/rfc2842>.

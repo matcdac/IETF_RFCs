@@ -1,0 +1,1 @@
+Harold, W., "Using Extensible Markup Language-Remote Procedure Calling (XML-RPC) in Blocks Extensible Exchange Protocol (BEEP)", RFC 3529, DOI 10.17487/RFC3529, April 2003, <https://www.rfc-editor.org/info/rfc3529>.

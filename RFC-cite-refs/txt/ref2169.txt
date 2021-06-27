@@ -1,0 +1,1 @@
+Daniel, R., "A Trivial Convention for using HTTP in URN Resolution", RFC 2169, DOI 10.17487/RFC2169, June 1997, <https://www.rfc-editor.org/info/rfc2169>.

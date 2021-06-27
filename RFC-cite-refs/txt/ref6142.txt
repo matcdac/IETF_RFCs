@@ -1,0 +1,1 @@
+Moise, A. and J. Brodkin, "ANSI C12.22, IEEE 1703, and MC12.22 Transport Over IP", RFC 6142, DOI 10.17487/RFC6142, March 2011, <https://www.rfc-editor.org/info/rfc6142>.

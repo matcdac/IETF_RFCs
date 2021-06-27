@@ -1,0 +1,1 @@
+Everhart, C., Mamakos, L., Ullmann, R., and P. Mockapetris, "New DNS RR Definitions", RFC 1183, DOI 10.17487/RFC1183, October 1990, <https://www.rfc-editor.org/info/rfc1183>.

@@ -1,0 +1,1 @@
+Curran, J. and A. Marine, "Privacy and Accuracy Issues in Network Information Center Databases", FYI 15, RFC 1355, DOI 10.17487/RFC1355, August 1992, <https://www.rfc-editor.org/info/rfc1355>.

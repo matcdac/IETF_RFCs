@@ -1,0 +1,1 @@
+Leiba, B. and M. Haardt, "Sieve Notification Mechanism: mailto", RFC 5436, DOI 10.17487/RFC5436, January 2009, <https://www.rfc-editor.org/info/rfc5436>.

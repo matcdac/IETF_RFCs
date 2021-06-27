@@ -1,0 +1,1 @@
+Crispin, M., "Internet Message Access Protocol - Version 4rev1", RFC 2060, DOI 10.17487/RFC2060, December 1996, <https://www.rfc-editor.org/info/rfc2060>.

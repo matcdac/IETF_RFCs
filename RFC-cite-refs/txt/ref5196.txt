@@ -1,0 +1,1 @@
+Lonnfors, M. and K. Kiss, "Session Initiation Protocol (SIP) User Agent Capability Extension to Presence Information Data Format (PIDF)", RFC 5196, DOI 10.17487/RFC5196, September 2008, <https://www.rfc-editor.org/info/rfc5196>.

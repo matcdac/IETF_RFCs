@@ -1,0 +1,1 @@
+Eronen, P., Laganier, J., and C. Madson, "IPv6 Configuration in Internet Key Exchange Protocol Version 2 (IKEv2)", RFC 5739, DOI 10.17487/RFC5739, February 2010, <https://www.rfc-editor.org/info/rfc5739>.

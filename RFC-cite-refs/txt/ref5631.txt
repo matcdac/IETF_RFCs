@@ -1,0 +1,1 @@
+Shacham, R., Schulzrinne, H., Thakolsri, S., and W. Kellerer, "Session Initiation Protocol (SIP) Session Mobility", RFC 5631, DOI 10.17487/RFC5631, October 2009, <https://www.rfc-editor.org/info/rfc5631>.

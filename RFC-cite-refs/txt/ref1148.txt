@@ -1,0 +1,1 @@
+Kille, S., "Mapping between X.400(1988) / ISO 10021 and RFC 822", RFC 1148, DOI 10.17487/RFC1148, March 1990, <https://www.rfc-editor.org/info/rfc1148>.

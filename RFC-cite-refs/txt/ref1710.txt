@@ -1,0 +1,1 @@
+Hinden, R., "Simple Internet Protocol Plus White Paper", RFC 1710, DOI 10.17487/RFC1710, October 1994, <https://www.rfc-editor.org/info/rfc1710>.

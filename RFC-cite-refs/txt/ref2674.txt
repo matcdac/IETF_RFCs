@@ -1,0 +1,1 @@
+Bell, E., Smith, A., Langille, P., Rijhsinghani, A., and K. McCloghrie, "Definitions of Managed Objects for Bridges with Traffic Classes, Multicast Filtering and Virtual LAN Extensions", RFC 2674, DOI 10.17487/RFC2674, August 1999, <https://www.rfc-editor.org/info/rfc2674>.

@@ -1,0 +1,1 @@
+Boucadair, M. and C. Jacquenet, "Locator/ID Separation Protocol (LISP): Shared Extension Message & IANA Registry for Packet Type Allocations", RFC 8113, DOI 10.17487/RFC8113, March 2017, <https://www.rfc-editor.org/info/rfc8113>.

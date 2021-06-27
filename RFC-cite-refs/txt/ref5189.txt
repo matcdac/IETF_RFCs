@@ -1,0 +1,1 @@
+Stiemerling, M., Quittek, J., and T. Taylor, "Middlebox Communication (MIDCOM) Protocol Semantics", RFC 5189, DOI 10.17487/RFC5189, March 2008, <https://www.rfc-editor.org/info/rfc5189>.

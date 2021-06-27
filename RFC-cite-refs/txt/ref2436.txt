@@ -1,0 +1,1 @@
+Brett, R., Bradner, S., and G. Parsons, "Collaboration between ISOC/IETF and ITU-T", RFC 2436, DOI 10.17487/RFC2436, October 1998, <https://www.rfc-editor.org/info/rfc2436>.

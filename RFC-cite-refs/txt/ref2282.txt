@@ -1,0 +1,1 @@
+Galvin, J., "IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees", RFC 2282, DOI 10.17487/RFC2282, February 1998, <https://www.rfc-editor.org/info/rfc2282>.

@@ -1,0 +1,1 @@
+Gomez, C., Crowcroft, J., and M. Scharf, "TCP Usage Guidance in the Internet of Things (IoT)", RFC 9006, DOI 10.17487/RFC9006, March 2021, <https://www.rfc-editor.org/info/rfc9006>.

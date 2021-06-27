@@ -1,0 +1,1 @@
+Adamson, A. and N. Williams, "Requirements for NFSv4 Multi-Domain Namespace Deployment", RFC 8000, DOI 10.17487/RFC8000, November 2016, <https://www.rfc-editor.org/info/rfc8000>.

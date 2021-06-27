@@ -1,0 +1,1 @@
+Valmikam, R. and R. Koodli, "Extensible Authentication Protocol (EAP) Attributes for Wi-Fi Integration with the Evolved Packet Core", RFC 7458, DOI 10.17487/RFC7458, February 2015, <https://www.rfc-editor.org/info/rfc7458>.

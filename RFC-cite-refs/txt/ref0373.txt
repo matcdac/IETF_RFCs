@@ -1,0 +1,1 @@
+McCarthy, J., "Arbitrary Character Sets", RFC 373, DOI 10.17487/RFC0373, July 1972, <https://www.rfc-editor.org/info/rfc373>.

@@ -1,0 +1,1 @@
+Wold, J., "Advertising Digital Identifier (Ad-ID) URN Namespace Definition", RFC 8107, DOI 10.17487/RFC8107, March 2017, <https://www.rfc-editor.org/info/rfc8107>.

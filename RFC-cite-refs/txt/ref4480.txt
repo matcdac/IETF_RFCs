@@ -1,0 +1,1 @@
+Schulzrinne, H., Gurbani, V., Kyzivat, P., and J. Rosenberg, "RPID: Rich Presence Extensions to the Presence Information Data Format (PIDF)", RFC 4480, DOI 10.17487/RFC4480, July 2006, <https://www.rfc-editor.org/info/rfc4480>.

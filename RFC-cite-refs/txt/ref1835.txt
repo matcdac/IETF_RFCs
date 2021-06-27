@@ -1,0 +1,1 @@
+Deutsch, P., Schoultz, R., Faltstrom, P., and C. Weider, "Architecture of the WHOIS++ service", RFC 1835, DOI 10.17487/RFC1835, August 1995, <https://www.rfc-editor.org/info/rfc1835>.

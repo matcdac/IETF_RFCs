@@ -1,0 +1,1 @@
+Petrucci, C., Gennai, F., Shahin, A., and A. Vinciarelli, "La Posta Elettronica Certificata - Italian Certified Electronic Mail", RFC 6109, DOI 10.17487/RFC6109, April 2011, <https://www.rfc-editor.org/info/rfc6109>.

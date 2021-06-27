@@ -1,0 +1,1 @@
+Kato, A., Moriai, S., and M. Kanda, "The Camellia Cipher Algorithm and Its Use With IPsec", RFC 4312, DOI 10.17487/RFC4312, December 2005, <https://www.rfc-editor.org/info/rfc4312>.

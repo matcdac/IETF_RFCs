@@ -1,0 +1,1 @@
+Korhonen, J., Ed., Tschofenig, H., and E. Davies, "Quality of Service Parameters for Usage with Diameter", RFC 5624, DOI 10.17487/RFC5624, August 2009, <https://www.rfc-editor.org/info/rfc5624>.

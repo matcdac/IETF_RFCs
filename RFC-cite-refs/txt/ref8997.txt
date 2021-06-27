@@ -1,0 +1,1 @@
+Velvindron, L. and S. Farrell, "Deprecation of TLS 1.1 for Email Submission and Access", RFC 8997, DOI 10.17487/RFC8997, March 2021, <https://www.rfc-editor.org/info/rfc8997>.

@@ -1,0 +1,1 @@
+Klensin, J., "SMTP 521 and 556 Reply Codes", RFC 7504, DOI 10.17487/RFC7504, June 2015, <https://www.rfc-editor.org/info/rfc7504>.

@@ -1,0 +1,1 @@
+Hilt, V., Camarillo, G., and J. Rosenberg, "A Framework for Session Initiation Protocol (SIP) Session Policies", RFC 6794, DOI 10.17487/RFC6794, December 2012, <https://www.rfc-editor.org/info/rfc6794>.

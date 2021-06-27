@@ -1,0 +1,1 @@
+Klensin, J., "National and Local Characters for DNS Top Level Domain (TLD) Names", RFC 4185, DOI 10.17487/RFC4185, October 2005, <https://www.rfc-editor.org/info/rfc4185>.

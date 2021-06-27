@@ -1,0 +1,1 @@
+Hollenbeck, S., "Extensible Provisioning Protocol (EPP) Host Mapping", RFC 3732, DOI 10.17487/RFC3732, March 2004, <https://www.rfc-editor.org/info/rfc3732>.

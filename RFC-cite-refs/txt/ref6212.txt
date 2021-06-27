@@ -1,0 +1,1 @@
+Kucherawy, M., "Authentication-Results Registration for Vouch by Reference Results", RFC 6212, DOI 10.17487/RFC6212, April 2011, <https://www.rfc-editor.org/info/rfc6212>.

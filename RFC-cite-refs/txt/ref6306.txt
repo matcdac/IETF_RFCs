@@ -1,0 +1,1 @@
+Frejborg, P., "Hierarchical IPv4 Framework", RFC 6306, DOI 10.17487/RFC6306, July 2011, <https://www.rfc-editor.org/info/rfc6306>.

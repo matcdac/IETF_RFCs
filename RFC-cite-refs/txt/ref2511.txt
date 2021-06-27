@@ -1,0 +1,1 @@
+Myers, M., Adams, C., Solo, D., and D. Kemp, "Internet X.509 Certificate Request Message Format", RFC 2511, DOI 10.17487/RFC2511, March 1999, <https://www.rfc-editor.org/info/rfc2511>.

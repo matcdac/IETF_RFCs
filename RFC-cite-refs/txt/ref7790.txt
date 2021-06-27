@@ -1,0 +1,1 @@
+Yoneya, Y. and T. Nemoto, "Mapping Characters for Classes of the Preparation, Enforcement, and Comparison of Internationalized Strings (PRECIS)", RFC 7790, DOI 10.17487/RFC7790, February 2016, <https://www.rfc-editor.org/info/rfc7790>.

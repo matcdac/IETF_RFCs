@@ -1,0 +1,1 @@
+Adams, C. and J. Gilchrist, "The CAST-256 Encryption Algorithm", RFC 2612, DOI 10.17487/RFC2612, June 1999, <https://www.rfc-editor.org/info/rfc2612>.

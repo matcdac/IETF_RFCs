@@ -1,0 +1,1 @@
+Lear, E., Fair, E., Crocker, D., and T. Kessler, "Network 10 Considered Harmful (Some Practices Shouldn't be Codified)", RFC 1627, DOI 10.17487/RFC1627, July 1994, <https://www.rfc-editor.org/info/rfc1627>.

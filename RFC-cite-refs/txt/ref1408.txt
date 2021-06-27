@@ -1,0 +1,1 @@
+Borman, D., Ed., "Telnet Environment Option", RFC 1408, DOI 10.17487/RFC1408, January 1993, <https://www.rfc-editor.org/info/rfc1408>.

@@ -1,0 +1,1 @@
+McCloghrie, K., Ed., "SNMPv2 Management Information Base for the Internet Protocol using SMIv2", RFC 2011, DOI 10.17487/RFC2011, November 1996, <https://www.rfc-editor.org/info/rfc2011>.

@@ -1,0 +1,1 @@
+Bergman, R., Lewis, H., and I. McDonald, "Printer Finishing MIB", RFC 3806, DOI 10.17487/RFC3806, June 2004, <https://www.rfc-editor.org/info/rfc3806>.

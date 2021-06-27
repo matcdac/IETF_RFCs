@@ -1,0 +1,1 @@
+McKay, D., "Data Management System Proposal for the ARPA Network", RFC 304, DOI 10.17487/RFC0304, February 1972, <https://www.rfc-editor.org/info/rfc304>.

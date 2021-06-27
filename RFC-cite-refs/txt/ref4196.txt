@@ -1,0 +1,1 @@
+Lee, H., Yoon, J., Lee, S., and J. Lee, "The SEED Cipher Algorithm and Its Use with IPsec", RFC 4196, DOI 10.17487/RFC4196, October 2005, <https://www.rfc-editor.org/info/rfc4196>.

@@ -1,0 +1,1 @@
+Pickens, J., Feinler, E., and J. Mathis, "NIC name server - a datagram-based information utility", RFC 756, DOI 10.17487/RFC0756, July 1979, <https://www.rfc-editor.org/info/rfc756>.

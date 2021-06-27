@@ -1,0 +1,1 @@
+Ito, T. and S. Turner, "Clarifications for Elliptic Curve Cryptography Subject Public Key Information", RFC 8813, DOI 10.17487/RFC8813, August 2020, <https://www.rfc-editor.org/info/rfc8813>.

@@ -1,0 +1,1 @@
+Fujisawa, K., "DHCP for IEEE 1394", RFC 2855, DOI 10.17487/RFC2855, June 2000, <https://www.rfc-editor.org/info/rfc2855>.

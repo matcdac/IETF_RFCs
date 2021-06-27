@@ -1,0 +1,1 @@
+Vaudreuil, G. and G. Parsons, "Content Duration MIME Header Definition", RFC 3803, DOI 10.17487/RFC3803, June 2004, <https://www.rfc-editor.org/info/rfc3803>.

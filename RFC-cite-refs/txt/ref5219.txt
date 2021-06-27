@@ -1,0 +1,1 @@
+Finlayson, R., "A More Loss-Tolerant RTP Payload Format for MP3 Audio", RFC 5219, DOI 10.17487/RFC5219, February 2008, <https://www.rfc-editor.org/info/rfc5219>.

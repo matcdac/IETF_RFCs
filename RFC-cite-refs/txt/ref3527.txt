@@ -1,0 +1,1 @@
+Kinnear, K., Stapp, M., Johnson, R., and J. Kumarasamy, "Link Selection sub-option for the Relay Agent Information Option for DHCPv4", RFC 3527, DOI 10.17487/RFC3527, April 2003, <https://www.rfc-editor.org/info/rfc3527>.

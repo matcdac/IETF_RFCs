@@ -1,0 +1,1 @@
+Mohali, M., "Mapping and Interworking of Diversion Information between Diversion and History-Info Header Fields in the Session Initiation Protocol (SIP)", RFC 7544, DOI 10.17487/RFC7544, August 2015, <https://www.rfc-editor.org/info/rfc7544>.

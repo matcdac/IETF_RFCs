@@ -1,0 +1,1 @@
+Shiomoto, K., Papneja, R., and R. Rabbat, "Use of Addresses in Generalized Multiprotocol Label Switching (GMPLS) Networks", RFC 4990, DOI 10.17487/RFC4990, September 2007, <https://www.rfc-editor.org/info/rfc4990>.

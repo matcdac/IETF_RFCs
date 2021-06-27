@@ -1,0 +1,1 @@
+Zuniga, JC., Contreras, LM., Bernardos, CJ., Jeon, S., and Y. Kim, "Multicast Mobility Routing Optimizations for Proxy Mobile IPv6", RFC 7028, DOI 10.17487/RFC7028, September 2013, <https://www.rfc-editor.org/info/rfc7028>.

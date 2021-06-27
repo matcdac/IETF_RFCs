@@ -1,0 +1,1 @@
+Livingood, J. and R. Shockey, "IANA Registration for an Enumservice Containing Public Switched Telephone Network (PSTN) Signaling Information", RFC 4769, DOI 10.17487/RFC4769, November 2006, <https://www.rfc-editor.org/info/rfc4769>.

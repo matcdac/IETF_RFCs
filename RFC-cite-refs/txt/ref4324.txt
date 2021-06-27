@@ -1,0 +1,1 @@
+Royer, D., Babics, G., and S. Mansour, "Calendar Access Protocol (CAP)", RFC 4324, DOI 10.17487/RFC4324, December 2005, <https://www.rfc-editor.org/info/rfc4324>.

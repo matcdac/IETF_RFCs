@@ -1,0 +1,1 @@
+Schulzrinne, H. and T. Taylor, "Definition of Events for Channel-Oriented Telephony Signalling", RFC 5244, DOI 10.17487/RFC5244, June 2008, <https://www.rfc-editor.org/info/rfc5244>.

@@ -1,0 +1,1 @@
+Santoni, A., "The application/timestamped-data Media Type", RFC 5955, DOI 10.17487/RFC5955, August 2010, <https://www.rfc-editor.org/info/rfc5955>.

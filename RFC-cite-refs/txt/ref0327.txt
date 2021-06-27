@@ -1,0 +1,1 @@
+Bhushan, A., "Data and File Transfer workshop notes", RFC 327, DOI 10.17487/RFC0327, April 1972, <https://www.rfc-editor.org/info/rfc327>.

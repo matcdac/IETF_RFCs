@@ -1,0 +1,1 @@
+Slein, J., Vitali, F., Whitehead, E., and D. Durand, "Requirements for a Distributed Authoring and Versioning Protocol for the World Wide Web", RFC 2291, DOI 10.17487/RFC2291, February 1998, <https://www.rfc-editor.org/info/rfc2291>.

@@ -1,0 +1,1 @@
+Sakane, S. and M. Ishiyama, "Kerberos Options for DHCPv6", RFC 6784, DOI 10.17487/RFC6784, November 2012, <https://www.rfc-editor.org/info/rfc6784>.

@@ -1,0 +1,1 @@
+Yan, Z., Lee, J., and X. Lee, "Home Network Prefix Renumbering in Proxy Mobile IPv6 (PMIPv6)", RFC 8191, DOI 10.17487/RFC8191, August 2017, <https://www.rfc-editor.org/info/rfc8191>.

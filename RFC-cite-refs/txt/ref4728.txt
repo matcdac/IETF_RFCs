@@ -1,0 +1,1 @@
+Johnson, D., Hu, Y., and D. Maltz, "The Dynamic Source Routing Protocol (DSR) for Mobile Ad Hoc Networks for IPv4", RFC 4728, DOI 10.17487/RFC4728, February 2007, <https://www.rfc-editor.org/info/rfc4728>.

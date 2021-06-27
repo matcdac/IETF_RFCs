@@ -1,0 +1,1 @@
+Brownlee, N., Ed., and B. Hinden, Ed., "Independent Submission Editor Model", RFC 8730, DOI 10.17487/RFC8730, February 2020, <https://www.rfc-editor.org/info/rfc8730>.

@@ -1,0 +1,1 @@
+Lind, M., Ksinant, V., Park, S., Baudot, A., and P. Savola, "Scenarios and Analysis for Introducing IPv6 into ISP Networks", RFC 4029, DOI 10.17487/RFC4029, March 2005, <https://www.rfc-editor.org/info/rfc4029>.

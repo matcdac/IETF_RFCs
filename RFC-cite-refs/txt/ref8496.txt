@@ -1,0 +1,1 @@
+York, D. and T. Asveren, "P-Charge-Info: A Private Header Field (P-Header) Extension to the Session Initiation Protocol (SIP)", RFC 8496, DOI 10.17487/RFC8496, October 2018, <https://www.rfc-editor.org/info/rfc8496>.

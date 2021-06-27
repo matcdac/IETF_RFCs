@@ -1,0 +1,1 @@
+Klyne, G. and L. McIntyre, "Content Feature Schema for Internet Fax", RFC 2531, DOI 10.17487/RFC2531, March 1999, <https://www.rfc-editor.org/info/rfc2531>.

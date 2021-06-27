@@ -1,0 +1,1 @@
+Shiomoto, K., Ed., "Framework for MPLS-TE to GMPLS Migration", RFC 5145, DOI 10.17487/RFC5145, March 2008, <https://www.rfc-editor.org/info/rfc5145>.

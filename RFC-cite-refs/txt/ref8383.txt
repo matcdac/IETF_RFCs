@@ -1,0 +1,1 @@
+Hao, W., Eastlake 3rd, D., Li, Y., and M. Umair, "Transparent Interconnection of Lots of Links (TRILL): Address Flush Message", RFC 8383, DOI 10.17487/RFC8383, May 2018, <https://www.rfc-editor.org/info/rfc8383>.

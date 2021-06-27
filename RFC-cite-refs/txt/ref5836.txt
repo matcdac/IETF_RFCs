@@ -1,0 +1,1 @@
+Ohba, Y., Ed., Wu, Q., Ed., and G. Zorn, Ed., "Extensible Authentication Protocol (EAP) Early Authentication Problem Statement", RFC 5836, DOI 10.17487/RFC5836, April 2010, <https://www.rfc-editor.org/info/rfc5836>.

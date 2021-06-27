@@ -1,0 +1,1 @@
+Wahl, M., Howes, T., and S. Kille, "Lightweight Directory Access Protocol (v3)", RFC 2251, DOI 10.17487/RFC2251, December 1997, <https://www.rfc-editor.org/info/rfc2251>.

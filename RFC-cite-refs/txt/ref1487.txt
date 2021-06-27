@@ -1,0 +1,1 @@
+Yeong, W., Howes, T., and S. Kille, "X.500 Lightweight Directory Access Protocol", RFC 1487, DOI 10.17487/RFC1487, July 1993, <https://www.rfc-editor.org/info/rfc1487>.

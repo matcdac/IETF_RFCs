@@ -1,0 +1,1 @@
+Howes, T. and M. Smith, "The LDAP URL Format", RFC 2255, DOI 10.17487/RFC2255, December 1997, <https://www.rfc-editor.org/info/rfc2255>.

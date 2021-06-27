@@ -1,0 +1,1 @@
+Kempf, J., Castelluccia, C., Mutaf, P., Nakajima, N., Ohba, Y., Ramjee, R., Saifullah, Y., Sarikaya, B., and X. Xu, "Requirements and Functional Architecture for an IP Host Alerting Protocol", RFC 3154, DOI 10.17487/RFC3154, August 2001, <https://www.rfc-editor.org/info/rfc3154>.

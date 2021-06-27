@@ -1,0 +1,1 @@
+Bryan, A., Tsujikawa, T., McNab, N., and P. Poeml, "The Metalink Download Description Format", RFC 5854, DOI 10.17487/RFC5854, June 2010, <https://www.rfc-editor.org/info/rfc5854>.

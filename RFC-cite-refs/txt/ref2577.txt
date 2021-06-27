@@ -1,0 +1,1 @@
+Allman, M. and S. Ostermann, "FTP Security Considerations", RFC 2577, DOI 10.17487/RFC2577, May 1999, <https://www.rfc-editor.org/info/rfc2577>.

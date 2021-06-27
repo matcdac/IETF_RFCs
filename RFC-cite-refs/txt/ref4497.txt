@@ -1,0 +1,1 @@
+Elwell, J., Derks, F., Mourot, P., and O. Rousseau, "Interworking between the Session Initiation Protocol (SIP) and QSIG", BCP 117, RFC 4497, DOI 10.17487/RFC4497, May 2006, <https://www.rfc-editor.org/info/rfc4497>.

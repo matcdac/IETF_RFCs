@@ -1,0 +1,1 @@
+Sweet, M. and I. McDonald, "Internet Printing Protocol/1.1: Model and Semantics", STD 92, RFC 8011, DOI 10.17487/RFC8011, January 2017, <https://www.rfc-editor.org/info/rfc8011>.

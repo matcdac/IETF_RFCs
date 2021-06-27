@@ -1,0 +1,1 @@
+Townsley, W. and R. da Silva, "Layer 2 Tunneling Protocol (L2TP) Active Discovery Relay for PPP over Ethernet (PPPoE)", RFC 3817, DOI 10.17487/RFC3817, June 2004, <https://www.rfc-editor.org/info/rfc3817>.

@@ -1,0 +1,1 @@
+Barbir, A., Batuner, O., Beck, A., Chan, T., and H. Orman, "Policy, Authorization, and Enforcement Requirements of the Open Pluggable Edge Services (OPES)", RFC 3838, DOI 10.17487/RFC3838, August 2004, <https://www.rfc-editor.org/info/rfc3838>.

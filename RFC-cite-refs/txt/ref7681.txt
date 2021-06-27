@@ -1,0 +1,1 @@
+Davin, J., "Email Exchange of Secondary School Transcripts", RFC 7681, DOI 10.17487/RFC7681, October 2015, <https://www.rfc-editor.org/info/rfc7681>.

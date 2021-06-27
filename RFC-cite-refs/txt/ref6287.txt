@@ -1,0 +1,1 @@
+M'Raihi, D., Rydell, J., Bajaj, S., Machani, S., and D. Naccache, "OCRA: OATH Challenge-Response Algorithm", RFC 6287, DOI 10.17487/RFC6287, June 2011, <https://www.rfc-editor.org/info/rfc6287>.

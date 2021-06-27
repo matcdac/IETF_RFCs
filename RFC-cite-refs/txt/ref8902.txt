@@ -1,0 +1,1 @@
+Msahli, M., Ed., Cam-Winget, N., Ed., Whyte, W., Ed., Serhrouchni, A., and H. Labiod, "TLS Authentication Using Intelligent Transport System (ITS) Certificates", RFC 8902, DOI 10.17487/RFC8902, September 2020, <https://www.rfc-editor.org/info/rfc8902>.

@@ -1,0 +1,1 @@
+Metzger, P. and W. Simpson, "IP Authentication using Keyed SHA", RFC 1852, DOI 10.17487/RFC1852, September 1995, <https://www.rfc-editor.org/info/rfc1852>.

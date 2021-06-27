@@ -1,0 +1,1 @@
+Borenstein, N., "Implications of MIME for Internet Mail Gateways", RFC 1344, DOI 10.17487/RFC1344, June 1992, <https://www.rfc-editor.org/info/rfc1344>.

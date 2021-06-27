@@ -1,0 +1,1 @@
+Srisuresh, P., "Secure Remote Access with L2TP", RFC 2888, DOI 10.17487/RFC2888, August 2000, <https://www.rfc-editor.org/info/rfc2888>.

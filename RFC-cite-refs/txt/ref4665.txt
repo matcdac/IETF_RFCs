@@ -1,0 +1,1 @@
+Augustyn, W., Ed., and Y. Serbest, Ed., "Service Requirements for Layer 2 Provider-Provisioned Virtual Private Networks", RFC 4665, DOI 10.17487/RFC4665, September 2006, <https://www.rfc-editor.org/info/rfc4665>.

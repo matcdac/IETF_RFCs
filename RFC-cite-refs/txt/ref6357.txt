@@ -1,0 +1,1 @@
+Hilt, V., Noel, E., Shen, C., and A. Abdelal, "Design Considerations for Session Initiation Protocol (SIP) Overload Control", RFC 6357, DOI 10.17487/RFC6357, August 2011, <https://www.rfc-editor.org/info/rfc6357>.

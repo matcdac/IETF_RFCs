@@ -1,0 +1,1 @@
+Mankin, A., Ed., Baker, F., Braden, B., Bradner, S., O'Dell, M., Romanow, A., Weinrib, A., and L. Zhang, "Resource ReSerVation Protocol (RSVP) -- Version 1 Applicability Statement Some Guidelines on Deployment", RFC 2208, DOI 10.17487/RFC2208, September 1997, <https://www.rfc-editor.org/info/rfc2208>.

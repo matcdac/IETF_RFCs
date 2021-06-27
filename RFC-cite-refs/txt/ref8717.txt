@@ -1,0 +1,1 @@
+Klensin, J., Ed., "IETF Administrative Support Activity 2.0: Consolidated Updates to IETF Administrative Terminology", BCP 101, RFC 8717, DOI 10.17487/RFC8717, February 2020, <https://www.rfc-editor.org/info/rfc8717>.

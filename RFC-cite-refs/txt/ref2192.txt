@@ -1,0 +1,1 @@
+Newman, C., "IMAP URL Scheme", RFC 2192, DOI 10.17487/RFC2192, September 1997, <https://www.rfc-editor.org/info/rfc2192>.

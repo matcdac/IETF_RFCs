@@ -1,0 +1,1 @@
+Meredith, M., "Storing Vendor Information in the LDAP root DSE", RFC 3045, DOI 10.17487/RFC3045, January 2001, <https://www.rfc-editor.org/info/rfc3045>.

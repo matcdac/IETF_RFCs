@@ -1,0 +1,1 @@
+Loughney, J., Ed., Sidebottom, G., Coene, L., Verwimp, G., Keller, J., and B. Bidulock, "Signalling Connection Control Part User Adaptation Layer (SUA)", RFC 3868, DOI 10.17487/RFC3868, October 2004, <https://www.rfc-editor.org/info/rfc3868>.

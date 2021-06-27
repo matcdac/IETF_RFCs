@@ -1,0 +1,1 @@
+Schaad, J. and R. Housley, "Wrapping a Hashed Message Authentication Code (HMAC) key with a Triple-Data Encryption Standard (DES) Key or an Advanced Encryption Standard (AES) Key", RFC 3537, DOI 10.17487/RFC3537, May 2003, <https://www.rfc-editor.org/info/rfc3537>.

@@ -1,0 +1,1 @@
+Strassner, J., Moore, B., Moats, R., and E. Ellesson, "Policy Core Lightweight Directory Access Protocol (LDAP) Schema", RFC 3703, DOI 10.17487/RFC3703, February 2004, <https://www.rfc-editor.org/info/rfc3703>.

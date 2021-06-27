@@ -1,0 +1,1 @@
+Knowles, S., "IESG Advice from Experience with Path MTU Discovery", RFC 1435, DOI 10.17487/RFC1435, March 1993, <https://www.rfc-editor.org/info/rfc1435>.

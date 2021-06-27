@@ -1,0 +1,1 @@
+Soliman, H., Castelluccia, C., El Malki, K., and L. Bellier, "Hierarchical Mobile IPv6 Mobility Management (HMIPv6)", RFC 4140, DOI 10.17487/RFC4140, August 2005, <https://www.rfc-editor.org/info/rfc4140>.

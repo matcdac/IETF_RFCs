@@ -1,0 +1,1 @@
+Combes, J-M., Krishnan, S., and G. Daley, "Securing Neighbor Discovery Proxy: Problem Statement", RFC 5909, DOI 10.17487/RFC5909, July 2010, <https://www.rfc-editor.org/info/rfc5909>.

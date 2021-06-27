@@ -1,0 +1,1 @@
+Zorn, G., Weber, G., and R. Foltak, "Additional Values for the NAS-Port-Type Attribute", RFC 4603, DOI 10.17487/RFC4603, July 2006, <https://www.rfc-editor.org/info/rfc4603>.

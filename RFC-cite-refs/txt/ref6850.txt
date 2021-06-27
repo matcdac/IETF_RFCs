@@ -1,0 +1,1 @@
+Rijhsinghani, A. and K. Zebrose, "Definitions of Managed Objects for Routing Bridges (RBridges)", RFC 6850, DOI 10.17487/RFC6850, January 2013, <https://www.rfc-editor.org/info/rfc6850>.

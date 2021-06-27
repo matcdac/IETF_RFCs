@@ -1,0 +1,1 @@
+Wakikawa, R., Ed., Devarapalli, V., Tsirtsis, G., Ernst, T., and K. Nagami, "Multiple Care-of Addresses Registration", RFC 5648, DOI 10.17487/RFC5648, October 2009, <https://www.rfc-editor.org/info/rfc5648>.

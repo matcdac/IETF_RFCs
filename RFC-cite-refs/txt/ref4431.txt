@@ -1,0 +1,1 @@
+Andrews, M. and S. Weiler, "The DNSSEC Lookaside Validation (DLV) DNS Resource Record", RFC 4431, DOI 10.17487/RFC4431, February 2006, <https://www.rfc-editor.org/info/rfc4431>.

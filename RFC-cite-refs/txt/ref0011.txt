@@ -1,0 +1,1 @@
+Deloche, G., "Implementation of the Host - Host Software Procedures in GORDO", RFC 11, DOI 10.17487/RFC0011, August 1969, <https://www.rfc-editor.org/info/rfc11>.

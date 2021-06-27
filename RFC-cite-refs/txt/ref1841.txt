@@ -1,0 +1,1 @@
+Chapman, J., Coli, D., Harvey, A., Jensen, B., and K. Rowett, "PPP Network Control Protocol for LAN Extension", RFC 1841, DOI 10.17487/RFC1841, September 1995, <https://www.rfc-editor.org/info/rfc1841>.

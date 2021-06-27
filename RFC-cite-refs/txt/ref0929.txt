@@ -1,0 +1,1 @@
+Lilienkamp, J., Mandell, R., and M. Padlipsky, "Proposed Host-Front End Protocol", RFC 929, DOI 10.17487/RFC0929, December 1984, <https://www.rfc-editor.org/info/rfc929>.

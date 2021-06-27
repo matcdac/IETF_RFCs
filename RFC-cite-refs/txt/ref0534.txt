@@ -1,0 +1,1 @@
+Walden, D., "Lost message detection", RFC 534, DOI 10.17487/RFC0534, July 1973, <https://www.rfc-editor.org/info/rfc534>.

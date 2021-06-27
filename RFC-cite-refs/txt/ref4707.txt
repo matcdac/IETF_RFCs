@@ -1,0 +1,1 @@
+Grau, P., Heinau, V., Schlichting, H., and R. Schuettler, "Netnews Administration System (NAS)", RFC 4707, DOI 10.17487/RFC4707, October 2006, <https://www.rfc-editor.org/info/rfc4707>.

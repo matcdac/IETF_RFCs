@@ -1,0 +1,1 @@
+Mitton, D., "Network Access Servers Requirements: Extended RADIUS Practices", RFC 2882, DOI 10.17487/RFC2882, July 2000, <https://www.rfc-editor.org/info/rfc2882>.

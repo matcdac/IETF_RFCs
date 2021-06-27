@@ -1,0 +1,1 @@
+Yu, J., "Scalable Routing Design Principles", RFC 2791, DOI 10.17487/RFC2791, July 2000, <https://www.rfc-editor.org/info/rfc2791>.

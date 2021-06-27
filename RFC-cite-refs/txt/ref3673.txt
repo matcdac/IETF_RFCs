@@ -1,0 +1,1 @@
+Zeilenga, K., "Lightweight Directory Access Protocol version 3 (LDAPv3): All Operational Attributes", RFC 3673, DOI 10.17487/RFC3673, December 2003, <https://www.rfc-editor.org/info/rfc3673>.

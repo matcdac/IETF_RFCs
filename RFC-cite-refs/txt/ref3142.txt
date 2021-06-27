@@ -1,0 +1,1 @@
+Hagino, J. and K. Yamamoto, "An IPv6-to-IPv4 Transport Relay Translator", RFC 3142, DOI 10.17487/RFC3142, June 2001, <https://www.rfc-editor.org/info/rfc3142>.

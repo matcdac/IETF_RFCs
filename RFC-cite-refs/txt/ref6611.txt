@@ -1,0 +1,1 @@
+Chowdhury, K., Ed., and A. Yegin, "Mobile IPv6 (MIPv6) Bootstrapping for the Integrated Scenario", RFC 6611, DOI 10.17487/RFC6611, May 2012, <https://www.rfc-editor.org/info/rfc6611>.

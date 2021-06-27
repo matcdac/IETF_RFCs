@@ -1,0 +1,1 @@
+Parr, G., "More fault tolerant approach to address resolution for a Multi-LAN system of Ethernets", RFC 1029, DOI 10.17487/RFC1029, May 1988, <https://www.rfc-editor.org/info/rfc1029>.

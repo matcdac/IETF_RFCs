@@ -1,0 +1,1 @@
+Nadeau, T., Martini, L., and S. Bryant, "Using a Generic Associated Channel Label as a Virtual Circuit Connectivity Verification Channel Indicator", RFC 7708, DOI 10.17487/RFC7708, November 2015, <https://www.rfc-editor.org/info/rfc7708>.

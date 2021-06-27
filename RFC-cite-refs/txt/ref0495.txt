@@ -1,0 +1,1 @@
+McKenzie, A., "Telnet Protocol specifications", RFC 495, DOI 10.17487/RFC0495, May 1973, <https://www.rfc-editor.org/info/rfc495>.

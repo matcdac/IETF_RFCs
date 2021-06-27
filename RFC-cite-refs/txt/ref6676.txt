@@ -1,0 +1,1 @@
+Venaas, S., Parekh, R., Van de Velde, G., Chown, T., and M. Eubanks, "Multicast Addresses for Documentation", RFC 6676, DOI 10.17487/RFC6676, August 2012, <https://www.rfc-editor.org/info/rfc6676>.

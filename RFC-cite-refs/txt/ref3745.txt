@@ -1,0 +1,1 @@
+Singer, D., Clark, R., and D. Lee, "MIME Type Registrations for JPEG 2000 (ISO/IEC 15444)", RFC 3745, DOI 10.17487/RFC3745, April 2004, <https://www.rfc-editor.org/info/rfc3745>.

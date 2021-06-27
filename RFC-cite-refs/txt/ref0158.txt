@@ -1,0 +1,1 @@
+O'Sullivan, T., "Telnet Protocol: A Proposed Document", RFC 158, DOI 10.17487/RFC0158, May 1971, <https://www.rfc-editor.org/info/rfc158>.

@@ -1,0 +1,1 @@
+Rey, J. and Y. Matsui, "RTP Payload Format for 3rd Generation Partnership Project (3GPP) Timed Text", RFC 4396, DOI 10.17487/RFC4396, February 2006, <https://www.rfc-editor.org/info/rfc4396>.

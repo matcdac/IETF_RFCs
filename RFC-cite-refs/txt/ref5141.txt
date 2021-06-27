@@ -1,0 +1,1 @@
+Goodwin, J. and H. Apel, "A Uniform Resource Name (URN) Namespace for the International Organization for Standardization (ISO)", RFC 5141, DOI 10.17487/RFC5141, March 2008, <https://www.rfc-editor.org/info/rfc5141>.

@@ -1,0 +1,1 @@
+Waldbusser, S. and P. Grillo, "Host Resources MIB", RFC 2790, DOI 10.17487/RFC2790, March 2000, <https://www.rfc-editor.org/info/rfc2790>.

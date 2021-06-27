@@ -1,0 +1,1 @@
+Parello, J., Claise, B., and M. Chandramouli, "Energy Object Context MIB", RFC 7461, DOI 10.17487/RFC7461, March 2015, <https://www.rfc-editor.org/info/rfc7461>.

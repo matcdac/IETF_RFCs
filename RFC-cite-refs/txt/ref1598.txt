@@ -1,0 +1,1 @@
+Simpson, W., "PPP in X.25", RFC 1598, DOI 10.17487/RFC1598, March 1994, <https://www.rfc-editor.org/info/rfc1598>.

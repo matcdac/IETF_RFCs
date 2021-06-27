@@ -1,0 +1,1 @@
+ACM SIGUCCS, "Connecting to the Internet - What Connecting Institutions Should Anticipate", FYI 16, RFC 1359, DOI 10.17487/RFC1359, August 1992, <https://www.rfc-editor.org/info/rfc1359>.

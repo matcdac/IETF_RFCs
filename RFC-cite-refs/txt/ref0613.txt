@@ -1,0 +1,1 @@
+McKenzie, A., "Network connectivity: A response to RFC 603", RFC 613, DOI 10.17487/RFC0613, January 1974, <https://www.rfc-editor.org/info/rfc613>.

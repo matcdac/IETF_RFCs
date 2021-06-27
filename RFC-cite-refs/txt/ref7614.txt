@@ -1,0 +1,1 @@
+Sparks, R., "Explicit Subscriptions for the REFER Method", RFC 7614, DOI 10.17487/RFC7614, August 2015, <https://www.rfc-editor.org/info/rfc7614>.

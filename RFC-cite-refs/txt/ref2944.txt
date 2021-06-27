@@ -1,0 +1,1 @@
+Wu, T., "Telnet Authentication: SRP", RFC 2944, DOI 10.17487/RFC2944, September 2000, <https://www.rfc-editor.org/info/rfc2944>.

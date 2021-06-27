@@ -1,0 +1,1 @@
+Crocker, D., "Telnet output carriage-return disposition option", RFC 652, DOI 10.17487/RFC0652, October 1974, <https://www.rfc-editor.org/info/rfc652>.

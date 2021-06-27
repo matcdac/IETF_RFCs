@@ -1,0 +1,1 @@
+Mizrahi, T. and Y. Moses, "Time Capability in NETCONF", RFC 7758, DOI 10.17487/RFC7758, February 2016, <https://www.rfc-editor.org/info/rfc7758>.

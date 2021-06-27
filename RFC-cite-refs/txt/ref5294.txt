@@ -1,0 +1,1 @@
+Savola, P. and J. Lingard, "Host Threats to Protocol Independent Multicast (PIM)", RFC 5294, DOI 10.17487/RFC5294, August 2008, <https://www.rfc-editor.org/info/rfc5294>.

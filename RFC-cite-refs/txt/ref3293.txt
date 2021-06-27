@@ -1,0 +1,1 @@
+Worster, T., Doria, A., and J. Buerkle, "General Switch Management Protocol (GSMP) Packet Encapsulations for Asynchronous Transfer Mode (ATM), Ethernet and Transmission Control Protocol (TCP)", RFC 3293, DOI 10.17487/RFC3293, June 2002, <https://www.rfc-editor.org/info/rfc3293>.

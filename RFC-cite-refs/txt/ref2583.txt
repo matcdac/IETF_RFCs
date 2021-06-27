@@ -1,0 +1,1 @@
+Carlson, R. and L. Winkler, "Guidelines for Next Hop Client (NHC) Developers", RFC 2583, DOI 10.17487/RFC2583, May 1999, <https://www.rfc-editor.org/info/rfc2583>.

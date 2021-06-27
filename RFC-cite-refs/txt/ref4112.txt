@@ -1,0 +1,1 @@
+Eastlake 3rd, D., "Electronic Commerce Modeling Language (ECML) Version 2 Specification", RFC 4112, DOI 10.17487/RFC4112, June 2005, <https://www.rfc-editor.org/info/rfc4112>.

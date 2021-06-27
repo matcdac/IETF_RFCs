@@ -1,0 +1,1 @@
+Ahlberg, J., Ye, M., Li, X., Spreafico, D., and M. Vaupotic, "A YANG Data Model for Microwave Radio Link", RFC 8561, DOI 10.17487/RFC8561, June 2019, <https://www.rfc-editor.org/info/rfc8561>.

@@ -1,0 +1,1 @@
+Bi, J., Yao, G., Halpern, J., and E. Levy-Abegnoli, Ed., "Source Address Validation Improvement (SAVI) for Mixed Address Assignment Methods Scenario", RFC 8074, DOI 10.17487/RFC8074, February 2017, <https://www.rfc-editor.org/info/rfc8074>.

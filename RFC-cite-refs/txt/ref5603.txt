@@ -1,0 +1,1 @@
+Zelig, D., Ed., and T. Nadeau, Ed., "Ethernet Pseudowire (PW) Management Information Base (MIB)", RFC 5603, DOI 10.17487/RFC5603, July 2009, <https://www.rfc-editor.org/info/rfc5603>.

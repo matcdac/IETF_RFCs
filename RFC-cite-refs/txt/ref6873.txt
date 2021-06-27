@@ -1,0 +1,1 @@
+Salgueiro, G., Gurbani, V., and A. Roach, "Format for the Session Initiation Protocol (SIP) Common Log Format (CLF)", RFC 6873, DOI 10.17487/RFC6873, February 2013, <https://www.rfc-editor.org/info/rfc6873>.

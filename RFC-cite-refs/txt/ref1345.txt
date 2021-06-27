@@ -1,0 +1,1 @@
+Simonsen, K., "Character Mnemonics and Character Sets", RFC 1345, DOI 10.17487/RFC1345, June 1992, <https://www.rfc-editor.org/info/rfc1345>.

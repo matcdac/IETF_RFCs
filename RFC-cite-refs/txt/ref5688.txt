@@ -1,0 +1,1 @@
+Rosenberg, J., "A Session Initiation Protocol (SIP) Media Feature Tag for MIME Application Subtypes", RFC 5688, DOI 10.17487/RFC5688, January 2010, <https://www.rfc-editor.org/info/rfc5688>.

@@ -1,0 +1,1 @@
+Hendrikx, F. and C. Wallis, "A Uniform Resource Name (URN) Formal Namespace for the New Zealand Government", RFC 4350, DOI 10.17487/RFC4350, February 2006, <https://www.rfc-editor.org/info/rfc4350>.

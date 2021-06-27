@@ -1,0 +1,1 @@
+Haller, N. and C. Metz, "A One-Time Password System", RFC 1938, DOI 10.17487/RFC1938, May 1996, <https://www.rfc-editor.org/info/rfc1938>.

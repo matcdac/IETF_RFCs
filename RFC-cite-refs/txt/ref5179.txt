@@ -1,0 +1,1 @@
+Williams, N., "Generic Security Service Application Program Interface (GSS-API) Domain-Based Service Names Mapping for the Kerberos V GSS Mechanism", RFC 5179, DOI 10.17487/RFC5179, May 2008, <https://www.rfc-editor.org/info/rfc5179>.

@@ -1,0 +1,1 @@
+Auerbach, M., "TNLS quick reference card is available", RFC 496, DOI 10.17487/RFC0496, April 1973, <https://www.rfc-editor.org/info/rfc496>.

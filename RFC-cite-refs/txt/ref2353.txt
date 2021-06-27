@@ -1,0 +1,1 @@
+Dudley, G., "APPN/HPR in IP Networks APPN Implementers' Workshop Closed Pages Document", RFC 2353, DOI 10.17487/RFC2353, May 1998, <https://www.rfc-editor.org/info/rfc2353>.

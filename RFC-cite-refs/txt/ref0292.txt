@@ -1,0 +1,1 @@
+Michener, J., Cotton, I., Kelley, K., Liddle, D., and E. Meyer, "Graphics Protocol: Level 0 only", RFC 292, DOI 10.17487/RFC0292, January 1972, <https://www.rfc-editor.org/info/rfc292>.

@@ -1,0 +1,1 @@
+Saad, T., Ed., Gandhi, R., Ed., Ali, Z., Venator, R., and Y. Kamite, "RSVP Extensions for Reoptimization of Loosely Routed Point-to-Multipoint Traffic Engineering Label Switched Paths (LSPs)", RFC 8149, DOI 10.17487/RFC8149, April 2017, <https://www.rfc-editor.org/info/rfc8149>.

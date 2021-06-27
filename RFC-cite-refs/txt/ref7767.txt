@@ -1,0 +1,1 @@
+Vinapamula, S., Sivakumar, S., Boucadair, M., and T. Reddy, "Application-Initiated Check-Pointing via the Port Control Protocol (PCP)", RFC 7767, DOI 10.17487/RFC7767, February 2016, <https://www.rfc-editor.org/info/rfc7767>.

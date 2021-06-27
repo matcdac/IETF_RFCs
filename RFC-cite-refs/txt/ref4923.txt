@@ -1,0 +1,1 @@
+Baker, F. and P. Bose, "Quality of Service (QoS) Signaling in a Nested Virtual Private Network", RFC 4923, DOI 10.17487/RFC4923, August 2007, <https://www.rfc-editor.org/info/rfc4923>.

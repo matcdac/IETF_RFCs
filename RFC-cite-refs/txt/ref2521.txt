@@ -1,0 +1,1 @@
+Karn, P. and W. Simpson, "ICMP Security Failures Messages", RFC 2521, DOI 10.17487/RFC2521, March 1999, <https://www.rfc-editor.org/info/rfc2521>.

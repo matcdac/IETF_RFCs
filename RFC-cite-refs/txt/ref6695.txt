@@ -1,0 +1,1 @@
+Asati, R., "Methods to Convey Forward Error Correction (FEC) Framework Configuration Information", RFC 6695, DOI 10.17487/RFC6695, August 2012, <https://www.rfc-editor.org/info/rfc6695>.

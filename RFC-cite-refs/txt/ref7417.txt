@@ -1,0 +1,1 @@
+Karagiannis, G. and A. Bhargava, "Extensions to Generic Aggregate RSVP for IPv4 and IPv6 Reservations over Pre-Congestion Notification (PCN) Domains", RFC 7417, DOI 10.17487/RFC7417, December 2014, <https://www.rfc-editor.org/info/rfc7417>.

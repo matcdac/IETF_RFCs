@@ -1,0 +1,1 @@
+Ohba, Y., Katsube, Y., Rosen, E., and P. Doolan, "MPLS Loop Prevention Mechanism", RFC 3063, DOI 10.17487/RFC3063, February 2001, <https://www.rfc-editor.org/info/rfc3063>.

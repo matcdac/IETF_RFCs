@@ -1,0 +1,1 @@
+Hardcastle-Kille, S., "A String Representation of Distinguished Names (OSI-DS 23 (v5))", RFC 1485, DOI 10.17487/RFC1485, July 1993, <https://www.rfc-editor.org/info/rfc1485>.

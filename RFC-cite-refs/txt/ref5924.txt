@@ -1,0 +1,1 @@
+Lawrence, S. and V. Gurbani, "Extended Key Usage (EKU) for Session Initiation Protocol (SIP) X.509 Certificates", RFC 5924, DOI 10.17487/RFC5924, June 2010, <https://www.rfc-editor.org/info/rfc5924>.

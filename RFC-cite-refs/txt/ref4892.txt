@@ -1,0 +1,1 @@
+Woolf, S. and D. Conrad, "Requirements for a Mechanism Identifying a Name Server Instance", RFC 4892, DOI 10.17487/RFC4892, June 2007, <https://www.rfc-editor.org/info/rfc4892>.

@@ -1,0 +1,1 @@
+Leung, K., Dommety, G., Yegani, P., and K. Chowdhury, "WiMAX Forum / 3GPP2 Proxy Mobile IPv4", RFC 5563, DOI 10.17487/RFC5563, February 2010, <https://www.rfc-editor.org/info/rfc5563>.

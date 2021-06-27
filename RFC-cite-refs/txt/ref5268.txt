@@ -1,0 +1,1 @@
+Koodli, R., Ed., "Mobile IPv6 Fast Handovers", RFC 5268, DOI 10.17487/RFC5268, June 2008, <https://www.rfc-editor.org/info/rfc5268>.

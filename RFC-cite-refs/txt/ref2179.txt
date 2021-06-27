@@ -1,0 +1,1 @@
+Gwinn, A., "Network Security For Trade Shows", RFC 2179, DOI 10.17487/RFC2179, July 1997, <https://www.rfc-editor.org/info/rfc2179>.

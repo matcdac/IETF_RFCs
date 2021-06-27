@@ -1,0 +1,1 @@
+Bressler, R., Guida, R., and A. McKenzie, "Remote Job Entry Protocol", RFC 407, DOI 10.17487/RFC0407, October 1972, <https://www.rfc-editor.org/info/rfc407>.

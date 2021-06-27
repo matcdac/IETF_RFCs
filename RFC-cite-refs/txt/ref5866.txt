@@ -1,0 +1,1 @@
+Sun, D., Ed., McCann, P., Tschofenig, H., Tsou, T., Doria, A., and G. Zorn, Ed., "Diameter Quality-of-Service Application", RFC 5866, DOI 10.17487/RFC5866, May 2010, <https://www.rfc-editor.org/info/rfc5866>.

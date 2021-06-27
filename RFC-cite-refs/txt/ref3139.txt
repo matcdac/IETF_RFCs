@@ -1,0 +1,1 @@
+Sanchez, L., McCloghrie, K., and J. Saperia, "Requirements for Configuration Management of IP-based Networks", RFC 3139, DOI 10.17487/RFC3139, June 2001, <https://www.rfc-editor.org/info/rfc3139>.

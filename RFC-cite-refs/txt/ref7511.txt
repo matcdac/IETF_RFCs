@@ -1,0 +1,1 @@
+Wilhelm, M., "Scenic Routing for IPv6", RFC 7511, DOI 10.17487/RFC7511, April 1 2015, <https://www.rfc-editor.org/info/rfc7511>.

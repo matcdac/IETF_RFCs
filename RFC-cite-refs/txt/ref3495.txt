@@ -1,0 +1,1 @@
+Beser, B. and P. Duffy, Ed., "Dynamic Host Configuration Protocol (DHCP) Option for CableLabs Client Configuration", RFC 3495, DOI 10.17487/RFC3495, March 2003, <https://www.rfc-editor.org/info/rfc3495>.

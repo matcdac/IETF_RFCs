@@ -1,0 +1,1 @@
+Little, M., "Goals and functional requirements for inter-autonomous system routing", RFC 1126, DOI 10.17487/RFC1126, October 1989, <https://www.rfc-editor.org/info/rfc1126>.

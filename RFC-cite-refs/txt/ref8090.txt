@@ -1,0 +1,1 @@
+Housley, R., "Appointment Procedures for the IETF Representatives to the Community Coordination Group (CCG)", RFC 8090, DOI 10.17487/RFC8090, February 2017, <https://www.rfc-editor.org/info/rfc8090>.

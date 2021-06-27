@@ -1,0 +1,1 @@
+Kanugovi, S., Baboescu, F., Zhu, J., and S. Seo, "Multiple Access Management Services Multi-Access Management Services (MAMS)", RFC 8743, DOI 10.17487/RFC8743, March 2020, <https://www.rfc-editor.org/info/rfc8743>.

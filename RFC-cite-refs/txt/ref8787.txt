@@ -1,0 +1,1 @@
+Winterbottom, J., Jesske, R., Chatras, B., and A. Hutton, "Location Source Parameter for the SIP Geolocation Header Field", RFC 8787, DOI 10.17487/RFC8787, May 2020, <https://www.rfc-editor.org/info/rfc8787>.

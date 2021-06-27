@@ -1,0 +1,1 @@
+Eastlake 3rd, D., "Publicly Verifiable Nomcom Random Selection", RFC 2777, DOI 10.17487/RFC2777, February 2000, <https://www.rfc-editor.org/info/rfc2777>.

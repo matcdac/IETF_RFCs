@@ -1,0 +1,1 @@
+Morishita, Y. and T. Jinmei, "Common Misbehavior Against DNS Queries for IPv6 Addresses", RFC 4074, DOI 10.17487/RFC4074, May 2005, <https://www.rfc-editor.org/info/rfc4074>.

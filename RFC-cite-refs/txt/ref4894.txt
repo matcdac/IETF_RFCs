@@ -1,0 +1,1 @@
+Hoffman, P., "Use of Hash Algorithms in Internet Key Exchange (IKE) and IPsec", RFC 4894, DOI 10.17487/RFC4894, May 2007, <https://www.rfc-editor.org/info/rfc4894>.

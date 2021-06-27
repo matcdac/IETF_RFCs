@@ -1,0 +1,1 @@
+Hathaway, W., "Second thoughts in defense of the Telnet Go-Ahead", RFC 595, DOI 10.17487/RFC0595, December 1973, <https://www.rfc-editor.org/info/rfc595>.

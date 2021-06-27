@@ -1,0 +1,1 @@
+Pittet, J.-M., "ARP and IP Broadcast over HIPPI-800", RFC 2834, DOI 10.17487/RFC2834, May 2000, <https://www.rfc-editor.org/info/rfc2834>.

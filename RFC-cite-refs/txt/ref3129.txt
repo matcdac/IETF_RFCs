@@ -1,0 +1,1 @@
+Thomas, M., "Requirements for Kerberized Internet Negotiation of Keys", RFC 3129, DOI 10.17487/RFC3129, June 2001, <https://www.rfc-editor.org/info/rfc3129>.

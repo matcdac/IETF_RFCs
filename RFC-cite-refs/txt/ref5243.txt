@@ -1,0 +1,1 @@
+Ogier, R., "OSPF Database Exchange Summary List Optimization", RFC 5243, DOI 10.17487/RFC5243, May 2008, <https://www.rfc-editor.org/info/rfc5243>.

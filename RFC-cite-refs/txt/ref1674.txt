@@ -1,0 +1,1 @@
+Taylor, M., "A Cellular Industry View of IPng", RFC 1674, DOI 10.17487/RFC1674, August 1994, <https://www.rfc-editor.org/info/rfc1674>.

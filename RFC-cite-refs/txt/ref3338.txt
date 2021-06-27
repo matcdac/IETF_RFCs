@@ -1,0 +1,1 @@
+Lee, S., Shin, M-K., Kim, Y-J., Nordmark, E., and A. Durand, "Dual Stack Hosts Using "Bump-in-the-API" (BIA)", RFC 3338, DOI 10.17487/RFC3338, October 2002, <https://www.rfc-editor.org/info/rfc3338>.

@@ -1,0 +1,1 @@
+Kastenholz, F., "The Definitions of Managed Objects for the Security Protocols of the Point-to-Point Protocol", RFC 1472, DOI 10.17487/RFC1472, June 1993, <https://www.rfc-editor.org/info/rfc1472>.

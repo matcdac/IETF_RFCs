@@ -1,0 +1,1 @@
+Trewitt, G. and C. Partridge, "HEMS monitoring and control language", RFC 1076, DOI 10.17487/RFC1076, November 1988, <https://www.rfc-editor.org/info/rfc1076>.

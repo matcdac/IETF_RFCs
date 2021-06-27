@@ -1,0 +1,1 @@
+Reschke, J., "Datatypes for Web Distributed Authoring and Versioning (WebDAV) Properties", RFC 4316, DOI 10.17487/RFC4316, December 2005, <https://www.rfc-editor.org/info/rfc4316>.

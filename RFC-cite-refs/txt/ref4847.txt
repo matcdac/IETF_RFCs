@@ -1,0 +1,1 @@
+Takeda, T., Ed., "Framework and Requirements for Layer 1 Virtual Private Networks", RFC 4847, DOI 10.17487/RFC4847, April 2007, <https://www.rfc-editor.org/info/rfc4847>.

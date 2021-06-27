@@ -1,0 +1,1 @@
+Perkins, C., Calhoun, P., and J. Bharatia, "Mobile IPv4 Challenge/Response Extensions (Revised)", RFC 4721, DOI 10.17487/RFC4721, January 2007, <https://www.rfc-editor.org/info/rfc4721>.

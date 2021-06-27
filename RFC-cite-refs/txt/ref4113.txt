@@ -1,0 +1,1 @@
+Fenner, B. and J. Flick, "Management Information Base for the User Datagram Protocol (UDP)", RFC 4113, DOI 10.17487/RFC4113, June 2005, <https://www.rfc-editor.org/info/rfc4113>.

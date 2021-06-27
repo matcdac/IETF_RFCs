@@ -1,0 +1,1 @@
+Nottingham, M., "The "safe" HTTP Preference", RFC 8674, DOI 10.17487/RFC8674, December 2019, <https://www.rfc-editor.org/info/rfc8674>.

@@ -1,0 +1,1 @@
+Mills, D., "DCNET Internet Clock Service", RFC 778, DOI 10.17487/RFC0778, April 1981, <https://www.rfc-editor.org/info/rfc778>.

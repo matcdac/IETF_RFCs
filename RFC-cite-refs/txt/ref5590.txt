@@ -1,0 +1,1 @@
+Harrington, D. and J. Schoenwaelder, "Transport Subsystem for the Simple Network Management Protocol (SNMP)", STD 78, RFC 5590, DOI 10.17487/RFC5590, June 2009, <https://www.rfc-editor.org/info/rfc5590>.

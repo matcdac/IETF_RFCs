@@ -1,0 +1,1 @@
+Litkowski, S., Decraene, B., and M. Horneffer, "Impact of Shortest Path First (SPF) Trigger and Delay Strategies on IGP Micro-loops", RFC 8541, DOI 10.17487/RFC8541, March 2019, <https://www.rfc-editor.org/info/rfc8541>.

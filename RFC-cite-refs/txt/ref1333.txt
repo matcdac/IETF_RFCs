@@ -1,0 +1,1 @@
+Simpson, W., "PPP Link Quality Monitoring", RFC 1333, DOI 10.17487/RFC1333, May 1992, <https://www.rfc-editor.org/info/rfc1333>.

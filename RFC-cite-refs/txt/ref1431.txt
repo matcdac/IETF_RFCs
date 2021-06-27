@@ -1,0 +1,1 @@
+Barker, P., "DUA Metrics (OSI-DS 33 (v2))", RFC 1431, DOI 10.17487/RFC1431, February 1993, <https://www.rfc-editor.org/info/rfc1431>.

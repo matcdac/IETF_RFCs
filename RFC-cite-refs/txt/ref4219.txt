@@ -1,0 +1,1 @@
+Lear, E., "Things Multihoming in IPv6 (MULTI6) Developers Should Think About", RFC 4219, DOI 10.17487/RFC4219, October 2005, <https://www.rfc-editor.org/info/rfc4219>.

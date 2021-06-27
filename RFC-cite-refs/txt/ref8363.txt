@@ -1,0 +1,1 @@
+Zhang, X., Zheng, H., Casellas, R., Gonzalez de Dios, O., and D. Ceccarelli, "GMPLS OSPF-TE Extensions in Support of Flexi-Grid Dense Wavelength Division Multiplexing (DWDM) Networks", RFC 8363, DOI 10.17487/RFC8363, May 2018, <https://www.rfc-editor.org/info/rfc8363>.

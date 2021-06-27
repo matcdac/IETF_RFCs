@@ -1,0 +1,1 @@
+Muley, P., Aissaoui, M., and M. Bocci, "Pseudowire Redundancy", RFC 6718, DOI 10.17487/RFC6718, August 2012, <https://www.rfc-editor.org/info/rfc6718>.

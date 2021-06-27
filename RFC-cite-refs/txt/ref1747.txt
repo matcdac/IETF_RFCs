@@ -1,0 +1,1 @@
+Hilgeman, J., Nix, S., Bartky, A., and W. Clark, Ed., "Definitions of Managed Objects for SNA Data Link Control (SDLC) using SMIv2", RFC 1747, DOI 10.17487/RFC1747, January 1995, <https://www.rfc-editor.org/info/rfc1747>.

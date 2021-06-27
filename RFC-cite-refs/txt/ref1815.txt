@@ -1,0 +1,1 @@
+Ohta, M., "Character Sets ISO-10646 and ISO-10646-J-1", RFC 1815, DOI 10.17487/RFC1815, July 1995, <https://www.rfc-editor.org/info/rfc1815>.

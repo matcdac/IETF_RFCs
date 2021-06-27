@@ -1,0 +1,1 @@
+Kille, S., "Lightweight Directory Access Protocol (LDAP) Schema for Supporting the Extensible Messaging and Presence Protocol (XMPP) in White Pages", RFC 8284, DOI 10.17487/RFC8284, November 2017, <https://www.rfc-editor.org/info/rfc8284>.

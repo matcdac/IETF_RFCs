@@ -1,0 +1,1 @@
+Parsons, G., "Real-time Facsimile (T.38) - image/t38 MIME Sub-type Registration", RFC 3362, DOI 10.17487/RFC3362, August 2002, <https://www.rfc-editor.org/info/rfc3362>.

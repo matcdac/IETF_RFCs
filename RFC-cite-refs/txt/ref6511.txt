@@ -1,0 +1,1 @@
+Ali, Z., Swallow, G., and R. Aggarwal, "Non-Penultimate Hop Popping Behavior and Out-of-Band Mapping for RSVP-TE Label Switched Paths", RFC 6511, DOI 10.17487/RFC6511, February 2012, <https://www.rfc-editor.org/info/rfc6511>.

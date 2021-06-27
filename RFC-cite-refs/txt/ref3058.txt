@@ -1,0 +1,1 @@
+Teiwes, S., Hartmann, P., and D. Kuenzi, "Use of the IDEA Encryption Algorithm in CMS", RFC 3058, DOI 10.17487/RFC3058, February 2001, <https://www.rfc-editor.org/info/rfc3058>.

@@ -1,0 +1,1 @@
+Day, M., Aggarwal, S., Mohr, G., and J. Vincent, "Instant Messaging / Presence Protocol Requirements", RFC 2779, DOI 10.17487/RFC2779, February 2000, <https://www.rfc-editor.org/info/rfc2779>.

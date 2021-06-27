@@ -1,0 +1,1 @@
+Barnes, M., Ed., "HTTP-Enabled Location Delivery (HELD)", RFC 5985, DOI 10.17487/RFC5985, September 2010, <https://www.rfc-editor.org/info/rfc5985>.

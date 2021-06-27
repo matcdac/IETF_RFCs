@@ -1,0 +1,1 @@
+Yaacovi, Y., Wahl, M., and T. Genovese, "Lightweight Directory Access Protocol (v3): Extensions for Dynamic Directory Services", RFC 2589, DOI 10.17487/RFC2589, May 1999, <https://www.rfc-editor.org/info/rfc2589>.

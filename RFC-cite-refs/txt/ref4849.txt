@@ -1,0 +1,1 @@
+Congdon, P., Sanchez, M., and B. Aboba, "RADIUS Filter Rule Attribute", RFC 4849, DOI 10.17487/RFC4849, April 2007, <https://www.rfc-editor.org/info/rfc4849>.

@@ -1,0 +1,1 @@
+Harslem, E. and R. Stoughton, "Rand/UCSB network graphics experiment", RFC 225, DOI 10.17487/RFC0225, September 1971, <https://www.rfc-editor.org/info/rfc225>.

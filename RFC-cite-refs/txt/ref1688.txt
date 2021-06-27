@@ -1,0 +1,1 @@
+Simpson, W., "IPng Mobility Considerations", RFC 1688, DOI 10.17487/RFC1688, August 1994, <https://www.rfc-editor.org/info/rfc1688>.

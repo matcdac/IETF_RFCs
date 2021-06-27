@@ -1,0 +1,1 @@
+Banks, S., Calabria, F., Czirjak, G., and R. Machat, "Benchmarking Methodology for In-Service Software Upgrade (ISSU)", RFC 7654, DOI 10.17487/RFC7654, October 2015, <https://www.rfc-editor.org/info/rfc7654>.

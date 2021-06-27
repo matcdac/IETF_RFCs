@@ -1,0 +1,1 @@
+Crocker, S., "Output of the Host-Host Protocol glitch cleaning committee", RFC 102, DOI 10.17487/RFC0102, February 1971, <https://www.rfc-editor.org/info/rfc102>.

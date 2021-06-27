@@ -1,0 +1,1 @@
+Legg, S., "Abstract Syntax Notation X (ASN.X)", RFC 4912, DOI 10.17487/RFC4912, July 2007, <https://www.rfc-editor.org/info/rfc4912>.

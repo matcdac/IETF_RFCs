@@ -1,0 +1,1 @@
+Hazewinkel, H., Ed., and D. Partain, Ed., "The Differentiated Services Configuration MIB", RFC 3747, DOI 10.17487/RFC3747, April 2004, <https://www.rfc-editor.org/info/rfc3747>.

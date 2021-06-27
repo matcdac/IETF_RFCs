@@ -1,0 +1,1 @@
+Alexander, S. and R. Droms, "DHCP Options and BOOTP Vendor Extensions", RFC 1533, DOI 10.17487/RFC1533, October 1993, <https://www.rfc-editor.org/info/rfc1533>.

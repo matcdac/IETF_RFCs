@@ -1,0 +1,1 @@
+Winett, J., "Comments on Telnet Protocol Changes", RFC 393, DOI 10.17487/RFC0393, October 1972, <https://www.rfc-editor.org/info/rfc393>.

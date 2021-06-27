@@ -1,0 +1,1 @@
+Wolfe, S. and J. Postel, "Possible Deadlock in ICP", RFC 202, DOI 10.17487/RFC0202, July 1971, <https://www.rfc-editor.org/info/rfc202>.

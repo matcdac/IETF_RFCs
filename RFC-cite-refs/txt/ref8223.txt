@@ -1,0 +1,1 @@
+Esale, S., Torvi, R., Jalil, L., Chunduri, U., and K. Raza, "Application-Aware Targeted LDP", RFC 8223, DOI 10.17487/RFC8223, August 2017, <https://www.rfc-editor.org/info/rfc8223>.

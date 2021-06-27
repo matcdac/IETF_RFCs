@@ -1,0 +1,1 @@
+Gustafson, D., Just, M., and M. Nystrom, "Securely Available Credentials (SACRED) - Credential Server Framework", RFC 3760, DOI 10.17487/RFC3760, April 2004, <https://www.rfc-editor.org/info/rfc3760>.

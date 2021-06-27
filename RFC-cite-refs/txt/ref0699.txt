@@ -1,0 +1,1 @@
+Postel, J. and J. Vernon, "Request For Comments summary notes: 600-699", RFC 699, DOI 10.17487/RFC0699, November 1982, <https://www.rfc-editor.org/info/rfc699>.

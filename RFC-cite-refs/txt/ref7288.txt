@@ -1,0 +1,1 @@
+Thaler, D., "Reflections on Host Firewalls", RFC 7288, DOI 10.17487/RFC7288, June 2014, <https://www.rfc-editor.org/info/rfc7288>.

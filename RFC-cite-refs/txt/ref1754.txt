@@ -1,0 +1,1 @@
+Laubach, M., "IP over ATM Working Group's Recommendations for the ATM Forum's Multiprotocol BOF Version 1", RFC 1754, DOI 10.17487/RFC1754, January 1995, <https://www.rfc-editor.org/info/rfc1754>.

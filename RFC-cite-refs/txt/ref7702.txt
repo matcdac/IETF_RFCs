@@ -1,0 +1,1 @@
+Saint-Andre, P., Ibarra, S., and S. Loreto, "Interworking between the Session Initiation Protocol (SIP) and the Extensible Messaging and Presence Protocol (XMPP): Groupchat", RFC 7702, DOI 10.17487/RFC7702, December 2015, <https://www.rfc-editor.org/info/rfc7702>.

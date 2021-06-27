@@ -1,0 +1,1 @@
+Whitehead, J., Clemm, G., and J. Reschke, Ed., "Web Distributed Authoring and Versioning (WebDAV) Redirect Reference Resources", RFC 4437, DOI 10.17487/RFC4437, March 2006, <https://www.rfc-editor.org/info/rfc4437>.

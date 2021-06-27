@@ -1,0 +1,1 @@
+Upadhyay, M., Malkani, S., and W. Wang, "Generic Security Service API Version 2: Java Bindings Update", RFC 8353, DOI 10.17487/RFC8353, May 2018, <https://www.rfc-editor.org/info/rfc8353>.

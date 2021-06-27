@@ -1,0 +1,1 @@
+Rosenbrock, K., Sanmugam, R., Bradner, S., and J. Klensin, "3GPP-IETF Standardization Collaboration", RFC 3113, DOI 10.17487/RFC3113, June 2001, <https://www.rfc-editor.org/info/rfc3113>.

@@ -1,0 +1,1 @@
+Postel, J., "Announcing New Telnet Options", RFC 587, DOI 10.17487/RFC0587, November 1973, <https://www.rfc-editor.org/info/rfc587>.

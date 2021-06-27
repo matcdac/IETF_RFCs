@@ -1,0 +1,1 @@
+Lee, Y., Ed., Bernstein, G., Ed., Li, D., and G. Martinelli, "A Framework for the Control of Wavelength Switched Optical Networks (WSONs) with Impairments", RFC 6566, DOI 10.17487/RFC6566, March 2012, <https://www.rfc-editor.org/info/rfc6566>.

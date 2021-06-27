@@ -1,0 +1,1 @@
+Nelson, D., "RADIUS Accounting Server MIB for IPv6", RFC 4671, DOI 10.17487/RFC4671, August 2006, <https://www.rfc-editor.org/info/rfc4671>.

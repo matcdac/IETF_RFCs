@@ -1,0 +1,1 @@
+Fairhurst, G. and A. Sathiaseelan, "Quick-Start for the Datagram Congestion Control Protocol (DCCP)", RFC 5634, DOI 10.17487/RFC5634, August 2009, <https://www.rfc-editor.org/info/rfc5634>.

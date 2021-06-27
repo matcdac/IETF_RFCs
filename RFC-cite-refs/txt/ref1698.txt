@@ -1,0 +1,1 @@
+Furniss, P., "Octet Sequences for Upper-Layer OSI to Support Basic Communications Applications", RFC 1698, DOI 10.17487/RFC1698, October 1994, <https://www.rfc-editor.org/info/rfc1698>.

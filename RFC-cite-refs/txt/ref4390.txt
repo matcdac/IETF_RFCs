@@ -1,0 +1,1 @@
+Kashyap, V., "Dynamic Host Configuration Protocol (DHCP) over InfiniBand", RFC 4390, DOI 10.17487/RFC4390, April 2006, <https://www.rfc-editor.org/info/rfc4390>.

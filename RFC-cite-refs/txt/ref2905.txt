@@ -1,0 +1,1 @@
+Vollbrecht, J., Calhoun, P., Farrell, S., Gommans, L., Gross, G., de Bruijn, B., de Laat, C., Holdrege, M., and D. Spence, "AAA Authorization Application Examples", RFC 2905, DOI 10.17487/RFC2905, August 2000, <https://www.rfc-editor.org/info/rfc2905>.

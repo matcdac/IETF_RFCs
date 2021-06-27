@@ -1,0 +1,1 @@
+Holmberg, C. and I. Sedlacek, "URN for Country-Specific Emergency Services", RFC 7163, DOI 10.17487/RFC7163, March 2014, <https://www.rfc-editor.org/info/rfc7163>.

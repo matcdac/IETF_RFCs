@@ -1,0 +1,1 @@
+Winterbottom, J., Thomson, M., Tschofenig, H., and R. Barnes, "Use of Device Identity in HTTP-Enabled Location Delivery (HELD)", RFC 6155, DOI 10.17487/RFC6155, March 2011, <https://www.rfc-editor.org/info/rfc6155>.

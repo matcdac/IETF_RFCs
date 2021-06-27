@@ -1,0 +1,1 @@
+Whistler, K., Adams, G., Duerst, M., Presuhn, R., Ed., and J. Klensin, "Deprecating Unicode Language Tag Characters: RFC 2482 is Historic", RFC 6082, DOI 10.17487/RFC6082, November 2010, <https://www.rfc-editor.org/info/rfc6082>.

@@ -1,0 +1,1 @@
+Kent, S., "Privacy Enhancement for Internet Electronic Mail: Part II: Certificate-Based Key Management", RFC 1422, DOI 10.17487/RFC1422, February 1993, <https://www.rfc-editor.org/info/rfc1422>.

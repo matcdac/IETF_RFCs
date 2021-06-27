@@ -1,0 +1,1 @@
+Austein, R., "Applicability Statement for DNS MIB Extensions", RFC 3197, DOI 10.17487/RFC3197, November 2001, <https://www.rfc-editor.org/info/rfc3197>.

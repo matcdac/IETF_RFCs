@@ -1,0 +1,1 @@
+Eastlake 3rd, D., Boesch, B., Crocker, S., and M. Yesil, "CyberCash Credit Card Protocol Version 0.8", RFC 1898, DOI 10.17487/RFC1898, February 1996, <https://www.rfc-editor.org/info/rfc1898>.

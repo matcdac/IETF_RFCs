@@ -1,0 +1,1 @@
+Harrison, R. and K. Zeilenga, "The Lightweight Directory Access Protocol (LDAP) Intermediate Response Message", RFC 3771, DOI 10.17487/RFC3771, April 2004, <https://www.rfc-editor.org/info/rfc3771>.

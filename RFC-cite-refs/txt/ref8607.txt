@@ -1,0 +1,1 @@
+Daboo, C., Quillaud, A., and K. Murchison, Ed., "Calendaring Extensions to WebDAV (CalDAV): Managed Attachments", RFC 8607, DOI 10.17487/RFC8607, June 2019, <https://www.rfc-editor.org/info/rfc8607>.

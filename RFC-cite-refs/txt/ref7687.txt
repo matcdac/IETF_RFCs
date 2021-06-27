@@ -1,0 +1,1 @@
+Farrell, S., Wenning, R., Bos, B., Blanchet, M., and H. Tschofenig, "Report from the Strengthening the Internet (STRINT) Workshop", RFC 7687, DOI 10.17487/RFC7687, December 2015, <https://www.rfc-editor.org/info/rfc7687>.

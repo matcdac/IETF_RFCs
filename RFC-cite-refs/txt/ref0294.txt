@@ -1,0 +1,1 @@
+Bhushan, A., "The Use of "Set Data Type" Transaction in File Transfer Protocol", RFC 294, DOI 10.17487/RFC0294, January 1972, <https://www.rfc-editor.org/info/rfc294>.

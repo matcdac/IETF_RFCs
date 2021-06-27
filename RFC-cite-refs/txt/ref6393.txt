@@ -1,0 +1,1 @@
+Yevstifeyev, M., "Moving RFC 4693 to Historic", RFC 6393, DOI 10.17487/RFC6393, September 2011, <https://www.rfc-editor.org/info/rfc6393>.

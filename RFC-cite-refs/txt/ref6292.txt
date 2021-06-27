@@ -1,0 +1,1 @@
+Hoffman, P., "Requirements for a Working Group Charter Tool", RFC 6292, DOI 10.17487/RFC6292, June 2011, <https://www.rfc-editor.org/info/rfc6292>.

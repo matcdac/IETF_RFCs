@@ -1,0 +1,1 @@
+Snijders, J., "Deprecation of BGP Path Attribute Values 30, 31, 129, 241, 242, and 243", RFC 8093, DOI 10.17487/RFC8093, February 2017, <https://www.rfc-editor.org/info/rfc8093>.

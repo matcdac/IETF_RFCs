@@ -1,0 +1,1 @@
+Moriarty, K., "Coordinating Attack Response at Internet Scale 2 (CARIS2) Workshop Report", RFC 8953, DOI 10.17487/RFC8953, December 2020, <https://www.rfc-editor.org/info/rfc8953>.

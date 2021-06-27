@@ -1,0 +1,1 @@
+Cao, Z., Deng, H., Wu, Q., and G. Zorn, Ed., "EAP Re-authentication Protocol Extensions for Authenticated Anticipatory Keying (ERP/AAK)", RFC 6630, DOI 10.17487/RFC6630, June 2012, <https://www.rfc-editor.org/info/rfc6630>.

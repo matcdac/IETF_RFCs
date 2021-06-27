@@ -1,0 +1,1 @@
+Day, J., "Memo to FTP group: Proposal for File Access Protocol", RFC 520, DOI 10.17487/RFC0520, June 1973, <https://www.rfc-editor.org/info/rfc520>.

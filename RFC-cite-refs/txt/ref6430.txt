@@ -1,0 +1,1 @@
+Li, K. and B. Leiba, "Email Feedback Report Type Value: not-spam", RFC 6430, DOI 10.17487/RFC6430, November 2011, <https://www.rfc-editor.org/info/rfc6430>.

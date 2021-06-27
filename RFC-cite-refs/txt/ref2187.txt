@@ -1,0 +1,1 @@
+Wessels, D. and K. Claffy, "Application of Internet Cache Protocol (ICP), version 2", RFC 2187, DOI 10.17487/RFC2187, September 1997, <https://www.rfc-editor.org/info/rfc2187>.

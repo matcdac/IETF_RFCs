@@ -1,0 +1,1 @@
+Oppenheimer, A., "Appletalk Update-Based Routing Protocol: Enhanced Appletalk Routing", RFC 1504, DOI 10.17487/RFC1504, August 1993, <https://www.rfc-editor.org/info/rfc1504>.

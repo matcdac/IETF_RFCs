@@ -1,0 +1,1 @@
+McAnally, G., Gilbert, D., and J. Flick, "Conditional Grant of Rights to Specific Hewlett-Packard Patents In Conjunction With the Internet Engineering Task Force's Internet-Standard Network Management Framework", RFC 1988, DOI 10.17487/RFC1988, August 1996, <https://www.rfc-editor.org/info/rfc1988>.

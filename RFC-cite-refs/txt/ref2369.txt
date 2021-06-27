@@ -1,0 +1,1 @@
+Neufeld, G. and J. Baer, "The Use of URLs as Meta-Syntax for Core Mail List Commands and their Transport through Message Header Fields", RFC 2369, DOI 10.17487/RFC2369, July 1998, <https://www.rfc-editor.org/info/rfc2369>.

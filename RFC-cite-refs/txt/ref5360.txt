@@ -1,0 +1,1 @@
+Rosenberg, J., Camarillo, G., Ed., and D. Willis, "A Framework for Consent-Based Communications in the Session Initiation Protocol (SIP)", RFC 5360, DOI 10.17487/RFC5360, October 2008, <https://www.rfc-editor.org/info/rfc5360>.

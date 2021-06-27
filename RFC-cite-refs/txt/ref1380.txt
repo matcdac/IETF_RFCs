@@ -1,0 +1,1 @@
+Gross, P. and P. Almquist, "IESG Deliberations on Routing and Addressing", RFC 1380, DOI 10.17487/RFC1380, November 1992, <https://www.rfc-editor.org/info/rfc1380>.

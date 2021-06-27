@@ -1,0 +1,1 @@
+Brownell, D., "Dynamic RARP Extensions for Automatic Network Address Acquisition", RFC 1931, DOI 10.17487/RFC1931, April 1996, <https://www.rfc-editor.org/info/rfc1931>.

@@ -1,0 +1,1 @@
+Mader, E., "Network Debugging Protocol", RFC 643, DOI 10.17487/RFC0643, July 1974, <https://www.rfc-editor.org/info/rfc643>.

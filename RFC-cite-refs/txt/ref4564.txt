@@ -1,0 +1,1 @@
+Govindan, S., Ed., Cheng, H., Yao, ZH., Zhou, WH., and L. Yang, "Objectives for Control and Provisioning of Wireless Access Points (CAPWAP)", RFC 4564, DOI 10.17487/RFC4564, July 2006, <https://www.rfc-editor.org/info/rfc4564>.

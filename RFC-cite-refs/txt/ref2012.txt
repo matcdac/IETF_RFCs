@@ -1,0 +1,1 @@
+McCloghrie, K., Ed., "SNMPv2 Management Information Base for the Transmission Control Protocol using SMIv2", RFC 2012, DOI 10.17487/RFC2012, November 1996, <https://www.rfc-editor.org/info/rfc2012>.

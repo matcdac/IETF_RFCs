@@ -1,0 +1,1 @@
+Moore, B., Ellesson, E., Strassner, J., and A. Westerinen, "Policy Core Information Model -- Version 1 Specification", RFC 3060, DOI 10.17487/RFC3060, February 2001, <https://www.rfc-editor.org/info/rfc3060>.

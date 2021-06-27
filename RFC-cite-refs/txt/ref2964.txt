@@ -1,0 +1,1 @@
+Moore, K. and N. Freed, "Use of HTTP State Management", BCP 44, RFC 2964, DOI 10.17487/RFC2964, October 2000, <https://www.rfc-editor.org/info/rfc2964>.

@@ -1,0 +1,1 @@
+Adams, C., "Use of the CAST-128 Encryption Algorithm in CMS", RFC 2984, DOI 10.17487/RFC2984, October 2000, <https://www.rfc-editor.org/info/rfc2984>.

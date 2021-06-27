@@ -1,0 +1,1 @@
+Ali, Z., Bonfanti, A., Hartley, M., and F. Zhang, "IANA Allocation Procedures for the GMPLS OTN Signal Type Registry", RFC 7892, DOI 10.17487/RFC7892, May 2016, <https://www.rfc-editor.org/info/rfc7892>.

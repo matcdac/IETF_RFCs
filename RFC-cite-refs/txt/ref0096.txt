@@ -1,0 +1,1 @@
+Watson, R., "An Interactive Network Experiment to Study Modes of Access the Network Information Center", RFC 96, DOI 10.17487/RFC0096, February 1971, <https://www.rfc-editor.org/info/rfc96>.

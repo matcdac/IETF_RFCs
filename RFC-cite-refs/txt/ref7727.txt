@@ -1,0 +1,1 @@
+Zhang, M., Wen, H., and J. Hu, "Spanning Tree Protocol (STP) Application of the Inter-Chassis Communication Protocol (ICCP)", RFC 7727, DOI 10.17487/RFC7727, January 2016, <https://www.rfc-editor.org/info/rfc7727>.

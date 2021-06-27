@@ -1,0 +1,1 @@
+Iijima, T., Atarashi, Y., Kimura, H., Kitani, M., and H. Okita, "Experience of Implementing NETCONF over SOAP", RFC 5381, DOI 10.17487/RFC5381, October 2008, <https://www.rfc-editor.org/info/rfc5381>.

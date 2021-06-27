@@ -1,0 +1,1 @@
+Conboy, G., Rivlin, J., and J. Ferraiolo, "Media Type Registrations for the Open eBook Publication Structure (OEBPS) Package File (OPF)", RFC 4839, DOI 10.17487/RFC4839, April 2007, <https://www.rfc-editor.org/info/rfc4839>.

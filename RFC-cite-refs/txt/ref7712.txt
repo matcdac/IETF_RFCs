@@ -1,0 +1,1 @@
+Saint-Andre, P., Miller, M., and P. Hancke, "Domain Name Associations (DNA) in the Extensible Messaging and Presence Protocol (XMPP)", RFC 7712, DOI 10.17487/RFC7712, November 2015, <https://www.rfc-editor.org/info/rfc7712>.

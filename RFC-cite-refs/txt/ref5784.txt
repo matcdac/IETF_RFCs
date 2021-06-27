@@ -1,0 +1,1 @@
+Freed, N. and S. Vedam, "Sieve Email Filtering:  Sieves and Display Directives in XML", RFC 5784, DOI 10.17487/RFC5784, March 2010, <https://www.rfc-editor.org/info/rfc5784>.

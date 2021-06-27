@@ -1,0 +1,1 @@
+Bestler, C., Ed., and L. Coene, "Applicability of Remote Direct Memory Access Protocol (RDMA) and Direct Data Placement (DDP)", RFC 5045, DOI 10.17487/RFC5045, October 2007, <https://www.rfc-editor.org/info/rfc5045>.

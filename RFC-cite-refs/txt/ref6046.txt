@@ -1,0 +1,1 @@
+Moriarty, K. and B. Trammell, "Transport of Real-time Inter-network Defense (RID) Messages", RFC 6046, DOI 10.17487/RFC6046, November 2010, <https://www.rfc-editor.org/info/rfc6046>.

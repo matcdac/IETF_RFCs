@@ -1,0 +1,1 @@
+Cox, T., Ed., and K. Tesink, Ed., "Definitions of Managed Objects for the SIP Interface Type", RFC 1304, DOI 10.17487/RFC1304, February 1992, <https://www.rfc-editor.org/info/rfc1304>.

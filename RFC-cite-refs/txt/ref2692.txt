@@ -1,0 +1,1 @@
+Ellison, C., "SPKI Requirements", RFC 2692, DOI 10.17487/RFC2692, September 1999, <https://www.rfc-editor.org/info/rfc2692>.

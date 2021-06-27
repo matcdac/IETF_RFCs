@@ -1,0 +1,1 @@
+Zinman, D., Walker, D., and J. Jiang, "Management Information Base for Telephony Routing over IP (TRIP)", RFC 3872, DOI 10.17487/RFC3872, September 2004, <https://www.rfc-editor.org/info/rfc3872>.

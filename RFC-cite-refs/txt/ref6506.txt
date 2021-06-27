@@ -1,0 +1,1 @@
+Bhatia, M., Manral, V., and A. Lindem, "Supporting Authentication Trailer for OSPFv3", RFC 6506, DOI 10.17487/RFC6506, February 2012, <https://www.rfc-editor.org/info/rfc6506>.

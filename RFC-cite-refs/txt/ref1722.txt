@@ -1,0 +1,1 @@
+Malkin, G., "RIP Version 2 Protocol Applicability Statement", STD 57, RFC 1722, DOI 10.17487/RFC1722, November 1994, <https://www.rfc-editor.org/info/rfc1722>.

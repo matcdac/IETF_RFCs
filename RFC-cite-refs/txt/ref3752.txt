@@ -1,0 +1,1 @@
+Barbir, A., Burger, E., Chen, R., McHenry, S., Orman, H., and R. Penno, "Open Pluggable Edge Services (OPES) Use Cases and Deployment Scenarios", RFC 3752, DOI 10.17487/RFC3752, April 2004, <https://www.rfc-editor.org/info/rfc3752>.

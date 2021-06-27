@@ -1,0 +1,1 @@
+Simpson, W., "PPP Vendor Extensions", RFC 2153, DOI 10.17487/RFC2153, May 1997, <https://www.rfc-editor.org/info/rfc2153>.

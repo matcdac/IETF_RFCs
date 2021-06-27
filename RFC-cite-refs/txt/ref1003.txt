@@ -1,0 +1,1 @@
+Katz, A., "Issues in defining an equations representation standard", RFC 1003, DOI 10.17487/RFC1003, March 1987, <https://www.rfc-editor.org/info/rfc1003>.

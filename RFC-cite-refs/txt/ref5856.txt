@@ -1,0 +1,1 @@
+Ertekin, E., Jasani, R., Christou, C., and C. Bormann, "Integration of Robust Header Compression over IPsec Security Associations", RFC 5856, DOI 10.17487/RFC5856, May 2010, <https://www.rfc-editor.org/info/rfc5856>.

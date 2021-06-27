@@ -1,0 +1,1 @@
+Romano, S. and M. Stahl, "Internet numbers", RFC 1020, DOI 10.17487/RFC1020, November 1987, <https://www.rfc-editor.org/info/rfc1020>.

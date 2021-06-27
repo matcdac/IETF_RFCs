@@ -1,0 +1,1 @@
+Kille, S., Wahl, M., Grimstad, A., Huber, R., and S. Sataluri, "Using Domains in LDAP/X.500 Distinguished Names", RFC 2247, DOI 10.17487/RFC2247, January 1998, <https://www.rfc-editor.org/info/rfc2247>.

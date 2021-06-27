@@ -1,0 +1,1 @@
+Bryan, D., Matthews, P., Shim, E., Willis, D., and S. Dawkins, "Concepts and Terminology for Peer-to-Peer SIP (P2PSIP)", RFC 7890, DOI 10.17487/RFC7890, June 2016, <https://www.rfc-editor.org/info/rfc7890>.

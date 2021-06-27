@@ -1,0 +1,1 @@
+Garrett, J., Hagan, J., and J. Wong, "Directed ARP", RFC 1433, DOI 10.17487/RFC1433, March 1993, <https://www.rfc-editor.org/info/rfc1433>.

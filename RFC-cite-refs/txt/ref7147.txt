@@ -1,0 +1,1 @@
+Bakke, M. and P. Venkatesen, "Definitions of Managed Objects for the Internet Small Computer System Interface (iSCSI)", RFC 7147, DOI 10.17487/RFC7147, April 2014, <https://www.rfc-editor.org/info/rfc7147>.

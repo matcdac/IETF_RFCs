@@ -1,0 +1,1 @@
+Aboul-Magd, O., "Documentation of IANA assignments for Constraint-Based LSP setup using LDP (CR-LDP) Extensions for Automatic Switched Optical Network (ASON)", RFC 3475, DOI 10.17487/RFC3475, March 2003, <https://www.rfc-editor.org/info/rfc3475>.

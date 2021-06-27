@@ -1,0 +1,1 @@
+Bush, R., "Delegation of IP6.ARPA", BCP 49, RFC 3152, DOI 10.17487/RFC3152, August 2001, <https://www.rfc-editor.org/info/rfc3152>.

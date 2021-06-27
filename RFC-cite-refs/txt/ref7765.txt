@@ -1,0 +1,1 @@
+Hurtig, P., Brunstrom, A., Petlund, A., and M. Welzl, "TCP and Stream Control Transmission Protocol (SCTP) RTO Restart", RFC 7765, DOI 10.17487/RFC7765, February 2016, <https://www.rfc-editor.org/info/rfc7765>.

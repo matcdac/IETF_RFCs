@@ -1,0 +1,1 @@
+Renwick, J. and A. Nicholson, "IP and ARP on HIPPI", RFC 1374, DOI 10.17487/RFC1374, October 1992, <https://www.rfc-editor.org/info/rfc1374>.

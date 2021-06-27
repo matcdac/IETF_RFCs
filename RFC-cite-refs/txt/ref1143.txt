@@ -1,0 +1,1 @@
+Bernstein, D., "The Q Method of Implementing TELNET Option Negotiation", RFC 1143, DOI 10.17487/RFC1143, February 1990, <https://www.rfc-editor.org/info/rfc1143>.

@@ -1,0 +1,1 @@
+Grimstad, A., Huber, R., Sataluri, S., and M. Wahl, "Naming Plan for Internet Directory-Enabled Applications", RFC 2377, DOI 10.17487/RFC2377, September 1998, <https://www.rfc-editor.org/info/rfc2377>.

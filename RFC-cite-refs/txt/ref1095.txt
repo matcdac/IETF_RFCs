@@ -1,0 +1,1 @@
+Warrier, U. and L. Besaw, "Common Management Information Services and Protocol over TCP/IP (CMOT)", RFC 1095, DOI 10.17487/RFC1095, April 1989, <https://www.rfc-editor.org/info/rfc1095>.

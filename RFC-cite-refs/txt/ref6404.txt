@@ -1,0 +1,1 @@
+Seedorf, J., Niccolini, S., Chen, E., and H. Scholz, "Session PEERing for Multimedia INTerconnect (SPEERMINT) Security Threats and Suggested Countermeasures", RFC 6404, DOI 10.17487/RFC6404, November 2011, <https://www.rfc-editor.org/info/rfc6404>.

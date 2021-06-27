@@ -1,0 +1,1 @@
+Warrier, U., Besaw, L., LaBarre, L., and B. Handspicker, "Common Management Information Services and Protocols for the Internet (CMOT and CMIP)", RFC 1189, DOI 10.17487/RFC1189, October 1990, <https://www.rfc-editor.org/info/rfc1189>.

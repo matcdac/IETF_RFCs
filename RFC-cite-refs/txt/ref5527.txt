@@ -1,0 +1,1 @@
+Haberler, M., Lendl, O., and R. Stastny, "Combined User and Infrastructure ENUM in the e164.arpa Tree", RFC 5527, DOI 10.17487/RFC5527, May 2009, <https://www.rfc-editor.org/info/rfc5527>.

@@ -1,0 +1,1 @@
+Ellermann, F., "The 'news' and 'nntp' URI Schemes", RFC 5538, DOI 10.17487/RFC5538, April 2010, <https://www.rfc-editor.org/info/rfc5538>.

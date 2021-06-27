@@ -1,0 +1,1 @@
+Pastor, J. and M. Belinchon, "Stream Control Transmission Protocol (SCTP) Management Information Base (MIB)", RFC 3873, DOI 10.17487/RFC3873, September 2004, <https://www.rfc-editor.org/info/rfc3873>.

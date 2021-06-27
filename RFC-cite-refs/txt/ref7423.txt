@@ -1,0 +1,1 @@
+Morand, L., Ed., Fajardo, V., and H. Tschofenig, "Diameter Applications Design Guidelines", BCP 193, RFC 7423, DOI 10.17487/RFC7423, November 2014, <https://www.rfc-editor.org/info/rfc7423>.

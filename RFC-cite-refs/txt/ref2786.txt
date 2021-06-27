@@ -1,0 +1,1 @@
+St. Johns, M., "Diffie-Helman USM Key Management Information Base and Textual Convention", RFC 2786, DOI 10.17487/RFC2786, March 2000, <https://www.rfc-editor.org/info/rfc2786>.

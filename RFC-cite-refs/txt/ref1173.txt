@@ -1,0 +1,1 @@
+VanBokkelen, J., "Responsibilities of host and network managers: A summary of the "oral tradition" of the Internet", RFC 1173, DOI 10.17487/RFC1173, August 1990, <https://www.rfc-editor.org/info/rfc1173>.

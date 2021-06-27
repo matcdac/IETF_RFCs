@@ -1,0 +1,1 @@
+Lendl, O., "ENUM Validation Token Format Definition", RFC 5105, DOI 10.17487/RFC5105, December 2007, <https://www.rfc-editor.org/info/rfc5105>.

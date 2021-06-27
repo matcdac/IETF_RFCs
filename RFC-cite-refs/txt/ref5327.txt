@@ -1,0 +1,1 @@
+Farrell, S., Ramadas, M., and S. Burleigh, "Licklider Transmission Protocol - Security Extensions", RFC 5327, DOI 10.17487/RFC5327, September 2008, <https://www.rfc-editor.org/info/rfc5327>.

@@ -1,0 +1,1 @@
+Peterson, J., "Common Profile for Instant Messaging (CPIM)", RFC 3860, DOI 10.17487/RFC3860, August 2004, <https://www.rfc-editor.org/info/rfc3860>.

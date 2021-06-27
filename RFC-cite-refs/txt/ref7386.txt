@@ -1,0 +1,1 @@
+Hoffman, P. and J. Snell, "JSON Merge Patch", RFC 7386, DOI 10.17487/RFC7386, October 2014, <https://www.rfc-editor.org/info/rfc7386>.

@@ -1,0 +1,1 @@
+Chiba, M., Dommety, G., Eklund, M., Mitton, D., and B. Aboba, "Dynamic Authorization Extensions to Remote Authentication Dial In User Service (RADIUS)", RFC 3576, DOI 10.17487/RFC3576, July 2003, <https://www.rfc-editor.org/info/rfc3576>.

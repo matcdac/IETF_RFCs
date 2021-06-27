@@ -1,0 +1,1 @@
+Pereira, R., "IP Payload Compression Using DEFLATE", RFC 2394, DOI 10.17487/RFC2394, December 1998, <https://www.rfc-editor.org/info/rfc2394>.

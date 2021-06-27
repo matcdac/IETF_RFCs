@@ -1,0 +1,1 @@
+Polites, W., Wollman, W., Woo, D., and R. Langan, "Experiments with a Simple File Transfer Protocol for Radio Links using Enhanced Trivial File Transfer Protocol (ETFTP)", RFC 1986, DOI 10.17487/RFC1986, August 1996, <https://www.rfc-editor.org/info/rfc1986>.

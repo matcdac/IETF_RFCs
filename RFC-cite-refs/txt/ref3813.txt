@@ -1,0 +1,1 @@
+Srinivasan, C., Viswanathan, A., and T. Nadeau, "Multiprotocol Label Switching (MPLS) Label Switching Router (LSR) Management Information Base (MIB)", RFC 3813, DOI 10.17487/RFC3813, June 2004, <https://www.rfc-editor.org/info/rfc3813>.

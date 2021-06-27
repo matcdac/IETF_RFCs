@@ -1,0 +1,1 @@
+McDonald, I. and M. Sweet, "Internet Printing Protocol (IPP) over HTTPS Transport Binding and the 'ipps' URI Scheme", RFC 7472, DOI 10.17487/RFC7472, March 2015, <https://www.rfc-editor.org/info/rfc7472>.

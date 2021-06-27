@@ -1,0 +1,1 @@
+Brandner, R., Conroy, L., and R. Stastny, "IANA Registration for Enumservice 'web' and 'ft'", RFC 4002, DOI 10.17487/RFC4002, February 2005, <https://www.rfc-editor.org/info/rfc4002>.

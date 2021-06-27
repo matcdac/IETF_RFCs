@@ -1,0 +1,1 @@
+Holmberg, C. and J. Axell, "IANA Registration of New Session Initiation Protocol (SIP) Resource-Priority Namespace for Mission Critical Push To Talk Service", RFC 8101, DOI 10.17487/RFC8101, March 2017, <https://www.rfc-editor.org/info/rfc8101>.

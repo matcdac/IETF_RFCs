@@ -1,0 +1,1 @@
+Chen, D., Ed., Gayek, P., and S. Nix, "Definitions of Managed Objects for Data Link Switching using SMIv2", RFC 2024, DOI 10.17487/RFC2024, October 1996, <https://www.rfc-editor.org/info/rfc2024>.

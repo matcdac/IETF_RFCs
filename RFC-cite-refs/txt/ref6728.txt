@@ -1,0 +1,1 @@
+Muenz, G., Claise, B., and P. Aitken, "Configuration Data Model for the IP Flow Information Export (IPFIX) and Packet Sampling (PSAMP) Protocols", RFC 6728, DOI 10.17487/RFC6728, October 2012, <https://www.rfc-editor.org/info/rfc6728>.

@@ -1,0 +1,1 @@
+Stewart, B., "Definitions of Managed Objects for RS-232-like Hardware Devices", RFC 1317, DOI 10.17487/RFC1317, April 1992, <https://www.rfc-editor.org/info/rfc1317>.

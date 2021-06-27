@@ -1,0 +1,1 @@
+Nadeau, T., Ed., Zelig, D., Ed., and O. Nicklass, Ed., "Definitions of Textual Conventions for Pseudowire (PW) Management", RFC 5542, DOI 10.17487/RFC5542, May 2009, <https://www.rfc-editor.org/info/rfc5542>.

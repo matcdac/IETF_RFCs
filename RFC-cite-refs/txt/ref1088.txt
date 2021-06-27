@@ -1,0 +1,1 @@
+McLaughlin, L., "Standard for the transmission of IP datagrams over NetBIOS networks", STD 48, RFC 1088, DOI 10.17487/RFC1088, February 1989, <https://www.rfc-editor.org/info/rfc1088>.

@@ -1,0 +1,1 @@
+Korhonen, J., Ed., Bournelle, J., Chowdhury, K., Muhanna, A., and U. Meyer, "Diameter Proxy Mobile IPv6: Mobile Access Gateway and Local Mobility Anchor Interaction with Diameter Server", RFC 5779, DOI 10.17487/RFC5779, February 2010, <https://www.rfc-editor.org/info/rfc5779>.

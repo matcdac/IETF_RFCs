@@ -1,0 +1,1 @@
+Anderson, T. and J. Buerkle, "Requirements for the Dynamic Partitioning of Switching Elements", RFC 3532, DOI 10.17487/RFC3532, May 2003, <https://www.rfc-editor.org/info/rfc3532>.

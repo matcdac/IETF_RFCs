@@ -1,0 +1,1 @@
+Beili, E. and M. Morgenstern, "Ethernet-Based xDSL Multi-Pair Bonding (G.Bond/Ethernet) MIB", RFC 6767, DOI 10.17487/RFC6767, February 2013, <https://www.rfc-editor.org/info/rfc6767>.

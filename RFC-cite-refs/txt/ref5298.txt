@@ -1,0 +1,1 @@
+Takeda, T., Ed., Farrel, A., Ed., Ikejiri, Y., and JP. Vasseur, "Analysis of Inter-Domain Label Switched Path (LSP) Recovery", RFC 5298, DOI 10.17487/RFC5298, August 2008, <https://www.rfc-editor.org/info/rfc5298>.

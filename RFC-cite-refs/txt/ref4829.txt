@@ -1,0 +1,1 @@
+de Oliveira, J., Ed., Vasseur, JP., Ed., Chen, L., and C. Scoglio, "Label Switched Path (LSP) Preemption Policies for MPLS Traffic Engineering", RFC 4829, DOI 10.17487/RFC4829, April 2007, <https://www.rfc-editor.org/info/rfc4829>.

@@ -1,0 +1,1 @@
+Meadors, K., Ed., "Multiple Attachments for Electronic Data Interchange - Internet Integration (EDIINT)", RFC 6362, DOI 10.17487/RFC6362, August 2011, <https://www.rfc-editor.org/info/rfc6362>.

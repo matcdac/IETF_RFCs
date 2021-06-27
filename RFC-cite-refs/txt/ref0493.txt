@@ -1,0 +1,1 @@
+Michener, J., Cotton, I., Kelley, K., Liddle, D., and E. Meyer, "GRAPHICS PROTOCOL", RFC 493, DOI 10.17487/RFC0493, April 1973, <https://www.rfc-editor.org/info/rfc493>.

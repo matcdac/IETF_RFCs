@@ -1,0 +1,1 @@
+Bierman, A., "Remote Monitoring MIB Extensions for Differentiated Services", RFC 3287, DOI 10.17487/RFC3287, July 2002, <https://www.rfc-editor.org/info/rfc3287>.

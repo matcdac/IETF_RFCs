@@ -1,0 +1,1 @@
+Nicklass, O. and T. Nadeau, "Managed Objects for ATM over Packet Switched Networks (PSNs)", RFC 5605, DOI 10.17487/RFC5605, July 2009, <https://www.rfc-editor.org/info/rfc5605>.

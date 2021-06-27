@@ -1,0 +1,1 @@
+Lingle, K., Mule, J-F., Maeng, J., and D. Walker, "Management Information Base for the Session Initiation Protocol (SIP)", RFC 4780, DOI 10.17487/RFC4780, April 2007, <https://www.rfc-editor.org/info/rfc4780>.

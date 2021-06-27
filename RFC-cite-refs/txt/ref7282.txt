@@ -1,0 +1,1 @@
+Resnick, P., "On Consensus and Humming in the IETF", RFC 7282, DOI 10.17487/RFC7282, June 2014, <https://www.rfc-editor.org/info/rfc7282>.

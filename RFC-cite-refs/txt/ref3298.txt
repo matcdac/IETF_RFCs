@@ -1,0 +1,1 @@
+Faynberg, I., Gato, J., Lu, H., and L. Slutsman, "Service in the Public Switched Telephone Network/Intelligent Network (PSTN/IN) Requesting InTernet Service (SPIRITS) Protocol Requirements", RFC 3298, DOI 10.17487/RFC3298, August 2002, <https://www.rfc-editor.org/info/rfc3298>.

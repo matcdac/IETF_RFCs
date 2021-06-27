@@ -1,0 +1,1 @@
+McKay, K., "RTP Payload Format for PureVoice(tm) Audio", RFC 2658, DOI 10.17487/RFC2658, August 1999, <https://www.rfc-editor.org/info/rfc2658>.

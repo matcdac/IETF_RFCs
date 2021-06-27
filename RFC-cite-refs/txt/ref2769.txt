@@ -1,0 +1,1 @@
+Villamizar, C., Alaettinoglu, C., Govindan, R., and D. Meyer, "Routing Policy System Replication", RFC 2769, DOI 10.17487/RFC2769, February 2000, <https://www.rfc-editor.org/info/rfc2769>.

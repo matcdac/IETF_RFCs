@@ -1,0 +1,1 @@
+Jackowski, S., "Native ATM Support for ST2+", RFC 1946, DOI 10.17487/RFC1946, May 1996, <https://www.rfc-editor.org/info/rfc1946>.

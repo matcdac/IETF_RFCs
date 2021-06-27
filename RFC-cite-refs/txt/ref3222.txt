@@ -1,0 +1,1 @@
+Trotter, G., "Terminology for Forwarding Information Base (FIB) based Router Performance", RFC 3222, DOI 10.17487/RFC3222, December 2001, <https://www.rfc-editor.org/info/rfc3222>.

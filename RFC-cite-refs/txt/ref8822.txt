@@ -1,0 +1,1 @@
+Allan, D., Ed., Eastlake, D., and D. Woolley, "5G Wireless Wireline Convergence User Plane Encapsulation (5WE)", RFC 8822, DOI 10.17487/RFC8822, April 2021, <https://www.rfc-editor.org/info/rfc8822>.

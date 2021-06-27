@@ -1,0 +1,1 @@
+Walden, D., "Some changes to the IMP and the IMP/Host interface", RFC 660, DOI 10.17487/RFC0660, October 1974, <https://www.rfc-editor.org/info/rfc660>.

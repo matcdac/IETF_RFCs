@@ -1,0 +1,1 @@
+Berger, L., Ed., "GMPLS - Communication of Alarm Information", RFC 4783, DOI 10.17487/RFC4783, December 2006, <https://www.rfc-editor.org/info/rfc4783>.

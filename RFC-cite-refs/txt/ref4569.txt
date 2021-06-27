@@ -1,0 +1,1 @@
+Camarillo, G., "Internet Assigned Number Authority (IANA) Registration of the Message Media Feature Tag", RFC 4569, DOI 10.17487/RFC4569, July 2006, <https://www.rfc-editor.org/info/rfc4569>.

@@ -1,0 +1,1 @@
+Shah, H., Ed., Rosen, E., Ed., Heron, G., Ed., and V. Kompella, Ed., "Address Resolution Protocol (ARP) Mediation for IP Interworking of Layer 2 VPNs", RFC 6575, DOI 10.17487/RFC6575, June 2012, <https://www.rfc-editor.org/info/rfc6575>.

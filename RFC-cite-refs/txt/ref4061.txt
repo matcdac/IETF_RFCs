@@ -1,0 +1,1 @@
+Manral, V., White, R., and A. Shaikh, "Benchmarking Basic OSPF Single Router Control Plane Convergence", RFC 4061, DOI 10.17487/RFC4061, April 2005, <https://www.rfc-editor.org/info/rfc4061>.

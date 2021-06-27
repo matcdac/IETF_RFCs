@@ -1,0 +1,1 @@
+Zelig, D., Ed., and T. Nadeau, Ed., "Pseudowire (PW) over MPLS PSN Management Information Base (MIB)", RFC 5602, DOI 10.17487/RFC5602, July 2009, <https://www.rfc-editor.org/info/rfc5602>.

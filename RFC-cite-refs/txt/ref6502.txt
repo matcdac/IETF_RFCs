@@ -1,0 +1,1 @@
+Camarillo, G., Srinivasan, S., Even, R., and J. Urpalainen, "Conference Event Package Data Format Extension for Centralized Conferencing (XCON)", RFC 6502, DOI 10.17487/RFC6502, March 2012, <https://www.rfc-editor.org/info/rfc6502>.

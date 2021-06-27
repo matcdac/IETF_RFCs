@@ -1,0 +1,1 @@
+Housley, R., Horting, T., and P. Yee, "TELNET Authentication Using DSA", RFC 2943, DOI 10.17487/RFC2943, September 2000, <https://www.rfc-editor.org/info/rfc2943>.

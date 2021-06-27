@@ -1,0 +1,1 @@
+Varada, S., Ed., "Negotiation for IPv6 Datagram Compression Using IPv6 Control Protocol", RFC 5172, DOI 10.17487/RFC5172, March 2008, <https://www.rfc-editor.org/info/rfc5172>.

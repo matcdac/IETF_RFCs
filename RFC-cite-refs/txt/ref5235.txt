@@ -1,0 +1,1 @@
+Daboo, C., "Sieve Email Filtering: Spamtest and Virustest Extensions", RFC 5235, DOI 10.17487/RFC5235, January 2008, <https://www.rfc-editor.org/info/rfc5235>.

@@ -1,0 +1,1 @@
+Bradner, S., "Intellectual Property Rights in IETF Technology", RFC 3668, DOI 10.17487/RFC3668, February 2004, <https://www.rfc-editor.org/info/rfc3668>.

@@ -1,0 +1,1 @@
+Lonnfors, M., Leppanen, E., Khartabil, H., and J. Urpalainen, "Presence Information Data Format (PIDF) Extension for Partial Presence", RFC 5262, DOI 10.17487/RFC5262, September 2008, <https://www.rfc-editor.org/info/rfc5262>.

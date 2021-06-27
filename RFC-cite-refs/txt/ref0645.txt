@@ -1,0 +1,1 @@
+Crocker, D., "Network Standard Data Specification syntax", RFC 645, DOI 10.17487/RFC0645, June 1974, <https://www.rfc-editor.org/info/rfc645>.

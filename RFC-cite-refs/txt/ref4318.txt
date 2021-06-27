@@ -1,0 +1,1 @@
+Levi, D. and D. Harrington, "Definitions of Managed Objects for Bridges with Rapid Spanning Tree Protocol", RFC 4318, DOI 10.17487/RFC4318, December 2005, <https://www.rfc-editor.org/info/rfc4318>.

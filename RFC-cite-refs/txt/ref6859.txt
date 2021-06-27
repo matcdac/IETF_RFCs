@@ -1,0 +1,1 @@
+Leiba, B., "Update to RFC 3777 to Clarify Nominating Committee Eligibility of IETF Leadership", RFC 6859, DOI 10.17487/RFC6859, January 2013, <https://www.rfc-editor.org/info/rfc6859>.

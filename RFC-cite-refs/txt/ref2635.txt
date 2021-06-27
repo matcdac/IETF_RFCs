@@ -1,0 +1,1 @@
+Hambridge, S. and A. Lunde, "DON'T SPEW A Set of Guidelines for Mass Unsolicited Mailings and Postings (spam*)", FYI 35, RFC 2635, DOI 10.17487/RFC2635, June 1999, <https://www.rfc-editor.org/info/rfc2635>.

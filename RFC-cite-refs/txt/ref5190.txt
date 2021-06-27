@@ -1,0 +1,1 @@
+Quittek, J., Stiemerling, M., and P. Srisuresh, "Definitions of Managed Objects for Middlebox Communication", RFC 5190, DOI 10.17487/RFC5190, March 2008, <https://www.rfc-editor.org/info/rfc5190>.

@@ -1,0 +1,1 @@
+Krilanovich, M., "Announcement of a Mail Facility at UCSB", RFC 574, DOI 10.17487/RFC0574, September 1973, <https://www.rfc-editor.org/info/rfc574>.

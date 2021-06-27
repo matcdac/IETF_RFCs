@@ -1,0 +1,1 @@
+Ali, Z., Bonfanti, A., Hartley, M., and F. Zhang, "RSVP-TE Extension for Additional Signal Types in G.709 Optical Transport Networks (OTNs)", RFC 7963, DOI 10.17487/RFC7963, August 2016, <https://www.rfc-editor.org/info/rfc7963>.

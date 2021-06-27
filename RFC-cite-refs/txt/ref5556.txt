@@ -1,0 +1,1 @@
+Touch, J. and R. Perlman, "Transparent Interconnection of Lots of Links (TRILL): Problem and Applicability Statement", RFC 5556, DOI 10.17487/RFC5556, May 2009, <https://www.rfc-editor.org/info/rfc5556>.

@@ -1,0 +1,1 @@
+Gould, J., Tan, W., and G. Brown, "Launch Phase Mapping for the Extensible Provisioning Protocol (EPP)", RFC 8334, DOI 10.17487/RFC8334, March 2018, <https://www.rfc-editor.org/info/rfc8334>.

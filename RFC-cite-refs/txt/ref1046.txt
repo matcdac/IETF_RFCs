@@ -1,0 +1,1 @@
+Prue, W. and J. Postel, "Queuing algorithm to provide type-of-service for IP links", RFC 1046, DOI 10.17487/RFC1046, February 1988, <https://www.rfc-editor.org/info/rfc1046>.

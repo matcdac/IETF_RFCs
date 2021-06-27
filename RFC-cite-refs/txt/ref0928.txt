@@ -1,0 +1,1 @@
+Padlipsky, M., "Introduction to proposed DoD standard H-FP", RFC 928, DOI 10.17487/RFC0928, December 1984, <https://www.rfc-editor.org/info/rfc928>.

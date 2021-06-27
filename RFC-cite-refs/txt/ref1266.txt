@@ -1,0 +1,1 @@
+Rekhter, Y., "Experience with the BGP Protocol", RFC 1266, DOI 10.17487/RFC1266, October 1991, <https://www.rfc-editor.org/info/rfc1266>.

@@ -1,0 +1,1 @@
+Shen, N. and H. Smit, "Dynamic Hostname Exchange Mechanism for IS-IS", RFC 2763, DOI 10.17487/RFC2763, February 2000, <https://www.rfc-editor.org/info/rfc2763>.

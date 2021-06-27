@@ -1,0 +1,1 @@
+Sharikov, S., Miloshevic, D., and J. Klensin, "Internationalized Domain Names Registration and Administration Guidelines for European Languages Using Cyrillic", RFC 5992, DOI 10.17487/RFC5992, October 2010, <https://www.rfc-editor.org/info/rfc5992>.

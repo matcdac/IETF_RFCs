@@ -1,0 +1,1 @@
+Edwards, T., "A Uniform Resource Name (URN) Namespace for the Society of Motion Picture and Television Engineers (SMPTE)", RFC 5119, DOI 10.17487/RFC5119, February 2008, <https://www.rfc-editor.org/info/rfc5119>.

@@ -1,0 +1,1 @@
+Noble, B., "UCLA Campus Computing Network Liaison Staff for ARPA Network", RFC 389, DOI 10.17487/RFC0389, August 1972, <https://www.rfc-editor.org/info/rfc389>.

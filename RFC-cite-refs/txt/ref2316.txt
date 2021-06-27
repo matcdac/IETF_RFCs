@@ -1,0 +1,1 @@
+Bellovin, S., "Report of the IAB Security Architecture Workshop", RFC 2316, DOI 10.17487/RFC2316, April 1998, <https://www.rfc-editor.org/info/rfc2316>.

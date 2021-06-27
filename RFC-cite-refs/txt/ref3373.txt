@@ -1,0 +1,1 @@
+Katz, D. and R. Saluja, "Three-Way Handshake for Intermediate System to Intermediate System (IS-IS) Point-to-Point Adjacencies", RFC 3373, DOI 10.17487/RFC3373, September 2002, <https://www.rfc-editor.org/info/rfc3373>.

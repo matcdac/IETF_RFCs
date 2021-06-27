@@ -1,0 +1,1 @@
+Melnikov, A., "Lightweight Directory Access Protocol (LDAP) Schema for Storing Salted Challenge Response Authentication Mechanism (SCRAM) Secrets", RFC 5803, DOI 10.17487/RFC5803, July 2010, <https://www.rfc-editor.org/info/rfc5803>.

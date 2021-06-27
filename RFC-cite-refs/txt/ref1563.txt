@@ -1,0 +1,1 @@
+Borenstein, N., "The text/enriched MIME Content-type", RFC 1563, DOI 10.17487/RFC1563, January 1994, <https://www.rfc-editor.org/info/rfc1563>.

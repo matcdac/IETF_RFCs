@@ -1,0 +1,1 @@
+Hagino, J. and H. Snyder, "IPv6 Multihoming Support at Site Exit Routers", RFC 3178, DOI 10.17487/RFC3178, October 2001, <https://www.rfc-editor.org/info/rfc3178>.

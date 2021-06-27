@@ -1,0 +1,1 @@
+Katsube, Y., Nagami, K., and H. Esaki, "Toshiba's Router Architecture Extensions for ATM : Overview", RFC 2098, DOI 10.17487/RFC2098, February 1997, <https://www.rfc-editor.org/info/rfc2098>.

@@ -1,0 +1,1 @@
+Kompella, K., Rekhter, Y., and A. Kullberg, "Signalling Unnumbered Links in CR-LDP (Constraint-Routing Label Distribution Protocol)", RFC 3480, DOI 10.17487/RFC3480, February 2003, <https://www.rfc-editor.org/info/rfc3480>.

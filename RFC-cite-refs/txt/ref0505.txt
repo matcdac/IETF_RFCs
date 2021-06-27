@@ -1,0 +1,1 @@
+Padlipsky, M., "Two solutions to a file transfer access problem", RFC 505, DOI 10.17487/RFC0505, June 1973, <https://www.rfc-editor.org/info/rfc505>.

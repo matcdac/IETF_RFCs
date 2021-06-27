@@ -1,0 +1,1 @@
+Ginsberg, L., Litkowski, S., and S. Previdi, "IS-IS Route Preference for Extended IP and IPv6 Reachability", RFC 7775, DOI 10.17487/RFC7775, February 2016, <https://www.rfc-editor.org/info/rfc7775>.

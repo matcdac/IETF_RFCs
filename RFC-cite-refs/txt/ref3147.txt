@@ -1,0 +1,1 @@
+Christian, P., "Generic Routing Encapsulation over CLNS Networks", RFC 3147, DOI 10.17487/RFC3147, July 2001, <https://www.rfc-editor.org/info/rfc3147>.

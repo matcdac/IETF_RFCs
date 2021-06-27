@@ -1,0 +1,1 @@
+Bush, R., Austein, R., Patel, K., Gredler, H., and M. Waehlisch, "Resource Public Key Infrastructure (RPKI) Router Implementation Report", RFC 7128, DOI 10.17487/RFC7128, February 2014, <https://www.rfc-editor.org/info/rfc7128>.

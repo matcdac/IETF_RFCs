@@ -1,0 +1,1 @@
+Winter, R., Hill, J., and W. Greiff, "Further datalanguage design concepts", RFC 610, DOI 10.17487/RFC0610, December 1973, <https://www.rfc-editor.org/info/rfc610>.

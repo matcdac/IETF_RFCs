@@ -1,0 +1,1 @@
+Krueger, M. and R. Haagens, "Small Computer Systems Interface protocol over the Internet (iSCSI) Requirements and Design Considerations", RFC 3347, DOI 10.17487/RFC3347, July 2002, <https://www.rfc-editor.org/info/rfc3347>.

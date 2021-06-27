@@ -1,0 +1,1 @@
+Pan, P., Aldrin, S., Venkatesan, M., Sampath, K., Nadeau, T., and S. Boutros, "MPLS Transport Profile (MPLS-TP) Operations, Administration, and Maintenance (OAM) Identifiers Management Information Base (MIB)", RFC 7697, DOI 10.17487/RFC7697, January 2016, <https://www.rfc-editor.org/info/rfc7697>.

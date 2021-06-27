@@ -1,0 +1,1 @@
+Williamson, S. and L. Nobile, "Transition of Nic Services", RFC 1261, DOI 10.17487/RFC1261, September 1991, <https://www.rfc-editor.org/info/rfc1261>.

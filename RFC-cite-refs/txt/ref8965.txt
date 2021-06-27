@@ -1,0 +1,1 @@
+Chroboczek, J., "Applicability of the Babel Routing Protocol", RFC 8965, DOI 10.17487/RFC8965, January 2021, <https://www.rfc-editor.org/info/rfc8965>.

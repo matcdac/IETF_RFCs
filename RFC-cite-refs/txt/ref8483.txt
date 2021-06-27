@@ -1,0 +1,1 @@
+Song, L., Ed., Liu, D., Vixie, P., Kato, A., and S. Kerr, "Yeti DNS Testbed", RFC 8483, DOI 10.17487/RFC8483, October 2018, <https://www.rfc-editor.org/info/rfc8483>.

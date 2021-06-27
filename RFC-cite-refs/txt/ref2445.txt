@@ -1,0 +1,1 @@
+Dawson, F. and D. Stenerson, "Internet Calendaring and Scheduling Core Object Specification (iCalendar)", RFC 2445, DOI 10.17487/RFC2445, November 1998, <https://www.rfc-editor.org/info/rfc2445>.

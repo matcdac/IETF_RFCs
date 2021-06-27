@@ -1,0 +1,1 @@
+Petrie, D. and S. Channabasappa, Ed., "A Framework for Session Initiation Protocol User Agent Profile Delivery", RFC 6080, DOI 10.17487/RFC6080, March 2011, <https://www.rfc-editor.org/info/rfc6080>.

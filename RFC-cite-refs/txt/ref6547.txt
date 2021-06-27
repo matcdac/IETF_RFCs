@@ -1,0 +1,1 @@
+George, W., "RFC 3627 to Historic Status", RFC 6547, DOI 10.17487/RFC6547, February 2012, <https://www.rfc-editor.org/info/rfc6547>.

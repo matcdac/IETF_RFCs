@@ -1,0 +1,1 @@
+Taillon, M., Saad, T., Ed., Gandhi, R., Ed., Ali, Z., and M. Bhatia, "Updates to the Resource Reservation Protocol for Fast Reroute of Traffic Engineering GMPLS Label Switched Paths (LSPs)", RFC 8271, DOI 10.17487/RFC8271, October 2017, <https://www.rfc-editor.org/info/rfc8271>.

@@ -1,0 +1,1 @@
+Merkle, J., Ed., and M. Lochter, "HMAC-SHA-2 Authentication Protocols in User-Based Security Model (USM) for SNMPv3", RFC 7860, DOI 10.17487/RFC7860, April 2016, <https://www.rfc-editor.org/info/rfc7860>.

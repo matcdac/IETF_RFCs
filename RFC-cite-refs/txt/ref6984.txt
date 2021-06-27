@@ -1,0 +1,1 @@
+Wang, W., Ogawa, K., Haleplidis, E., Gao, M., and J. Hadi Salim, "Interoperability Report for Forwarding and Control Element Separation (ForCES)", RFC 6984, DOI 10.17487/RFC6984, August 2013, <https://www.rfc-editor.org/info/rfc6984>.

@@ -1,0 +1,1 @@
+Ohta, H., "Assignment of the 'OAM Alert Label' for Multiprotocol Label Switching Architecture (MPLS) Operation and Maintenance (OAM) Functions", RFC 3429, DOI 10.17487/RFC3429, November 2002, <https://www.rfc-editor.org/info/rfc3429>.

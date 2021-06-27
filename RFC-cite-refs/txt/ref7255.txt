@@ -1,0 +1,1 @@
+Allen, A., Ed., "Using the International Mobile station Equipment Identity (IMEI) Uniform Resource Name (URN) as an Instance ID", RFC 7255, DOI 10.17487/RFC7255, May 2014, <https://www.rfc-editor.org/info/rfc7255>.

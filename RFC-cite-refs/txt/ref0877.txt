@@ -1,0 +1,1 @@
+Korb, J., "Standard for the transmission of IP datagrams over public data networks", RFC 877, DOI 10.17487/RFC0877, September 1983, <https://www.rfc-editor.org/info/rfc877>.

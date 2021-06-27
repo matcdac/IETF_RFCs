@@ -1,0 +1,1 @@
+Elson, J. and A. Cerpa, "Internet Content Adaptation Protocol (ICAP)", RFC 3507, DOI 10.17487/RFC3507, April 2003, <https://www.rfc-editor.org/info/rfc3507>.

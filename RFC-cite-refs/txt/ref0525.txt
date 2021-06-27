@@ -1,0 +1,1 @@
+Parrish, W. and J. Pickens, "MIT-MATHLAB meets UCSB-OLS -an example of resource sharing", RFC 525, DOI 10.17487/RFC0525, June 1973, <https://www.rfc-editor.org/info/rfc525>.

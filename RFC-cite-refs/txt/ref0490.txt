@@ -1,0 +1,1 @@
+Pickens, J., "Surrogate RJS for UCLA-CCN", RFC 490, DOI 10.17487/RFC0490, March 1973, <https://www.rfc-editor.org/info/rfc490>.

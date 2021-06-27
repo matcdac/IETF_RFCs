@@ -1,0 +1,1 @@
+Key, R., Ed., DeLord, S., Jounay, F., Huang, L., Liu, Z., and M. Paul, "Requirements for Metro Ethernet Forum (MEF) Ethernet-Tree (E-Tree) Support in Layer 2 Virtual Private Network (L2VPN)", RFC 7152, DOI 10.17487/RFC7152, March 2014, <https://www.rfc-editor.org/info/rfc7152>.

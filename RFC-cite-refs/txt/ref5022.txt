@@ -1,0 +1,1 @@
+Van Dyke, J., Burger, E., Ed., and A. Spitzer, "Media Server Control Markup Language (MSCML) and Protocol", RFC 5022, DOI 10.17487/RFC5022, September 2007, <https://www.rfc-editor.org/info/rfc5022>.

@@ -1,0 +1,1 @@
+NetBIOS Working Group in the Defense Advanced Research Projects Agency, Internet Activities Board, and End-to-End Services Task Force, "Protocol standard for a NetBIOS service on a TCP/UDP transport: Concepts and methods", STD 19, RFC 1001, DOI 10.17487/RFC1001, March 1987, <https://www.rfc-editor.org/info/rfc1001>.

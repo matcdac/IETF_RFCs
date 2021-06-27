@@ -1,0 +1,1 @@
+Haberman, B. and J. Martin, "Internet Group Management Protocol Version 3 (IGMPv3) / Multicast Listener Discovery Version 2 (MLDv2) and Multicast Routing Protocol Interaction", RFC 5186, DOI 10.17487/RFC5186, May 2008, <https://www.rfc-editor.org/info/rfc5186>.

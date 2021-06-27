@@ -1,0 +1,1 @@
+Hoffman, P., "Representing DNS Messages in JSON", RFC 8427, DOI 10.17487/RFC8427, July 2018, <https://www.rfc-editor.org/info/rfc8427>.

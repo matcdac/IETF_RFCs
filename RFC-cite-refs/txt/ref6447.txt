@@ -1,0 +1,1 @@
+Mahy, R., Rosen, B., and H. Tschofenig, "Filtering Location Notifications in the Session Initiation Protocol (SIP)", RFC 6447, DOI 10.17487/RFC6447, January 2012, <https://www.rfc-editor.org/info/rfc6447>.

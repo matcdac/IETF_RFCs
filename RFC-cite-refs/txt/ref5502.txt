@@ -1,0 +1,1 @@
+van Elburg, J., "The SIP P-Served-User Private-Header (P-Header) for the 3GPP IP Multimedia (IM) Core Network (CN) Subsystem", RFC 5502, DOI 10.17487/RFC5502, April 2009, <https://www.rfc-editor.org/info/rfc5502>.

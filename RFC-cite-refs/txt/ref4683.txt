@@ -1,0 +1,1 @@
+Park, J., Lee, J., . Lee, H., Park, S., and T. Polk, "Internet X.509 Public Key Infrastructure Subject Identification Method (SIM)", RFC 4683, DOI 10.17487/RFC4683, October 2006, <https://www.rfc-editor.org/info/rfc4683>.

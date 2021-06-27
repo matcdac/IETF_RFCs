@@ -1,0 +1,1 @@
+Nystrom, M., "The SecurID(r) SASL Mechanism", RFC 2808, DOI 10.17487/RFC2808, April 2000, <https://www.rfc-editor.org/info/rfc2808>.

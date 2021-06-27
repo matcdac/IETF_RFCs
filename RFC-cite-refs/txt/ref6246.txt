@@ -1,0 +1,1 @@
+Sajassi, A., Ed., Brockners, F., Mohan, D., Ed., and Y. Serbest, "Virtual Private LAN Service (VPLS) Interoperability with Customer Edge (CE) Bridges", RFC 6246, DOI 10.17487/RFC6246, June 2011, <https://www.rfc-editor.org/info/rfc6246>.

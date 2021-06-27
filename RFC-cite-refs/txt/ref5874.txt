@@ -1,0 +1,1 @@
+Rosenberg, J. and J. Urpalainen, "An Extensible Markup Language (XML) Document Format for Indicating a Change in XML Configuration Access Protocol (XCAP) Resources", RFC 5874, DOI 10.17487/RFC5874, May 2010, <https://www.rfc-editor.org/info/rfc5874>.

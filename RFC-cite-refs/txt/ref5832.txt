@@ -1,0 +1,1 @@
+Dolmatov, V., Ed., "GOST R 34.10-2001: Digital Signature Algorithm", RFC 5832, DOI 10.17487/RFC5832, March 2010, <https://www.rfc-editor.org/info/rfc5832>.

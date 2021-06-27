@@ -1,0 +1,1 @@
+Wahl, M., Coulbeck, A., Howes, T., and S. Kille, "Lightweight Directory Access Protocol (v3): Attribute Syntax Definitions", RFC 2252, DOI 10.17487/RFC2252, December 1997, <https://www.rfc-editor.org/info/rfc2252>.

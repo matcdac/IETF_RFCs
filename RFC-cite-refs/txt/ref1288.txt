@@ -1,0 +1,1 @@
+Zimmerman, D., "The Finger User Information Protocol", RFC 1288, DOI 10.17487/RFC1288, December 1991, <https://www.rfc-editor.org/info/rfc1288>.

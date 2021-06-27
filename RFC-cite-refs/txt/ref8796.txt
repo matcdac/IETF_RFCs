@@ -1,0 +1,1 @@
+Taillon, M., Saad, T., Ed., Gandhi, R., Deshmukh, A., Jork, M., and V. Beeram, "RSVP-TE Summary Fast Reroute Extensions for Label Switched Path (LSP) Tunnels", RFC 8796, DOI 10.17487/RFC8796, July 2020, <https://www.rfc-editor.org/info/rfc8796>.

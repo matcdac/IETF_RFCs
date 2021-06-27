@@ -1,0 +1,1 @@
+Resnick, P. and A. Walker, "The text/enriched MIME Content-type", RFC 1896, DOI 10.17487/RFC1896, February 1996, <https://www.rfc-editor.org/info/rfc1896>.

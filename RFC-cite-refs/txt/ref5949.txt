@@ -1,0 +1,1 @@
+Yokota, H., Chowdhury, K., Koodli, R., Patil, B., and F. Xia, "Fast Handovers for Proxy Mobile IPv6", RFC 5949, DOI 10.17487/RFC5949, September 2010, <https://www.rfc-editor.org/info/rfc5949>.

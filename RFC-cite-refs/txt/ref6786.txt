@@ -1,0 +1,1 @@
+Yegin, A. and R. Cragie, "Encrypting the Protocol for Carrying Authentication for Network Access (PANA) Attribute-Value Pairs", RFC 6786, DOI 10.17487/RFC6786, November 2012, <https://www.rfc-editor.org/info/rfc6786>.

@@ -1,0 +1,1 @@
+Vaughan, O., "A Convention For Using Legal Names as Domain Names", RFC 2352, DOI 10.17487/RFC2352, May 1998, <https://www.rfc-editor.org/info/rfc2352>.

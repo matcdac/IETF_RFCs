@@ -1,0 +1,1 @@
+Clements, R., "Tenex NCP finite state machine for connections", RFC 689, DOI 10.17487/RFC0689, May 1975, <https://www.rfc-editor.org/info/rfc689>.

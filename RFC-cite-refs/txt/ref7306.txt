@@ -1,0 +1,1 @@
+Shah, H., Marti, F., Noureddine, W., Eiriksson, A., and R. Sharp, "Remote Direct Memory Access (RDMA) Protocol Extensions", RFC 7306, DOI 10.17487/RFC7306, June 2014, <https://www.rfc-editor.org/info/rfc7306>.

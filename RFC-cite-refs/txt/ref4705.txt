@@ -1,0 +1,1 @@
+Housley, R. and A. Corry, "GigaBeam High-Speed Radio Link Encryption", RFC 4705, DOI 10.17487/RFC4705, October 2006, <https://www.rfc-editor.org/info/rfc4705>.

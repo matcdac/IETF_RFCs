@@ -1,0 +1,1 @@
+Cerf, V., "Comments on NCP/TCP mail service transition strategy", RFC 773, DOI 10.17487/RFC0773, October 1980, <https://www.rfc-editor.org/info/rfc773>.

@@ -1,0 +1,1 @@
+Gellens, R., Rosen, B., and H. Tschofenig, "Next-Generation Vehicle-Initiated Emergency Calls", RFC 8148, DOI 10.17487/RFC8148, May 2017, <https://www.rfc-editor.org/info/rfc8148>.

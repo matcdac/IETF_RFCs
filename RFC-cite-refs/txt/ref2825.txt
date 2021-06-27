@@ -1,0 +1,1 @@
+IAB and L. Daigle, Ed., "A Tangled Web: Issues of I18N, Domain Names, and the Other Internet protocols", RFC 2825, DOI 10.17487/RFC2825, May 2000, <https://www.rfc-editor.org/info/rfc2825>.

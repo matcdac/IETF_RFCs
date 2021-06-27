@@ -1,0 +1,1 @@
+Park, J., Lee, S., Kim, J., and J. Lee, "Use of the SEED Encryption Algorithm in Cryptographic Message Syntax (CMS)", RFC 4010, DOI 10.17487/RFC4010, February 2005, <https://www.rfc-editor.org/info/rfc4010>.

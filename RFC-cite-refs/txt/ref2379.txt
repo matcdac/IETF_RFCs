@@ -1,0 +1,1 @@
+Berger, L., "RSVP over ATM Implementation Guidelines", BCP 24, RFC 2379, DOI 10.17487/RFC2379, August 1998, <https://www.rfc-editor.org/info/rfc2379>.

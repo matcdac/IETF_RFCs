@@ -1,0 +1,1 @@
+McKenzie, A., "File Transfer Protocol - meeting announcement and a new proposed document", RFC 454, DOI 10.17487/RFC0454, February 1973, <https://www.rfc-editor.org/info/rfc454>.

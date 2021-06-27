@@ -1,0 +1,1 @@
+Hinden, R., "Host Monitoring Protocol", RFC 869, DOI 10.17487/RFC0869, December 1983, <https://www.rfc-editor.org/info/rfc869>.

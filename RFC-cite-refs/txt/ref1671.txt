@@ -1,0 +1,1 @@
+Carpenter, B., "IPng White Paper on Transition and Other Considerations", RFC 1671, DOI 10.17487/RFC1671, August 1994, <https://www.rfc-editor.org/info/rfc1671>.

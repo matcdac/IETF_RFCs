@@ -1,0 +1,1 @@
+Santesson, S. and N. Pope, "ESSCertIDv2 Update for RFC 3161", RFC 5816, DOI 10.17487/RFC5816, April 2010, <https://www.rfc-editor.org/info/rfc5816>.

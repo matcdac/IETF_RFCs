@@ -1,0 +1,1 @@
+Freed, N., Klensin, J., and J. Postel, "Multipurpose Internet Mail Extensions (MIME) Part Four: Registration Procedures", RFC 2048, DOI 10.17487/RFC2048, November 1996, <https://www.rfc-editor.org/info/rfc2048>.

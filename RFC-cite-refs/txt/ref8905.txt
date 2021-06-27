@@ -1,0 +1,1 @@
+Dold, F. and C. Grothoff, "The 'payto' URI Scheme for Payments", RFC 8905, DOI 10.17487/RFC8905, October 2020, <https://www.rfc-editor.org/info/rfc8905>.

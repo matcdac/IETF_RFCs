@@ -1,0 +1,1 @@
+Lindberg, G., "Anti-Spam Recommendations for SMTP MTAs", BCP 30, RFC 2505, DOI 10.17487/RFC2505, February 1999, <https://www.rfc-editor.org/info/rfc2505>.

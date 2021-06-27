@@ -1,0 +1,1 @@
+Huang, R., "RTP Control Protocol (RTCP) Extended Report (XR) Block for Loss Concealment Metrics for Video Applications", RFC 7867, DOI 10.17487/RFC7867, July 2016, <https://www.rfc-editor.org/info/rfc7867>.

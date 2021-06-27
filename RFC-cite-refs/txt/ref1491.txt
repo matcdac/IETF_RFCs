@@ -1,0 +1,1 @@
+Weider, C. and R. Wright, "A Survey of Advanced Usages of X.500", FYI 21, RFC 1491, DOI 10.17487/RFC1491, July 1993, <https://www.rfc-editor.org/info/rfc1491>.

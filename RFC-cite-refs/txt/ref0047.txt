@@ -1,0 +1,1 @@
+Postel, J. and S. Crocker, "BBN's Comments on NWG/RFC #33", RFC 47, DOI 10.17487/RFC0047, April 1970, <https://www.rfc-editor.org/info/rfc47>.

@@ -1,0 +1,1 @@
+Ko, M. and A. Nezhinsky, "Internet Small Computer System Interface (iSCSI) Extensions for the Remote Direct Memory Access (RDMA) Specification", RFC 7145, DOI 10.17487/RFC7145, April 2014, <https://www.rfc-editor.org/info/rfc7145>.

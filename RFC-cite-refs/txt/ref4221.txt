@@ -1,0 +1,1 @@
+Nadeau, T., Srinivasan, C., and A. Farrel, "Multiprotocol Label Switching (MPLS) Management Overview", RFC 4221, DOI 10.17487/RFC4221, November 2005, <https://www.rfc-editor.org/info/rfc4221>.

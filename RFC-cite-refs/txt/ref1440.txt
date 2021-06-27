@@ -1,0 +1,1 @@
+Troth, R., "SIFT/UFT: Sender-Initiated/Unsolicited File Transfer", RFC 1440, DOI 10.17487/RFC1440, July 1993, <https://www.rfc-editor.org/info/rfc1440>.

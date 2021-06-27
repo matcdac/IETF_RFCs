@@ -1,0 +1,1 @@
+Castineyra, I., Chiappa, N., and M. Steenstrup, "The Nimrod Routing Architecture", RFC 1992, DOI 10.17487/RFC1992, August 1996, <https://www.rfc-editor.org/info/rfc1992>.

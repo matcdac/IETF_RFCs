@@ -1,0 +1,1 @@
+Cerf, V., Kirstein, P., and B. Randell, "Network and infrastructure user requirements for transatlantic research collaboration: Brussels, July 16-18, and Washington July 24-25, 1990", RFC 1210, DOI 10.17487/RFC1210, March 1991, <https://www.rfc-editor.org/info/rfc1210>.

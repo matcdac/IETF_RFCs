@@ -1,0 +1,1 @@
+Josefsson, S., "Domain Name System Media Types", RFC 4027, DOI 10.17487/RFC4027, April 2005, <https://www.rfc-editor.org/info/rfc4027>.

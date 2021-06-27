@@ -1,0 +1,1 @@
+Brownlee, N. and E. Guttman, "Expectations for Computer Security Incident Response", BCP 21, RFC 2350, DOI 10.17487/RFC2350, June 1998, <https://www.rfc-editor.org/info/rfc2350>.

@@ -1,0 +1,1 @@
+Hornquist Astrand, L. and S. Hartman, "Generic Security Service Application Program Interface (GSS-API): Delegate if Approved by Policy", RFC 5896, DOI 10.17487/RFC5896, June 2010, <https://www.rfc-editor.org/info/rfc5896>.

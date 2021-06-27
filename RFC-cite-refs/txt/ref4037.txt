@@ -1,0 +1,1 @@
+Rousskov, A., "Open Pluggable Edge Services (OPES) Callout Protocol (OCP) Core", RFC 4037, DOI 10.17487/RFC4037, March 2005, <https://www.rfc-editor.org/info/rfc4037>.

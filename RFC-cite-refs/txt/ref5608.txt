@@ -1,0 +1,1 @@
+Narayan, K. and D. Nelson, "Remote Authentication Dial-In User Service (RADIUS) Usage for Simple Network Management Protocol (SNMP) Transport Models", RFC 5608, DOI 10.17487/RFC5608, August 2009, <https://www.rfc-editor.org/info/rfc5608>.

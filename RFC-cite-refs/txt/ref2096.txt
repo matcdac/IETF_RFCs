@@ -1,0 +1,1 @@
+Baker, F., "IP Forwarding Table MIB", RFC 2096, DOI 10.17487/RFC2096, January 1997, <https://www.rfc-editor.org/info/rfc2096>.

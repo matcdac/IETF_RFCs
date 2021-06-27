@@ -1,0 +1,1 @@
+Kleinrock, L. and H. Opderbeck, "On a possible lockup condition in IMP subnet due to message sequencing", RFC 626, DOI 10.17487/RFC0626, March 1974, <https://www.rfc-editor.org/info/rfc626>.

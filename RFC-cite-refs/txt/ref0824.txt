@@ -1,0 +1,1 @@
+MacGregor, W. and D. Tappan, "CRONUS Virtual Local Network", RFC 824, DOI 10.17487/RFC0824, August 1982, <https://www.rfc-editor.org/info/rfc824>.

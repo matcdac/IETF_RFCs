@@ -1,0 +1,1 @@
+Khartabil, H., Leppanen, E., Lonnfors, M., and J. Costa-Requena, "An Extensible Markup Language (XML)-Based Format for Event Notification Filtering", RFC 4661, DOI 10.17487/RFC4661, September 2006, <https://www.rfc-editor.org/info/rfc4661>.

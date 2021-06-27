@@ -1,0 +1,1 @@
+White, J., "Elements of a Distributed Programming System", RFC 708, DOI 10.17487/RFC0708, January 1976, <https://www.rfc-editor.org/info/rfc708>.

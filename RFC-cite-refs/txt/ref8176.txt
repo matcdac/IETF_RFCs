@@ -1,0 +1,1 @@
+Jones, M., Hunt, P., and A. Nadalin, "Authentication Method Reference Values", RFC 8176, DOI 10.17487/RFC8176, June 2017, <https://www.rfc-editor.org/info/rfc8176>.

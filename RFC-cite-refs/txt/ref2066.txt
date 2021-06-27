@@ -1,0 +1,1 @@
+Gellens, R., "TELNET CHARSET Option", RFC 2066, DOI 10.17487/RFC2066, January 1997, <https://www.rfc-editor.org/info/rfc2066>.

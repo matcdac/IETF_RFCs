@@ -1,0 +1,1 @@
+Simpson, W., "The PPP Internetworking Packet Exchange Control Protocol (IPXCP)", RFC 1552, DOI 10.17487/RFC1552, December 1993, <https://www.rfc-editor.org/info/rfc1552>.

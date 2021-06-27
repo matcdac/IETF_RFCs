@@ -1,0 +1,1 @@
+Martin, L. and M. Schertler, "Using the Boneh-Franklin and Boneh-Boyen Identity-Based Encryption Algorithms with the Cryptographic Message Syntax (CMS)", RFC 5409, DOI 10.17487/RFC5409, January 2009, <https://www.rfc-editor.org/info/rfc5409>.

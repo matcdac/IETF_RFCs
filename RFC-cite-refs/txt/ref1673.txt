@@ -1,0 +1,1 @@
+Skelton, R., "Electric Power Research Institute Comments on IPng", RFC 1673, DOI 10.17487/RFC1673, August 1994, <https://www.rfc-editor.org/info/rfc1673>.

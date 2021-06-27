@@ -1,0 +1,1 @@
+Rekhter, Y., Moskowitz, B., Karrenberg, D., and G. de Groot, "Address Allocation for Private Internets", RFC 1597, DOI 10.17487/RFC1597, March 1994, <https://www.rfc-editor.org/info/rfc1597>.

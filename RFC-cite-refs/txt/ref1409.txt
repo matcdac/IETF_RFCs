@@ -1,0 +1,1 @@
+Borman, D., Ed., "Telnet Authentication Option", RFC 1409, DOI 10.17487/RFC1409, January 1993, <https://www.rfc-editor.org/info/rfc1409>.

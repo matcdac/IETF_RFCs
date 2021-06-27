@@ -1,0 +1,1 @@
+Bajko, G. and S. Das, "Dynamic Host Configuration Protocol (DHCPv4 and DHCPv6) Options for IEEE 802.21 Mobility Services (MoS) Discovery", RFC 5678, DOI 10.17487/RFC5678, December 2009, <https://www.rfc-editor.org/info/rfc5678>.

@@ -1,0 +1,1 @@
+Hannu, H., Christoffersson, J., Forsgren, S., Leung, K.-C., Liu, Z., and R. Price, "Signaling Compression (SigComp) - Extended Operations", RFC 3321, DOI 10.17487/RFC3321, January 2003, <https://www.rfc-editor.org/info/rfc3321>.

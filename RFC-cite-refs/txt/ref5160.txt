@@ -1,0 +1,1 @@
+Levis, P. and M. Boucadair, "Considerations of Provider-to-Provider Agreements for Internet-Scale Quality of Service (QoS)", RFC 5160, DOI 10.17487/RFC5160, March 2008, <https://www.rfc-editor.org/info/rfc5160>.

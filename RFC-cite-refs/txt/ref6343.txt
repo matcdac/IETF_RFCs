@@ -1,0 +1,1 @@
+Carpenter, B., "Advisory Guidelines for 6to4 Deployment", RFC 6343, DOI 10.17487/RFC6343, August 2011, <https://www.rfc-editor.org/info/rfc6343>.

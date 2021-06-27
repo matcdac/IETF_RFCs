@@ -1,0 +1,1 @@
+Rekhter, Y., Bonica, R., and E. Rosen, "Use of Provider Edge to Provider Edge (PE-PE) Generic Routing Encapsulation (GRE) or IP in BGP/MPLS IP Virtual Private Networks", RFC 4797, DOI 10.17487/RFC4797, January 2007, <https://www.rfc-editor.org/info/rfc4797>.

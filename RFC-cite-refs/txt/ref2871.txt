@@ -1,0 +1,1 @@
+Rosenberg, J. and H. Schulzrinne, "A Framework for Telephony Routing over IP", RFC 2871, DOI 10.17487/RFC2871, June 2000, <https://www.rfc-editor.org/info/rfc2871>.

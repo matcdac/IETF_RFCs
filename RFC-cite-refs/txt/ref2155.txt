@@ -1,0 +1,1 @@
+Clouston, B. and B. Moore, "Definitions of Managed Objects for APPN using SMIv2", RFC 2155, DOI 10.17487/RFC2155, June 1997, <https://www.rfc-editor.org/info/rfc2155>.

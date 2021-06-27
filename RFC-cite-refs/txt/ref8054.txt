@@ -1,0 +1,1 @@
+Murchison, K. and J. Elie, "Network News Transfer Protocol (NNTP) Extension for Compression", RFC 8054, DOI 10.17487/RFC8054, January 2017, <https://www.rfc-editor.org/info/rfc8054>.

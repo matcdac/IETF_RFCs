@@ -1,0 +1,1 @@
+Apple, C. and K. Rossen, "X.500 Implementations Catalog-96", FYI 11, RFC 2116, DOI 10.17487/RFC2116, April 1997, <https://www.rfc-editor.org/info/rfc2116>.

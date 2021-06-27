@@ -1,0 +1,1 @@
+McKenzie, A., "Link Number Assignments", RFC 179, DOI 10.17487/RFC0179, June 1971, <https://www.rfc-editor.org/info/rfc179>.

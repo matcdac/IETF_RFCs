@@ -1,0 +1,1 @@
+Klensin, J., "Application Techniques for Checking and Transformation of Names", RFC 3696, DOI 10.17487/RFC3696, February 2004, <https://www.rfc-editor.org/info/rfc3696>.

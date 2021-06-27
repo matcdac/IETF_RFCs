@@ -1,0 +1,1 @@
+Palme, J., "Common Internet Message Headers", RFC 2076, DOI 10.17487/RFC2076, February 1997, <https://www.rfc-editor.org/info/rfc2076>.

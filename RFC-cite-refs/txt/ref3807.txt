@@ -1,0 +1,1 @@
+Weilandt, E., Khanchandani, N., and S. Rao, "V5.2-User Adaptation Layer (V5UA)", RFC 3807, DOI 10.17487/RFC3807, June 2004, <https://www.rfc-editor.org/info/rfc3807>.

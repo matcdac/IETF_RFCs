@@ -1,0 +1,1 @@
+National Research Council, "Executive summary of the NRC report on transport protocols for Department of Defense data networks", RFC 939, DOI 10.17487/RFC0939, February 1985, <https://www.rfc-editor.org/info/rfc939>.

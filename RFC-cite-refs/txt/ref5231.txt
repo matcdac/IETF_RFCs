@@ -1,0 +1,1 @@
+Segmuller, W. and B. Leiba, "Sieve Email Filtering: Relational Extension", RFC 5231, DOI 10.17487/RFC5231, January 2008, <https://www.rfc-editor.org/info/rfc5231>.

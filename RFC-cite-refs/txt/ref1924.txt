@@ -1,0 +1,1 @@
+Elz, R., "A Compact Representation of IPv6 Addresses", RFC 1924, DOI 10.17487/RFC1924, April 1 1996, <https://www.rfc-editor.org/info/rfc1924>.

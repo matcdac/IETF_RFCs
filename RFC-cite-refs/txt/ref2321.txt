@@ -1,0 +1,1 @@
+Bressen, A., "RITA -- The Reliable Internetwork Troubleshooting Agent", RFC 2321, DOI 10.17487/RFC2321, April 1 1998, <https://www.rfc-editor.org/info/rfc2321>.

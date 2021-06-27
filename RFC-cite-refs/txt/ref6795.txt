@@ -1,0 +1,1 @@
+Hilt, V. and G. Camarillo, "A Session Initiation Protocol (SIP) Event Package for Session-Specific Policies", RFC 6795, DOI 10.17487/RFC6795, December 2012, <https://www.rfc-editor.org/info/rfc6795>.

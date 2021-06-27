@@ -1,0 +1,1 @@
+Walden, D., "Change to the Very Distant Host specification", RFC 547, DOI 10.17487/RFC0547, August 1973, <https://www.rfc-editor.org/info/rfc547>.

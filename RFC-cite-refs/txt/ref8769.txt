@@ -1,0 +1,1 @@
+Schaad, J., "Cryptographic Message Syntax (CMS) Content Types for Concise Binary Object Representation (CBOR)", RFC 8769, DOI 10.17487/RFC8769, March 2020, <https://www.rfc-editor.org/info/rfc8769>.

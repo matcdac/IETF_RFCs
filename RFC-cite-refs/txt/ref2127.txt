@@ -1,0 +1,1 @@
+Roeck, G., Ed., "ISDN Management Information Base using SMIv2", RFC 2127, DOI 10.17487/RFC2127, March 1997, <https://www.rfc-editor.org/info/rfc2127>.

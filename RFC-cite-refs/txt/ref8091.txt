@@ -1,0 +1,1 @@
+Wilde, E., "A Media Type Structured Syntax Suffix for JSON Text Sequences", RFC 8091, DOI 10.17487/RFC8091, February 2017, <https://www.rfc-editor.org/info/rfc8091>.

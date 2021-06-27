@@ -1,0 +1,1 @@
+Andersson, L., Ed., "Guidelines for Acting as an IETF Liaison to Another Organization", RFC 4691, DOI 10.17487/RFC4691, October 2006, <https://www.rfc-editor.org/info/rfc4691>.

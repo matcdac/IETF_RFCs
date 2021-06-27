@@ -1,0 +1,1 @@
+Bertz, L., Ed., Dolson, D., Ed., and Y. Lifshitz, Ed., "Diameter Credit-Control Application", RFC 8506, DOI 10.17487/RFC8506, March 2019, <https://www.rfc-editor.org/info/rfc8506>.

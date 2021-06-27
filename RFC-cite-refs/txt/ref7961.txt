@@ -1,0 +1,1 @@
+Eastlake 3rd, D. and L. Yizhou, "Transparent Interconnection of Lots of Links (TRILL): Interface Addresses APPsub-TLV", RFC 7961, DOI 10.17487/RFC7961, August 2016, <https://www.rfc-editor.org/info/rfc7961>.

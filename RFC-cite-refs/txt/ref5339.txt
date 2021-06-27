@@ -1,0 +1,1 @@
+Le Roux, JL., Ed., and D. Papadimitriou, Ed., "Evaluation of Existing GMPLS Protocols against Multi-Layer and Multi-Region Networks (MLN/MRN)", RFC 5339, DOI 10.17487/RFC5339, September 2008, <https://www.rfc-editor.org/info/rfc5339>.

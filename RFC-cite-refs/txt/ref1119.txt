@@ -1,0 +1,1 @@
+Mills, D., "Network Time Protocol (version 2) specification and implementation", RFC 1119, DOI 10.17487/RFC1119, September 1989, <https://www.rfc-editor.org/info/rfc1119>.

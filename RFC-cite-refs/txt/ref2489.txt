@@ -1,0 +1,1 @@
+Droms, R., "Procedure for Defining New DHCP Options", BCP 29, RFC 2489, DOI 10.17487/RFC2489, January 1999, <https://www.rfc-editor.org/info/rfc2489>.

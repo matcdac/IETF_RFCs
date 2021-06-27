@@ -1,0 +1,1 @@
+Cox, S., "A Uniform Resource Name (URN) Namespace for the Commission for the Management and Application of Geoscience Information (CGI)", RFC 5138, DOI 10.17487/RFC5138, February 2008, <https://www.rfc-editor.org/info/rfc5138>.

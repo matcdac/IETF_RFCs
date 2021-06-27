@@ -1,0 +1,1 @@
+Lam, H-K., Stewart, M., and A. Huynh, "Definitions of Managed Objects for the Optical Interface Type", RFC 3591, DOI 10.17487/RFC3591, September 2003, <https://www.rfc-editor.org/info/rfc3591>.

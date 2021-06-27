@@ -1,0 +1,1 @@
+Johnson, D., "NOC Internal Integrated Trouble Ticket System Functional Specification Wishlist ("NOC TT REQUIREMENTS")", RFC 1297, DOI 10.17487/RFC1297, January 1992, <https://www.rfc-editor.org/info/rfc1297>.

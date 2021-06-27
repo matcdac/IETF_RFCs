@@ -1,0 +1,1 @@
+Rehbehn, K. and D. Fowler, "Definitions of Managed Objects for Frame Relay Service", RFC 2954, DOI 10.17487/RFC2954, October 2000, <https://www.rfc-editor.org/info/rfc2954>.

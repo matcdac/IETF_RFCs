@@ -1,0 +1,1 @@
+Thomas, B. and E. Gray, "LDP Applicability", RFC 3037, DOI 10.17487/RFC3037, January 2001, <https://www.rfc-editor.org/info/rfc3037>.

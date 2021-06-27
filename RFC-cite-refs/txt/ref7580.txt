@@ -1,0 +1,1 @@
+Zhang, F., Lee, Y., Han, J., Bernstein, G., and Y. Xu, "OSPF-TE Extensions for General Network Element Constraints", RFC 7580, DOI 10.17487/RFC7580, June 2015, <https://www.rfc-editor.org/info/rfc7580>.

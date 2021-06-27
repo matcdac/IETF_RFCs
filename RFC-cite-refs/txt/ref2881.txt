@@ -1,0 +1,1 @@
+Mitton, D. and M. Beadles, "Network Access Server Requirements Next Generation (NASREQNG) NAS Model", RFC 2881, DOI 10.17487/RFC2881, July 2000, <https://www.rfc-editor.org/info/rfc2881>.

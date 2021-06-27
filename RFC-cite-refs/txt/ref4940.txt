@@ -1,0 +1,1 @@
+Kompella, K. and B. Fenner, "IANA Considerations for OSPF", BCP 130, RFC 4940, DOI 10.17487/RFC4940, July 2007, <https://www.rfc-editor.org/info/rfc4940>.

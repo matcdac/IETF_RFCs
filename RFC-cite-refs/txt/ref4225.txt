@@ -1,0 +1,1 @@
+Nikander, P., Arkko, J., Aura, T., Montenegro, G., and E. Nordmark, "Mobile IP Version 6 Route Optimization Security Design Background", RFC 4225, DOI 10.17487/RFC4225, December 2005, <https://www.rfc-editor.org/info/rfc4225>.

@@ -1,0 +1,1 @@
+Kunze, J., Littman, J., Madden, E., Scancella, J., and C. Adams, "The BagIt File Packaging Format (V1.0)", RFC 8493, DOI 10.17487/RFC8493, October 2018, <https://www.rfc-editor.org/info/rfc8493>.

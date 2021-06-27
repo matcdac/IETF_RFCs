@@ -1,0 +1,1 @@
+Moore, K., "Representation of Non-ASCII Text in Internet Message Headers", RFC 1342, DOI 10.17487/RFC1342, June 1992, <https://www.rfc-editor.org/info/rfc1342>.

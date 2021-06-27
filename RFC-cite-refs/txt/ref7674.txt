@@ -1,0 +1,1 @@
+Haas, J., Ed., "Clarification of the Flowspec Redirect Extended Community", RFC 7674, DOI 10.17487/RFC7674, October 2015, <https://www.rfc-editor.org/info/rfc7674>.

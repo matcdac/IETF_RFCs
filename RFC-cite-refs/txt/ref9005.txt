@@ -1,0 +1,1 @@
+Litkowski, S., Sivabalan, S., Tantsura, J., Hardwick, J., and C. Li, "Path Computation Element Communication Protocol (PCEP) Extension for Associating Policies and Label Switched Paths (LSPs)", RFC 9005, DOI 10.17487/RFC9005, March 2021, <https://www.rfc-editor.org/info/rfc9005>.

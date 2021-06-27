@@ -1,0 +1,1 @@
+Postel, J., "Introduction to the STD Notes", RFC 1311, DOI 10.17487/RFC1311, March 1992, <https://www.rfc-editor.org/info/rfc1311>.

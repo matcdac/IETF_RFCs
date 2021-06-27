@@ -1,0 +1,1 @@
+Fuqua, A., "The PPP SNA Control Protocol (SNACP)", RFC 2043, DOI 10.17487/RFC2043, October 1996, <https://www.rfc-editor.org/info/rfc2043>.

@@ -1,0 +1,1 @@
+Ogier, R., Templin, F., and M. Lewis, "Topology Dissemination Based on Reverse-Path Forwarding (TBRPF)", RFC 3684, DOI 10.17487/RFC3684, February 2004, <https://www.rfc-editor.org/info/rfc3684>.

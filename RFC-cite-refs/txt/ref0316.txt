@@ -1,0 +1,1 @@
+McKay, D. and A. Mullery, "ARPA Network Data Management Working Group", RFC 316, DOI 10.17487/RFC0316, February 1972, <https://www.rfc-editor.org/info/rfc316>.

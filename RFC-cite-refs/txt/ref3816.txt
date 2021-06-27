@@ -1,0 +1,1 @@
+Quittek, J., Stiemerling, M., and H. Hartenstein, "Definitions of Managed Objects for RObust Header Compression (ROHC)", RFC 3816, DOI 10.17487/RFC3816, June 2004, <https://www.rfc-editor.org/info/rfc3816>.

@@ -1,0 +1,1 @@
+Mule, J-F. and W. Townsley, "CableLabs - IETF Standardization Collaboration", RFC 4965, DOI 10.17487/RFC4965, September 2007, <https://www.rfc-editor.org/info/rfc4965>.

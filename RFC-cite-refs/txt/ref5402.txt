@@ -1,0 +1,1 @@
+Harding, T., Ed., "Compressed Data within an Internet Electronic Data Interchange (EDI) Message", RFC 5402, DOI 10.17487/RFC5402, February 2010, <https://www.rfc-editor.org/info/rfc5402>.

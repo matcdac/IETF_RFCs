@@ -1,0 +1,1 @@
+Cargille, A., "Postmaster Convention for X.400 Operations", RFC 1648, DOI 10.17487/RFC1648, July 1994, <https://www.rfc-editor.org/info/rfc1648>.

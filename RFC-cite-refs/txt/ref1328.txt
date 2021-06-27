@@ -1,0 +1,1 @@
+Hardcastle-Kille, S., "X.400 1988 to 1984 downgrading", RFC 1328, DOI 10.17487/RFC1328, May 1992, <https://www.rfc-editor.org/info/rfc1328>.

@@ -1,0 +1,1 @@
+Castagno, R. and D. Singer, "MIME Type Registrations for 3rd Generation Partnership Project (3GPP) Multimedia files", RFC 3839, DOI 10.17487/RFC3839, July 2004, <https://www.rfc-editor.org/info/rfc3839>.

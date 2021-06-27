@@ -1,0 +1,1 @@
+Huston, G., "Observations on the use of Components of the Class A Address Space within the Internet", RFC 2036, DOI 10.17487/RFC2036, October 1996, <https://www.rfc-editor.org/info/rfc2036>.

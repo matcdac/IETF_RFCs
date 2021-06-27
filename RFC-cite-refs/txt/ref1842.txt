@@ -1,0 +1,1 @@
+Wei, Y., Zhang, Y., Li, J., Ding, J., and Y. Jiang, "ASCII Printable Characters-Based Chinese Character Encoding for Internet Messages", RFC 1842, DOI 10.17487/RFC1842, August 1995, <https://www.rfc-editor.org/info/rfc1842>.

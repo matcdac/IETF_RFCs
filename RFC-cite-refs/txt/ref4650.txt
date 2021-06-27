@@ -1,0 +1,1 @@
+Euchner, M., "HMAC-Authenticated Diffie-Hellman for Multimedia Internet KEYing (MIKEY)", RFC 4650, DOI 10.17487/RFC4650, September 2006, <https://www.rfc-editor.org/info/rfc4650>.

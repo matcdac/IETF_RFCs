@@ -1,0 +1,1 @@
+Rekhter, Y., Lothberg, P., Hinden, R., Deering, S., and J. Postel, "An IPv6 Provider-Based Unicast Address Format", RFC 2073, DOI 10.17487/RFC2073, January 1997, <https://www.rfc-editor.org/info/rfc2073>.

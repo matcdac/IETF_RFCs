@@ -1,0 +1,1 @@
+Foster, B. and F. Andreasen, "Basic Media Gateway Control Protocol (MGCP) Packages", RFC 3660, DOI 10.17487/RFC3660, December 2003, <https://www.rfc-editor.org/info/rfc3660>.

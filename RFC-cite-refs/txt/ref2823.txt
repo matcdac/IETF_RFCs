@@ -1,0 +1,1 @@
+Carlson, J., Langner, P., Hernandez-Valencia, E., and J. Manchester, "PPP over Simple Data Link (SDL) using SONET/SDH with ATM-like framing", RFC 2823, DOI 10.17487/RFC2823, May 2000, <https://www.rfc-editor.org/info/rfc2823>.

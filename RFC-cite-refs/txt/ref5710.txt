@@ -1,0 +1,1 @@
+Berger, L., Papadimitriou, D., and JP. Vasseur, "PathErr Message Triggered MPLS and GMPLS LSP Reroutes", RFC 5710, DOI 10.17487/RFC5710, January 2010, <https://www.rfc-editor.org/info/rfc5710>.

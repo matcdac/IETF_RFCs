@@ -1,0 +1,1 @@
+Floyd, S., Ed., and J. Kempf, Ed., "IAB Concerns Regarding Congestion Control for Voice Traffic in the Internet", RFC 3714, DOI 10.17487/RFC3714, March 2004, <https://www.rfc-editor.org/info/rfc3714>.

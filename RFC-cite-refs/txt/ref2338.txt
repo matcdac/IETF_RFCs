@@ -1,0 +1,1 @@
+Knight, S., Weaver, D., Whipple, D., Hinden, R., Mitzel, D., Hunt, P., Higginson, P., Shand, M., and A. Lindem, "Virtual Router Redundancy Protocol", RFC 2338, DOI 10.17487/RFC2338, April 1998, <https://www.rfc-editor.org/info/rfc2338>.

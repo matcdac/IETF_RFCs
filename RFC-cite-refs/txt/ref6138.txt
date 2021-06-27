@@ -1,0 +1,1 @@
+Kini, S., Ed., and W. Lu, Ed., "LDP IGP Synchronization for Broadcast Networks", RFC 6138, DOI 10.17487/RFC6138, February 2011, <https://www.rfc-editor.org/info/rfc6138>.

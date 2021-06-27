@@ -1,0 +1,1 @@
+Alvestrand, H., "A MIME Body Part for FAX", RFC 2159, DOI 10.17487/RFC2159, January 1998, <https://www.rfc-editor.org/info/rfc2159>.

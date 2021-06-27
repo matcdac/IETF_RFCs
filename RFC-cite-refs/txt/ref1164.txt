@@ -1,0 +1,1 @@
+Honig, J., Katz, D., Mathis, M., Rekhter, Y., and J. Yu, "Application of the Border Gateway Protocol in the Internet", RFC 1164, DOI 10.17487/RFC1164, June 1990, <https://www.rfc-editor.org/info/rfc1164>.

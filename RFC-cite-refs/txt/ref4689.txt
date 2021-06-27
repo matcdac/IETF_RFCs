@@ -1,0 +1,1 @@
+Poretsky, S., Perser, J., Erramilli, S., and S. Khurana, "Terminology for Benchmarking Network-layer Traffic Control Mechanisms", RFC 4689, DOI 10.17487/RFC4689, October 2006, <https://www.rfc-editor.org/info/rfc4689>.

@@ -1,0 +1,1 @@
+Dreibholz, T. and M. Tuexen, "Reliable Server Pooling Policies", RFC 5356, DOI 10.17487/RFC5356, September 2008, <https://www.rfc-editor.org/info/rfc5356>.

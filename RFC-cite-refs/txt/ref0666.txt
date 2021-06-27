@@ -1,0 +1,1 @@
+Padlipsky, M., "Specification of the Unified User-Level Protocol", RFC 666, DOI 10.17487/RFC0666, November 1974, <https://www.rfc-editor.org/info/rfc666>.

@@ -1,0 +1,1 @@
+Kampanakis, P. and M. Suzuki, "Incident Object Description Exchange Format Usage Guidance", RFC 8274, DOI 10.17487/RFC8274, November 2017, <https://www.rfc-editor.org/info/rfc8274>.

@@ -1,0 +1,1 @@
+Li, A., "RTP Payload Format for Enhanced Variable Rate Codecs (EVRC) and Selectable Mode Vocoders (SMV)", RFC 3558, DOI 10.17487/RFC3558, July 2003, <https://www.rfc-editor.org/info/rfc3558>.

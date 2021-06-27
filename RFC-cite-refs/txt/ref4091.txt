@@ -1,0 +1,1 @@
+Camarillo, G. and J. Rosenberg, "The Alternative Network Address Types (ANAT) Semantics for the Session Description Protocol (SDP) Grouping Framework", RFC 4091, DOI 10.17487/RFC4091, June 2005, <https://www.rfc-editor.org/info/rfc4091>.

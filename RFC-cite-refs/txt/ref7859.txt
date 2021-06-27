@@ -1,0 +1,1 @@
+Dearlove, C., "Identity-Based Signatures for Mobile Ad Hoc Network (MANET) Routing Protocols", RFC 7859, DOI 10.17487/RFC7859, May 2016, <https://www.rfc-editor.org/info/rfc7859>.

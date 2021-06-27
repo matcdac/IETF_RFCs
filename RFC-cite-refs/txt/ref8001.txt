@@ -1,0 +1,1 @@
+Zhang, F., Ed., Gonzalez de Dios, O., Ed., Margaria, C., Hartley, M., and Z. Ali, "RSVP-TE Extensions for Collecting Shared Risk Link Group (SRLG) Information", RFC 8001, DOI 10.17487/RFC8001, January 2017, <https://www.rfc-editor.org/info/rfc8001>.

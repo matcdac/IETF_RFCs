@@ -1,0 +1,1 @@
+Walleij, L., "The application/ogg Media Type", RFC 3534, DOI 10.17487/RFC3534, May 2003, <https://www.rfc-editor.org/info/rfc3534>.

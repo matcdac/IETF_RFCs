@@ -1,0 +1,1 @@
+Postel, J., "Multimedia mail meeting notes", RFC 807, DOI 10.17487/RFC0807, February 1982, <https://www.rfc-editor.org/info/rfc807>.

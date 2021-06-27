@@ -1,0 +1,1 @@
+Brenner, M., "Diameter Policy Processing Application", RFC 5224, DOI 10.17487/RFC5224, March 2008, <https://www.rfc-editor.org/info/rfc5224>.

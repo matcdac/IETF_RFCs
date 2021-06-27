@@ -1,0 +1,1 @@
+Mills, D., "A Kernel Model for Precision Timekeeping", RFC 1589, DOI 10.17487/RFC1589, March 1994, <https://www.rfc-editor.org/info/rfc1589>.

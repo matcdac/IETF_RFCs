@@ -1,0 +1,1 @@
+Urpalainen, J. and D. Willis, Ed., "An Extensible Markup Language (XML) Configuration Access Protocol (XCAP) Diff Event Package", RFC 5875, DOI 10.17487/RFC5875, May 2010, <https://www.rfc-editor.org/info/rfc5875>.

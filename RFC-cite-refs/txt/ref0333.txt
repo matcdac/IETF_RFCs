@@ -1,0 +1,1 @@
+Bressler, R., Murphy, D., and D. Walden, "Proposed experiment with a Message Switching Protocol", RFC 333, DOI 10.17487/RFC0333, May 1972, <https://www.rfc-editor.org/info/rfc333>.

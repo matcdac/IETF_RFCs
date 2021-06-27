@@ -1,0 +1,1 @@
+Siemborski, R. and A. Gulbrandsen, "IMAP Extension for Simple Authentication and Security Layer (SASL) Initial Client Response", RFC 4959, DOI 10.17487/RFC4959, September 2007, <https://www.rfc-editor.org/info/rfc4959>.

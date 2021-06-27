@@ -1,0 +1,1 @@
+Flanagan, H., Ed., "The Use of Non-ASCII Characters in RFCs", RFC 7997, DOI 10.17487/RFC7997, December 2016, <https://www.rfc-editor.org/info/rfc7997>.

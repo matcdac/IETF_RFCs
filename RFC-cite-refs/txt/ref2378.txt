@@ -1,0 +1,1 @@
+Hedberg, R. and P. Pomes, "The CCSO Nameserver (Ph) Architecture", RFC 2378, DOI 10.17487/RFC2378, September 1998, <https://www.rfc-editor.org/info/rfc2378>.

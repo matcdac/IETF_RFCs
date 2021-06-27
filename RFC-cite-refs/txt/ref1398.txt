@@ -1,0 +1,1 @@
+Kastenholz, F., "Definitions of Managed Objects for the Ethernet-Like Interface Types", RFC 1398, DOI 10.17487/RFC1398, January 1993, <https://www.rfc-editor.org/info/rfc1398>.

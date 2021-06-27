@@ -1,0 +1,1 @@
+Barbir, A., "Open Pluggable Edge Services (OPES) Entities and End Points Communication", RFC 3897, DOI 10.17487/RFC3897, September 2004, <https://www.rfc-editor.org/info/rfc3897>.

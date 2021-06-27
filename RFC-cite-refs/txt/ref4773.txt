@@ -1,0 +1,1 @@
+Huston, G., "Administration of the IANA Special Purpose IPv6 Address Block", RFC 4773, DOI 10.17487/RFC4773, December 2006, <https://www.rfc-editor.org/info/rfc4773>.

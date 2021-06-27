@@ -1,0 +1,1 @@
+Herriot, R., Ed., Butler, S., Moore, P., Turner, R., and J. Wenn, "Internet Printing Protocol/1.1: Encoding and Transport", RFC 2910, DOI 10.17487/RFC2910, September 2000, <https://www.rfc-editor.org/info/rfc2910>.

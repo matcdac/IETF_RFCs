@@ -1,0 +1,1 @@
+Borden, M., Crawley, E., Davie, B., and S. Batsell, "Integration of Real-time Services in an IP-ATM Network Architecture", RFC 1821, DOI 10.17487/RFC1821, August 1995, <https://www.rfc-editor.org/info/rfc1821>.

@@ -1,0 +1,1 @@
+Lhotka, L., Ed., "Mapping YANG to Document Schema Definition Languages and Validating NETCONF Content", RFC 6110, DOI 10.17487/RFC6110, February 2011, <https://www.rfc-editor.org/info/rfc6110>.

@@ -1,0 +1,1 @@
+Mealling, M., "A URN Namespace of Object Identifiers", RFC 3061, DOI 10.17487/RFC3061, February 2001, <https://www.rfc-editor.org/info/rfc3061>.

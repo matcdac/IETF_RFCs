@@ -1,0 +1,1 @@
+Boschi, E., Mark, L., and B. Claise, "Reducing Redundancy in IP Flow Information Export (IPFIX) and Packet Sampling (PSAMP) Reports", RFC 5473, DOI 10.17487/RFC5473, March 2009, <https://www.rfc-editor.org/info/rfc5473>.

@@ -1,0 +1,1 @@
+Braden, R. and J. Halpern, "Procedures for Rights Handling in the RFC Independent Submission Stream", RFC 5744, DOI 10.17487/RFC5744, December 2009, <https://www.rfc-editor.org/info/rfc5744>.

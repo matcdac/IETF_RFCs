@@ -1,0 +1,1 @@
+Jin, L., Ed., Key, R., Ed., Delord, S., Nadeau, T., and S. Boutros, "Update of the Pseudowire Control-Word Negotiation Mechanism", RFC 6723, DOI 10.17487/RFC6723, September 2012, <https://www.rfc-editor.org/info/rfc6723>.

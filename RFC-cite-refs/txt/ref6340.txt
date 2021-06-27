@@ -1,0 +1,1 @@
+Presuhn, R., "Textual Conventions for the Representation of Floating-Point Numbers", RFC 6340, DOI 10.17487/RFC6340, August 2011, <https://www.rfc-editor.org/info/rfc6340>.

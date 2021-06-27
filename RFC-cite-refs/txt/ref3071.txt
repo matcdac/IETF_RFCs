@@ -1,0 +1,1 @@
+Klensin, J., "Reflections on the DNS, RFC 1591, and Categories of Domains", RFC 3071, DOI 10.17487/RFC3071, February 2001, <https://www.rfc-editor.org/info/rfc3071>.

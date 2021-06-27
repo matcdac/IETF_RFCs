@@ -1,0 +1,1 @@
+Perkins, D., "Point-to-Point Protocol for the transmission of multi-protocol datagrams over Point-to-Point links", RFC 1171, DOI 10.17487/RFC1171, July 1990, <https://www.rfc-editor.org/info/rfc1171>.

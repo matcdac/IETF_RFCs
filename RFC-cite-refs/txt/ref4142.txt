@@ -1,0 +1,1 @@
+Crocker, D. and G. Klyne, "Full-mode Fax Profile for Internet Mail (FFPIM)", RFC 4142, DOI 10.17487/RFC4142, November 2005, <https://www.rfc-editor.org/info/rfc4142>.

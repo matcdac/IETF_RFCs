@@ -1,0 +1,1 @@
+Naugle, J., Kasthurirangan, K., and G. Ledford, "TN3270E Service Location and Session Balancing", RFC 3049, DOI 10.17487/RFC3049, January 2001, <https://www.rfc-editor.org/info/rfc3049>.

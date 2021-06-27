@@ -1,0 +1,1 @@
+Stenberg, M. and S. Barth, "Distributed Node Consensus Protocol", RFC 7787, DOI 10.17487/RFC7787, April 2016, <https://www.rfc-editor.org/info/rfc7787>.

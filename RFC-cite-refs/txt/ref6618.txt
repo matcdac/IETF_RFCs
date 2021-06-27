@@ -1,0 +1,1 @@
+Korhonen, J., Ed., Patil, B., Tschofenig, H., and D. Kroeselberg, "Mobile IPv6 Security Framework Using Transport Layer Security for Communication between the Mobile Node and Home Agent", RFC 6618, DOI 10.17487/RFC6618, May 2012, <https://www.rfc-editor.org/info/rfc6618>.

@@ -1,0 +1,1 @@
+Blake-Wilson, S., Karlinger, G., Kobayashi, T., and Y. Wang, "Using the Elliptic Curve Signature Algorithm (ECDSA) for XML Digital Signatures", RFC 4050, DOI 10.17487/RFC4050, April 2005, <https://www.rfc-editor.org/info/rfc4050>.

@@ -1,0 +1,1 @@
+Lin, Z. and D. Pendarakis, "Documentation of IANA assignments for Generalized MultiProtocol Label Switching (GMPLS) Resource Reservation Protocol - Traffic Engineering (RSVP-TE) Usage and Extensions for Automatically Switched Optical Network (ASON)", RFC 3474, DOI 10.17487/RFC3474, March 2003, <https://www.rfc-editor.org/info/rfc3474>.

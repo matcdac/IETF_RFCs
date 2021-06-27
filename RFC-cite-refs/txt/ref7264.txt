@@ -1,0 +1,1 @@
+Zong, N., Jiang, X., Even, R., and Y. Zhang, "An Extension to the REsource LOcation And Discovery (RELOAD) Protocol to Support Relay Peer Routing", RFC 7264, DOI 10.17487/RFC7264, June 2014, <https://www.rfc-editor.org/info/rfc7264>.

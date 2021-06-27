@@ -1,0 +1,1 @@
+Rekhter, J., "NSFNET backbone SPF based Interior Gateway Protocol", RFC 1074, DOI 10.17487/RFC1074, October 1988, <https://www.rfc-editor.org/info/rfc1074>.

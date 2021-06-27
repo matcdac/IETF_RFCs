@@ -1,0 +1,1 @@
+Walden, D., "Hosts using the IMP Going Down message", RFC 548, DOI 10.17487/RFC0548, August 1973, <https://www.rfc-editor.org/info/rfc548>.

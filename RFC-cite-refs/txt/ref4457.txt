@@ -1,0 +1,1 @@
+Camarillo, G. and G. Blanco, "The Session Initiation Protocol (SIP) P-User-Database Private-Header (P-Header)", RFC 4457, DOI 10.17487/RFC4457, April 2006, <https://www.rfc-editor.org/info/rfc4457>.

@@ -1,0 +1,1 @@
+Alvestrand, H. and P. Jurg, "Deployment of the Internet White Pages Service", BCP 15, RFC 2148, DOI 10.17487/RFC2148, September 1997, <https://www.rfc-editor.org/info/rfc2148>.

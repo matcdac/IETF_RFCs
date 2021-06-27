@@ -1,0 +1,1 @@
+Weider, C., Reynolds, J., and S. Heker, "Technical Overview of Directory Services Using the X.500 Protocol", FYI 14, RFC 1309, DOI 10.17487/RFC1309, March 1992, <https://www.rfc-editor.org/info/rfc1309>.

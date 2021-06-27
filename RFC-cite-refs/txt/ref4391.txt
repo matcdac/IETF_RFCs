@@ -1,0 +1,1 @@
+Chu, J. and V. Kashyap, "Transmission of IP over InfiniBand (IPoIB)", RFC 4391, DOI 10.17487/RFC4391, April 2006, <https://www.rfc-editor.org/info/rfc4391>.

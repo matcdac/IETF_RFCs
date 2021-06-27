@@ -1,0 +1,1 @@
+Gulbrandsen, A., King, C., and A. Melnikov, "The IMAP NOTIFY Extension", RFC 5465, DOI 10.17487/RFC5465, February 2009, <https://www.rfc-editor.org/info/rfc5465>.

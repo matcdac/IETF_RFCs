@@ -1,0 +1,1 @@
+Ryoo, J., Cheung, T., van Helvoort, H., Busi, I., and G. Wen, "Updates to MPLS Transport Profile (MPLS-TP) Linear Protection in Automatic Protection Switching (APS) Mode", RFC 8234, DOI 10.17487/RFC8234, August 2017, <https://www.rfc-editor.org/info/rfc8234>.

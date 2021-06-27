@@ -1,0 +1,1 @@
+Josefsson, S., "PKCS #5: Password-Based Key Derivation Function 2 (PBKDF2) Test Vectors", RFC 6070, DOI 10.17487/RFC6070, January 2011, <https://www.rfc-editor.org/info/rfc6070>.

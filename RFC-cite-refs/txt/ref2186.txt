@@ -1,0 +1,1 @@
+Wessels, D. and K. Claffy, "Internet Cache Protocol (ICP), version 2", RFC 2186, DOI 10.17487/RFC2186, September 1997, <https://www.rfc-editor.org/info/rfc2186>.

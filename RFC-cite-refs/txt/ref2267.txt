@@ -1,0 +1,1 @@
+Ferguson, P. and D. Senie, "Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing", RFC 2267, DOI 10.17487/RFC2267, January 1998, <https://www.rfc-editor.org/info/rfc2267>.

@@ -1,0 +1,1 @@
+Levine, J., "DNS Blacklists and Whitelists", RFC 5782, DOI 10.17487/RFC5782, February 2010, <https://www.rfc-editor.org/info/rfc5782>.

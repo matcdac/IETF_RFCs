@@ -1,0 +1,1 @@
+Khasnabish, B., Haleplidis, E., and J. Hadi Salim, Ed., "Forwarding and Control Element Separation (ForCES) Logical Functional Block (LFB) Subsidiary Management", RFC 7729, DOI 10.17487/RFC7729, December 2015, <https://www.rfc-editor.org/info/rfc7729>.

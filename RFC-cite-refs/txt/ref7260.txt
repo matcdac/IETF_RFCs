@@ -1,0 +1,1 @@
+Takacs, A., Fedyk, D., and J. He, "GMPLS RSVP-TE Extensions for Operations, Administration, and Maintenance (OAM) Configuration", RFC 7260, DOI 10.17487/RFC7260, June 2014, <https://www.rfc-editor.org/info/rfc7260>.

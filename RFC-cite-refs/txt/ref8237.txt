@@ -1,0 +1,1 @@
+Martini, L., Swallow, G., and E. Bellagamba, "MPLS Label Switched Path (LSP) Pseudowire (PW) Status Refresh Reduction for Static PWs", RFC 8237, DOI 10.17487/RFC8237, October 2017, <https://www.rfc-editor.org/info/rfc8237>.

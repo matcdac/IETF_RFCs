@@ -1,0 +1,1 @@
+Merkle, J. and M. Lochter, "Elliptic Curve Cryptography (ECC) Brainpool Curves for Transport Layer Security (TLS)", RFC 7027, DOI 10.17487/RFC7027, October 2013, <https://www.rfc-editor.org/info/rfc7027>.

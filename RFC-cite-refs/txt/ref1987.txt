@@ -1,0 +1,1 @@
+Newman, P., Edwards, W., Hinden, R., Hoffman, E., Ching Liaw, F., Lyon, T., and G. Minshall, "Ipsilon's General Switch Management Protocol Specification Version 1.1", RFC 1987, DOI 10.17487/RFC1987, August 1996, <https://www.rfc-editor.org/info/rfc1987>.

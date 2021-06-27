@@ -1,0 +1,1 @@
+Miniero, L., Garcia Murillo, S., and V. Pascual, "Guidelines for End-to-End Support of the RTP Control Protocol (RTCP) in Back-to-Back User Agents (B2BUAs)", RFC 8079, DOI 10.17487/RFC8079, February 2017, <https://www.rfc-editor.org/info/rfc8079>.

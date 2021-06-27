@@ -1,0 +1,1 @@
+Nguyen, L., Roy, A., and A. Zinin, "OSPF Restart Signaling", RFC 4812, DOI 10.17487/RFC4812, March 2007, <https://www.rfc-editor.org/info/rfc4812>.

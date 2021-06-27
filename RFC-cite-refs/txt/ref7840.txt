@@ -1,0 +1,1 @@
+Winterbottom, J., Tschofenig, H., and L. Liess, "A Routing Request Extension for the HTTP-Enabled Location Delivery (HELD) Protocol", RFC 7840, DOI 10.17487/RFC7840, May 2016, <https://www.rfc-editor.org/info/rfc7840>.

@@ -1,0 +1,1 @@
+Takacs, A., Gero, B., and H. Long, "GMPLS RSVP-TE Extensions for Ethernet Operations, Administration, and Maintenance (OAM) Configuration", RFC 7369, DOI 10.17487/RFC7369, October 2014, <https://www.rfc-editor.org/info/rfc7369>.

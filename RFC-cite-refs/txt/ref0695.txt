@@ -1,0 +1,1 @@
+Krilanovich, M., "Official change in Host-Host Protocol", RFC 695, DOI 10.17487/RFC0695, July 1975, <https://www.rfc-editor.org/info/rfc695>.

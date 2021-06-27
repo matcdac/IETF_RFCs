@@ -1,0 +1,1 @@
+Li, Y., Eastlake 3rd, D., Hao, W., Chen, H., and S. Chatterjee, "Transparent Interconnection of Lots of Links (TRILL): Using Data Labels for Tree Selection for Multi-Destination Data", RFC 7968, DOI 10.17487/RFC7968, August 2016, <https://www.rfc-editor.org/info/rfc7968>.

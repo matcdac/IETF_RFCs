@@ -1,0 +1,1 @@
+Schantz, R., "Note on Reconnection Protocol", RFC 671, DOI 10.17487/RFC0671, December 1974, <https://www.rfc-editor.org/info/rfc671>.

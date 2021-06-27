@@ -1,0 +1,1 @@
+Bosch, S., "IMAP Extension for STATUS=SIZE", RFC 8438, DOI 10.17487/RFC8438, August 2018, <https://www.rfc-editor.org/info/rfc8438>.

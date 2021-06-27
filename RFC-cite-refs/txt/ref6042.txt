@@ -1,0 +1,1 @@
+Keromytis, A., "Transport Layer Security (TLS) Authorization Using KeyNote", RFC 6042, DOI 10.17487/RFC6042, October 2010, <https://www.rfc-editor.org/info/rfc6042>.

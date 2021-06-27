@@ -1,0 +1,1 @@
+Ruffen, D., Len, T., and J. Yanacek, "Cabletron's SecureFast VLAN Operational Model", RFC 2643, DOI 10.17487/RFC2643, August 1999, <https://www.rfc-editor.org/info/rfc2643>.

@@ -1,0 +1,1 @@
+Sun Microsystems, "XDR: External Data Representation standard", RFC 1014, DOI 10.17487/RFC1014, June 1987, <https://www.rfc-editor.org/info/rfc1014>.

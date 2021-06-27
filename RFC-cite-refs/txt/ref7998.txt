@@ -1,0 +1,1 @@
+Hoffman, P. and J. Hildebrand, ""xml2rfc" Version 3 Preparation Tool Description", RFC 7998, DOI 10.17487/RFC7998, December 2016, <https://www.rfc-editor.org/info/rfc7998>.

@@ -1,0 +1,1 @@
+Kucherawy, M., "DomainKeys Identified Mail (DKIM) Authorized Third-Party Signatures", RFC 6541, DOI 10.17487/RFC6541, February 2012, <https://www.rfc-editor.org/info/rfc6541>.

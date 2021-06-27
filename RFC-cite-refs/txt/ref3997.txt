@@ -1,0 +1,1 @@
+Hastings, T., Ed., deBry, R., and H. Lewis, "Internet Printing Protocol (IPP): Requirements for IPP Notifications", RFC 3997, DOI 10.17487/RFC3997, March 2005, <https://www.rfc-editor.org/info/rfc3997>.

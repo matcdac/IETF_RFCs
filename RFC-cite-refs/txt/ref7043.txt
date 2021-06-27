@@ -1,0 +1,1 @@
+Abley, J., "Resource Records for EUI-48 and EUI-64 Addresses in the DNS", RFC 7043, DOI 10.17487/RFC7043, October 2013, <https://www.rfc-editor.org/info/rfc7043>.

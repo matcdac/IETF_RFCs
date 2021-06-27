@@ -1,0 +1,1 @@
+Walker, J. and A. Kulkarni, Ed., "Common Open Policy Service (COPS) Over Transport Layer Security (TLS)", RFC 4261, DOI 10.17487/RFC4261, December 2005, <https://www.rfc-editor.org/info/rfc4261>.

@@ -1,0 +1,1 @@
+Hannu, H., "Signaling Compression (SigComp) Requirements & Assumptions", RFC 3322, DOI 10.17487/RFC3322, January 2003, <https://www.rfc-editor.org/info/rfc3322>.

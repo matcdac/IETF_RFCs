@@ -1,0 +1,1 @@
+Gellens, R., "The SYS and AUTH POP Response Codes", RFC 3206, DOI 10.17487/RFC3206, February 2002, <https://www.rfc-editor.org/info/rfc3206>.

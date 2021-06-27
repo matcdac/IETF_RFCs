@@ -1,0 +1,1 @@
+Andreasen, F. and D. Hancock, "Media Gateway Control Protocol Fax Package", RFC 5347, DOI 10.17487/RFC5347, October 2008, <https://www.rfc-editor.org/info/rfc5347>.

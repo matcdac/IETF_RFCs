@@ -1,0 +1,1 @@
+Barnes, R., Thomson, M., Winterbottom, J., and H. Tschofenig, "Location Configuration Extensions for Policy Management", RFC 7199, DOI 10.17487/RFC7199, April 2014, <https://www.rfc-editor.org/info/rfc7199>.

@@ -1,0 +1,1 @@
+Chen, H., Ed., Zhuang, Y., Ed., Wu, Q., and D. Ceccarelli, "PCE Communication Protocol (PCEP) Extensions for Label Switched Path (LSP) Scheduling with Stateful PCE", RFC 8934, DOI 10.17487/RFC8934, October 2020, <https://www.rfc-editor.org/info/rfc8934>.

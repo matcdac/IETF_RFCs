@@ -1,0 +1,1 @@
+Farrel, A., Ed., Papadimitriou, D., Vasseur, J.-P., and A. Ayyangar, "Encoding of Attributes for Multiprotocol Label Switching (MPLS) Label Switched Path (LSP) Establishment Using Resource ReserVation Protocol-Traffic Engineering (RSVP-TE)", RFC 4420, DOI 10.17487/RFC4420, February 2006, <https://www.rfc-editor.org/info/rfc4420>.

@@ -1,0 +1,1 @@
+Le Faucheur, F., Davie, B., Bose, P., Christou, C., and M. Davenport, "Generic Aggregate Resource ReSerVation Protocol (RSVP) Reservations", RFC 4860, DOI 10.17487/RFC4860, May 2007, <https://www.rfc-editor.org/info/rfc4860>.

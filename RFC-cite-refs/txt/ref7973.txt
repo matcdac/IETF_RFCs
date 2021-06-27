@@ -1,0 +1,1 @@
+Droms, R. and P. Duffy, "Assignment of an Ethertype for IPv6 with Low-Power Wireless Personal Area Network (LoWPAN) Encapsulation", RFC 7973, DOI 10.17487/RFC7973, November 2016, <https://www.rfc-editor.org/info/rfc7973>.

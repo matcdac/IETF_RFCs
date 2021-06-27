@@ -1,0 +1,1 @@
+Rubin, A., "Location-Independent Data/Software Integrity Protocol", RFC 1805, DOI 10.17487/RFC1805, June 1995, <https://www.rfc-editor.org/info/rfc1805>.

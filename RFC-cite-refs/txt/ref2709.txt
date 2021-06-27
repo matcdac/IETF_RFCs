@@ -1,0 +1,1 @@
+Srisuresh, P., "Security Model with Tunnel-mode IPsec for NAT Domains", RFC 2709, DOI 10.17487/RFC2709, October 1999, <https://www.rfc-editor.org/info/rfc2709>.

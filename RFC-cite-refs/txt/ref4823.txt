@@ -1,0 +1,1 @@
+Harding, T. and R. Scott, "FTP Transport for Secure Peer-to-Peer Business Data Interchange over the Internet", RFC 4823, DOI 10.17487/RFC4823, April 2007, <https://www.rfc-editor.org/info/rfc4823>.

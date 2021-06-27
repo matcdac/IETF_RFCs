@@ -1,0 +1,1 @@
+Ash, G., Morton, A., Dolly, M., Tarapore, P., Dvorak, C., and Y. El Mghazli, "Y.1541-QOSM: Model for Networks Using Y.1541 Quality-of-Service Classes", RFC 5976, DOI 10.17487/RFC5976, October 2010, <https://www.rfc-editor.org/info/rfc5976>.

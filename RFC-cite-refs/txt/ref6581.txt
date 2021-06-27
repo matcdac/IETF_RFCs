@@ -1,0 +1,1 @@
+Kanevsky, A., Ed., Bestler, C., Ed., Sharp, R., and S. Wise, "Enhanced Remote Direct Memory Access (RDMA) Connection Establishment", RFC 6581, DOI 10.17487/RFC6581, April 2012, <https://www.rfc-editor.org/info/rfc6581>.

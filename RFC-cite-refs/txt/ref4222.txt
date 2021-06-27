@@ -1,0 +1,1 @@
+Choudhury, G., Ed., "Prioritized Treatment of Specific OSPF Version 2 Packets and Congestion Avoidance", BCP 112, RFC 4222, DOI 10.17487/RFC4222, October 2005, <https://www.rfc-editor.org/info/rfc4222>.

@@ -1,0 +1,1 @@
+Lambert, M., "On testing the NETBLT Protocol over divers networks", RFC 1030, DOI 10.17487/RFC1030, November 1987, <https://www.rfc-editor.org/info/rfc1030>.

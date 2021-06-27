@@ -1,0 +1,1 @@
+Glassman, S., Manasse, M., and J. Mogul, "Y10K and Beyond", RFC 2550, DOI 10.17487/RFC2550, April 1 1999, <https://www.rfc-editor.org/info/rfc2550>.

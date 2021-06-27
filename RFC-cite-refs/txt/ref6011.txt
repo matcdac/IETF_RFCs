@@ -1,0 +1,1 @@
+Lawrence, S., Ed., and J. Elwell, "Session Initiation Protocol (SIP) User Agent Configuration", RFC 6011, DOI 10.17487/RFC6011, October 2010, <https://www.rfc-editor.org/info/rfc6011>.

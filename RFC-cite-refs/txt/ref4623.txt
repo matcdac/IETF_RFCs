@@ -1,0 +1,1 @@
+Malis, A. and M. Townsley, "Pseudowire Emulation Edge-to-Edge (PWE3) Fragmentation and Reassembly", RFC 4623, DOI 10.17487/RFC4623, August 2006, <https://www.rfc-editor.org/info/rfc4623>.

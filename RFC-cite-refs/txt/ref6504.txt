@@ -1,0 +1,1 @@
+Barnes, M., Miniero, L., Presta, R., and S P. Romano, "Centralized Conferencing Manipulation Protocol (CCMP) Call Flow Examples", RFC 6504, DOI 10.17487/RFC6504, March 2012, <https://www.rfc-editor.org/info/rfc6504>.

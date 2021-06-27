@@ -1,0 +1,1 @@
+Steenstrup, M., "Inter-Domain Policy Routing Protocol Specification: Version 1", RFC 1479, DOI 10.17487/RFC1479, July 1993, <https://www.rfc-editor.org/info/rfc1479>.

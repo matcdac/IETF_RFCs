@@ -1,0 +1,1 @@
+Morin, T., Ed., Litkowski, S., Patel, K., Zhang, Z., Kebler, R., and J. Haas, "Multicast VPN State Damping", RFC 7899, DOI 10.17487/RFC7899, June 2016, <https://www.rfc-editor.org/info/rfc7899>.

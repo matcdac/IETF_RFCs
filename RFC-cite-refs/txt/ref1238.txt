@@ -1,0 +1,1 @@
+Satz, G., "CLNS MIB for use with Connectionless Network Protocol (ISO 8473) and End System to Intermediate System (ISO 9542)", RFC 1238, DOI 10.17487/RFC1238, June 1991, <https://www.rfc-editor.org/info/rfc1238>.

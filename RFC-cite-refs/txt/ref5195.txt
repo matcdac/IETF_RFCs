@@ -1,0 +1,1 @@
+Ould-Brahim, H., Fedyk, D., and Y. Rekhter, "BGP-Based Auto-Discovery for Layer-1 VPNs", RFC 5195, DOI 10.17487/RFC5195, June 2008, <https://www.rfc-editor.org/info/rfc5195>.

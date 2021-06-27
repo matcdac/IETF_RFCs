@@ -1,0 +1,1 @@
+Patel, B., Aboba, B., Dixon, W., Zorn, G., and S. Booth, "Securing L2TP using IPsec", RFC 3193, DOI 10.17487/RFC3193, November 2001, <https://www.rfc-editor.org/info/rfc3193>.

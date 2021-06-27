@@ -1,0 +1,1 @@
+Klensin, J., "Suggested Practices for Registration of Internationalized Domain Names (IDN)", RFC 4290, DOI 10.17487/RFC4290, December 2005, <https://www.rfc-editor.org/info/rfc4290>.

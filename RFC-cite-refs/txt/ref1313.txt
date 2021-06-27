@@ -1,0 +1,1 @@
+Partridge, C., "Today's Programming for KRFC AM 1313 Internet Talk Radio", RFC 1313, DOI 10.17487/RFC1313, April 1 1992, <https://www.rfc-editor.org/info/rfc1313>.

@@ -1,0 +1,1 @@
+Muhanna, A., Khalil, M., Gundavelli, S., Chowdhury, K., and P. Yegani, "Binding Revocation for IPv6 Mobility", RFC 5846, DOI 10.17487/RFC5846, June 2010, <https://www.rfc-editor.org/info/rfc5846>.

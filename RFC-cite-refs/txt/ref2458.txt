@@ -1,0 +1,1 @@
+Lu, H., Krishnaswamy, M., Conroy, L., Bellovin, S., Burg, F., DeSimone, A., Tewani, K., Davidson, P., Schulzrinne, H., and K. Vishwanathan, "Toward the PSTN/Internet Inter-Networking--Pre-PINT Implementations", RFC 2458, DOI 10.17487/RFC2458, November 1998, <https://www.rfc-editor.org/info/rfc2458>.

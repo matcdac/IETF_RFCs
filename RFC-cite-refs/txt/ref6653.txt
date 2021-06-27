@@ -1,0 +1,1 @@
+Sarikaya, B., Xia, F., and T. Lemon, "DHCPv6 Prefix Delegation in Long-Term Evolution (LTE) Networks", RFC 6653, DOI 10.17487/RFC6653, July 2012, <https://www.rfc-editor.org/info/rfc6653>.

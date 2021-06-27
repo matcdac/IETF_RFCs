@@ -1,0 +1,1 @@
+RJ Atkinson, SN Bhatti, and S. Rose, "DNS Resource Records for the Identifier-Locator Network Protocol (ILNP)", RFC 6742, DOI 10.17487/RFC6742, November 2012, <https://www.rfc-editor.org/info/rfc6742>.

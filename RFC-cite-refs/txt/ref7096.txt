@@ -1,0 +1,1 @@
+Belotti, S., Ed., Grandi, P., Ceccarelli, D., Ed., Caviglia, D., Zhang, F., and D. Li, "Evaluation of Existing GMPLS Encoding against G.709v3 Optical Transport Networks (OTNs)", RFC 7096, DOI 10.17487/RFC7096, January 2014, <https://www.rfc-editor.org/info/rfc7096>.

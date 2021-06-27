@@ -1,0 +1,1 @@
+McWalter, D., Ed., "MIB Textual Conventions for Uniform Resource Identifiers (URIs)", RFC 5017, DOI 10.17487/RFC5017, September 2007, <https://www.rfc-editor.org/info/rfc5017>.

@@ -1,0 +1,1 @@
+Metzger, P. and W. Simpson, "IP Authentication using Keyed MD5", RFC 1828, DOI 10.17487/RFC1828, August 1995, <https://www.rfc-editor.org/info/rfc1828>.

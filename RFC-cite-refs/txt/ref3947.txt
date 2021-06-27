@@ -1,0 +1,1 @@
+Kivinen, T., Swander, B., Huttunen, A., and V. Volpe, "Negotiation of NAT-Traversal in the IKE", RFC 3947, DOI 10.17487/RFC3947, January 2005, <https://www.rfc-editor.org/info/rfc3947>.

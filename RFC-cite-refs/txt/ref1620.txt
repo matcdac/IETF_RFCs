@@ -1,0 +1,1 @@
+Braden, B., Postel, J., and Y. Rekhter, "Internet Architecture Extensions for Shared Media", RFC 1620, DOI 10.17487/RFC1620, May 1994, <https://www.rfc-editor.org/info/rfc1620>.

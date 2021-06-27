@@ -1,0 +1,1 @@
+Eastlake 3rd, D., "Cryptographic Algorithm Implementation Requirements for Encapsulating Security Payload (ESP) and Authentication Header (AH)", RFC 4305, DOI 10.17487/RFC4305, December 2005, <https://www.rfc-editor.org/info/rfc4305>.

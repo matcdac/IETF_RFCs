@@ -1,0 +1,1 @@
+Jennings, C., Audet, F., and J. Elwell, "Session Initiation Protocol (SIP) URIs for Applications such as Voicemail and Interactive Voice Response (IVR)", RFC 4458, DOI 10.17487/RFC4458, April 2006, <https://www.rfc-editor.org/info/rfc4458>.

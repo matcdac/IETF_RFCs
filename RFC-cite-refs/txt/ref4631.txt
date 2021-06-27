@@ -1,0 +1,1 @@
+Dubuc, M., Nadeau, T., Lang, J., McGinnis, E., and A. Farrel, "Link Management Protocol (LMP) Management Information Base (MIB)", RFC 4631, DOI 10.17487/RFC4631, September 2006, <https://www.rfc-editor.org/info/rfc4631>.

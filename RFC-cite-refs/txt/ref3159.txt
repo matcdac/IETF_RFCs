@@ -1,0 +1,1 @@
+McCloghrie, K., Fine, M., Seligson, J., Chan, K., Hahn, S., Sahita, R., Smith, A., and F. Reichmeyer, "Structure of Policy Provisioning Information (SPPI)", RFC 3159, DOI 10.17487/RFC3159, August 2001, <https://www.rfc-editor.org/info/rfc3159>.

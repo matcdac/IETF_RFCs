@@ -1,0 +1,1 @@
+Altman, J., "Telnet Encryption: DES3 64 bit Cipher Feedback", RFC 2947, DOI 10.17487/RFC2947, September 2000, <https://www.rfc-editor.org/info/rfc2947>.

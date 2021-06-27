@@ -1,0 +1,1 @@
+Sidebottom, G., Ed., Morneault, K., Ed., and J. Pastor-Balbas, Ed., "Signaling System 7 (SS7) Message Transfer Part 3 (MTP3) - User Adaptation Layer (M3UA)", RFC 3332, DOI 10.17487/RFC3332, September 2002, <https://www.rfc-editor.org/info/rfc3332>.

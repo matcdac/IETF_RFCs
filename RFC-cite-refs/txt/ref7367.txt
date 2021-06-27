@@ -1,0 +1,1 @@
+Cole, R., Macker, J., and B. Adamson, "Definition of Managed Objects for the Mobile Ad Hoc Network (MANET) Simplified Multicast Framework Relay Set Process", RFC 7367, DOI 10.17487/RFC7367, October 2014, <https://www.rfc-editor.org/info/rfc7367>.

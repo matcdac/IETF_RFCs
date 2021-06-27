@@ -1,0 +1,1 @@
+International Organization for Standardization, "Protocol for providing the connectionless mode network services", RFC 926, DOI 10.17487/RFC0926, December 1984, <https://www.rfc-editor.org/info/rfc926>.

@@ -1,0 +1,1 @@
+McPherson, D. and B. Dykes, "VLAN Aggregation for Efficient IP Address Allocation", RFC 3069, DOI 10.17487/RFC3069, February 2001, <https://www.rfc-editor.org/info/rfc3069>.

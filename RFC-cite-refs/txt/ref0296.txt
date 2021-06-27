@@ -1,0 +1,1 @@
+Liddle, D., "DS-1 Display System", RFC 296, DOI 10.17487/RFC0296, January 1972, <https://www.rfc-editor.org/info/rfc296>.

@@ -1,0 +1,1 @@
+Chown, T., Venaas, S., and A. Vijayabhaskar, "Renumbering Requirements for Stateless Dynamic Host Configuration Protocol for IPv6 (DHCPv6)", RFC 4076, DOI 10.17487/RFC4076, May 2005, <https://www.rfc-editor.org/info/rfc4076>.

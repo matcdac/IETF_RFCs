@@ -1,0 +1,1 @@
+Panabaker, R., Wegerif, S., and D. Zigmond, "The Transmission of IP Over the Vertical Blanking Interval of a Television Signal", RFC 2728, DOI 10.17487/RFC2728, November 1999, <https://www.rfc-editor.org/info/rfc2728>.

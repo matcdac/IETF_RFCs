@@ -1,0 +1,1 @@
+Lam, H., Huynh, A., and D. Perkins, "Alarm Reporting Control Management Information Base (MIB)", RFC 3878, DOI 10.17487/RFC3878, September 2004, <https://www.rfc-editor.org/info/rfc3878>.

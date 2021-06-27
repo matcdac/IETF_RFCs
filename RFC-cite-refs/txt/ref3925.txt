@@ -1,0 +1,1 @@
+Littlefield, J., "Vendor-Identifying Vendor Options for Dynamic Host Configuration Protocol version 4 (DHCPv4)", RFC 3925, DOI 10.17487/RFC3925, October 2004, <https://www.rfc-editor.org/info/rfc3925>.

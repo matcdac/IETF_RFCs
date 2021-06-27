@@ -1,0 +1,1 @@
+Arkko, J., Aboba, B., Korhonen, J., Ed., and F. Bari, "Network Discovery and Selection Problem", RFC 5113, DOI 10.17487/RFC5113, January 2008, <https://www.rfc-editor.org/info/rfc5113>.

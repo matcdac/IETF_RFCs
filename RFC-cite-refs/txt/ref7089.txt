@@ -1,0 +1,1 @@
+Van de Sompel, H., Nelson, M., and R. Sanderson, "HTTP Framework for Time-Based Access to Resource States -- Memento", RFC 7089, DOI 10.17487/RFC7089, December 2013, <https://www.rfc-editor.org/info/rfc7089>.

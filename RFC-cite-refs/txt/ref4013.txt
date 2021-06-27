@@ -1,0 +1,1 @@
+Zeilenga, K., "SASLprep: Stringprep Profile for User Names and Passwords", RFC 4013, DOI 10.17487/RFC4013, February 2005, <https://www.rfc-editor.org/info/rfc4013>.

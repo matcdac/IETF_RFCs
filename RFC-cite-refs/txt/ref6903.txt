@@ -1,0 +1,1 @@
+Snell, J., "Additional Link Relation Types", RFC 6903, DOI 10.17487/RFC6903, March 2013, <https://www.rfc-editor.org/info/rfc6903>.

@@ -1,0 +1,1 @@
+Homme, K., "Sieve Email Filtering: Variables Extension", RFC 5229, DOI 10.17487/RFC5229, January 2008, <https://www.rfc-editor.org/info/rfc5229>.

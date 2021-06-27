@@ -1,0 +1,1 @@
+Quittek, J., Winter, R., and T. Dietz, "Definition of Managed Objects for Battery Monitoring", RFC 7577, DOI 10.17487/RFC7577, July 2015, <https://www.rfc-editor.org/info/rfc7577>.

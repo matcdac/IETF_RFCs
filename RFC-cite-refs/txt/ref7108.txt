@@ -1,0 +1,1 @@
+Abley, J. and T. Manderson, "A Summary of Various Mechanisms Deployed at L-Root for the Identification of Anycast Nodes", RFC 7108, DOI 10.17487/RFC7108, January 2014, <https://www.rfc-editor.org/info/rfc7108>.

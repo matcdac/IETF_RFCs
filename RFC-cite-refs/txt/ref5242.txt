@@ -1,0 +1,1 @@
+Klensin, J. and H. Alvestrand, "A Generalized Unified Character Code: Western European and CJK Sections", RFC 5242, DOI 10.17487/RFC5242, April 1 2008, <https://www.rfc-editor.org/info/rfc5242>.

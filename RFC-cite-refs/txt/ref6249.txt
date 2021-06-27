@@ -1,0 +1,1 @@
+Bryan, A., McNab, N., Tsujikawa, T., Poeml, P., and H. Nordstrom, "Metalink/HTTP: Mirrors and Hashes", RFC 6249, DOI 10.17487/RFC6249, June 2011, <https://www.rfc-editor.org/info/rfc6249>.

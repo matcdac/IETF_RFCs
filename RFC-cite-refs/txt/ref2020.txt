@@ -1,0 +1,1 @@
+Flick, J., "IEEE 802.12 Interface MIB", RFC 2020, DOI 10.17487/RFC2020, October 1996, <https://www.rfc-editor.org/info/rfc2020>.

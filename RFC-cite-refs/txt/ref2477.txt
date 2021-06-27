@@ -1,0 +1,1 @@
+Aboba, B. and G. Zorn, "Criteria for Evaluating Roaming Protocols", RFC 2477, DOI 10.17487/RFC2477, January 1999, <https://www.rfc-editor.org/info/rfc2477>.

@@ -1,0 +1,1 @@
+Mayrhofer, A. and J. Hague, "The Internationalized Deliberately Unreadable Network NOtation (I-DUNNO)", RFC 8771, DOI 10.17487/RFC8771, April 1 2020, <https://www.rfc-editor.org/info/rfc8771>.

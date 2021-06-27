@@ -1,0 +1,1 @@
+Camarillo, G., Ed., Holmberg, C., and Y. Gao, "Re-INVITE and Target-Refresh Request Handling in the Session Initiation Protocol (SIP)", RFC 6141, DOI 10.17487/RFC6141, March 2011, <https://www.rfc-editor.org/info/rfc6141>.

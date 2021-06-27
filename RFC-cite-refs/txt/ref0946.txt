@@ -1,0 +1,1 @@
+Nedved, R., "Telnet terminal location number option", RFC 946, DOI 10.17487/RFC0946, May 1985, <https://www.rfc-editor.org/info/rfc946>.

@@ -1,0 +1,1 @@
+Kapp, J., "Test Cases for HMAC-RIPEMD160 and HMAC-RIPEMD128", RFC 2286, DOI 10.17487/RFC2286, February 1998, <https://www.rfc-editor.org/info/rfc2286>.

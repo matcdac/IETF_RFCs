@@ -1,0 +1,1 @@
+Case, J., McCloghrie, K., Rose, M., and S. Waldbusser, "Conformance Statements for Version 2 of the Simple Network Management Protocol (SNMPv2)", RFC 1904, DOI 10.17487/RFC1904, January 1996, <https://www.rfc-editor.org/info/rfc1904>.

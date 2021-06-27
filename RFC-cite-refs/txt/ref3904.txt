@@ -1,0 +1,1 @@
+Huitema, C., Austein, R., Satapati, S., and R. van der Pol, "Evaluation of IPv6 Transition Mechanisms for Unmanaged Networks", RFC 3904, DOI 10.17487/RFC3904, September 2004, <https://www.rfc-editor.org/info/rfc3904>.

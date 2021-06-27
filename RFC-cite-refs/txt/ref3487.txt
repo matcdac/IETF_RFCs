@@ -1,0 +1,1 @@
+Schulzrinne, H., "Requirements for Resource Priority Mechanisms for the Session Initiation Protocol (SIP)", RFC 3487, DOI 10.17487/RFC3487, February 2003, <https://www.rfc-editor.org/info/rfc3487>.

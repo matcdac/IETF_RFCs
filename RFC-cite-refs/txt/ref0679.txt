@@ -1,0 +1,1 @@
+Dodds, D., "February, 1975, survey of New-Protocol Telnet servers", RFC 679, DOI 10.17487/RFC0679, February 1975, <https://www.rfc-editor.org/info/rfc679>.

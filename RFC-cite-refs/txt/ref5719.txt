@@ -1,0 +1,1 @@
+Romascanu, D. and H. Tschofenig, "Updated IANA Considerations for Diameter Command Code Allocations", RFC 5719, DOI 10.17487/RFC5719, January 2010, <https://www.rfc-editor.org/info/rfc5719>.

@@ -1,0 +1,1 @@
+Bates, T., Chandra, R., and E. Chen, "BGP Route Reflection - An Alternative to Full Mesh IBGP", RFC 2796, DOI 10.17487/RFC2796, April 2000, <https://www.rfc-editor.org/info/rfc2796>.

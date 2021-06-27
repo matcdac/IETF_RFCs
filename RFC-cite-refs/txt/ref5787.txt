@@ -1,0 +1,1 @@
+Papadimitriou, D., "OSPFv2 Routing Protocols Extensions for Automatically Switched Optical Network (ASON) Routing", RFC 5787, DOI 10.17487/RFC5787, March 2010, <https://www.rfc-editor.org/info/rfc5787>.

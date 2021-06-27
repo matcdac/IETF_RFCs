@@ -1,0 +1,1 @@
+Freed, N., "Sieve Email Filtering: Delivery Status Notifications and Deliver-By Extensions", RFC 6009, DOI 10.17487/RFC6009, October 2010, <https://www.rfc-editor.org/info/rfc6009>.

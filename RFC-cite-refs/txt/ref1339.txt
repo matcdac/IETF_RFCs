@@ -1,0 +1,1 @@
+Dorner, S. and P. Resnick, "Remote Mail Checking Protocol", RFC 1339, DOI 10.17487/RFC1339, June 1992, <https://www.rfc-editor.org/info/rfc1339>.

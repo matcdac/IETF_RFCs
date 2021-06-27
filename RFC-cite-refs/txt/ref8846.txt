@@ -1,0 +1,1 @@
+Presta, R. and S P. Romano, "An XML Schema for the Controlling Multiple Streams for Telepresence (CLUE) Data Model", RFC 8846, DOI 10.17487/RFC8846, January 2021, <https://www.rfc-editor.org/info/rfc8846>.

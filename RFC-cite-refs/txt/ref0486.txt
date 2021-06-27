@@ -1,0 +1,1 @@
+Bressler, R., "Data transfer revisited", RFC 486, DOI 10.17487/RFC0486, March 1973, <https://www.rfc-editor.org/info/rfc486>.

@@ -1,0 +1,1 @@
+Alvestrand, H. and R. Housley, "IESG Procedures for Handling of Independent and IRTF Stream Submissions", BCP 92, RFC 5742, DOI 10.17487/RFC5742, December 2009, <https://www.rfc-editor.org/info/rfc5742>.

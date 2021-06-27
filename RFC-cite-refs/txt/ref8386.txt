@@ -1,0 +1,1 @@
+Winter, R., Faath, M., and F. Weisshaar, "Privacy Considerations for Protocols Relying on IP Broadcast or Multicast", RFC 8386, DOI 10.17487/RFC8386, May 2018, <https://www.rfc-editor.org/info/rfc8386>.

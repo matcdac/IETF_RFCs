@@ -1,0 +1,1 @@
+National Bureau of Standards, "Proposed Federal Information Processing Standard: Specification for message format for computer based message systems", RFC 806, DOI 10.17487/RFC0806, September 1981, <https://www.rfc-editor.org/info/rfc806>.

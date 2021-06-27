@@ -1,0 +1,1 @@
+Rabadan, J., Ed., Palislamovic, S., Henderickx, W., Sajassi, A., and J. Uttaro, "Usage and Applicability of BGP MPLS-Based Ethernet VPN", RFC 8388, DOI 10.17487/RFC8388, May 2018, <https://www.rfc-editor.org/info/rfc8388>.

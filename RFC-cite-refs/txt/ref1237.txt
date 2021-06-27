@@ -1,0 +1,1 @@
+Colella, R., Gardner, E., and R. Callon, "Guidelines for OSI NSAP Allocation in the Internet", RFC 1237, DOI 10.17487/RFC1237, July 1991, <https://www.rfc-editor.org/info/rfc1237>.

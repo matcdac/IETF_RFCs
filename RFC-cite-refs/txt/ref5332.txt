@@ -1,0 +1,1 @@
+Eckert, T., Rosen, E., Ed., Aggarwal, R., and Y. Rekhter, "MPLS Multicast Encapsulations", RFC 5332, DOI 10.17487/RFC5332, August 2008, <https://www.rfc-editor.org/info/rfc5332>.

@@ -1,0 +1,1 @@
+Bellovin, S., "On Many Addresses per Host", RFC 1681, DOI 10.17487/RFC1681, August 1994, <https://www.rfc-editor.org/info/rfc1681>.

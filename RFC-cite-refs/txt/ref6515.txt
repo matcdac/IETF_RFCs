@@ -1,0 +1,1 @@
+Aggarwal, R. and E. Rosen, "IPv4 and IPv6 Infrastructure Addresses in BGP Updates for Multicast VPN", RFC 6515, DOI 10.17487/RFC6515, February 2012, <https://www.rfc-editor.org/info/rfc6515>.

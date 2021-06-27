@@ -1,0 +1,1 @@
+Huitema, C., Austein, R., Satapati, S., and R. van der Pol, "Unmanaged Networks IPv6 Transition Scenarios", RFC 3750, DOI 10.17487/RFC3750, April 2004, <https://www.rfc-editor.org/info/rfc3750>.

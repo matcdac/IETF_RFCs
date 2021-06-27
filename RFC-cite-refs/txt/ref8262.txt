@@ -1,0 +1,1 @@
+Holmberg, C. and I. Sedlacek, "Content-ID Header Field in the Session Initiation Protocol (SIP)", RFC 8262, DOI 10.17487/RFC8262, October 2017, <https://www.rfc-editor.org/info/rfc8262>.

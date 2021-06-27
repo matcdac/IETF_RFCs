@@ -1,0 +1,1 @@
+Murchison, K., "Use of the Prefer Header Field in Web Distributed Authoring and Versioning (WebDAV)", RFC 8144, DOI 10.17487/RFC8144, April 2017, <https://www.rfc-editor.org/info/rfc8144>.

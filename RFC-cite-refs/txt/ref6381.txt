@@ -1,0 +1,1 @@
+Gellens, R., Singer, D., and P. Frojdh, "The 'Codecs' and 'Profiles' Parameters for "Bucket" Media Types", RFC 6381, DOI 10.17487/RFC6381, August 2011, <https://www.rfc-editor.org/info/rfc6381>.

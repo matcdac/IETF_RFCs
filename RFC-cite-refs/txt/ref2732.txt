@@ -1,0 +1,1 @@
+Hinden, R., Carpenter, B., and L. Masinter, "Format for Literal IPv6 Addresses in URL's", RFC 2732, DOI 10.17487/RFC2732, December 1999, <https://www.rfc-editor.org/info/rfc2732>.

@@ -1,0 +1,1 @@
+McCloghrie, K. and M. Rose, "Management Information Base for network management of TCP/IP-based internets", RFC 1066, DOI 10.17487/RFC1066, August 1988, <https://www.rfc-editor.org/info/rfc1066>.

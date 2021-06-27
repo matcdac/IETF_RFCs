@@ -1,0 +1,1 @@
+Carpenter, G. and B. Wijnen, "SNMP-DPI: Simple Network Management Protocol Distributed Program Interface", RFC 1228, DOI 10.17487/RFC1228, May 1991, <https://www.rfc-editor.org/info/rfc1228>.

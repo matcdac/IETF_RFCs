@@ -1,0 +1,1 @@
+Leiba, B., "Creation of a Registry for smime-type Parameter Values", RFC 7114, DOI 10.17487/RFC7114, January 2014, <https://www.rfc-editor.org/info/rfc7114>.

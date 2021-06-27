@@ -1,0 +1,1 @@
+Postel, J., "Domain name system implementation schedule - revised", RFC 921, DOI 10.17487/RFC0921, October 1984, <https://www.rfc-editor.org/info/rfc921>.

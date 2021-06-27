@@ -1,0 +1,1 @@
+Katz, D., "Proposed standard for the transmission of IP datagrams over FDDI Networks", RFC 1103, DOI 10.17487/RFC1103, June 1989, <https://www.rfc-editor.org/info/rfc1103>.

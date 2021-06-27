@@ -1,0 +1,1 @@
+Friend, I., "ODETTE File Transfer Protocol 2.0", RFC 5024, DOI 10.17487/RFC5024, November 2007, <https://www.rfc-editor.org/info/rfc5024>.

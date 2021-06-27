@@ -1,0 +1,1 @@
+Van de Sompel, H., Nelson, M., Bilder, G., Kunze, J., and S. Warner, "cite-as: A Link Relation to Convey a Preferred URI for Referencing", RFC 8574, DOI 10.17487/RFC8574, April 2019, <https://www.rfc-editor.org/info/rfc8574>.

@@ -1,0 +1,1 @@
+Dietz, T., Ed., Claise, B., and J. Quittek, "Definitions of Managed Objects for Packet Sampling", RFC 6727, DOI 10.17487/RFC6727, October 2012, <https://www.rfc-editor.org/info/rfc6727>.

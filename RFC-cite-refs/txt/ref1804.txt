@@ -1,0 +1,1 @@
+Mansfield, G., Rajeev, P., Raghavan, S., and T. Howes, "Schema Publishing in X.500 Directory", RFC 1804, DOI 10.17487/RFC1804, June 1995, <https://www.rfc-editor.org/info/rfc1804>.

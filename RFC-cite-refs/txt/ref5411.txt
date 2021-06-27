@@ -1,0 +1,1 @@
+Rosenberg, J., "A Hitchhiker's Guide to the Session Initiation Protocol (SIP)", RFC 5411, DOI 10.17487/RFC5411, February 2009, <https://www.rfc-editor.org/info/rfc5411>.

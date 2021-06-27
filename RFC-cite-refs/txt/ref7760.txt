@@ -1,0 +1,1 @@
+Housley, R., "Statement of Work for Extensions to the IETF Datatracker for Author Statistics", RFC 7760, DOI 10.17487/RFC7760, January 2016, <https://www.rfc-editor.org/info/rfc7760>.

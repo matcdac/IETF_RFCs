@@ -1,0 +1,1 @@
+Postel, J., "Report of the Protocol Workshop, 12 October 1971", RFC 295, DOI 10.17487/RFC0295, January 1972, <https://www.rfc-editor.org/info/rfc295>.

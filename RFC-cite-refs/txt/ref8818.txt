@@ -1,0 +1,1 @@
+Chan, H., Ed., Wei, X., Lee, J., Jeon, S., and CJ. Bernardos, Ed., "Distributed Mobility Anchoring", RFC 8818, DOI 10.17487/RFC8818, October 2020, <https://www.rfc-editor.org/info/rfc8818>.

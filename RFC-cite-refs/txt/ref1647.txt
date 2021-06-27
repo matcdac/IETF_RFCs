@@ -1,0 +1,1 @@
+Kelly, B., "TN3270 Enhancements", RFC 1647, DOI 10.17487/RFC1647, July 1994, <https://www.rfc-editor.org/info/rfc1647>.

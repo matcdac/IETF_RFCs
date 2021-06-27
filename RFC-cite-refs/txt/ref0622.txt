@@ -1,0 +1,1 @@
+McKenzie, A., "Scheduling IMP/TIP down time", RFC 622, DOI 10.17487/RFC0622, March 1974, <https://www.rfc-editor.org/info/rfc622>.

@@ -1,0 +1,1 @@
+Seaman, M., Smith, A., Crawley, E., and J. Wroclawski, "Integrated Service Mappings on IEEE 802 Networks", RFC 2815, DOI 10.17487/RFC2815, May 2000, <https://www.rfc-editor.org/info/rfc2815>.

@@ -1,0 +1,1 @@
+Keeni, G., Koide, K., Gundavelli, S., and R. Wakikawa, "Proxy Mobile IPv6 Management Information Base", RFC 6475, DOI 10.17487/RFC6475, May 2012, <https://www.rfc-editor.org/info/rfc6475>.

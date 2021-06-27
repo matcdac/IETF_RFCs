@@ -1,0 +1,1 @@
+De Winter, J., "SMTP Service Extension for Remote Message Queue Starting", RFC 1985, DOI 10.17487/RFC1985, August 1996, <https://www.rfc-editor.org/info/rfc1985>.

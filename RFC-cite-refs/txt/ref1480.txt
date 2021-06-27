@@ -1,0 +1,1 @@
+Cooper, A. and J. Postel, "The US Domain", RFC 1480, DOI 10.17487/RFC1480, June 1993, <https://www.rfc-editor.org/info/rfc1480>.

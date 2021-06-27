@@ -1,0 +1,1 @@
+Liu, Z., Jin, L., Chen, R., Cai, D., and S. Salam, "Redundancy Mechanism for Inter-domain VPLS Service", RFC 7309, DOI 10.17487/RFC7309, July 2014, <https://www.rfc-editor.org/info/rfc7309>.

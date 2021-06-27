@@ -1,0 +1,1 @@
+Newman, C. and J. Myers, "ACAP -- Application Configuration Access Protocol", RFC 2244, DOI 10.17487/RFC2244, November 1997, <https://www.rfc-editor.org/info/rfc2244>.

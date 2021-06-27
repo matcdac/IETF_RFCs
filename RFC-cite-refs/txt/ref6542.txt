@@ -1,0 +1,1 @@
+Emery, S., "Kerberos Version 5 Generic Security Service Application Program Interface (GSS-API) Channel Binding Hash Agility", RFC 6542, DOI 10.17487/RFC6542, March 2012, <https://www.rfc-editor.org/info/rfc6542>.

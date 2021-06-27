@@ -1,0 +1,1 @@
+Greene, N., Ramalho, M., and B. Rosen, "Media Gateway Control Protocol Architecture and Requirements", RFC 2805, DOI 10.17487/RFC2805, April 2000, <https://www.rfc-editor.org/info/rfc2805>.

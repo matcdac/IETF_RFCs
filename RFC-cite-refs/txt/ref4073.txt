@@ -1,0 +1,1 @@
+Housley, R., "Protecting Multiple Contents with the Cryptographic Message Syntax (CMS)", RFC 4073, DOI 10.17487/RFC4073, May 2005, <https://www.rfc-editor.org/info/rfc4073>.

@@ -1,0 +1,1 @@
+White, K. and R. Moore, "Base Definitions of Managed Objects for TN3270E Using SMIv2", RFC 2561, DOI 10.17487/RFC2561, April 1999, <https://www.rfc-editor.org/info/rfc2561>.

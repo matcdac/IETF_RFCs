@@ -1,0 +1,1 @@
+Sherry, S. and G. Meyer, "Protocol Analysis for Triggered RIP", RFC 2092, DOI 10.17487/RFC2092, January 1997, <https://www.rfc-editor.org/info/rfc2092>.

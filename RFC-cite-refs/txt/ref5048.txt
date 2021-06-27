@@ -1,0 +1,1 @@
+Chadalapaka, M., Ed., "Internet Small Computer System Interface (iSCSI) Corrections and Clarifications", RFC 5048, DOI 10.17487/RFC5048, October 2007, <https://www.rfc-editor.org/info/rfc5048>.

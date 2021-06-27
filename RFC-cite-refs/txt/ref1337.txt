@@ -1,0 +1,1 @@
+Braden, R., "TIME-WAIT Assassination Hazards in TCP", RFC 1337, DOI 10.17487/RFC1337, May 1992, <https://www.rfc-editor.org/info/rfc1337>.

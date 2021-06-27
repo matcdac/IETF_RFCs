@@ -1,0 +1,1 @@
+Zeilenga, K., "Lightweight Directory Access Protocol (LDAP) Modify-Increment Extension", RFC 4525, DOI 10.17487/RFC4525, June 2006, <https://www.rfc-editor.org/info/rfc4525>.

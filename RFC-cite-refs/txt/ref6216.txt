@@ -1,0 +1,1 @@
+Jennings, C., Ono, K., Sparks, R., and B. Hibbard, Ed., "Example Call Flows Using Session Initiation Protocol (SIP) Security Mechanisms", RFC 6216, DOI 10.17487/RFC6216, April 2011, <https://www.rfc-editor.org/info/rfc6216>.

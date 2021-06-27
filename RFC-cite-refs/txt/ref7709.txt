@@ -1,0 +1,1 @@
+Malis, A., Ed., Wilson, B., Clapp, G., and V. Shukla, "Requirements for Very Fast Setup of GMPLS Label Switched Paths (LSPs)", RFC 7709, DOI 10.17487/RFC7709, November 2015, <https://www.rfc-editor.org/info/rfc7709>.

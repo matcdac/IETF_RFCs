@@ -1,0 +1,1 @@
+Vaudreuil, G., "Voice Messaging Directory Service", RFC 4237, DOI 10.17487/RFC4237, October 2005, <https://www.rfc-editor.org/info/rfc4237>.

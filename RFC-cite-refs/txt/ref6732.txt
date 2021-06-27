@@ -1,0 +1,1 @@
+Kuarsingh, V., Ed., Lee, Y., and O. Vautrin, "6to4 Provider Managed Tunnels", RFC 6732, DOI 10.17487/RFC6732, September 2012, <https://www.rfc-editor.org/info/rfc6732>.

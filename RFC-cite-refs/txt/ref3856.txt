@@ -1,0 +1,1 @@
+Rosenberg, J., "A Presence Event Package for the Session Initiation Protocol (SIP)", RFC 3856, DOI 10.17487/RFC3856, August 2004, <https://www.rfc-editor.org/info/rfc3856>.

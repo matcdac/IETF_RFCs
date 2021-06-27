@@ -1,0 +1,1 @@
+Berger, L. and J. Meuric, "Revised Definition of the GMPLS Switching Capability and Type Fields", RFC 7074, DOI 10.17487/RFC7074, November 2013, <https://www.rfc-editor.org/info/rfc7074>.

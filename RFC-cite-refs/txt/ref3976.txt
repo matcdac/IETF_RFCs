@@ -1,0 +1,1 @@
+Gurbani, V., Haerens, F., and V. Rastogi, "Interworking SIP and Intelligent Network (IN) Applications", RFC 3976, DOI 10.17487/RFC3976, January 2005, <https://www.rfc-editor.org/info/rfc3976>.

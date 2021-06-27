@@ -1,0 +1,1 @@
+Butler, M., Postel, J., Chase, D., Goldberger, J., and J. Reynolds, "Post Office Protocol: Version 2", RFC 937, DOI 10.17487/RFC0937, February 1985, <https://www.rfc-editor.org/info/rfc937>.

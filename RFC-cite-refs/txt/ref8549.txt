@@ -1,0 +1,1 @@
+Li, Z., Gu, R., and J. Dong, "Export of BGP Community Information in IP Flow Information Export (IPFIX)", RFC 8549, DOI 10.17487/RFC8549, April 2019, <https://www.rfc-editor.org/info/rfc8549>.

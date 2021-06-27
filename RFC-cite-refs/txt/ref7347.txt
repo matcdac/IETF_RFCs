@@ -1,0 +1,1 @@
+van Helvoort, H., Ed., Ryoo, J., Ed., Zhang, H., Huang, F., Li, H., and A. D'Alessandro, "Pre-standard Linear Protection Switching in MPLS Transport Profile (MPLS-TP)", RFC 7347, DOI 10.17487/RFC7347, September 2014, <https://www.rfc-editor.org/info/rfc7347>.

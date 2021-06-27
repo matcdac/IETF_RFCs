@@ -1,0 +1,1 @@
+Huitema, C., Thaler, D., and R. Winter, "Current Hostname Practice Considered Harmful", RFC 8117, DOI 10.17487/RFC8117, March 2017, <https://www.rfc-editor.org/info/rfc8117>.

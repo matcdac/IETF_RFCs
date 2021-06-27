@@ -1,0 +1,1 @@
+Peterson, J., "Telephone Number Mapping (ENUM) Service Registration for Presence Services", RFC 3953, DOI 10.17487/RFC3953, January 2005, <https://www.rfc-editor.org/info/rfc3953>.

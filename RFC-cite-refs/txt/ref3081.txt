@@ -1,0 +1,1 @@
+Rose, M., "Mapping the BEEP Core onto TCP", RFC 3081, DOI 10.17487/RFC3081, March 2001, <https://www.rfc-editor.org/info/rfc3081>.

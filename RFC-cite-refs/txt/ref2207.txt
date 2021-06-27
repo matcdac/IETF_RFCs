@@ -1,0 +1,1 @@
+Berger, L. and T. O'Malley, "RSVP Extensions for IPSEC Data Flows", RFC 2207, DOI 10.17487/RFC2207, September 1997, <https://www.rfc-editor.org/info/rfc2207>.

@@ -1,0 +1,1 @@
+Jayaraman, P., Lopez, R., Ohba, Y., Ed., Parthasarathy, M., and A. Yegin, "Protocol for Carrying Authentication for Network Access (PANA) Framework", RFC 5193, DOI 10.17487/RFC5193, May 2008, <https://www.rfc-editor.org/info/rfc5193>.

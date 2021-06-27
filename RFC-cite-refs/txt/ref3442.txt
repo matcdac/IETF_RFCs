@@ -1,0 +1,1 @@
+Lemon, T., Cheshire, S., and B. Volz, "The Classless Static Route Option for Dynamic Host Configuration Protocol (DHCP) version 4", RFC 3442, DOI 10.17487/RFC3442, December 2002, <https://www.rfc-editor.org/info/rfc3442>.

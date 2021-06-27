@@ -1,0 +1,1 @@
+Droms, R., "Unused Dynamic Host Configuration Protocol (DHCP) Option Codes", RFC 3679, DOI 10.17487/RFC3679, January 2004, <https://www.rfc-editor.org/info/rfc3679>.

@@ -1,0 +1,1 @@
+Hoffman, P., "The wais URI Scheme", RFC 4156, DOI 10.17487/RFC4156, August 2005, <https://www.rfc-editor.org/info/rfc4156>.

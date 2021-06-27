@@ -1,0 +1,1 @@
+Ohye, M. and J. Kupke, "The Canonical Link Relation", RFC 6596, DOI 10.17487/RFC6596, April 2012, <https://www.rfc-editor.org/info/rfc6596>.

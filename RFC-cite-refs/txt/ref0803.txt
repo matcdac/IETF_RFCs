@@ -1,0 +1,1 @@
+Agarwal, A., O'Connor, M., and D. Mills, "Dacom 450/500 facsimile data transcoding", RFC 803, DOI 10.17487/RFC0803, November 1981, <https://www.rfc-editor.org/info/rfc803>.

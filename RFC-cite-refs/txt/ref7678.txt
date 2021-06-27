@@ -1,0 +1,1 @@
+Zhou, C., Taylor, T., Sun, Q., and M. Boucadair, "Attribute-Value Pairs for Provisioning Customer Equipment Supporting IPv4-Over-IPv6 Transitional Solutions", RFC 7678, DOI 10.17487/RFC7678, October 2015, <https://www.rfc-editor.org/info/rfc7678>.

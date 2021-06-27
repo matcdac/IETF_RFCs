@@ -1,0 +1,1 @@
+Costa, F., Combes, J-M., Ed., Pougnard, X., and H. Li, "Duplicate Address Detection Proxy", RFC 6957, DOI 10.17487/RFC6957, June 2013, <https://www.rfc-editor.org/info/rfc6957>.

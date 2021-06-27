@@ -1,0 +1,1 @@
+Flanagan, H., "Digital Preservation Considerations for the RFC Series", RFC 8153, DOI 10.17487/RFC8153, April 2017, <https://www.rfc-editor.org/info/rfc8153>.

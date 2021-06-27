@@ -1,0 +1,1 @@
+Farrell, S. and S. Turner, "Reuse of CMS Content Encryption Keys", RFC 3185, DOI 10.17487/RFC3185, October 2001, <https://www.rfc-editor.org/info/rfc3185>.

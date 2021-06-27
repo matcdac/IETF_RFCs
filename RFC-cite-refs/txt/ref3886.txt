@@ -1,0 +1,1 @@
+Allman, E., "An Extensible Message Format for Message Tracking Responses", RFC 3886, DOI 10.17487/RFC3886, September 2004, <https://www.rfc-editor.org/info/rfc3886>.

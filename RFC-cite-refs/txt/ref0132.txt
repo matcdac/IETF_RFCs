@@ -1,0 +1,1 @@
+White, J., "Typographical Error in RFC 107", RFC 132, DOI 10.17487/RFC0132, April 1971, <https://www.rfc-editor.org/info/rfc132>.

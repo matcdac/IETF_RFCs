@@ -1,0 +1,1 @@
+Sastry, V., Leung, K., and A. Patel, "Mobile IPv4 Message String Extension", RFC 4917, DOI 10.17487/RFC4917, June 2007, <https://www.rfc-editor.org/info/rfc4917>.

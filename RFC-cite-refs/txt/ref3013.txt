@@ -1,0 +1,1 @@
+Killalea, T., "Recommended Internet Service Provider Security Services and Procedures", BCP 46, RFC 3013, DOI 10.17487/RFC3013, November 2000, <https://www.rfc-editor.org/info/rfc3013>.

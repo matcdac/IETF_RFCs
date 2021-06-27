@@ -1,0 +1,1 @@
+Malkin, G. and A. Harkin, "TFTP Option Extension", RFC 1782, DOI 10.17487/RFC1782, March 1995, <https://www.rfc-editor.org/info/rfc1782>.

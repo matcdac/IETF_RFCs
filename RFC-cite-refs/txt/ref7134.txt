@@ -1,0 +1,1 @@
+Rosen, B., "The Management Policy of the Resource Priority Header (RPH) Registry Changed to "IETF Review"", RFC 7134, DOI 10.17487/RFC7134, March 2014, <https://www.rfc-editor.org/info/rfc7134>.

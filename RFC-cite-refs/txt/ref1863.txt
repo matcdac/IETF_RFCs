@@ -1,0 +1,1 @@
+Haskin, D., "A BGP/IDRP Route Server alternative to a full mesh routing", RFC 1863, DOI 10.17487/RFC1863, October 1995, <https://www.rfc-editor.org/info/rfc1863>.

@@ -1,0 +1,1 @@
+Korhonen, J., Ed., Bournelle, J., Tschofenig, H., Perkins, C., and K. Chowdhury, "Diameter Mobile IPv6: Support for Network Access Server to Diameter Server Interaction", RFC 5447, DOI 10.17487/RFC5447, February 2009, <https://www.rfc-editor.org/info/rfc5447>.

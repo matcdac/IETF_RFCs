@@ -1,0 +1,1 @@
+Davie, B., Iturralde, C., Oran, D., Casner, S., and J. Wroclawski, "Integrated Services in the Presence of Compressible Flows", RFC 3006, DOI 10.17487/RFC3006, November 2000, <https://www.rfc-editor.org/info/rfc3006>.

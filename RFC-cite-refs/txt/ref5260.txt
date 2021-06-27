@@ -1,0 +1,1 @@
+Freed, N., "Sieve Email Filtering: Date and Index Extensions", RFC 5260, DOI 10.17487/RFC5260, July 2008, <https://www.rfc-editor.org/info/rfc5260>.

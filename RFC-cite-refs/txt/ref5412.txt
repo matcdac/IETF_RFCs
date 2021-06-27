@@ -1,0 +1,1 @@
+Calhoun, P., Suri, R., Cam-Winget, N., Williams, M., Hares, S., O'Hara, B., and S. Kelly, "Lightweight Access Point Protocol", RFC 5412, DOI 10.17487/RFC5412, February 2010, <https://www.rfc-editor.org/info/rfc5412>.

@@ -1,0 +1,1 @@
+Whitehead, E. and M. Murata, "XML Media Types", RFC 2376, DOI 10.17487/RFC2376, July 1998, <https://www.rfc-editor.org/info/rfc2376>.

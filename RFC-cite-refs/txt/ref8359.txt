@@ -1,0 +1,1 @@
+Zhang, X., Ed., Beeram, V., Ed., Bryskin, I., Ceccarelli, D., and O. Gonzalez de Dios, "Network-Assigned Upstream Label", RFC 8359, DOI 10.17487/RFC8359, March 2018, <https://www.rfc-editor.org/info/rfc8359>.

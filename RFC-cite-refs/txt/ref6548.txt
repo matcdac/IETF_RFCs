@@ -1,0 +1,1 @@
+Brownlee, N., Ed., and IAB, "Independent Submission Editor Model", RFC 6548, DOI 10.17487/RFC6548, June 2012, <https://www.rfc-editor.org/info/rfc6548>.

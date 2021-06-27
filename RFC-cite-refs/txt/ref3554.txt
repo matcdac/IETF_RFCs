@@ -1,0 +1,1 @@
+Bellovin, S., Ioannidis, J., Keromytis, A., and R. Stewart, "On the Use of Stream Control Transmission Protocol (SCTP) with IPsec", RFC 3554, DOI 10.17487/RFC3554, July 2003, <https://www.rfc-editor.org/info/rfc3554>.

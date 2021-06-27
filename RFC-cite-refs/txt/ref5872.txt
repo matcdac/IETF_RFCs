@@ -1,0 +1,1 @@
+Arkko, J. and A. Yegin, "IANA Rules for the Protocol for Carrying Authentication for Network Access (PANA)", RFC 5872, DOI 10.17487/RFC5872, May 2010, <https://www.rfc-editor.org/info/rfc5872>.

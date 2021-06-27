@@ -1,0 +1,1 @@
+Phaal, P., Panchen, S., and N. McKee, "InMon Corporation's sFlow: A Method for Monitoring Traffic in Switched and Routed Networks", RFC 3176, DOI 10.17487/RFC3176, September 2001, <https://www.rfc-editor.org/info/rfc3176>.

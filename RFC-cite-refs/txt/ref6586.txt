@@ -1,0 +1,1 @@
+Arkko, J. and A. Keranen, "Experiences from an IPv6-Only Network", RFC 6586, DOI 10.17487/RFC6586, April 2012, <https://www.rfc-editor.org/info/rfc6586>.

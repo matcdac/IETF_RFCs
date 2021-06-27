@@ -1,0 +1,1 @@
+Padlipsky, M., "MULTICS sampling timeout change", RFC 450, DOI 10.17487/RFC0450, February 1973, <https://www.rfc-editor.org/info/rfc450>.

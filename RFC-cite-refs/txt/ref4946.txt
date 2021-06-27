@@ -1,0 +1,1 @@
+Snell, J., "Atom License Extension", RFC 4946, DOI 10.17487/RFC4946, July 2007, <https://www.rfc-editor.org/info/rfc4946>.

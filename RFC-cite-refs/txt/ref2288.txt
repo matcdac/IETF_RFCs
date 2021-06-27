@@ -1,0 +1,1 @@
+Lynch, C., Preston, C., and R. Daniel, "Using Existing Bibliographic Identifiers as Uniform Resource Names", RFC 2288, DOI 10.17487/RFC2288, February 1998, <https://www.rfc-editor.org/info/rfc2288>.

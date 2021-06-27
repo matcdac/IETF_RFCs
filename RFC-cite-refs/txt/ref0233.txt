@@ -1,0 +1,1 @@
+Bhushan, A. and R. Metcalfe, "Standardization of host call letters", RFC 233, DOI 10.17487/RFC0233, September 1971, <https://www.rfc-editor.org/info/rfc233>.

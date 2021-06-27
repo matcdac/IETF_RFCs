@@ -1,0 +1,1 @@
+Clausen, T., Dearlove, C., Herberg, U., and H. Rogge, "Rules for Designing Protocols Using the Generalized Packet/Message Format from RFC 5444", RFC 8245, DOI 10.17487/RFC8245, October 2017, <https://www.rfc-editor.org/info/rfc8245>.

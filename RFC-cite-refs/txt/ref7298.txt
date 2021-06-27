@@ -1,0 +1,1 @@
+Ovsienko, D., "Babel Hashed Message Authentication Code (HMAC) Cryptographic Authentication", RFC 7298, DOI 10.17487/RFC7298, July 2014, <https://www.rfc-editor.org/info/rfc7298>.

@@ -1,0 +1,1 @@
+Ejza, R., "Private Header (P-Header) Extension to the Session Initiation Protocol (SIP) for Authorization of Early Media", RFC 5009, DOI 10.17487/RFC5009, September 2007, <https://www.rfc-editor.org/info/rfc5009>.

@@ -1,0 +1,1 @@
+Schmitt, C., Stiller, B., and B. Trammell, "TinyIPFIX for Smart Meters in Constrained Networks", RFC 8272, DOI 10.17487/RFC8272, November 2017, <https://www.rfc-editor.org/info/rfc8272>.

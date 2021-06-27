@@ -1,0 +1,1 @@
+Cucchiara, J., Sjostrand, H., and J. Luciani, "Definitions of Managed Objects for the Multiprotocol Label Switching (MPLS), Label Distribution Protocol (LDP)", RFC 3815, DOI 10.17487/RFC3815, June 2004, <https://www.rfc-editor.org/info/rfc3815>.

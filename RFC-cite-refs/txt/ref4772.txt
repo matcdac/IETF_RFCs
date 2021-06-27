@@ -1,0 +1,1 @@
+Kelly, S., "Security Implications of Using the Data Encryption Standard (DES)", RFC 4772, DOI 10.17487/RFC4772, December 2006, <https://www.rfc-editor.org/info/rfc4772>.

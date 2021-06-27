@@ -1,0 +1,1 @@
+Postel, J., "Official Host-Host Protocol Modification: Assigned Link Numbers", RFC 317, DOI 10.17487/RFC0317, March 1972, <https://www.rfc-editor.org/info/rfc317>.

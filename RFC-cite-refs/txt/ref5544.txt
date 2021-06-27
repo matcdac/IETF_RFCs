@@ -1,0 +1,1 @@
+Santoni, A., "Syntax for Binding Documents with Time-Stamps", RFC 5544, DOI 10.17487/RFC5544, February 2010, <https://www.rfc-editor.org/info/rfc5544>.

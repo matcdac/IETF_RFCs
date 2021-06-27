@@ -1,0 +1,1 @@
+Case, J., McCloghrie, K., Rose, M., and S. Waldbusser, "Coexistence between Version 1 and Version 2 of the Internet-standard Network Management Framework", RFC 1908, DOI 10.17487/RFC1908, January 1996, <https://www.rfc-editor.org/info/rfc1908>.

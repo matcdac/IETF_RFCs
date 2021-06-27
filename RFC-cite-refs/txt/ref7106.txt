@@ -1,0 +1,1 @@
+Ivov, E., "A Group Text Chat Purpose for Conference and Service URIs in the SIP Event Package for Conference State", RFC 7106, DOI 10.17487/RFC7106, January 2014, <https://www.rfc-editor.org/info/rfc7106>.

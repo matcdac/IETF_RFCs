@@ -1,0 +1,1 @@
+Manning, B., Ed., "Class A Subnet Experiment Results and Recommendations", RFC 1879, DOI 10.17487/RFC1879, January 1996, <https://www.rfc-editor.org/info/rfc1879>.

@@ -1,0 +1,1 @@
+Gellens, R., "Wireless Device Configuration (OTASP/OTAPA) via ACAP", RFC 2604, DOI 10.17487/RFC2604, June 1999, <https://www.rfc-editor.org/info/rfc2604>.

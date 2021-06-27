@@ -1,0 +1,1 @@
+Yevstifeyev, M., "The 'tn3270' URI Scheme", RFC 6270, DOI 10.17487/RFC6270, June 2011, <https://www.rfc-editor.org/info/rfc6270>.

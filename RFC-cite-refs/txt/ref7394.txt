@@ -1,0 +1,1 @@
+Boutros, S., Sivabalan, S., Swallow, G., Saxena, S., Manral, V., and S. Aldrin, "Definition of Time to Live TLV for LSP-Ping Mechanisms", RFC 7394, DOI 10.17487/RFC7394, November 2014, <https://www.rfc-editor.org/info/rfc7394>.

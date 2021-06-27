@@ -1,0 +1,1 @@
+Johnston, A. and L. Liess, "Problem Statement and Requirements for Transporting User-to-User Call Control Information in SIP", RFC 6567, DOI 10.17487/RFC6567, April 2012, <https://www.rfc-editor.org/info/rfc6567>.

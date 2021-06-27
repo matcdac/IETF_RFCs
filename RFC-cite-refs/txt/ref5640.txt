@@ -1,0 +1,1 @@
+Filsfils, C., Mohapatra, P., and C. Pignataro, "Load-Balancing for Mesh Softwires", RFC 5640, DOI 10.17487/RFC5640, August 2009, <https://www.rfc-editor.org/info/rfc5640>.

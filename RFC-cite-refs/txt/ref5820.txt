@@ -1,0 +1,1 @@
+Roy, A., Ed., and M. Chandra, Ed., "Extensions to OSPF to Support Mobile Ad Hoc Networking", RFC 5820, DOI 10.17487/RFC5820, March 2010, <https://www.rfc-editor.org/info/rfc5820>.

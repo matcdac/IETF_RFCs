@@ -1,0 +1,1 @@
+Marshall, W., Ed., "Private Session Initiation Protocol (SIP) Extensions for Media Authorization", RFC 3313, DOI 10.17487/RFC3313, January 2003, <https://www.rfc-editor.org/info/rfc3313>.

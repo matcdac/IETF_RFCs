@@ -1,0 +1,1 @@
+Parsons, G., "Voice Profile for Internet Mail (VPIM) Addressing", RFC 3804, DOI 10.17487/RFC3804, June 2004, <https://www.rfc-editor.org/info/rfc3804>.

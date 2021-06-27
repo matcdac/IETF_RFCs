@@ -1,0 +1,1 @@
+Widmer, J. and M. Handley, "TCP-Friendly Multicast Congestion Control (TFMCC): Protocol Specification", RFC 4654, DOI 10.17487/RFC4654, August 2006, <https://www.rfc-editor.org/info/rfc4654>.

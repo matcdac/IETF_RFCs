@@ -1,0 +1,1 @@
+Bogdanov, A., "Unified Memory Space Protocol Specification", RFC 3018, DOI 10.17487/RFC3018, December 2000, <https://www.rfc-editor.org/info/rfc3018>.

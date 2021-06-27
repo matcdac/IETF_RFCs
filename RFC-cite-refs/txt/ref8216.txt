@@ -1,0 +1,1 @@
+Pantos, R., Ed., and W. May, "HTTP Live Streaming", RFC 8216, DOI 10.17487/RFC8216, August 2017, <https://www.rfc-editor.org/info/rfc8216>.

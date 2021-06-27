@@ -1,0 +1,1 @@
+Kang, S., "Using Universal Content Identifier (UCI) as Uniform Resource Names (URN)", RFC 4179, DOI 10.17487/RFC4179, October 2005, <https://www.rfc-editor.org/info/rfc4179>.

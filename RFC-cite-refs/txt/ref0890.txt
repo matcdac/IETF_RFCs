@@ -1,0 +1,1 @@
+Postel, J., "Exterior Gateway Protocol implementation schedule", RFC 890, DOI 10.17487/RFC0890, February 1984, <https://www.rfc-editor.org/info/rfc890>.

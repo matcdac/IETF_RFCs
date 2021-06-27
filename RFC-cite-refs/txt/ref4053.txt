@@ -1,0 +1,1 @@
+Trowbridge, S., Bradner, S., and F. Baker, "Procedures for Handling Liaison Statements to and from the IETF", BCP 103, RFC 4053, DOI 10.17487/RFC4053, April 2005, <https://www.rfc-editor.org/info/rfc4053>.

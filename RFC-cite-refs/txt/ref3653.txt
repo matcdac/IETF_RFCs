@@ -1,0 +1,1 @@
+Boyer, J., Hughes, M., and J. Reagle, "XML-Signature XPath Filter 2.0", RFC 3653, DOI 10.17487/RFC3653, December 2003, <https://www.rfc-editor.org/info/rfc3653>.

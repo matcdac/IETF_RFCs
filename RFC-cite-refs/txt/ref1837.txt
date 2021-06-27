@@ -1,0 +1,1 @@
+Kille, S., "Representing Tables and Subtrees in the X.500 Directory", RFC 1837, DOI 10.17487/RFC1837, August 1995, <https://www.rfc-editor.org/info/rfc1837>.

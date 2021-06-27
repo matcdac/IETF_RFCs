@@ -1,0 +1,1 @@
+McKenzie, A., ""Very Distant" Host interface", RFC 263, DOI 10.17487/RFC0263, December 1971, <https://www.rfc-editor.org/info/rfc263>.

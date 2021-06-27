@@ -1,0 +1,1 @@
+Xu, X., Ed., Decraene, B., Ed., Raszuk, R., Contreras, L., and L. Jalil, "OSPF Advertisement of Tunnel Encapsulations", RFC 9013, DOI 10.17487/RFC9013, April 2021, <https://www.rfc-editor.org/info/rfc9013>.

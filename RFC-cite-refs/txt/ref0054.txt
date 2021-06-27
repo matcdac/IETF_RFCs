@@ -1,0 +1,1 @@
+Crocker, S., Postel, J., Newkirk, J., and M. Kraley, "Official Protocol Proffering", RFC 54, DOI 10.17487/RFC0054, June 1970, <https://www.rfc-editor.org/info/rfc54>.

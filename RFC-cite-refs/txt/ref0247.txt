@@ -1,0 +1,1 @@
+Karp, P., "Proffered set of standard host names", RFC 247, DOI 10.17487/RFC0247, October 1971, <https://www.rfc-editor.org/info/rfc247>.

@@ -1,0 +1,1 @@
+Whitehead, J. and J. Reschke, Ed., "Web Distributed Authoring and Versioning (WebDAV) Ordered Collections Protocol", RFC 3648, DOI 10.17487/RFC3648, December 2003, <https://www.rfc-editor.org/info/rfc3648>.

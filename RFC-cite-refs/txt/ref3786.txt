@@ -1,0 +1,1 @@
+Hermelin, A., Previdi, S., and M. Shand, "Extending the Number of Intermediate System to Intermediate System (IS-IS) Link State PDU (LSP) Fragments Beyond the 256 Limit", RFC 3786, DOI 10.17487/RFC3786, May 2004, <https://www.rfc-editor.org/info/rfc3786>.

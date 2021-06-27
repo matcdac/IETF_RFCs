@@ -1,0 +1,1 @@
+Eastlake 3rd, D., Zhang, M., and A. Banerjee, "Transparent Interconnection of Lots of Links (TRILL): Multi-Topology", RFC 8377, DOI 10.17487/RFC8377, July 2018, <https://www.rfc-editor.org/info/rfc8377>.

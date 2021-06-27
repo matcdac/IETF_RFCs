@@ -1,0 +1,1 @@
+Carroll, C. and F. Quick, "Verizon Wireless Dynamic Mobile IP Key Update for cdma2000(R) Networks", RFC 4784, DOI 10.17487/RFC4784, June 2007, <https://www.rfc-editor.org/info/rfc4784>.

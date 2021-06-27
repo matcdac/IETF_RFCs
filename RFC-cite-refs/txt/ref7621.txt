@@ -1,0 +1,1 @@
+Roach, A., "A Clarification on the Use of Globally Routable User Agent URIs (GRUUs) in the SIP Event Notification Framework", RFC 7621, DOI 10.17487/RFC7621, August 2015, <https://www.rfc-editor.org/info/rfc7621>.

@@ -1,0 +1,1 @@
+Housley, R., "Using the AES-GMAC Algorithm with the Cryptographic Message Syntax (CMS)", RFC 9044, DOI 10.17487/RFC9044, June 2021, <https://www.rfc-editor.org/info/rfc9044>.

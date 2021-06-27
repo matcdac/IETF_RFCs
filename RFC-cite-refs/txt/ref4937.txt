@@ -1,0 +1,1 @@
+Arberg, P. and V. Mammoliti, "IANA Considerations for PPP over Ethernet (PPPoE)", RFC 4937, DOI 10.17487/RFC4937, June 2007, <https://www.rfc-editor.org/info/rfc4937>.

@@ -1,0 +1,1 @@
+Nordmark, E., "Stateless IP/ICMP Translation Algorithm (SIIT)", RFC 2765, DOI 10.17487/RFC2765, February 2000, <https://www.rfc-editor.org/info/rfc2765>.

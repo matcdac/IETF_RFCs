@@ -1,0 +1,1 @@
+Kinnear, K., Stapp, M., Volz, B., and N. Russell, "Active DHCPv4 Lease Query", RFC 7724, DOI 10.17487/RFC7724, December 2015, <https://www.rfc-editor.org/info/rfc7724>.

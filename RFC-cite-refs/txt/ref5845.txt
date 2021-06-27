@@ -1,0 +1,1 @@
+Muhanna, A., Khalil, M., Gundavelli, S., and K. Leung, "Generic Routing Encapsulation (GRE) Key Option for Proxy Mobile IPv6", RFC 5845, DOI 10.17487/RFC5845, June 2010, <https://www.rfc-editor.org/info/rfc5845>.

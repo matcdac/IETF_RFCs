@@ -1,0 +1,1 @@
+Wu, J., Cui, Y., Li, X., Xu, M., and C. Metz, "4over6 Transit Solution Using IP Encapsulation and MP-BGP Extensions", RFC 5747, DOI 10.17487/RFC5747, March 2010, <https://www.rfc-editor.org/info/rfc5747>.

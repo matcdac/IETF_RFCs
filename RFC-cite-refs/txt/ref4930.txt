@@ -1,0 +1,1 @@
+Hollenbeck, S., "Extensible Provisioning Protocol (EPP)", RFC 4930, DOI 10.17487/RFC4930, May 2007, <https://www.rfc-editor.org/info/rfc4930>.

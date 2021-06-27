@@ -1,0 +1,1 @@
+Bathrick, G. and F. Ly, "Definitions of Managed Objects for the ADSL Lines", RFC 2662, DOI 10.17487/RFC2662, August 1999, <https://www.rfc-editor.org/info/rfc2662>.

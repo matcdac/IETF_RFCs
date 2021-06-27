@@ -1,0 +1,1 @@
+Cox, T. and K. Tesink, "Definitions of managed objects for the DS3 Interface type", RFC 1233, DOI 10.17487/RFC1233, May 1991, <https://www.rfc-editor.org/info/rfc1233>.

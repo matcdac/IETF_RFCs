@@ -1,0 +1,1 @@
+Mealling, M., "Dynamic Delegation Discovery System (DDDS) Part One: The Comprehensive DDDS", RFC 3401, DOI 10.17487/RFC3401, October 2002, <https://www.rfc-editor.org/info/rfc3401>.

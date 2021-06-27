@@ -1,0 +1,1 @@
+Clunie, D. and E. Cordonnier, "Digital Imaging and Communications in Medicine (DICOM) - Application/dicom MIME Sub-type Registration", RFC 3240, DOI 10.17487/RFC3240, February 2002, <https://www.rfc-editor.org/info/rfc3240>.

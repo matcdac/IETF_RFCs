@@ -1,0 +1,1 @@
+Sklower, K. and G. Meyer, "The PPP DES Encryption Protocol (DESE)", RFC 1969, DOI 10.17487/RFC1969, June 1996, <https://www.rfc-editor.org/info/rfc1969>.

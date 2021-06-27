@@ -1,0 +1,1 @@
+Imielinski, T. and J. Navas, "GPS-Based Addressing and Routing", RFC 2009, DOI 10.17487/RFC2009, November 1996, <https://www.rfc-editor.org/info/rfc2009>.

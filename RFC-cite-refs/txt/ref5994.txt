@@ -1,0 +1,1 @@
+Bryant, S., Ed., Morrow, M., Swallow, G., Cherukuri, R., Nadeau, T., Harrison, N., and B. Niven-Jenkins, "Application of Ethernet Pseudowires to MPLS Transport Networks", RFC 5994, DOI 10.17487/RFC5994, October 2010, <https://www.rfc-editor.org/info/rfc5994>.

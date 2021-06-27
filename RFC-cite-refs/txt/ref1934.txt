@@ -1,0 +1,1 @@
+Smith, K., "Ascend's Multilink Protocol Plus (MP+)", RFC 1934, DOI 10.17487/RFC1934, April 1996, <https://www.rfc-editor.org/info/rfc1934>.

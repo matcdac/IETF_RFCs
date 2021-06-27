@@ -1,0 +1,1 @@
+Zeilenga, K., "Connection-less Lightweight Directory Access Protocol (CLDAP) to Historic Status", RFC 3352, DOI 10.17487/RFC3352, March 2003, <https://www.rfc-editor.org/info/rfc3352>.

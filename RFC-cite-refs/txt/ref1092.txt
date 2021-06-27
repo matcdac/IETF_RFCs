@@ -1,0 +1,1 @@
+Rekhter, J., "EGP and policy based routing in the new NSFNET backbone", RFC 1092, DOI 10.17487/RFC1092, February 1989, <https://www.rfc-editor.org/info/rfc1092>.

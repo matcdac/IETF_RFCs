@@ -1,0 +1,1 @@
+Klensin, J., Freed, N., Ed., and K. Moore, "SMTP Service Extension for Message Size Declaration", RFC 1427, DOI 10.17487/RFC1427, February 1993, <https://www.rfc-editor.org/info/rfc1427>.

@@ -1,0 +1,1 @@
+Blanchet, M., "Special-Use IPv6 Addresses", RFC 5156, DOI 10.17487/RFC5156, April 2008, <https://www.rfc-editor.org/info/rfc5156>.

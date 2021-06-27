@@ -1,0 +1,1 @@
+Ballardie, A., "Scalable Multicast Key Distribution", RFC 1949, DOI 10.17487/RFC1949, May 1996, <https://www.rfc-editor.org/info/rfc1949>.

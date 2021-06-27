@@ -1,0 +1,1 @@
+McQuillan, J., "Two Proposed Changes to the IMP-Host Protocol", RFC 394, DOI 10.17487/RFC0394, September 1972, <https://www.rfc-editor.org/info/rfc394>.

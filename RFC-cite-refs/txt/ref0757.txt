@@ -1,0 +1,1 @@
+Deutsch, D., "Suggested solution to the naming, addressing, and delivery problem for ARPANET message systems", RFC 757, DOI 10.17487/RFC0757, September 1979, <https://www.rfc-editor.org/info/rfc757>.

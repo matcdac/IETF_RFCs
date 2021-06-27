@@ -1,0 +1,1 @@
+Sluizer, S. and J. Postel, "Mail Transfer Protocol", RFC 780, DOI 10.17487/RFC0780, May 1981, <https://www.rfc-editor.org/info/rfc780>.

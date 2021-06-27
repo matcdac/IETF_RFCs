@@ -1,0 +1,1 @@
+Schneider, K. and S. Venters, "PPP for Data Compression in Data Circuit-Terminating Equipment (DCE)", RFC 1976, DOI 10.17487/RFC1976, August 1996, <https://www.rfc-editor.org/info/rfc1976>.

@@ -1,0 +1,1 @@
+Wijnen, B., Presuhn, R., and K. McCloghrie, "View-based Access Control Model (VACM) for the Simple Network Management Protocol (SNMP)", STD 62, RFC 3415, DOI 10.17487/RFC3415, December 2002, <https://www.rfc-editor.org/info/rfc3415>.

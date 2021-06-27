@@ -1,0 +1,1 @@
+Eastlake 3rd, D., "Detached Domain Name System (DNS) Information", RFC 2540, DOI 10.17487/RFC2540, March 1999, <https://www.rfc-editor.org/info/rfc2540>.

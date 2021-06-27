@@ -1,0 +1,1 @@
+Borman, D., "Telnet Linemode Option", RFC 1184, DOI 10.17487/RFC1184, October 1990, <https://www.rfc-editor.org/info/rfc1184>.

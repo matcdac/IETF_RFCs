@@ -1,0 +1,1 @@
+Housley, R., Mills, S., Jaffe, J., Aboba, B., and L. St.Amour, "Affirmation of the Modern Paradigm for Standards", RFC 6852, DOI 10.17487/RFC6852, January 2013, <https://www.rfc-editor.org/info/rfc6852>.

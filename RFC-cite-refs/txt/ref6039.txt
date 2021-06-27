@@ -1,0 +1,1 @@
+Manral, V., Bhatia, M., Jaeggli, J., and R. White, "Issues with Existing Cryptographic Protection Methods for Routing Protocols", RFC 6039, DOI 10.17487/RFC6039, October 2010, <https://www.rfc-editor.org/info/rfc6039>.

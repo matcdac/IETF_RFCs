@@ -1,0 +1,1 @@
+Zorn, G., Ed., Wu, Q., Taylor, T., Nir, Y., Hoeper, K., and S. Decugis, "Handover Keying (HOKEY) Architecture Design", RFC 6697, DOI 10.17487/RFC6697, July 2012, <https://www.rfc-editor.org/info/rfc6697>.

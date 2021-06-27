@@ -1,0 +1,1 @@
+Internet Architecture Board and Internet Engineering Steering Group, "The Internet Standards Process -- Revision 2", RFC 1602, DOI 10.17487/RFC1602, March 1994, <https://www.rfc-editor.org/info/rfc1602>.

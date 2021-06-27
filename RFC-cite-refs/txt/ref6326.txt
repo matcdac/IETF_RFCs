@@ -1,0 +1,1 @@
+Eastlake, D., Banerjee, A., Dutt, D., Perlman, R., and A. Ghanwani, "Transparent Interconnection of Lots of Links (TRILL) Use of IS-IS", RFC 6326, DOI 10.17487/RFC6326, July 2011, <https://www.rfc-editor.org/info/rfc6326>.

@@ -1,0 +1,1 @@
+Cheshire, S. and M. Krochmal, "Apple's DNS Long-Lived Queries Protocol", RFC 8764, DOI 10.17487/RFC8764, June 2020, <https://www.rfc-editor.org/info/rfc8764>.

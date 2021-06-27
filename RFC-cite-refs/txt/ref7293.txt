@@ -1,0 +1,1 @@
+Mills, W. and M. Kucherawy, "The Require-Recipient-Valid-Since Header Field and SMTP Service Extension", RFC 7293, DOI 10.17487/RFC7293, July 2014, <https://www.rfc-editor.org/info/rfc7293>.

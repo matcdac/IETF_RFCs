@@ -1,0 +1,1 @@
+Bakke, M., Hafner, J., Hufferd, J., Voruganti, K., and M. Krueger, "Internet Small Computer Systems Interface (iSCSI) Naming and Discovery", RFC 3721, DOI 10.17487/RFC3721, April 2004, <https://www.rfc-editor.org/info/rfc3721>.

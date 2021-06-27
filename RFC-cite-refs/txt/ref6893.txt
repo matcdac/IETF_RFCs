@@ -1,0 +1,1 @@
+Higgs, P. and P. Szucs, "A Uniform Resource Name (URN) Namespace for the Open IPTV Forum (OIPF)", RFC 6893, DOI 10.17487/RFC6893, March 2013, <https://www.rfc-editor.org/info/rfc6893>.

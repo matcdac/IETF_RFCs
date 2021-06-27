@@ -1,0 +1,1 @@
+Boivie, R., Feldman, N., Imai, Y., Livens, W., and D. Ooms, "Explicit Multicast (Xcast) Concepts and Options", RFC 5058, DOI 10.17487/RFC5058, November 2007, <https://www.rfc-editor.org/info/rfc5058>.

@@ -1,0 +1,1 @@
+Hotz, H. and R. Allbery, "kx509 Kerberized Certificate Issuance Protocol in Use in 2012", RFC 6717, DOI 10.17487/RFC6717, August 2012, <https://www.rfc-editor.org/info/rfc6717>.

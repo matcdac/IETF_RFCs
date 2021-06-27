@@ -1,0 +1,1 @@
+Gurbani, V. and C. Jennings, "Representing Trunk Groups in tel/sip Uniform Resource Identifiers (URIs)", RFC 4904, DOI 10.17487/RFC4904, June 2007, <https://www.rfc-editor.org/info/rfc4904>.

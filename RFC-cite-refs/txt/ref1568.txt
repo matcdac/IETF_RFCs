@@ -1,0 +1,1 @@
+Gwinn, A., "Simple Network Paging Protocol - Version 1(b)", RFC 1568, DOI 10.17487/RFC1568, January 1994, <https://www.rfc-editor.org/info/rfc1568>.

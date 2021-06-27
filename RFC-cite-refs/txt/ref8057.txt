@@ -1,0 +1,1 @@
+Stark, B., Sinicrope, D., and W. Lupton, "Uniform Resource Name (URN) Namespaces for Broadband Forum", RFC 8057, DOI 10.17487/RFC8057, January 2017, <https://www.rfc-editor.org/info/rfc8057>.

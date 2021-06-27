@@ -1,0 +1,1 @@
+Santesson, S., Housley, R., and T. Freeman, "Internet X.509 Public Key Infrastructure: Logotypes in X.509 Certificates", RFC 3709, DOI 10.17487/RFC3709, February 2004, <https://www.rfc-editor.org/info/rfc3709>.

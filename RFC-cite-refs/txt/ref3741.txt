@@ -1,0 +1,1 @@
+Boyer, J., Eastlake 3rd, D., and J. Reagle, "Exclusive XML Canonicalization, Version 1.0", RFC 3741, DOI 10.17487/RFC3741, March 2004, <https://www.rfc-editor.org/info/rfc3741>.

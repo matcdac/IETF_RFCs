@@ -1,0 +1,1 @@
+White, J., "Network Specifications for Remote Job Entry and Remote Job Output Retrieval at UCSB", RFC 105, DOI 10.17487/RFC0105, March 1971, <https://www.rfc-editor.org/info/rfc105>.

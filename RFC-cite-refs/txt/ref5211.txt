@@ -1,0 +1,1 @@
+Curran, J., "An Internet Transition Plan", RFC 5211, DOI 10.17487/RFC5211, July 2008, <https://www.rfc-editor.org/info/rfc5211>.

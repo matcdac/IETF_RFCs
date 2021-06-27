@@ -1,0 +1,1 @@
+Melnikov, A., Leiba, B., and K. Li, "Sieve Extension for Converting Messages before Delivery", RFC 6558, DOI 10.17487/RFC6558, March 2012, <https://www.rfc-editor.org/info/rfc6558>.

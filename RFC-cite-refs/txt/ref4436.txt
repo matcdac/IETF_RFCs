@@ -1,0 +1,1 @@
+Aboba, B., Carlson, J., and S. Cheshire, "Detecting Network Attachment in IPv4 (DNAv4)", RFC 4436, DOI 10.17487/RFC4436, March 2006, <https://www.rfc-editor.org/info/rfc4436>.

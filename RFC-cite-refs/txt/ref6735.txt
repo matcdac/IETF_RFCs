@@ -1,0 +1,1 @@
+Carlberg, K., Ed., and T. Taylor, "Diameter Priority Attribute-Value Pairs", RFC 6735, DOI 10.17487/RFC6735, October 2012, <https://www.rfc-editor.org/info/rfc6735>.

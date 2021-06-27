@@ -1,0 +1,1 @@
+Taylor, T., Ed., and D. Romascanu, "MIB Transfer from the IETF to the IEEE 802.3 WG", RFC 7448, DOI 10.17487/RFC7448, February 2015, <https://www.rfc-editor.org/info/rfc7448>.

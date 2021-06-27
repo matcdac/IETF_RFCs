@@ -1,0 +1,1 @@
+Heer, T. and S. Varjonen, "Host Identity Protocol Certificates", RFC 6253, DOI 10.17487/RFC6253, May 2011, <https://www.rfc-editor.org/info/rfc6253>.

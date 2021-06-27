@@ -1,0 +1,1 @@
+Melvin, J. and R. Watson, "First Cut at a Proposed Telnet Protocol", RFC 97, DOI 10.17487/RFC0097, February 1971, <https://www.rfc-editor.org/info/rfc97>.

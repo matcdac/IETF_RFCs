@@ -1,0 +1,1 @@
+Govindan, V. and C. Pignataro, "Seamless Bidirectional Forwarding Detection (S-BFD) for Virtual Circuit Connectivity Verification (VCCV)", RFC 7885, DOI 10.17487/RFC7885, July 2016, <https://www.rfc-editor.org/info/rfc7885>.

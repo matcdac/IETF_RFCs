@@ -1,0 +1,1 @@
+Yao, J., Ed., and W. Mao, Ed., "SMTP Extension for Internationalized Email Addresses", RFC 5336, DOI 10.17487/RFC5336, September 2008, <https://www.rfc-editor.org/info/rfc5336>.

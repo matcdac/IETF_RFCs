@@ -1,0 +1,1 @@
+Reschke, J., "Using POST to Add Members to Web Distributed Authoring and Versioning (WebDAV) Collections", RFC 5995, DOI 10.17487/RFC5995, September 2010, <https://www.rfc-editor.org/info/rfc5995>.

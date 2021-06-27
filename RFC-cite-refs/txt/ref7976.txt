@@ -1,0 +1,1 @@
+Holmberg, C., Biondic, N., and G. Salgueiro, "Updates to Private Header (P-Header) Extension Usage in Session Initiation Protocol (SIP) Requests and Responses", RFC 7976, DOI 10.17487/RFC7976, September 2016, <https://www.rfc-editor.org/info/rfc7976>.

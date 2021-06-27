@@ -1,0 +1,1 @@
+Baker, F., Harrop, W., and G. Armitage, "IPv4 and IPv6 Greynets", RFC 6018, DOI 10.17487/RFC6018, September 2010, <https://www.rfc-editor.org/info/rfc6018>.

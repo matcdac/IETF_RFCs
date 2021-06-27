@@ -1,0 +1,1 @@
+Bergeson, B., Boogert, K., and V. Nanjundaswamy, "Lightweight Directory Access Protocol (LDAP) Schema for Universal Description, Discovery, and Integration version 3 (UDDIv3)", RFC 4403, DOI 10.17487/RFC4403, February 2006, <https://www.rfc-editor.org/info/rfc4403>.

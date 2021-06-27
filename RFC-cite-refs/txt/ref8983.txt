@@ -1,0 +1,1 @@
+Boucadair, M., "Internet Key Exchange Protocol Version 2 (IKEv2) Notification Status Types for IPv4/IPv6 Coexistence", RFC 8983, DOI 10.17487/RFC8983, February 2021, <https://www.rfc-editor.org/info/rfc8983>.

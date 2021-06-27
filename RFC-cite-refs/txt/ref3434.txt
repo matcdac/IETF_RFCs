@@ -1,0 +1,1 @@
+Bierman, A. and K. McCloghrie, "Remote Monitoring MIB Extensions for High Capacity Alarms", RFC 3434, DOI 10.17487/RFC3434, December 2002, <https://www.rfc-editor.org/info/rfc3434>.

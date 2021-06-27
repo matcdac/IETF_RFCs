@@ -1,0 +1,1 @@
+Moy, J., "OSPF Standardization Report", RFC 2329, DOI 10.17487/RFC2329, April 1998, <https://www.rfc-editor.org/info/rfc2329>.

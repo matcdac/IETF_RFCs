@@ -1,0 +1,1 @@
+Harrington, D., Presuhn, R., and B. Wijnen, "An Architecture for Describing SNMP Management Frameworks", RFC 2271, DOI 10.17487/RFC2271, January 1998, <https://www.rfc-editor.org/info/rfc2271>.

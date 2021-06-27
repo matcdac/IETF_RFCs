@@ -1,0 +1,1 @@
+Zhang, M., Pallagatti, S., and V. Govindan, "Support of Point-to-Multipoint Bidirectional Forwarding Detection (BFD) in Transparent Interconnection of Lots of Links (TRILL)", RFC 8564, DOI 10.17487/RFC8564, April 2019, <https://www.rfc-editor.org/info/rfc8564>.

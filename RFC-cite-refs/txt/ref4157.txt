@@ -1,0 +1,1 @@
+Hoffman, P., "The prospero URI Scheme", RFC 4157, DOI 10.17487/RFC4157, August 2005, <https://www.rfc-editor.org/info/rfc4157>.

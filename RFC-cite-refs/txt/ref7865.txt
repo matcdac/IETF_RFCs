@@ -1,0 +1,1 @@
+Ravindranath, R., Ravindran, P., and P. Kyzivat, "Session Initiation Protocol (SIP) Recording Metadata", RFC 7865, DOI 10.17487/RFC7865, May 2016, <https://www.rfc-editor.org/info/rfc7865>.

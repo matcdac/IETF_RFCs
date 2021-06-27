@@ -1,0 +1,1 @@
+Ghanwani, A., Pace, J., Srinivasan, V., Smith, A., and M. Seaman, "A Framework for Integrated Services Over Shared and Switched IEEE 802 LAN Technologies", RFC 2816, DOI 10.17487/RFC2816, May 2000, <https://www.rfc-editor.org/info/rfc2816>.

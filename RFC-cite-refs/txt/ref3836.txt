@@ -1,0 +1,1 @@
+Beck, A., Hofmann, M., Orman, H., Penno, R., and A. Terzis, "Requirements for Open Pluggable Edge Services (OPES) Callout Protocols", RFC 3836, DOI 10.17487/RFC3836, August 2004, <https://www.rfc-editor.org/info/rfc3836>.

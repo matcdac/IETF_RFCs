@@ -1,0 +1,1 @@
+Jenkins, M. and L. Zieglar, "Commercial National Security Algorithm (CNSA) Suite Profile of Certificate Management over CMS", RFC 8756, DOI 10.17487/RFC8756, March 2020, <https://www.rfc-editor.org/info/rfc8756>.

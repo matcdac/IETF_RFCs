@@ -1,0 +1,1 @@
+Srisuresh, P., Kuthan, J., Rosenberg, J., Molitor, A., and A. Rayhan, "Middlebox communication architecture and framework", RFC 3303, DOI 10.17487/RFC3303, August 2002, <https://www.rfc-editor.org/info/rfc3303>.

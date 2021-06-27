@@ -1,0 +1,1 @@
+Blaze, M., Feigenbaum, J., Ioannidis, J., and A. Keromytis, "The KeyNote Trust-Management System Version 2", RFC 2704, DOI 10.17487/RFC2704, September 1999, <https://www.rfc-editor.org/info/rfc2704>.

@@ -1,0 +1,1 @@
+Eardley, P., Eggert, L., Bagnulo, M., and R. Winter, "How to Contribute Research Results to Internet Standardization", RFC 6417, DOI 10.17487/RFC6417, November 2011, <https://www.rfc-editor.org/info/rfc6417>.

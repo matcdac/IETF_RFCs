@@ -1,0 +1,1 @@
+Kurapati, P., Desetti, R., and B. Joshi, "DHCPv4 Lease Query by Relay Agent Remote ID", RFC 6148, DOI 10.17487/RFC6148, February 2011, <https://www.rfc-editor.org/info/rfc6148>.

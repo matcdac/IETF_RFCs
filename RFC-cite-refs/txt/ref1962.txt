@@ -1,0 +1,1 @@
+Rand, D., "The PPP Compression Control Protocol (CCP)", RFC 1962, DOI 10.17487/RFC1962, June 1996, <https://www.rfc-editor.org/info/rfc1962>.

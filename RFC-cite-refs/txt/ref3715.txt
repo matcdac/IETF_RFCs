@@ -1,0 +1,1 @@
+Aboba, B. and W. Dixon, "IPsec-Network Address Translation (NAT) Compatibility Requirements", RFC 3715, DOI 10.17487/RFC3715, March 2004, <https://www.rfc-editor.org/info/rfc3715>.

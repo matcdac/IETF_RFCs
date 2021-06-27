@@ -1,0 +1,1 @@
+Chown, P., "Advanced Encryption Standard (AES) Ciphersuites for Transport Layer Security (TLS)", RFC 3268, DOI 10.17487/RFC3268, June 2002, <https://www.rfc-editor.org/info/rfc3268>.

@@ -1,0 +1,1 @@
+White, J., "Proposed Mail Protocol", RFC 524, DOI 10.17487/RFC0524, June 1973, <https://www.rfc-editor.org/info/rfc524>.

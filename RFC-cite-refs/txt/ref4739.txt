@@ -1,0 +1,1 @@
+Eronen, P. and J. Korhonen, "Multiple Authentication Exchanges in the Internet Key Exchange (IKEv2) Protocol", RFC 4739, DOI 10.17487/RFC4739, November 2006, <https://www.rfc-editor.org/info/rfc4739>.

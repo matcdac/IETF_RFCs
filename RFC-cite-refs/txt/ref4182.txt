@@ -1,0 +1,1 @@
+Rosen, E., "Removing a Restriction on the use of MPLS Explicit NULL", RFC 4182, DOI 10.17487/RFC4182, September 2005, <https://www.rfc-editor.org/info/rfc4182>.

@@ -1,0 +1,1 @@
+Hoeneisen, B. and A. Mayrhofer, "Update of Legacy IANA Registrations of Enumservices", RFC 6118, DOI 10.17487/RFC6118, March 2011, <https://www.rfc-editor.org/info/rfc6118>.

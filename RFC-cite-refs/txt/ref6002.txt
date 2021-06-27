@@ -1,0 +1,1 @@
+Berger, L. and D. Fedyk, "Generalized MPLS (GMPLS) Data Channel Switching Capable (DCSC) and Channel Set Label Extensions", RFC 6002, DOI 10.17487/RFC6002, October 2010, <https://www.rfc-editor.org/info/rfc6002>.

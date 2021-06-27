@@ -1,0 +1,1 @@
+Berger, L., Takacs, A., Caviglia, D., Fedyk, D., and J. Meuric, "GMPLS Asymmetric Bandwidth Bidirectional Label Switched Paths (LSPs)", RFC 5467, DOI 10.17487/RFC5467, March 2009, <https://www.rfc-editor.org/info/rfc5467>.

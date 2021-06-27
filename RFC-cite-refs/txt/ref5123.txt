@@ -1,0 +1,1 @@
+White, R. and B. Akyol, "Considerations in Validating the Path in BGP", RFC 5123, DOI 10.17487/RFC5123, February 2008, <https://www.rfc-editor.org/info/rfc5123>.

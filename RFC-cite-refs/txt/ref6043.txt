@@ -1,0 +1,1 @@
+Mattsson, J. and T. Tian, "MIKEY-TICKET: Ticket-Based Modes of Key Distribution in Multimedia Internet KEYing (MIKEY)", RFC 6043, DOI 10.17487/RFC6043, March 2011, <https://www.rfc-editor.org/info/rfc6043>.

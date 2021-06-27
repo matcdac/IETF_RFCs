@@ -1,0 +1,1 @@
+Raza, K., Boutros, S., and C. Pignataro, "LDP 'Typed Wildcard' Forwarding Equivalence Class (FEC) for PWid and Generalized PWid FEC Elements", RFC 6667, DOI 10.17487/RFC6667, July 2012, <https://www.rfc-editor.org/info/rfc6667>.

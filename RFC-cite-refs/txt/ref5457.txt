@@ -1,0 +1,1 @@
+Guy, E., Ed., "IANA Considerations for IAX: Inter-Asterisk eXchange Version 2", RFC 5457, DOI 10.17487/RFC5457, February 2010, <https://www.rfc-editor.org/info/rfc5457>.

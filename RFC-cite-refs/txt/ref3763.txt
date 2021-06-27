@@ -1,0 +1,1 @@
+Shalunov, S. and B. Teitelbaum, "One-way Active Measurement Protocol (OWAMP) Requirements", RFC 3763, DOI 10.17487/RFC3763, April 2004, <https://www.rfc-editor.org/info/rfc3763>.

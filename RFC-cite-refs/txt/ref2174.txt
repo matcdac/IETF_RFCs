@@ -1,0 +1,1 @@
+Murakami, K. and M. Maruyama, "A MAPOS version 1 Extension - Switch-Switch Protocol", RFC 2174, DOI 10.17487/RFC2174, June 1997, <https://www.rfc-editor.org/info/rfc2174>.

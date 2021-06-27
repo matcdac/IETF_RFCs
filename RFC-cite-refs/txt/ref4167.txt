@@ -1,0 +1,1 @@
+Lindem, A., "Graceful OSPF Restart Implementation Report", RFC 4167, DOI 10.17487/RFC4167, October 2005, <https://www.rfc-editor.org/info/rfc4167>.

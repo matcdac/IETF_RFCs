@@ -1,0 +1,1 @@
+Patil, P., Reddy, T., Salgueiro, G., and M. Petit-Huguenin, "Application-Layer Protocol Negotiation (ALPN) Labels for Session Traversal Utilities for NAT (STUN) Usages", RFC 7443, DOI 10.17487/RFC7443, January 2015, <https://www.rfc-editor.org/info/rfc7443>.

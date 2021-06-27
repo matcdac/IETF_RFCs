@@ -1,0 +1,1 @@
+Burger, E., Ed., Van Dyke, J., and A. Spitzer, "Basic Network Media Services with SIP", RFC 4240, DOI 10.17487/RFC4240, December 2005, <https://www.rfc-editor.org/info/rfc4240>.

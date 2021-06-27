@@ -1,0 +1,1 @@
+Jang, H., Jee, J., Han, Y., Park, S., and J. Cha, "Mobile IPv6 Fast Handovers over IEEE 802.16e Networks", RFC 5270, DOI 10.17487/RFC5270, June 2008, <https://www.rfc-editor.org/info/rfc5270>.

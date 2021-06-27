@@ -1,0 +1,1 @@
+Kent, S., Kong, D., and K. Seo, "Template for a Certification Practice Statement (CPS) for the Resource PKI (RPKI)", BCP 173, RFC 7382, DOI 10.17487/RFC7382, April 2015, <https://www.rfc-editor.org/info/rfc7382>.

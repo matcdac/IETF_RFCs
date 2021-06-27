@@ -1,0 +1,1 @@
+Ong, L. and J. Yoakum, "An Introduction to the Stream Control Transmission Protocol (SCTP)", RFC 3286, DOI 10.17487/RFC3286, May 2002, <https://www.rfc-editor.org/info/rfc3286>.

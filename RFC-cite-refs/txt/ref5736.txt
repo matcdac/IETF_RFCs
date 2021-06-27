@@ -1,0 +1,1 @@
+Huston, G., Cotton, M., and L. Vegoda, "IANA IPv4 Special Purpose Address Registry", RFC 5736, DOI 10.17487/RFC5736, January 2010, <https://www.rfc-editor.org/info/rfc5736>.

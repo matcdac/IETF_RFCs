@@ -1,0 +1,1 @@
+Meyer, D. and J. Scudder, "Request to Move RFC 1403 to Historic Status", RFC 3166, DOI 10.17487/RFC3166, August 2001, <https://www.rfc-editor.org/info/rfc3166>.

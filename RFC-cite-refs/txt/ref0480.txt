@@ -1,0 +1,1 @@
+White, J., "Host-dependent FTP parameters", RFC 480, DOI 10.17487/RFC0480, March 1973, <https://www.rfc-editor.org/info/rfc480>.

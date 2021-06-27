@@ -1,0 +1,1 @@
+Fox, B. and B. Gleeson, "Virtual Private Networks Identifier", RFC 2685, DOI 10.17487/RFC2685, September 1999, <https://www.rfc-editor.org/info/rfc2685>.

@@ -1,0 +1,1 @@
+Nelson, R., "Some Observations on Implementations of the Post Office Protocol (POP3)", RFC 1957, DOI 10.17487/RFC1957, June 1996, <https://www.rfc-editor.org/info/rfc1957>.

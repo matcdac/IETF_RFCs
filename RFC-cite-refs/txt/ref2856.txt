@@ -1,0 +1,1 @@
+Bierman, A., McCloghrie, K., and R. Presuhn, "Textual Conventions for Additional High Capacity Data Types", RFC 2856, DOI 10.17487/RFC2856, June 2000, <https://www.rfc-editor.org/info/rfc2856>.

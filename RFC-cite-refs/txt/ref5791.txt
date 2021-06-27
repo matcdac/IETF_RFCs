@@ -1,0 +1,1 @@
+Reschke, J. and J. Kunze, "RFC 2731 ("Encoding Dublin Core Metadata in HTML") Is Obsolete", RFC 5791, DOI 10.17487/RFC5791, February 2010, <https://www.rfc-editor.org/info/rfc5791>.

@@ -1,0 +1,1 @@
+Dearlove, C. and T. Clausen, "Routing Multipoint Relay Optimization for the Optimized Link State Routing Protocol Version 2 (OLSRv2)", RFC 7187, DOI 10.17487/RFC7187, April 2014, <https://www.rfc-editor.org/info/rfc7187>.

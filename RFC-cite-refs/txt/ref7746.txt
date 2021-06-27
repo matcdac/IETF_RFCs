@@ -1,0 +1,1 @@
+Bonica, R., Minei, I., Conn, M., Pacella, D., and L. Tomotaki, "Label Switched Path (LSP) Self-Ping", RFC 7746, DOI 10.17487/RFC7746, January 2016, <https://www.rfc-editor.org/info/rfc7746>.

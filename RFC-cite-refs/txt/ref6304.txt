@@ -1,0 +1,1 @@
+Abley, J. and W. Maton, "AS112 Nameserver Operations", RFC 6304, DOI 10.17487/RFC6304, July 2011, <https://www.rfc-editor.org/info/rfc6304>.

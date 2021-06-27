@@ -1,0 +1,1 @@
+Stastny, R., Shockey, R., and L. Conroy, "The ENUM Dip Indicator Parameter for the "tel" URI", RFC 4759, DOI 10.17487/RFC4759, December 2006, <https://www.rfc-editor.org/info/rfc4759>.

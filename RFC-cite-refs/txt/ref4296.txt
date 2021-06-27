@@ -1,0 +1,1 @@
+Bailey, S. and T. Talpey, "The Architecture of Direct Data Placement (DDP) and Remote Direct Memory Access (RDMA) on Internet Protocols", RFC 4296, DOI 10.17487/RFC4296, December 2005, <https://www.rfc-editor.org/info/rfc4296>.

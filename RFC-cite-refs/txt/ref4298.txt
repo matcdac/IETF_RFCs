@@ -1,0 +1,1 @@
+Chen, J.-H., Lee, W., and J. Thyssen, "RTP Payload Format for BroadVoice Speech Codecs", RFC 4298, DOI 10.17487/RFC4298, December 2005, <https://www.rfc-editor.org/info/rfc4298>.

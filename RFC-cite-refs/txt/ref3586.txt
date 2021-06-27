@@ -1,0 +1,1 @@
+Blaze, M., Keromytis, A., Richardson, M., and L. Sanchez, "IP Security Policy (IPSP) Requirements", RFC 3586, DOI 10.17487/RFC3586, August 2003, <https://www.rfc-editor.org/info/rfc3586>.

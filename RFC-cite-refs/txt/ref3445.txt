@@ -1,0 +1,1 @@
+Massey, D. and S. Rose, "Limiting the Scope of the KEY Resource Record (RR)", RFC 3445, DOI 10.17487/RFC3445, December 2002, <https://www.rfc-editor.org/info/rfc3445>.

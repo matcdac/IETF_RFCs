@@ -1,0 +1,1 @@
+Eder, M. and S. Nag, "Service Management Architectures Issues and Review", RFC 3052, DOI 10.17487/RFC3052, January 2001, <https://www.rfc-editor.org/info/rfc3052>.

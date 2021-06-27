@@ -1,0 +1,1 @@
+Rosenberg, J. and H. Schulzrinne, "An Extension to the Session Initiation Protocol (SIP) for Symmetric Response Routing", RFC 3581, DOI 10.17487/RFC3581, August 2003, <https://www.rfc-editor.org/info/rfc3581>.

@@ -1,0 +1,1 @@
+Murchison, K., Vinocur, J., and C. Newman, "Using Transport Layer Security (TLS) with Network News Transfer Protocol (NNTP)", RFC 4642, DOI 10.17487/RFC4642, October 2006, <https://www.rfc-editor.org/info/rfc4642>.

@@ -1,0 +1,1 @@
+Brandner, R., Conroy, L., and R. Stastny, "IANA Registration for Enumservices email, fax, mms, ems, and sms", RFC 4355, DOI 10.17487/RFC4355, January 2006, <https://www.rfc-editor.org/info/rfc4355>.

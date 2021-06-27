@@ -1,0 +1,1 @@
+Postel, J., "DoD statement on the NRC report", RFC 945, DOI 10.17487/RFC0945, May 1985, <https://www.rfc-editor.org/info/rfc945>.

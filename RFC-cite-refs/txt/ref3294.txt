@@ -1,0 +1,1 @@
+Doria, A. and K. Sundell, "General Switch Management Protocol (GSMP) Applicability", RFC 3294, DOI 10.17487/RFC3294, June 2002, <https://www.rfc-editor.org/info/rfc3294>.

@@ -1,0 +1,1 @@
+Westheimer, E., "Network host status", RFC 288, DOI 10.17487/RFC0288, January 1972, <https://www.rfc-editor.org/info/rfc288>.

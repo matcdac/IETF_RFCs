@@ -1,0 +1,1 @@
+Mahy, R., Sparks, R., Rosenberg, J., Petrie, D., and A. Johnston, Ed., "A Call Control and Multi-Party Usage Framework for the Session Initiation Protocol (SIP)", RFC 5850, DOI 10.17487/RFC5850, May 2010, <https://www.rfc-editor.org/info/rfc5850>.

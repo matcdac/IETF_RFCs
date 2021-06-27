@@ -1,0 +1,1 @@
+Postel, J., "Announcing additional Telnet options", RFC 659, DOI 10.17487/RFC0659, October 1974, <https://www.rfc-editor.org/info/rfc659>.

@@ -1,0 +1,1 @@
+Blumenthal, U. and B. Wijnen, "User-based Security Model (USM) for version 3 of the Simple Network Management Protocol (SNMPv3)", RFC 2574, DOI 10.17487/RFC2574, April 1999, <https://www.rfc-editor.org/info/rfc2574>.

@@ -1,0 +1,1 @@
+Schliesser, B. and T. Nadeau, "Definition of Textual Conventions for Virtual Private Network (VPN) Management", RFC 4265, DOI 10.17487/RFC4265, November 2005, <https://www.rfc-editor.org/info/rfc4265>.

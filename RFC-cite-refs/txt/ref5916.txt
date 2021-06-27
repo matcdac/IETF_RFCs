@@ -1,0 +1,1 @@
+Turner, S., "Device Owner Attribute", RFC 5916, DOI 10.17487/RFC5916, June 2010, <https://www.rfc-editor.org/info/rfc5916>.

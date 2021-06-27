@@ -1,0 +1,1 @@
+Pullen, M., Malghan, R., Lavu, L., Duan, G., Ma, J., and H. Nah, "A Simulation Model for IP Multicast with RSVP", RFC 2490, DOI 10.17487/RFC2490, January 1999, <https://www.rfc-editor.org/info/rfc2490>.

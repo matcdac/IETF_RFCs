@@ -1,0 +1,1 @@
+Stone, J., Kumar, R., and F. Andreasen, "Media Gateway Control Protocol (MGCP) Voiceband Data (VBD) Package and General-Purpose Media Descriptor Parameter Package", RFC 6498, DOI 10.17487/RFC6498, February 2012, <https://www.rfc-editor.org/info/rfc6498>.

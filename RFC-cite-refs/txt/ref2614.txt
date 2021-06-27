@@ -1,0 +1,1 @@
+Kempf, J. and E. Guttman, "An API for Service Location", RFC 2614, DOI 10.17487/RFC2614, June 1999, <https://www.rfc-editor.org/info/rfc2614>.

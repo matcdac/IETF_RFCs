@@ -1,0 +1,1 @@
+Sparks, R. and T. Zourzouvillys, "Correct Transaction Handling for 2xx Responses to Session Initiation Protocol (SIP) INVITE Requests", RFC 6026, DOI 10.17487/RFC6026, September 2010, <https://www.rfc-editor.org/info/rfc6026>.

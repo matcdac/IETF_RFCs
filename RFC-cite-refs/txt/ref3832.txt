@@ -1,0 +1,1 @@
+Zhao, W., Schulzrinne, H., Guttman, E., Bisdikian, C., and W. Jerome, "Remote Service Discovery in the Service Location Protocol (SLP) via DNS SRV", RFC 3832, DOI 10.17487/RFC3832, July 2004, <https://www.rfc-editor.org/info/rfc3832>.

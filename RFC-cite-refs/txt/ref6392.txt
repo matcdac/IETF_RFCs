@@ -1,0 +1,1 @@
+Alimi, R., Ed., Rahman, A., Ed., and Y. Yang, Ed., "A Survey of In-Network Storage Systems", RFC 6392, DOI 10.17487/RFC6392, October 2011, <https://www.rfc-editor.org/info/rfc6392>.

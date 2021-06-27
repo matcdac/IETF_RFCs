@@ -1,0 +1,1 @@
+Chen, G., Deng, H., Michaud, D., Korhonen, J., and M. Boucadair, "Analysis of Failure Cases in IPv6 Roaming Scenarios", RFC 7445, DOI 10.17487/RFC7445, March 2015, <https://www.rfc-editor.org/info/rfc7445>.

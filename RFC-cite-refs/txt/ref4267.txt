@@ -1,0 +1,1 @@
+Froumentin, M., "The W3C Speech Interface Framework Media Types: application/voicexml+xml, application/ssml+xml, application/srgs, application/srgs+xml, application/ccxml+xml, and application/pls+xml", RFC 4267, DOI 10.17487/RFC4267, November 2005, <https://www.rfc-editor.org/info/rfc4267>.

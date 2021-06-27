@@ -1,0 +1,1 @@
+McCloghrie, K. and A. Bierman, "Entity MIB using SMIv2", RFC 2037, DOI 10.17487/RFC2037, October 1996, <https://www.rfc-editor.org/info/rfc2037>.

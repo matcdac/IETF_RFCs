@@ -1,0 +1,1 @@
+Harslem, E., Heafner, J., and J. White, "Network activity report: UCSB Rand", RFC 113, DOI 10.17487/RFC0113, April 1971, <https://www.rfc-editor.org/info/rfc113>.

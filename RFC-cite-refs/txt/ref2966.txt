@@ -1,0 +1,1 @@
+Li, T., Przygienda, T., and H. Smit, "Domain-wide Prefix Distribution with Two-Level IS-IS", RFC 2966, DOI 10.17487/RFC2966, October 2000, <https://www.rfc-editor.org/info/rfc2966>.

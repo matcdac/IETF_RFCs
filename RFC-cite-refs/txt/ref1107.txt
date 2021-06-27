@@ -1,0 +1,1 @@
+Sollins, K., "Plan for Internet directory services", RFC 1107, DOI 10.17487/RFC1107, July 1989, <https://www.rfc-editor.org/info/rfc1107>.

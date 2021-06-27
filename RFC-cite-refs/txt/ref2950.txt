@@ -1,0 +1,1 @@
+Altman, J., "Telnet Encryption: CAST-128 64 bit Cipher Feedback", RFC 2950, DOI 10.17487/RFC2950, September 2000, <https://www.rfc-editor.org/info/rfc2950>.

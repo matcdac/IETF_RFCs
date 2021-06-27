@@ -1,0 +1,1 @@
+Cerf, V., "Thoughts on the National Research and Education Network", RFC 1167, DOI 10.17487/RFC1167, July 1990, <https://www.rfc-editor.org/info/rfc1167>.

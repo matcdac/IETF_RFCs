@@ -1,0 +1,1 @@
+Crocker, D., Ed., "RFC 4871 DomainKeys Identified Mail (DKIM) Signatures -- Update", RFC 5672, DOI 10.17487/RFC5672, August 2009, <https://www.rfc-editor.org/info/rfc5672>.

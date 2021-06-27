@@ -1,0 +1,1 @@
+Meyer, D. and P. Lothberg, "GLOP Addressing in 233/8", BCP 53, RFC 3180, DOI 10.17487/RFC3180, September 2001, <https://www.rfc-editor.org/info/rfc3180>.

@@ -1,0 +1,1 @@
+Roy, S., Durand, A., and J. Paugh, "IPv6 Neighbor Discovery On-Link Assumption Considered Harmful", RFC 4943, DOI 10.17487/RFC4943, September 2007, <https://www.rfc-editor.org/info/rfc4943>.

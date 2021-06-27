@@ -1,0 +1,1 @@
+Clancy, T. and W. Arbaugh, "Extensible Authentication Protocol (EAP) Password Authenticated Exchange", RFC 4746, DOI 10.17487/RFC4746, November 2006, <https://www.rfc-editor.org/info/rfc4746>.

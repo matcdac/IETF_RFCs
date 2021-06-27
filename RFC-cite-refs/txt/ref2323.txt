@@ -1,0 +1,1 @@
+Ramos, A., "IETF Identification and Security Guidelines", RFC 2323, DOI 10.17487/RFC2323, April 1 1998, <https://www.rfc-editor.org/info/rfc2323>.

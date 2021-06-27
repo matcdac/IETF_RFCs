@@ -1,0 +1,1 @@
+Myers, J., "IMAP4 UIDPLUS extension", RFC 2359, DOI 10.17487/RFC2359, June 1998, <https://www.rfc-editor.org/info/rfc2359>.

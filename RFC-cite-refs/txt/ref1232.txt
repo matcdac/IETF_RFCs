@@ -1,0 +1,1 @@
+Baker, F. and C. Kolb, "Definitions of managed objects for the DS1 Interface type", RFC 1232, DOI 10.17487/RFC1232, May 1991, <https://www.rfc-editor.org/info/rfc1232>.

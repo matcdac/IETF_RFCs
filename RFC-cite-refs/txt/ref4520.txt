@@ -1,0 +1,1 @@
+Zeilenga, K., "Internet Assigned Numbers Authority (IANA) Considerations for the Lightweight Directory Access Protocol (LDAP)", BCP 64, RFC 4520, DOI 10.17487/RFC4520, June 2006, <https://www.rfc-editor.org/info/rfc4520>.

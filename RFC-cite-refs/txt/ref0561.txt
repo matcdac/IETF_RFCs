@@ -1,0 +1,1 @@
+Bhushan, A., Pogran, K., Tomlinson, R., and J. White, "Standardizing Network Mail Headers", RFC 561, DOI 10.17487/RFC0561, September 1973, <https://www.rfc-editor.org/info/rfc561>.

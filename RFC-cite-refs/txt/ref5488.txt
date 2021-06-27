@@ -1,0 +1,1 @@
+Gundavelli, S., Keeni, G., Koide, K., and K. Nagami, "Network Mobility (NEMO) Management Information Base", RFC 5488, DOI 10.17487/RFC5488, April 2009, <https://www.rfc-editor.org/info/rfc5488>.

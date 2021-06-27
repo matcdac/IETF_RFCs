@@ -1,0 +1,1 @@
+Rosenberg, J., "SIMPLE Made Simple: An Overview of the IETF Specifications for Instant Messaging and Presence Using the Session Initiation Protocol (SIP)", RFC 6914, DOI 10.17487/RFC6914, April 2013, <https://www.rfc-editor.org/info/rfc6914>.

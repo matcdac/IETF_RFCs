@@ -1,0 +1,1 @@
+Peterson, J., Polk, J., Sicker, D., and H. Tschofenig, "Trait-Based Authorization Requirements for the Session Initiation Protocol (SIP)", RFC 4484, DOI 10.17487/RFC4484, August 2006, <https://www.rfc-editor.org/info/rfc4484>.

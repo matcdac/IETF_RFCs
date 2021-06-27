@@ -1,0 +1,1 @@
+Crocker, D., Freed, N., and A. Cargille, "SMTP Service Extension for Checkpoint/Restart", RFC 1845, DOI 10.17487/RFC1845, September 1995, <https://www.rfc-editor.org/info/rfc1845>.

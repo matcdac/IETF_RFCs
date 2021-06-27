@@ -1,0 +1,1 @@
+Martin, S., Tuecke, S., McCollam, B., and M. Lidman, "A URN Namespace for Globus", RFC 7853, DOI 10.17487/RFC7853, May 2016, <https://www.rfc-editor.org/info/rfc7853>.

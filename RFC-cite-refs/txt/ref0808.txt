@@ -1,0 +1,1 @@
+Postel, J., "Summary of computer mail services meeting held at BBN on 10 January 1979", RFC 808, DOI 10.17487/RFC0808, March 1982, <https://www.rfc-editor.org/info/rfc808>.

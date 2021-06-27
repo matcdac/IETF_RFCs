@@ -1,0 +1,1 @@
+Villamizar, C., Ed., McDysan, D., Ed., Ning, S., Malis, A., and L. Yong, "Requirements for Advanced Multipath in MPLS Networks", RFC 7226, DOI 10.17487/RFC7226, May 2014, <https://www.rfc-editor.org/info/rfc7226>.

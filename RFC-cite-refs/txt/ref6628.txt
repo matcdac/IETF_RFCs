@@ -1,0 +1,1 @@
+Shin, S. and K. Kobara, "Efficient Augmented Password-Only Authentication and Key Exchange for IKEv2", RFC 6628, DOI 10.17487/RFC6628, June 2012, <https://www.rfc-editor.org/info/rfc6628>.

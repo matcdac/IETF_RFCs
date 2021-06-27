@@ -1,0 +1,1 @@
+Shen, Y., Aggarwal, R., Henderickx, W., and Y. Jiang, "Pseudowire (PW) Endpoint Fast Failure Protection", RFC 8104, DOI 10.17487/RFC8104, March 2017, <https://www.rfc-editor.org/info/rfc8104>.

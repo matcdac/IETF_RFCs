@@ -1,0 +1,1 @@
+Boutros, S., Ed., and S. Sivabalan, Ed., "Signaling Root-Initiated Point-to-Multipoint Pseudowire Using LDP", RFC 8338, DOI 10.17487/RFC8338, March 2018, <https://www.rfc-editor.org/info/rfc8338>.

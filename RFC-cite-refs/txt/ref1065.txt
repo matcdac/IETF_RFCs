@@ -1,0 +1,1 @@
+McCloghrie, K. and M. Rose, "Structure and identification of management information for TCP/IP-based internets", RFC 1065, DOI 10.17487/RFC1065, August 1988, <https://www.rfc-editor.org/info/rfc1065>.

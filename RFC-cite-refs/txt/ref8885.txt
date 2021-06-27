@@ -1,0 +1,1 @@
+Bernardos, CJ., de la Oliva, A., Giust, F., Zúñiga, JC., and A. Mourad, "Proxy Mobile IPv6 Extensions for Distributed Mobility Management", RFC 8885, DOI 10.17487/RFC8885, October 2020, <https://www.rfc-editor.org/info/rfc8885>.

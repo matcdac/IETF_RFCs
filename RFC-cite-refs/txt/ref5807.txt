@@ -1,0 +1,1 @@
+Ohba, Y. and A. Yegin, "Definition of Master Key between PANA Client and Enforcement Point", RFC 5807, DOI 10.17487/RFC5807, March 2010, <https://www.rfc-editor.org/info/rfc5807>.

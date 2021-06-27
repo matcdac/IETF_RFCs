@@ -1,0 +1,1 @@
+Tesink, K., Ed., "Textual Conventions for MIB Modules Using Performance History Based on 15 Minute Intervals", RFC 3593, DOI 10.17487/RFC3593, September 2003, <https://www.rfc-editor.org/info/rfc3593>.

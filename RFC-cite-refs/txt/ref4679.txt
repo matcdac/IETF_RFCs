@@ -1,0 +1,1 @@
+Mammoliti, V., Zorn, G., Arberg, P., and R. Rennison, "DSL Forum Vendor-Specific RADIUS Attributes", RFC 4679, DOI 10.17487/RFC4679, September 2006, <https://www.rfc-editor.org/info/rfc4679>.

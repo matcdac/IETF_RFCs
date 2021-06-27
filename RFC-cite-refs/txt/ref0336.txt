@@ -1,0 +1,1 @@
+Cotton, I., "Level 0 Graphic Input Protocol", RFC 336, DOI 10.17487/RFC0336, May 1972, <https://www.rfc-editor.org/info/rfc336>.

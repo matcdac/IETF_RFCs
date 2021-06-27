@@ -1,0 +1,1 @@
+Tschofenig, H., Korhonen, J., Ed., Zorn, G., and K. Pillay, "Security at the Attribute-Value Pair (AVP) Level for Non-neighboring Diameter Nodes: Scenarios and Requirements", RFC 7966, DOI 10.17487/RFC7966, September 2016, <https://www.rfc-editor.org/info/rfc7966>.

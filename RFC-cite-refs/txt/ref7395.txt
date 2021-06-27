@@ -1,0 +1,1 @@
+Stout, L., Ed., Moffitt, J., and E. Cestari, "An Extensible Messaging and Presence Protocol (XMPP) Subprotocol for WebSocket", RFC 7395, DOI 10.17487/RFC7395, October 2014, <https://www.rfc-editor.org/info/rfc7395>.

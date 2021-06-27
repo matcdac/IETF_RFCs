@@ -1,0 +1,1 @@
+Keeni, G., Koide, K., Nagami, K., and S. Gundavelli, "Mobile IPv6 Management Information Base", RFC 4295, DOI 10.17487/RFC4295, April 2006, <https://www.rfc-editor.org/info/rfc4295>.

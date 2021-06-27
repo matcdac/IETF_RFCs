@@ -1,0 +1,1 @@
+Adams, C., Sylvester, P., Zolotarev, M., and R. Zuccherato, "Internet X.509 Public Key Infrastructure Data Validation and Certification Server Protocols", RFC 3029, DOI 10.17487/RFC3029, February 2001, <https://www.rfc-editor.org/info/rfc3029>.

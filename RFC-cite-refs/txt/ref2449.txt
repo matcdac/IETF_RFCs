@@ -1,0 +1,1 @@
+Gellens, R., Newman, C., and L. Lundblade, "POP3 Extension Mechanism", RFC 2449, DOI 10.17487/RFC2449, November 1998, <https://www.rfc-editor.org/info/rfc2449>.

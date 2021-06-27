@@ -1,0 +1,1 @@
+Reed, D., "A Discussion on Computer Network Conferencing", RFC 1324, DOI 10.17487/RFC1324, May 1992, <https://www.rfc-editor.org/info/rfc1324>.

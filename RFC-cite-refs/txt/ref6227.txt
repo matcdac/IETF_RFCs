@@ -1,0 +1,1 @@
+Li, T., Ed., "Design Goals for Scalable Internet Routing", RFC 6227, DOI 10.17487/RFC6227, May 2011, <https://www.rfc-editor.org/info/rfc6227>.

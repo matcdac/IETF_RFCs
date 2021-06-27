@@ -1,0 +1,1 @@
+Vainshtein, A. and S. Galtzur, "Layer Two Tunneling Protocol version 3 - Setup of Time-Division Multiplexing (TDM) Pseudowires", RFC 5611, DOI 10.17487/RFC5611, August 2009, <https://www.rfc-editor.org/info/rfc5611>.

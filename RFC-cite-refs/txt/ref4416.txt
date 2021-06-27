@@ -1,0 +1,1 @@
+Wong, J., Ed., "Goals for Internet Messaging to Support Diverse Service Environments", RFC 4416, DOI 10.17487/RFC4416, February 2006, <https://www.rfc-editor.org/info/rfc4416>.

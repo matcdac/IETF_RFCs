@@ -1,0 +1,1 @@
+Ryan, V., Lee, R., and S. Seligman, "Schema for Representing CORBA Object References in an LDAP Directory", RFC 2714, DOI 10.17487/RFC2714, October 1999, <https://www.rfc-editor.org/info/rfc2714>.

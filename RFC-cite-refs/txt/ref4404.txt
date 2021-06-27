@@ -1,0 +1,1 @@
+Natarajan, R. and A. Rijhsinghani, "Definitions of Managed Objects for Fibre Channel Over TCP/IP (FCIP)", RFC 4404, DOI 10.17487/RFC4404, February 2006, <https://www.rfc-editor.org/info/rfc4404>.

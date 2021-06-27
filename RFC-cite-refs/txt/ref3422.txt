@@ -1,0 +1,1 @@
+Okamoto, O., Maruyama, M., and T. Sajima, "Forwarding Media Access Control (MAC) Frames over Multiple Access Protocol over Synchronous Optical Network/Synchronous Digital Hierarchy (MAPOS)", RFC 3422, DOI 10.17487/RFC3422, November 2002, <https://www.rfc-editor.org/info/rfc3422>.

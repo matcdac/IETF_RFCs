@@ -1,0 +1,1 @@
+Charny, A., Huang, F., Karagiannis, G., Menth, M., and T. Taylor, Ed., "Pre-Congestion Notification (PCN) Boundary-Node Behavior for the Controlled Load (CL) Mode of Operation", RFC 6661, DOI 10.17487/RFC6661, July 2012, <https://www.rfc-editor.org/info/rfc6661>.

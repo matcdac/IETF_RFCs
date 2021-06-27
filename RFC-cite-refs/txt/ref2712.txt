@@ -1,0 +1,1 @@
+Medvinsky, A. and M. Hur, "Addition of Kerberos Cipher Suites to Transport Layer Security (TLS)", RFC 2712, DOI 10.17487/RFC2712, October 1999, <https://www.rfc-editor.org/info/rfc2712>.

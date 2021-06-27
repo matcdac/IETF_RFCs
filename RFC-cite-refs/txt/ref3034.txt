@@ -1,0 +1,1 @@
+Conta, A., Doolan, P., and A. Malis, "Use of Label Switching on Frame Relay Networks Specification", RFC 3034, DOI 10.17487/RFC3034, January 2001, <https://www.rfc-editor.org/info/rfc3034>.

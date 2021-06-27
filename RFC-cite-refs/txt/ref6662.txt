@@ -1,0 +1,1 @@
+Charny, A., Zhang, J., Karagiannis, G., Menth, M., and T. Taylor, Ed., "Pre-Congestion Notification (PCN) Boundary-Node Behavior for the Single Marking (SM) Mode of Operation", RFC 6662, DOI 10.17487/RFC6662, July 2012, <https://www.rfc-editor.org/info/rfc6662>.

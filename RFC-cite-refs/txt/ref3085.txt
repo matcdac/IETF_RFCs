@@ -1,0 +1,1 @@
+Coates, A., Allen, D., and D. Rivers-Moore, "URN Namespace for NewsML Resources", RFC 3085, DOI 10.17487/RFC3085, March 2001, <https://www.rfc-editor.org/info/rfc3085>.

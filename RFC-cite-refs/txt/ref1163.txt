@@ -1,0 +1,1 @@
+Lougheed, K. and Y. Rekhter, "Border Gateway Protocol (BGP)", RFC 1163, DOI 10.17487/RFC1163, June 1990, <https://www.rfc-editor.org/info/rfc1163>.

@@ -1,0 +1,1 @@
+Linowski, B., Ersue, M., and S. Kuryla, "Extending YANG with Language Abstractions", RFC 6095, DOI 10.17487/RFC6095, March 2011, <https://www.rfc-editor.org/info/rfc6095>.

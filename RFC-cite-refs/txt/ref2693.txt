@@ -1,0 +1,1 @@
+Ellison, C., Frantz, B., Lampson, B., Rivest, R., Thomas, B., and T. Ylonen, "SPKI Certificate Theory", RFC 2693, DOI 10.17487/RFC2693, September 1999, <https://www.rfc-editor.org/info/rfc2693>.

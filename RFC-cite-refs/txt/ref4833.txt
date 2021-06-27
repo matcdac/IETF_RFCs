@@ -1,0 +1,1 @@
+Lear, E. and P. Eggert, "Timezone Options for DHCP", RFC 4833, DOI 10.17487/RFC4833, April 2007, <https://www.rfc-editor.org/info/rfc4833>.

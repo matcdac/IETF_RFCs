@@ -1,0 +1,1 @@
+Jamoussi, B., Jamieson, D., Williston, D., and S. Gabe, "Nortel's Virtual Network Switching (VNS) Overview", RFC 2340, DOI 10.17487/RFC2340, May 1998, <https://www.rfc-editor.org/info/rfc2340>.

@@ -1,0 +1,1 @@
+Estrin, D., "Policy requirements for inter Administrative Domain routing", RFC 1125, DOI 10.17487/RFC1125, November 1989, <https://www.rfc-editor.org/info/rfc1125>.

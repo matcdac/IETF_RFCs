@@ -1,0 +1,1 @@
+Postel, J., "Sockets in use", RFC 204, DOI 10.17487/RFC0204, August 1971, <https://www.rfc-editor.org/info/rfc204>.

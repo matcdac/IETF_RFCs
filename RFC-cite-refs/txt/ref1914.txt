@@ -1,0 +1,1 @@
+Faltstrom, P., Schoultz, R., and C. Weider, "How to Interact with a Whois++ Mesh", RFC 1914, DOI 10.17487/RFC1914, February 1996, <https://www.rfc-editor.org/info/rfc1914>.

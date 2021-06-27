@@ -1,0 +1,1 @@
+Hansen, T., Crocker, D., and P. Hallam-Baker, "DomainKeys Identified Mail (DKIM) Service Overview", RFC 5585, DOI 10.17487/RFC5585, July 2009, <https://www.rfc-editor.org/info/rfc5585>.

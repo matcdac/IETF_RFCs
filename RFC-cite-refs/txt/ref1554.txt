@@ -1,0 +1,1 @@
+Ohta, M. and K. Handa, "ISO-2022-JP-2: Multilingual Extension of ISO-2022-JP", RFC 1554, DOI 10.17487/RFC1554, December 1993, <https://www.rfc-editor.org/info/rfc1554>.

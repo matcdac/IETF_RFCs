@@ -1,0 +1,1 @@
+Cerf, V. and K. Mills, "Explaining the role of GOSIP", RFC 1169, DOI 10.17487/RFC1169, August 1990, <https://www.rfc-editor.org/info/rfc1169>.

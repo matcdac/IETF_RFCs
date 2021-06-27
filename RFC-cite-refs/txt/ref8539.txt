@@ -1,0 +1,1 @@
+Farrer, I., Sun, Q., Cui, Y., and L. Sun, "Softwire Provisioning Using DHCPv4 over DHCPv6", RFC 8539, DOI 10.17487/RFC8539, March 2019, <https://www.rfc-editor.org/info/rfc8539>.

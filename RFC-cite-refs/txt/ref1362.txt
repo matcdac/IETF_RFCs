@@ -1,0 +1,1 @@
+Allen, M., "Novell IPX over Various WAN Media (IPXWAN)", RFC 1362, DOI 10.17487/RFC1362, September 1992, <https://www.rfc-editor.org/info/rfc1362>.

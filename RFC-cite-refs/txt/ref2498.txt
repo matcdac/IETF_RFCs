@@ -1,0 +1,1 @@
+Mahdavi, J. and V. Paxson, "IPPM Metrics for Measuring Connectivity", RFC 2498, DOI 10.17487/RFC2498, January 1999, <https://www.rfc-editor.org/info/rfc2498>.

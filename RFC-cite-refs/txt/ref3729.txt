@@ -1,0 +1,1 @@
+Waldbusser, S., "Application Performance Measurement MIB", RFC 3729, DOI 10.17487/RFC3729, March 2004, <https://www.rfc-editor.org/info/rfc3729>.

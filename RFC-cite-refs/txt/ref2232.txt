@@ -1,0 +1,1 @@
+Clouston, B., Ed., and B. Moore, Ed., "Definitions of Managed Objects for DLUR using SMIv2", RFC 2232, DOI 10.17487/RFC2232, November 1997, <https://www.rfc-editor.org/info/rfc2232>.

@@ -1,0 +1,1 @@
+Channabasappa, S., De Ketelaere, W., and E. Nechamkin, "Management Event Management Information Base (MIB) for PacketCable- and IPCablecom-Compliant Devices", RFC 5428, DOI 10.17487/RFC5428, April 2009, <https://www.rfc-editor.org/info/rfc5428>.

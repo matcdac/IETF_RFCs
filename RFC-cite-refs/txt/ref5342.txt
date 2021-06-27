@@ -1,0 +1,1 @@
+Eastlake 3rd, D., "IANA Considerations and IETF Protocol Usage for IEEE 802 Parameters", RFC 5342, DOI 10.17487/RFC5342, September 2008, <https://www.rfc-editor.org/info/rfc5342>.

@@ -1,0 +1,1 @@
+Taylor, R. and S. Ratliff, "Dynamic Link Exchange Protocol (DLEP) Link Identifier Extension", RFC 8703, DOI 10.17487/RFC8703, February 2020, <https://www.rfc-editor.org/info/rfc8703>.

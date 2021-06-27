@@ -1,0 +1,1 @@
+Guo, D., Jiang, S., Ed., Despres, R., and R. Maglione, "RADIUS Attribute for IPv6 Rapid Deployment on IPv4 Infrastructures (6rd)", RFC 6930, DOI 10.17487/RFC6930, April 2013, <https://www.rfc-editor.org/info/rfc6930>.

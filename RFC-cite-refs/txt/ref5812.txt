@@ -1,0 +1,1 @@
+Halpern, J. and J. Hadi Salim, "Forwarding and Control Element Separation (ForCES) Forwarding Element Model", RFC 5812, DOI 10.17487/RFC5812, March 2010, <https://www.rfc-editor.org/info/rfc5812>.

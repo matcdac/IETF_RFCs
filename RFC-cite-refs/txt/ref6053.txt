@@ -1,0 +1,1 @@
+Haleplidis, E., Ogawa, K., Wang, W., and J. Hadi Salim, "Implementation Report for Forwarding and Control Element Separation (ForCES)", RFC 6053, DOI 10.17487/RFC6053, November 2010, <https://www.rfc-editor.org/info/rfc6053>.

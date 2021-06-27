@@ -1,0 +1,1 @@
+Kumaki, K., Ed., "Interworking Requirements to Support Operation of MPLS-TE over GMPLS Networks", RFC 5146, DOI 10.17487/RFC5146, March 2008, <https://www.rfc-editor.org/info/rfc5146>.

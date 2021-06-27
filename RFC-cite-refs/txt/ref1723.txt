@@ -1,0 +1,1 @@
+Malkin, G., "RIP Version 2 - Carrying Additional Information", RFC 1723, DOI 10.17487/RFC1723, November 1994, <https://www.rfc-editor.org/info/rfc1723>.

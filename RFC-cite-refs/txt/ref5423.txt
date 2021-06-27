@@ -1,0 +1,1 @@
+Gellens, R. and C. Newman, "Internet Message Store Events", RFC 5423, DOI 10.17487/RFC5423, March 2009, <https://www.rfc-editor.org/info/rfc5423>.

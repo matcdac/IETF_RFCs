@@ -1,0 +1,1 @@
+Mealling, M., "Dynamic Delegation Discovery System (DDDS) Part Five: URI.ARPA Assignment Procedures", BCP 65, RFC 3405, DOI 10.17487/RFC3405, October 2002, <https://www.rfc-editor.org/info/rfc3405>.

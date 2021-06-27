@@ -1,0 +1,1 @@
+Zhu, HF., Hu, DY., Wang, ZG., Kao, TC., Chang, WCH., and M. Crispin, "Chinese Character Encoding for Internet Messages", RFC 1922, DOI 10.17487/RFC1922, March 1996, <https://www.rfc-editor.org/info/rfc1922>.

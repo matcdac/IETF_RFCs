@@ -1,0 +1,1 @@
+Young, J. and A. Nicholson, "Dynamically Switched Link Control Protocol", RFC 1307, DOI 10.17487/RFC1307, March 1992, <https://www.rfc-editor.org/info/rfc1307>.

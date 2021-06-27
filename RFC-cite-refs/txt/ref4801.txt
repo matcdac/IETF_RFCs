@@ -1,0 +1,1 @@
+Nadeau, T., Ed., and A. Farrel, Ed., "Definitions of Textual Conventions for Generalized Multiprotocol Label Switching (GMPLS) Management", RFC 4801, DOI 10.17487/RFC4801, February 2007, <https://www.rfc-editor.org/info/rfc4801>.

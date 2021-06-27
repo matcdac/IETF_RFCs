@@ -1,0 +1,1 @@
+Pratt, C., Thakore, D., and B. Stark, "HTTP Random Access and Live Content", RFC 8673, DOI 10.17487/RFC8673, November 2019, <https://www.rfc-editor.org/info/rfc8673>.

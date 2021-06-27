@@ -1,0 +1,1 @@
+Bradner, S., Calhoun, P., Cuschieri, H., Dennett, S., Flynn, G., Lipford, M., and M. McPheters, "3GPP2-IETF Standardization Collaboration", RFC 3131, DOI 10.17487/RFC3131, June 2001, <https://www.rfc-editor.org/info/rfc3131>.

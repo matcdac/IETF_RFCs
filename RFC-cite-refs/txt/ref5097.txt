@@ -1,0 +1,1 @@
+Renker, G. and G. Fairhurst, "MIB for the UDP-Lite protocol", RFC 5097, DOI 10.17487/RFC5097, January 2008, <https://www.rfc-editor.org/info/rfc5097>.

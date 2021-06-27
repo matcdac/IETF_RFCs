@@ -1,0 +1,1 @@
+Hastings, T., Manros, C., Zehler, P., Kugler, C., and H. Holst, "Internet Printing Protocol/1.1: Implementor's Guide", RFC 3196, DOI 10.17487/RFC3196, November 2001, <https://www.rfc-editor.org/info/rfc3196>.

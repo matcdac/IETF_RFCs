@@ -1,0 +1,1 @@
+Mancuso, A., Ed., Probasco, S., and B. Patil, "Protocol to Access White-Space (PAWS) Databases: Use Cases and Requirements", RFC 6953, DOI 10.17487/RFC6953, May 2013, <https://www.rfc-editor.org/info/rfc6953>.

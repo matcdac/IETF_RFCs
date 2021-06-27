@@ -1,0 +1,1 @@
+Eronen, P. and P. Hoffman, "IKEv2 Clarifications and Implementation Guidelines", RFC 4718, DOI 10.17487/RFC4718, October 2006, <https://www.rfc-editor.org/info/rfc4718>.

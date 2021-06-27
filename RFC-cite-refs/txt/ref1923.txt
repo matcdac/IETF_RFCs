@@ -1,0 +1,1 @@
+Halpern, J. and S. Bradner, "RIPv1 Applicability Statement for Historic Status", RFC 1923, DOI 10.17487/RFC1923, March 1996, <https://www.rfc-editor.org/info/rfc1923>.

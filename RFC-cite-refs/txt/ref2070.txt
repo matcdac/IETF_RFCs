@@ -1,0 +1,1 @@
+Yergeau, F., Nicol, G., Adams, G., and M. Duerst, "Internationalization of the Hypertext Markup Language", RFC 2070, DOI 10.17487/RFC2070, January 1997, <https://www.rfc-editor.org/info/rfc2070>.

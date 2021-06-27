@@ -1,0 +1,1 @@
+Tschofenig, H. and D. Kroeselberg, "Security Threats for Next Steps in Signaling (NSIS)", RFC 4081, DOI 10.17487/RFC4081, June 2005, <https://www.rfc-editor.org/info/rfc4081>.

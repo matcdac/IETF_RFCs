@@ -1,0 +1,1 @@
+Zilles, S., "Rationale for the Structure of the Model and Protocol for the Internet Printing Protocol", RFC 2568, DOI 10.17487/RFC2568, April 1999, <https://www.rfc-editor.org/info/rfc2568>.

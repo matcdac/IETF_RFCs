@@ -1,0 +1,1 @@
+Akiya, N., Binderberger, M., and G. Mirsky, "Common Interval Support in Bidirectional Forwarding Detection", RFC 7419, DOI 10.17487/RFC7419, December 2014, <https://www.rfc-editor.org/info/rfc7419>.

@@ -1,0 +1,1 @@
+Bradley, T., Brown, C., and A. Malis, "Multiprotocol Interconnect over Frame Relay", RFC 1294, DOI 10.17487/RFC1294, January 1992, <https://www.rfc-editor.org/info/rfc1294>.

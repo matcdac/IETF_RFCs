@@ -1,0 +1,1 @@
+Andersson, L. and G. Swallow, "IANA Registry for P-Multicast Service Interface (PMSI) Tunnel Type Code Points", RFC 7385, DOI 10.17487/RFC7385, October 2014, <https://www.rfc-editor.org/info/rfc7385>.

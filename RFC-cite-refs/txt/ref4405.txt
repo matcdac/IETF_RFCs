@@ -1,0 +1,1 @@
+Allman, E. and H. Katz, "SMTP Service Extension for Indicating the Responsible Submitter of an E-Mail Message", RFC 4405, DOI 10.17487/RFC4405, April 2006, <https://www.rfc-editor.org/info/rfc4405>.

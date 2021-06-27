@@ -1,0 +1,1 @@
+Gwinn, A., "Simple Network Paging Protocol - Version 3 -Two-Way Enhanced", RFC 1861, DOI 10.17487/RFC1861, October 1995, <https://www.rfc-editor.org/info/rfc1861>.

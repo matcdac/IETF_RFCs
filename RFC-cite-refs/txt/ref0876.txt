@@ -1,0 +1,1 @@
+Smallberg, D., "Survey of SMTP implementations", RFC 876, DOI 10.17487/RFC0876, September 1983, <https://www.rfc-editor.org/info/rfc876>.

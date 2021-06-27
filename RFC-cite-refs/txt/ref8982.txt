@@ -1,0 +1,1 @@
+Loffredo, M. and M. Martinelli, "Registration Data Access Protocol (RDAP) Partial Response", RFC 8982, DOI 10.17487/RFC8982, February 2021, <https://www.rfc-editor.org/info/rfc8982>.

@@ -1,0 +1,1 @@
+Xie, Q., Stewart, R., Stillman, M., Tuexen, M., and A. Silverton, "Endpoint Handlespace Redundancy Protocol (ENRP)", RFC 5353, DOI 10.17487/RFC5353, September 2008, <https://www.rfc-editor.org/info/rfc5353>.

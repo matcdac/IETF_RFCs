@@ -1,0 +1,1 @@
+Oran, D., "Requirements for Distributed Control of Automatic Speech Recognition (ASR), Speaker Identification/Speaker Verification (SI/SV), and Text-to-Speech (TTS) Resources", RFC 4313, DOI 10.17487/RFC4313, December 2005, <https://www.rfc-editor.org/info/rfc4313>.

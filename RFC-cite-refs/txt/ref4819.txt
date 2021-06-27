@@ -1,0 +1,1 @@
+Galbraith, J., Van Dyke, J., and J. Bright, "Secure Shell Public Key Subsystem", RFC 4819, DOI 10.17487/RFC4819, March 2007, <https://www.rfc-editor.org/info/rfc4819>.

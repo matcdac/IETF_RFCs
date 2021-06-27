@@ -1,0 +1,1 @@
+Jason, J., Rafalow, L., and E. Vyncke, "IPsec Configuration Policy Information Model", RFC 3585, DOI 10.17487/RFC3585, August 2003, <https://www.rfc-editor.org/info/rfc3585>.

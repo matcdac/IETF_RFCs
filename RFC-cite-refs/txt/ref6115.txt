@@ -1,0 +1,1 @@
+Li, T., Ed., "Recommendation for a Routing Architecture", RFC 6115, DOI 10.17487/RFC6115, February 2011, <https://www.rfc-editor.org/info/rfc6115>.

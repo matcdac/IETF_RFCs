@@ -1,0 +1,1 @@
+Greenblatt, B. and P. Richard, "An LDAP Control and Schema for Holding Operation Signatures", RFC 2649, DOI 10.17487/RFC2649, August 1999, <https://www.rfc-editor.org/info/rfc2649>.

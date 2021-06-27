@@ -1,0 +1,1 @@
+Dawkins, S., Montenegro, G., Kojo, M., Magret, V., and N. Vaidya, "End-to-end Performance Implications of Links with Errors", BCP 50, RFC 3155, DOI 10.17487/RFC3155, August 2001, <https://www.rfc-editor.org/info/rfc3155>.

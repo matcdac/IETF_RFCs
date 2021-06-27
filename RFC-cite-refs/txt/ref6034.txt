@@ -1,0 +1,1 @@
+Thaler, D., "Unicast-Prefix-Based IPv4 Multicast Addresses", RFC 6034, DOI 10.17487/RFC6034, October 2010, <https://www.rfc-editor.org/info/rfc6034>.

@@ -1,0 +1,1 @@
+Reschke, J., "Initial Hypertext Transfer Protocol (HTTP) Authentication Scheme Registrations", RFC 7236, DOI 10.17487/RFC7236, June 2014, <https://www.rfc-editor.org/info/rfc7236>.

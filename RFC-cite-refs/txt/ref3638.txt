@@ -1,0 +1,1 @@
+Flick, J. and C. Heard, "Applicability Statement for Reclassification of RFC 1643 to Historic Status", RFC 3638, DOI 10.17487/RFC3638, September 2003, <https://www.rfc-editor.org/info/rfc3638>.

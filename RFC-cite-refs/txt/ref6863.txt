@@ -1,0 +1,1 @@
+Hartman, S. and D. Zhang, "Analysis of OSPF Security According to the Keying and Authentication for Routing Protocols (KARP) Design Guide", RFC 6863, DOI 10.17487/RFC6863, March 2013, <https://www.rfc-editor.org/info/rfc6863>.

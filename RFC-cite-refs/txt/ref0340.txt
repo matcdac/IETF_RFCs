@@ -1,0 +1,1 @@
+O'Sullivan, T., "Proposed Telnet Changes", RFC 340, DOI 10.17487/RFC0340, May 1972, <https://www.rfc-editor.org/info/rfc340>.

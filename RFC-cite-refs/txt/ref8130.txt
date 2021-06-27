@@ -1,0 +1,1 @@
+Demjanenko, V. and D. Satterlee, "RTP Payload Format for the Mixed Excitation Linear Prediction Enhanced (MELPe) Codec", RFC 8130, DOI 10.17487/RFC8130, March 2017, <https://www.rfc-editor.org/info/rfc8130>.

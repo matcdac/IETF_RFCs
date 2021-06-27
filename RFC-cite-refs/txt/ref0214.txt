@@ -1,0 +1,1 @@
+Harslem, E., "Network checkpoint", RFC 214, DOI 10.17487/RFC0214, August 1971, <https://www.rfc-editor.org/info/rfc214>.

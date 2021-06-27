@@ -1,0 +1,1 @@
+Hopkin, D., "Information Management System", RFC 299, DOI 10.17487/RFC0299, February 1972, <https://www.rfc-editor.org/info/rfc299>.

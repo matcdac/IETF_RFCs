@@ -1,0 +1,1 @@
+Ogura, T., Maruyama, M., and T. Yoshida, "Internet Protocol Version 6 over MAPOS (Multiple Access Protocol Over SONET/SDH)", RFC 3572, DOI 10.17487/RFC3572, July 2003, <https://www.rfc-editor.org/info/rfc3572>.

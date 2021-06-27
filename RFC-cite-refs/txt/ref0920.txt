@@ -1,0 +1,1 @@
+Postel, J. and J. Reynolds, "Domain requirements", RFC 920, DOI 10.17487/RFC0920, October 1984, <https://www.rfc-editor.org/info/rfc920>.

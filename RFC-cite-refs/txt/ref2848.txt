@@ -1,0 +1,1 @@
+Petrack, S. and L. Conroy, "The PINT Service Protocol: Extensions to SIP and SDP for IP Access to Telephone Call Services", RFC 2848, DOI 10.17487/RFC2848, June 2000, <https://www.rfc-editor.org/info/rfc2848>.

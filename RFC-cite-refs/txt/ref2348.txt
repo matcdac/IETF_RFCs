@@ -1,0 +1,1 @@
+Malkin, G. and A. Harkin, "TFTP Blocksize Option", RFC 2348, DOI 10.17487/RFC2348, May 1998, <https://www.rfc-editor.org/info/rfc2348>.

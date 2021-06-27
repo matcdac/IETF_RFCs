@@ -1,0 +1,1 @@
+Padlipsky, M., "Gateways, architectures, and heffalumps", RFC 875, DOI 10.17487/RFC0875, September 1982, <https://www.rfc-editor.org/info/rfc875>.

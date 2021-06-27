@@ -1,0 +1,1 @@
+Thaler, D., "Border Gateway Multicast Protocol (BGMP): Protocol Specification", RFC 3913, DOI 10.17487/RFC3913, September 2004, <https://www.rfc-editor.org/info/rfc3913>.

@@ -1,0 +1,1 @@
+Karagiannis, G., Chan, K., Moncaster, T., Menth, M., Eardley, P., and B. Briscoe, "Overview of Pre-Congestion Notification Encoding", RFC 6627, DOI 10.17487/RFC6627, July 2012, <https://www.rfc-editor.org/info/rfc6627>.

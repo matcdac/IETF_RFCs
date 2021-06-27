@@ -1,0 +1,1 @@
+Claise, B., Aitken, P., and N. Ben-Dvora, "Cisco Systems Export of Application Information in IP Flow Information Export (IPFIX)", RFC 6759, DOI 10.17487/RFC6759, November 2012, <https://www.rfc-editor.org/info/rfc6759>.

@@ -1,0 +1,1 @@
+Smallberg, D., "Who provides the "little" TCP services?", RFC 848, DOI 10.17487/RFC0848, March 1983, <https://www.rfc-editor.org/info/rfc848>.

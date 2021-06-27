@@ -1,0 +1,1 @@
+Garcia-Martin, M., "A Session Initiation Protocol (SIP) Event Package and Data Format for Various Settings in Support for the Push-to-Talk over Cellular (PoC) Service", RFC 4354, DOI 10.17487/RFC4354, January 2006, <https://www.rfc-editor.org/info/rfc4354>.

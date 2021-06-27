@@ -1,0 +1,1 @@
+Aboba, B. and D. Simon, "PPP EAP TLS Authentication Protocol", RFC 2716, DOI 10.17487/RFC2716, October 1999, <https://www.rfc-editor.org/info/rfc2716>.

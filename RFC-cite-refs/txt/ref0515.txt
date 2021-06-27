@@ -1,0 +1,1 @@
+Winter, R., "Specifications for Datalanguage, Version 0/9", RFC 515, DOI 10.17487/RFC0515, June 1973, <https://www.rfc-editor.org/info/rfc515>.

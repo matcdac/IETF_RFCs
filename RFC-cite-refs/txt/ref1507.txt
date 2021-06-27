@@ -1,0 +1,1 @@
+Kaufman, C., "DASS - Distributed Authentication Security Service", RFC 1507, DOI 10.17487/RFC1507, September 1993, <https://www.rfc-editor.org/info/rfc1507>.

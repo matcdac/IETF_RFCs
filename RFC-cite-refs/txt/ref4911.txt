@@ -1,0 +1,1 @@
+Legg, S., "Encoding Instructions for the Robust XML Encoding Rules (RXER)", RFC 4911, DOI 10.17487/RFC4911, July 2007, <https://www.rfc-editor.org/info/rfc4911>.

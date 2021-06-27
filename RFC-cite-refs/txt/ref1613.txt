@@ -1,0 +1,1 @@
+Forster, J., Satz, G., Glick, G., and R. Day, "cisco Systems X.25 over TCP (XOT)", RFC 1613, DOI 10.17487/RFC1613, May 1994, <https://www.rfc-editor.org/info/rfc1613>.

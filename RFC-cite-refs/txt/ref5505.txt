@@ -1,0 +1,1 @@
+Aboba, B., Thaler, D., Andersson, L., and S. Cheshire, "Principles of Internet Host Configuration", RFC 5505, DOI 10.17487/RFC5505, May 2009, <https://www.rfc-editor.org/info/rfc5505>.

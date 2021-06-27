@@ -1,0 +1,1 @@
+Retana, A., White, R., Fuller, V., and D. McPherson, "Using 31-Bit Prefixes on IPv4 Point-to-Point Links", RFC 3021, DOI 10.17487/RFC3021, December 2000, <https://www.rfc-editor.org/info/rfc3021>.

@@ -1,0 +1,1 @@
+Reynolds, J. and J. Postel, "Assigned numbers", RFC 1010, DOI 10.17487/RFC1010, May 1987, <https://www.rfc-editor.org/info/rfc1010>.

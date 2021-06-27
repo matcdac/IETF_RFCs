@@ -1,0 +1,1 @@
+Elwell, J. and H. Kaplan, "Requirements for Multiple Address of Record (AOR) Reachability Information in the Session Initiation Protocol (SIP)", RFC 5947, DOI 10.17487/RFC5947, September 2010, <https://www.rfc-editor.org/info/rfc5947>.

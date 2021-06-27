@@ -1,0 +1,1 @@
+Ioannidis, J. and G. Maguire, "Coherent File Distribution Protocol", RFC 1235, DOI 10.17487/RFC1235, June 1991, <https://www.rfc-editor.org/info/rfc1235>.

@@ -1,0 +1,1 @@
+Kosonen, T. and T. White, "Registration of Media Type audio/mobile-xmf", RFC 4723, DOI 10.17487/RFC4723, December 2006, <https://www.rfc-editor.org/info/rfc4723>.

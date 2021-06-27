@@ -1,0 +1,1 @@
+Nakamura, M. and J. Hagino, "SMTP Operational Experience in Mixed IPv4/v6 Environments", RFC 3974, DOI 10.17487/RFC3974, January 2005, <https://www.rfc-editor.org/info/rfc3974>.

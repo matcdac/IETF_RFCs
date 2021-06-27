@@ -1,0 +1,1 @@
+Bryan, R., "Exercising The ARPANET", RFC 302, DOI 10.17487/RFC0302, February 1972, <https://www.rfc-editor.org/info/rfc302>.

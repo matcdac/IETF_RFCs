@@ -1,0 +1,1 @@
+Gilligan, R. and E. Nordmark, "Transition Mechanisms for IPv6 Hosts and Routers", RFC 1933, DOI 10.17487/RFC1933, April 1996, <https://www.rfc-editor.org/info/rfc1933>.

@@ -1,0 +1,1 @@
+Camarillo, G., Roach, A., Peterson, J., and L. Ong, "Mapping of Integrated Services Digital Network (ISDN) User Part (ISUP) Overlap Signalling to the Session Initiation Protocol (SIP)", RFC 3578, DOI 10.17487/RFC3578, August 2003, <https://www.rfc-editor.org/info/rfc3578>.

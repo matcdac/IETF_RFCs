@@ -1,0 +1,1 @@
+Delany, M., "Domain-Based Email Authentication Using Public Keys Advertised in the DNS (DomainKeys)", RFC 4870, DOI 10.17487/RFC4870, May 2007, <https://www.rfc-editor.org/info/rfc4870>.

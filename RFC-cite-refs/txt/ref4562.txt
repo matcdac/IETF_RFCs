@@ -1,0 +1,1 @@
+Melsen, T. and S. Blake, "MAC-Forced Forwarding: A Method for Subscriber Separation on an Ethernet Access Network", RFC 4562, DOI 10.17487/RFC4562, June 2006, <https://www.rfc-editor.org/info/rfc4562>.

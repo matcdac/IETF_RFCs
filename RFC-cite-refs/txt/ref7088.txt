@@ -1,0 +1,1 @@
+Worley, D., "Session Initiation Protocol Service Example -- Music on Hold", RFC 7088, DOI 10.17487/RFC7088, February 2014, <https://www.rfc-editor.org/info/rfc7088>.

@@ -1,0 +1,1 @@
+Pignataro, C. and R. Asati, "The Generalized TTL Security Mechanism (GTSM) for the Label Distribution Protocol (LDP)", RFC 6720, DOI 10.17487/RFC6720, August 2012, <https://www.rfc-editor.org/info/rfc6720>.

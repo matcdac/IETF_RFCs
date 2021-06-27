@@ -1,0 +1,1 @@
+Dixon, R. and D. Kushi, "Data Link Switching: Switch-to-Switch Protocol", RFC 1434, DOI 10.17487/RFC1434, March 1993, <https://www.rfc-editor.org/info/rfc1434>.

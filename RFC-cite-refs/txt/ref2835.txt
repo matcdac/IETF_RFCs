@@ -1,0 +1,1 @@
+Pittet, J.-M., "IP and ARP over HIPPI-6400 (GSN)", RFC 2835, DOI 10.17487/RFC2835, May 2000, <https://www.rfc-editor.org/info/rfc2835>.

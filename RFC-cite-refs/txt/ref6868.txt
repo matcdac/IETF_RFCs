@@ -1,0 +1,1 @@
+Daboo, C., "Parameter Value Encoding in iCalendar and vCard", RFC 6868, DOI 10.17487/RFC6868, February 2013, <https://www.rfc-editor.org/info/rfc6868>.

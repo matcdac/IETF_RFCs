@@ -1,0 +1,1 @@
+Simpson, W., "The Point-to-Point Protocol (PPP)", RFC 1548, DOI 10.17487/RFC1548, December 1993, <https://www.rfc-editor.org/info/rfc1548>.

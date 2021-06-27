@@ -1,0 +1,1 @@
+Legg, S., "Lightweight Directory Access Protocol (LDAP) and X.500 Component Matching Rules", RFC 3687, DOI 10.17487/RFC3687, February 2004, <https://www.rfc-editor.org/info/rfc3687>.

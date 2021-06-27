@@ -1,0 +1,1 @@
+Schulzrinne, H., Singh, V., Tschofenig, H., and M. Thomson, "Dynamic Extensions to the Presence Information Data Format Location Object (PIDF-LO)", RFC 5962, DOI 10.17487/RFC5962, September 2010, <https://www.rfc-editor.org/info/rfc5962>.

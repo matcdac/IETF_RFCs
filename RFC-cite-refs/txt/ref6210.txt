@@ -1,0 +1,1 @@
+Schaad, J., "Experiment: Hash Functions with Parameters in the Cryptographic Message Syntax (CMS) and S/MIME", RFC 6210, DOI 10.17487/RFC6210, April 2011, <https://www.rfc-editor.org/info/rfc6210>.

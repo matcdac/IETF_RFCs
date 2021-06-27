@@ -1,0 +1,1 @@
+Turner, S., "The NSA (No Secrecy Afforded) Certificate Extension", RFC 7169, DOI 10.17487/RFC7169, April 1 2014, <https://www.rfc-editor.org/info/rfc7169>.

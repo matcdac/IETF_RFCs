@@ -1,0 +1,1 @@
+El Malki, K., Ed., "Low-Latency Handoffs in Mobile IPv4", RFC 4881, DOI 10.17487/RFC4881, June 2007, <https://www.rfc-editor.org/info/rfc4881>.

@@ -1,0 +1,1 @@
+LaBarre, L., "OSI internet management: Management Information Base", RFC 1214, DOI 10.17487/RFC1214, April 1991, <https://www.rfc-editor.org/info/rfc1214>.

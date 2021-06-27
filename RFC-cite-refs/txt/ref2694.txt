@@ -1,0 +1,1 @@
+Srisuresh, P., Tsirtsis, G., Akkiraju, P., and A. Heffernan, "DNS extensions to Network Address Translators (DNS_ALG)", RFC 2694, DOI 10.17487/RFC2694, September 1999, <https://www.rfc-editor.org/info/rfc2694>.

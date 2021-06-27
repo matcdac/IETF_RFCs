@@ -1,0 +1,1 @@
+Adams, C., "The Simple Public-Key GSS-API Mechanism (SPKM)", RFC 2025, DOI 10.17487/RFC2025, October 1996, <https://www.rfc-editor.org/info/rfc2025>.

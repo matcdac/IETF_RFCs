@@ -1,0 +1,1 @@
+Caviglia, D., Ceccarelli, D., Bramanti, D., Li, D., and S. Bardalai, "RSVP-TE Signaling Extension for LSP Handover from the Management Plane to the Control Plane in a GMPLS-Enabled Transport Network", RFC 5852, DOI 10.17487/RFC5852, April 2010, <https://www.rfc-editor.org/info/rfc5852>.

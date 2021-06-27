@@ -1,0 +1,1 @@
+Woodburn, R. and D. Mills, "Scheme for an internet encapsulation protocol: Version 1", RFC 1241, DOI 10.17487/RFC1241, July 1991, <https://www.rfc-editor.org/info/rfc1241>.

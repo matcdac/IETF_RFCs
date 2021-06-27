@@ -1,0 +1,1 @@
+Valin, JM., Borilin, S., Vos, K., Montgomery, C., and R. Chen, "Guidelines for Development of an Audio Codec within the IETF", RFC 6569, DOI 10.17487/RFC6569, March 2012, <https://www.rfc-editor.org/info/rfc6569>.

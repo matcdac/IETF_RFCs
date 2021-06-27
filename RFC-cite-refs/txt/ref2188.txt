@@ -1,0 +1,1 @@
+Banan, M., Taylor, M., and J. Cheng, "AT&T/Neda's Efficient Short Remote Operations (ESRO) Protocol Specification Version 1.2", RFC 2188, DOI 10.17487/RFC2188, September 1997, <https://www.rfc-editor.org/info/rfc2188>.

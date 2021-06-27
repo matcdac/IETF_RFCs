@@ -1,0 +1,1 @@
+Vanderveen, M. and H. Soliman, "Extensible Authentication Protocol Method for Shared-secret Authentication and Key Establishment (EAP-SAKE)", RFC 4763, DOI 10.17487/RFC4763, November 2006, <https://www.rfc-editor.org/info/rfc4763>.

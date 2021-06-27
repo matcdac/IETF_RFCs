@@ -1,0 +1,1 @@
+Reynolds, J., "BOOTP Vendor Information Extensions", RFC 1497, DOI 10.17487/RFC1497, August 1993, <https://www.rfc-editor.org/info/rfc1497>.

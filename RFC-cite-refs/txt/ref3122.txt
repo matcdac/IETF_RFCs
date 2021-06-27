@@ -1,0 +1,1 @@
+Conta, A., "Extensions to IPv6 Neighbor Discovery for Inverse Discovery Specification", RFC 3122, DOI 10.17487/RFC3122, June 2001, <https://www.rfc-editor.org/info/rfc3122>.

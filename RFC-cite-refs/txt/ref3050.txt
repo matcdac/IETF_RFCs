@@ -1,0 +1,1 @@
+Lennox, J., Schulzrinne, H., and J. Rosenberg, "Common Gateway Interface for SIP", RFC 3050, DOI 10.17487/RFC3050, January 2001, <https://www.rfc-editor.org/info/rfc3050>.

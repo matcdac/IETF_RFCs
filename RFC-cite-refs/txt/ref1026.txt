@@ -1,0 +1,1 @@
+Kille, S., "Addendum to RFC 987: (Mapping between X.400 and RFC-822)", RFC 1026, DOI 10.17487/RFC1026, September 1987, <https://www.rfc-editor.org/info/rfc1026>.

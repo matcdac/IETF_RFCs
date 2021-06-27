@@ -1,0 +1,1 @@
+Alvestrand, H., "Definitions for talking about directories", RFC 3254, DOI 10.17487/RFC3254, April 2002, <https://www.rfc-editor.org/info/rfc3254>.

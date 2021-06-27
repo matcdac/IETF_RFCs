@@ -1,0 +1,1 @@
+Faltstrom, P., "E.164 number and DNS", RFC 2916, DOI 10.17487/RFC2916, September 2000, <https://www.rfc-editor.org/info/rfc2916>.

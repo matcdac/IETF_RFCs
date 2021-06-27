@@ -1,0 +1,1 @@
+Foschiano, M., "Cisco Systems UniDirectional Link Detection (UDLD) Protocol", RFC 5171, DOI 10.17487/RFC5171, April 2008, <https://www.rfc-editor.org/info/rfc5171>.

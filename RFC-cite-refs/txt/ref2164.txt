@@ -1,0 +1,1 @@
+Kille, S., "Use of an X.500/LDAP directory to support MIXER address mapping", RFC 2164, DOI 10.17487/RFC2164, January 1998, <https://www.rfc-editor.org/info/rfc2164>.

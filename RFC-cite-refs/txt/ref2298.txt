@@ -1,0 +1,1 @@
+Fajman, R., "An Extensible Message Format for Message Disposition Notifications", RFC 2298, DOI 10.17487/RFC2298, March 1998, <https://www.rfc-editor.org/info/rfc2298>.

@@ -1,0 +1,1 @@
+Pusateri, T., "Protocol Independent Multicast - Sparse Mode (PIM-SM) IETF Proposed Standard Requirements Analysis", RFC 4602, DOI 10.17487/RFC4602, August 2006, <https://www.rfc-editor.org/info/rfc4602>.

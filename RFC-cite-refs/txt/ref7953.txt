@@ -1,0 +1,1 @@
+Daboo, C. and M. Douglass, "Calendar Availability", RFC 7953, DOI 10.17487/RFC7953, August 2016, <https://www.rfc-editor.org/info/rfc7953>.

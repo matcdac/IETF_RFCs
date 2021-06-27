@@ -1,0 +1,1 @@
+Schaad, J., "S/MIME Capabilities for Public Key Definitions", RFC 6664, DOI 10.17487/RFC6664, July 2012, <https://www.rfc-editor.org/info/rfc6664>.

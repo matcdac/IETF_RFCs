@@ -1,0 +1,1 @@
+Zeilenga, K., "Collective Attributes in the Lightweight Directory Access Protocol (LDAP)", RFC 3671, DOI 10.17487/RFC3671, December 2003, <https://www.rfc-editor.org/info/rfc3671>.

@@ -1,0 +1,1 @@
+Bunch, S., "Network Graphics Working Group Meeting - Second Iteration", RFC 396, DOI 10.17487/RFC0396, November 1972, <https://www.rfc-editor.org/info/rfc396>.

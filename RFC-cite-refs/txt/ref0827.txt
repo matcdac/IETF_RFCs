@@ -1,0 +1,1 @@
+Rosen, E., "Exterior Gateway Protocol (EGP)", RFC 827, DOI 10.17487/RFC0827, October 1982, <https://www.rfc-editor.org/info/rfc827>.

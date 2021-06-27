@@ -1,0 +1,1 @@
+Mealling, M., "A Uniform Resource Name (URN) Namespace for the Liberty Alliance Project", RFC 3622, DOI 10.17487/RFC3622, February 2004, <https://www.rfc-editor.org/info/rfc3622>.

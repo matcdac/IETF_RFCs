@@ -1,0 +1,1 @@
+Provan, D., "DHCP Options for Novell Directory Services", RFC 2241, DOI 10.17487/RFC2241, November 1997, <https://www.rfc-editor.org/info/rfc2241>.

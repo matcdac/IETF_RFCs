@@ -1,0 +1,1 @@
+Akiya, N., Swallow, G., Pignataro, C., Malis, A., and S. Aldrin, "Label Switched Path (LSP) and Pseudowire (PW) Ping/Trace over MPLS Networks Using Entropy Labels (ELs)", RFC 8012, DOI 10.17487/RFC8012, November 2016, <https://www.rfc-editor.org/info/rfc8012>.

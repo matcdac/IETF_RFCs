@@ -1,0 +1,1 @@
+Korhonen, J., Ed., Tschofenig, H., Bournelle, J., Giaretta, G., and M. Nakhjiri, "Diameter Mobile IPv6: Support for Home Agent to Diameter Server Interaction", RFC 5778, DOI 10.17487/RFC5778, February 2010, <https://www.rfc-editor.org/info/rfc5778>.

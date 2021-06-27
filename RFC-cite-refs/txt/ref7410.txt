@@ -1,0 +1,1 @@
+Kucherawy, M., "A Property Types Registry for the Authentication-Results Header Field", RFC 7410, DOI 10.17487/RFC7410, December 2014, <https://www.rfc-editor.org/info/rfc7410>.

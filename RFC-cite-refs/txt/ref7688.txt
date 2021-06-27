@@ -1,0 +1,1 @@
+Lee, Y., Ed., and G. Bernstein, Ed., "GMPLS OSPF Enhancement for Signal and Network Element Compatibility for Wavelength Switched Optical Networks", RFC 7688, DOI 10.17487/RFC7688, November 2015, <https://www.rfc-editor.org/info/rfc7688>.

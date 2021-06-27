@@ -1,0 +1,1 @@
+Ramsdell, B., Ed., "S/MIME Version 3 Certificate Handling", RFC 2632, DOI 10.17487/RFC2632, June 1999, <https://www.rfc-editor.org/info/rfc2632>.

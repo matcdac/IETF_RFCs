@@ -1,0 +1,1 @@
+Monia, C., Mullendore, R., Travostino, F., Jeong, W., and M. Edwards, "iFCP - A Protocol for Internet Fibre Channel Storage Networking", RFC 4172, DOI 10.17487/RFC4172, September 2005, <https://www.rfc-editor.org/info/rfc4172>.

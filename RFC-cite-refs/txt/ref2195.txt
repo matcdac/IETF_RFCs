@@ -1,0 +1,1 @@
+Klensin, J., Catoe, R., and P. Krumviede, "IMAP/POP AUTHorize Extension for Simple Challenge/Response", RFC 2195, DOI 10.17487/RFC2195, September 1997, <https://www.rfc-editor.org/info/rfc2195>.

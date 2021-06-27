@@ -1,0 +1,1 @@
+Vaudreuil, G. and G. Parsons, "VPIM Voice Message MIME Sub-type Registration", RFC 2423, DOI 10.17487/RFC2423, September 1998, <https://www.rfc-editor.org/info/rfc2423>.

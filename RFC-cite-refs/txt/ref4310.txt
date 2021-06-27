@@ -1,0 +1,1 @@
+Hollenbeck, S., "Domain Name System (DNS) Security Extensions Mapping for the Extensible Provisioning Protocol (EPP)", RFC 4310, DOI 10.17487/RFC4310, December 2005, <https://www.rfc-editor.org/info/rfc4310>.

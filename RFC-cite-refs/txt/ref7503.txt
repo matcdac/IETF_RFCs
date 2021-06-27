@@ -1,0 +1,1 @@
+Lindem, A. and J. Arkko, "OSPFv3 Autoconfiguration", RFC 7503, DOI 10.17487/RFC7503, April 2015, <https://www.rfc-editor.org/info/rfc7503>.

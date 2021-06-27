@@ -1,0 +1,1 @@
+Fox, M., Kassimis, C., and J. Stevens, "IBM's Shared Memory Communications over RDMA (SMC-R) Protocol", RFC 7609, DOI 10.17487/RFC7609, August 2015, <https://www.rfc-editor.org/info/rfc7609>.

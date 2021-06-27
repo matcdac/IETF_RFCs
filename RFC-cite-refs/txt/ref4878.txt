@@ -1,0 +1,1 @@
+Squire, M., "Definitions and Managed Objects for Operations, Administration, and Maintenance (OAM) Functions on Ethernet-Like Interfaces", RFC 4878, DOI 10.17487/RFC4878, June 2007, <https://www.rfc-editor.org/info/rfc4878>.

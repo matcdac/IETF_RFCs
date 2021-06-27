@@ -1,0 +1,1 @@
+Manner, J. and X. Fu, "Analysis of Existing Quality-of-Service Signaling Protocols", RFC 4094, DOI 10.17487/RFC4094, May 2005, <https://www.rfc-editor.org/info/rfc4094>.

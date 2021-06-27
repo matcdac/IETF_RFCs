@@ -1,0 +1,1 @@
+Choi, U., Chon, K., and H. Park, "Korean Character Encoding for Internet Messages", RFC 1557, DOI 10.17487/RFC1557, December 1993, <https://www.rfc-editor.org/info/rfc1557>.

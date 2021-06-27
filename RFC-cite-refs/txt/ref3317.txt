@@ -1,0 +1,1 @@
+Chan, K., Sahita, R., Hahn, S., and K. McCloghrie, "Differentiated Services Quality of Service Policy Information Base", RFC 3317, DOI 10.17487/RFC3317, March 2003, <https://www.rfc-editor.org/info/rfc3317>.

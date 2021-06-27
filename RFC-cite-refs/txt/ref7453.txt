@@ -1,0 +1,1 @@
+Mahalingam, V., Sampath, K., Aldrin, S., and T. Nadeau, "MPLS Transport Profile (MPLS-TP) Traffic Engineering (TE) Management Information Base (MIB)", RFC 7453, DOI 10.17487/RFC7453, February 2015, <https://www.rfc-editor.org/info/rfc7453>.

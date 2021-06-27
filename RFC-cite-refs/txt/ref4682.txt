@@ -1,0 +1,1 @@
+Nechamkin, E. and J-F. Mule, "Multimedia Terminal Adapter (MTA) Management Information Base for PacketCable- and IPCablecom-Compliant Devices", RFC 4682, DOI 10.17487/RFC4682, December 2006, <https://www.rfc-editor.org/info/rfc4682>.

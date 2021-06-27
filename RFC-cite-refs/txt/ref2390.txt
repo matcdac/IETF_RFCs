@@ -1,0 +1,1 @@
+Bradley, T., Brown, C., and A. Malis, "Inverse Address Resolution Protocol", RFC 2390, DOI 10.17487/RFC2390, September 1998, <https://www.rfc-editor.org/info/rfc2390>.

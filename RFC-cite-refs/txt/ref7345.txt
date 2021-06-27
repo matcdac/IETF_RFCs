@@ -1,0 +1,1 @@
+Holmberg, C., Sedlacek, I., and G. Salgueiro, "UDP Transport Layer (UDPTL) over Datagram Transport Layer Security (DTLS)", RFC 7345, DOI 10.17487/RFC7345, August 2014, <https://www.rfc-editor.org/info/rfc7345>.

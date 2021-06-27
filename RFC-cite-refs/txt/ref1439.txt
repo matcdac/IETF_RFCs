@@ -1,0 +1,1 @@
+Finseth, C., "The Uniqueness of Unique Identifiers", RFC 1439, DOI 10.17487/RFC1439, March 1993, <https://www.rfc-editor.org/info/rfc1439>.

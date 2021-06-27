@@ -1,0 +1,1 @@
+Lie, H., Bos, B., and C. Lilley, "The text/css Media Type", RFC 2318, DOI 10.17487/RFC2318, March 1998, <https://www.rfc-editor.org/info/rfc2318>.

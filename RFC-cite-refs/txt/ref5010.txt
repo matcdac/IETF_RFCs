@@ -1,0 +1,1 @@
+Kinnear, K., Normoyle, M., and M. Stapp, "The Dynamic Host Configuration Protocol Version 4 (DHCPv4) Relay Agent Flags Suboption", RFC 5010, DOI 10.17487/RFC5010, September 2007, <https://www.rfc-editor.org/info/rfc5010>.

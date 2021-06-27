@@ -1,0 +1,1 @@
+Shue, C., Haggerty, W., and K. Dobbins, "OSI connectionless transport services on top of UDP: Version 1", RFC 1240, DOI 10.17487/RFC1240, June 1991, <https://www.rfc-editor.org/info/rfc1240>.

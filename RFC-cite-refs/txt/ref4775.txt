@@ -1,0 +1,1 @@
+Bradner, S., Carpenter, B., Ed., and T. Narten, "Procedures for Protocol Extensions and Variations", BCP 125, RFC 4775, DOI 10.17487/RFC4775, December 2006, <https://www.rfc-editor.org/info/rfc4775>.

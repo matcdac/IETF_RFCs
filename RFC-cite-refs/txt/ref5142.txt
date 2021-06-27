@@ -1,0 +1,1 @@
+Haley, B., Devarapalli, V., Deng, H., and J. Kempf, "Mobility Header Home Agent Switch Message", RFC 5142, DOI 10.17487/RFC5142, January 2008, <https://www.rfc-editor.org/info/rfc5142>.

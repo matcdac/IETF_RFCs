@@ -1,0 +1,1 @@
+Quittek, J., Ed., Chandramouli, M., Winter, R., Dietz, T., and B. Claise, "Requirements for Energy Management", RFC 6988, DOI 10.17487/RFC6988, September 2013, <https://www.rfc-editor.org/info/rfc6988>.

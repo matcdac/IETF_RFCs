@@ -1,0 +1,1 @@
+Herriot, R., Ed., Hastings, T., Jacobs, N., and J. Martin, "Mapping between LPD and IPP Protocols", RFC 2569, DOI 10.17487/RFC2569, April 1999, <https://www.rfc-editor.org/info/rfc2569>.

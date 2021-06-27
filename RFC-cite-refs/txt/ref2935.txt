@@ -1,0 +1,1 @@
+Eastlake 3rd, D. and C. Smith, "Internet Open Trading Protocol (IOTP) HTTP Supplement", RFC 2935, DOI 10.17487/RFC2935, September 2000, <https://www.rfc-editor.org/info/rfc2935>.

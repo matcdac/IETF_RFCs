@@ -1,0 +1,1 @@
+Umair, M., Kingston Smiler, S., Eastlake 3rd, D., and L. Yong, "Transparent Interconnection of Lots of Links (TRILL) Transparent Transport over MPLS", RFC 8385, DOI 10.17487/RFC8385, June 2018, <https://www.rfc-editor.org/info/rfc8385>.

@@ -1,0 +1,1 @@
+Wallace, C., "Using the Server-Based Certificate Validation Protocol (SCVP) to Convey Long-Term Evidence Records", RFC 5276, DOI 10.17487/RFC5276, August 2008, <https://www.rfc-editor.org/info/rfc5276>.

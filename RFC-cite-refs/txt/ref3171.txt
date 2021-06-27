@@ -1,0 +1,1 @@
+Albanna, Z., Almeroth, K., Meyer, D., and M. Schipper, "IANA Guidelines for IPv4 Multicast Address Assignments", RFC 3171, DOI 10.17487/RFC3171, August 2001, <https://www.rfc-editor.org/info/rfc3171>.

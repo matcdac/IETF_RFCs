@@ -1,0 +1,1 @@
+Begen, A. and T. Stockhammer, "Guidelines for Implementing Digital Video Broadcasting - IPTV (DVB-IPTV) Application-Layer Hybrid Forward Error Correction (FEC) Protection", RFC 6683, DOI 10.17487/RFC6683, August 2012, <https://www.rfc-editor.org/info/rfc6683>.

@@ -1,0 +1,1 @@
+Crocker, S., "Proposal for a Network Standard Format for a Data Stream to Control Graphics Display", RFC 86, DOI 10.17487/RFC0086, January 1971, <https://www.rfc-editor.org/info/rfc86>.

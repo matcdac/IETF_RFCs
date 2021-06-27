@@ -1,0 +1,1 @@
+Wallace, C., Pordesch, U., and R. Brandner, "Long-Term Archive Service Requirements", RFC 4810, DOI 10.17487/RFC4810, March 2007, <https://www.rfc-editor.org/info/rfc4810>.

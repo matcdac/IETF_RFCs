@@ -1,0 +1,1 @@
+Mansfield, G. and S. Kille, "Directory Server Monitoring MIB", RFC 2605, DOI 10.17487/RFC2605, June 1999, <https://www.rfc-editor.org/info/rfc2605>.

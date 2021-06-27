@@ -1,0 +1,1 @@
+Hubbard, K., Kosters, M., Conrad, D., Karrenberg, D., and J. Postel, "Internet Registry IP Allocation Guidelines", RFC 2050, DOI 10.17487/RFC2050, November 1996, <https://www.rfc-editor.org/info/rfc2050>.

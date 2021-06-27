@@ -1,0 +1,1 @@
+Begen, A., Perkins, C., and D. Wing, "Guidelines for Choosing RTP Control Protocol (RTCP) Canonical Names (CNAMEs)", RFC 6222, DOI 10.17487/RFC6222, April 2011, <https://www.rfc-editor.org/info/rfc6222>.

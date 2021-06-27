@@ -1,0 +1,1 @@
+Reynolds, J., Ed., and S. Ginoza, Ed., "Internet Official Protocol Standards", RFC 3700, DOI 10.17487/RFC3700, July 2004, <https://www.rfc-editor.org/info/rfc3700>.

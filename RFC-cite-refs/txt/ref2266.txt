@@ -1,0 +1,1 @@
+Flick, J., "Definitions of Managed Objects for IEEE 802.12 Repeater Devices", RFC 2266, DOI 10.17487/RFC2266, January 1998, <https://www.rfc-editor.org/info/rfc2266>.

@@ -1,0 +1,1 @@
+Apostolopoulos, G., Kama, S., Williams, D., Guerin, R., Orda, A., and T. Przygienda, "QoS Routing Mechanisms and OSPF Extensions", RFC 2676, DOI 10.17487/RFC2676, August 1999, <https://www.rfc-editor.org/info/rfc2676>.

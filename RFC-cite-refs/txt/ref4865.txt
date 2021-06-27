@@ -1,0 +1,1 @@
+White, G. and G. Vaudreuil, "SMTP Submission Service Extension for Future Message Release", RFC 4865, DOI 10.17487/RFC4865, May 2007, <https://www.rfc-editor.org/info/rfc4865>.

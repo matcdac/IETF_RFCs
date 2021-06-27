@@ -1,0 +1,1 @@
+Duan, X., Wang, S., Westerlund, M., Hellwig, K., and I. Johansson, "RTP Payload Format for Global System for Mobile Communications Half Rate (GSM-HR)", RFC 5993, DOI 10.17487/RFC5993, October 2010, <https://www.rfc-editor.org/info/rfc5993>.

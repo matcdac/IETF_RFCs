@@ -1,0 +1,1 @@
+Yokota, H., Kim, D., Sarikaya, B., and F. Xia, "Flow Bindings Initiated by Home Agents for Mobile IPv6", RFC 7109, DOI 10.17487/RFC7109, February 2014, <https://www.rfc-editor.org/info/rfc7109>.

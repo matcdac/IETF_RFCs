@@ -1,0 +1,1 @@
+Hardcastle-Kille, S., "A string encoding of Presentation Address", RFC 1278, DOI 10.17487/RFC1278, November 1991, <https://www.rfc-editor.org/info/rfc1278>.

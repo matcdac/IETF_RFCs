@@ -1,0 +1,1 @@
+Dijkstra, F. and R. Hughes-Jones, "A URN Namespace for the Open Grid Forum (OGF)", RFC 6453, DOI 10.17487/RFC6453, December 2011, <https://www.rfc-editor.org/info/rfc6453>.

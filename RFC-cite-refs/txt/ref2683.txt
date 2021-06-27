@@ -1,0 +1,1 @@
+Leiba, B., "IMAP4 Implementation Recommendations", RFC 2683, DOI 10.17487/RFC2683, September 1999, <https://www.rfc-editor.org/info/rfc2683>.

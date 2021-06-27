@@ -1,0 +1,1 @@
+Rigney, C., Rubens, A., Simpson, W., and S. Willens, "Remote Authentication Dial In User Service (RADIUS)", RFC 2058, DOI 10.17487/RFC2058, January 1997, <https://www.rfc-editor.org/info/rfc2058>.

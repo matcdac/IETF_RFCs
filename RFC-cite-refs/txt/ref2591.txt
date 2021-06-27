@@ -1,0 +1,1 @@
+Levi, D. and J. Schoenwaelder, "Definitions of Managed Objects for Scheduling Management Operations", RFC 2591, DOI 10.17487/RFC2591, May 1999, <https://www.rfc-editor.org/info/rfc2591>.

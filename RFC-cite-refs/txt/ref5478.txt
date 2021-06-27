@@ -1,0 +1,1 @@
+Polk, J., "IANA Registration of New Session Initiation Protocol (SIP) Resource-Priority Namespaces", RFC 5478, DOI 10.17487/RFC5478, March 2009, <https://www.rfc-editor.org/info/rfc5478>.

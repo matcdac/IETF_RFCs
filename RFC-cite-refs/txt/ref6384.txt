@@ -1,0 +1,1 @@
+van Beijnum, I., "An FTP Application Layer Gateway (ALG) for IPv6-to-IPv4 Translation", RFC 6384, DOI 10.17487/RFC6384, October 2011, <https://www.rfc-editor.org/info/rfc6384>.

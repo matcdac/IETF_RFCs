@@ -1,0 +1,1 @@
+Pyke, T., "Toward reliable operation of minicomputer-based terminals on a TIP", RFC 230, DOI 10.17487/RFC0230, September 1971, <https://www.rfc-editor.org/info/rfc230>.

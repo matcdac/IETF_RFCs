@@ -1,0 +1,1 @@
+Hollenbeck, S., Veeramachaneni, S., and S. Yalamanchilli, "VeriSign Registry Registrar Protocol (RRP) Version 2.0.0", RFC 3632, DOI 10.17487/RFC3632, November 2003, <https://www.rfc-editor.org/info/rfc3632>.

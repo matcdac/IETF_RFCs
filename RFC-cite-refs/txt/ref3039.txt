@@ -1,0 +1,1 @@
+Santesson, S., Polk, W., Barzin, P., and M. Nystrom, "Internet X.509 Public Key Infrastructure Qualified Certificates Profile", RFC 3039, DOI 10.17487/RFC3039, January 2001, <https://www.rfc-editor.org/info/rfc3039>.

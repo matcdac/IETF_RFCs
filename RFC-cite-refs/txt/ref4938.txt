@@ -1,0 +1,1 @@
+Berry, B. and H. Holgate, "PPP Over Ethernet (PPPoE) Extensions for Credit Flow and Link Metrics", RFC 4938, DOI 10.17487/RFC4938, June 2007, <https://www.rfc-editor.org/info/rfc4938>.

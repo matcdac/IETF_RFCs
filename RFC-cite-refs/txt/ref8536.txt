@@ -1,0 +1,1 @@
+Olson, A., Eggert, P., and K. Murchison, "The Time Zone Information Format (TZif)", RFC 8536, DOI 10.17487/RFC8536, February 2019, <https://www.rfc-editor.org/info/rfc8536>.

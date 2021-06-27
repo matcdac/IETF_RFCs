@@ -1,0 +1,1 @@
+Perreault, S., Boucadair, M., Penno, R., Wing, D., and S. Cheshire, "Port Control Protocol (PCP) Proxy Function", RFC 7648, DOI 10.17487/RFC7648, September 2015, <https://www.rfc-editor.org/info/rfc7648>.

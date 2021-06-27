@@ -1,0 +1,1 @@
+Moy, J., "OSPF Version 2", RFC 1247, DOI 10.17487/RFC1247, July 1991, <https://www.rfc-editor.org/info/rfc1247>.

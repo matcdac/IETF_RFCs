@@ -1,0 +1,1 @@
+Roach, A., Campbell, B., and J. Rosenberg, "A Session Initiation Protocol (SIP) Event Notification Extension for Resource Lists", RFC 4662, DOI 10.17487/RFC4662, August 2006, <https://www.rfc-editor.org/info/rfc4662>.

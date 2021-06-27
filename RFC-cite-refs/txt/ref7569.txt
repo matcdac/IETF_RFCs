@@ -1,0 +1,1 @@
+Quigley, D., Lu, J., and T. Haynes, "Registry Specification for Mandatory Access Control (MAC) Security Label Formats", RFC 7569, DOI 10.17487/RFC7569, July 2015, <https://www.rfc-editor.org/info/rfc7569>.

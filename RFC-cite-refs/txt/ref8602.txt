@@ -1,0 +1,1 @@
+Arkko, J. and T. Hardie, "Update to the Telephony Routing over IP (TRIP) IANA Registry Rules regarding Postal Addresses", RFC 8602, DOI 10.17487/RFC8602, July 2019, <https://www.rfc-editor.org/info/rfc8602>.

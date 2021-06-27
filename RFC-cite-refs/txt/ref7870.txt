@@ -1,0 +1,1 @@
+Fu, Y., Jiang, S., Dong, J., and Y. Chen, "Dual-Stack Lite (DS-Lite) Management Information Base (MIB) for Address Family Transition Routers (AFTRs)", RFC 7870, DOI 10.17487/RFC7870, June 2016, <https://www.rfc-editor.org/info/rfc7870>.

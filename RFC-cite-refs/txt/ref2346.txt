@@ -1,0 +1,1 @@
+Palme, J., "Making Postscript and PDF International", RFC 2346, DOI 10.17487/RFC2346, May 1998, <https://www.rfc-editor.org/info/rfc2346>.

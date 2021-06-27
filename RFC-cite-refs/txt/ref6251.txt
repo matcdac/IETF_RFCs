@@ -1,0 +1,1 @@
+Josefsson, S., "Using Kerberos Version 5 over the Transport Layer Security (TLS) Protocol", RFC 6251, DOI 10.17487/RFC6251, May 2011, <https://www.rfc-editor.org/info/rfc6251>.

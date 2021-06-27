@@ -1,0 +1,1 @@
+Postel, J., "Simple Mail Transfer Protocol", STD 10, RFC 821, DOI 10.17487/RFC0821, August 1982, <https://www.rfc-editor.org/info/rfc821>.

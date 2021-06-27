@@ -1,0 +1,1 @@
+Dusse, S., Hoffman, P., Ramsdell, B., Lundblade, L., and L. Repka, "S/MIME Version 2 Message Specification", RFC 2311, DOI 10.17487/RFC2311, March 1998, <https://www.rfc-editor.org/info/rfc2311>.

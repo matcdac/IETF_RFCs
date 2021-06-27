@@ -1,0 +1,1 @@
+Dawkins, S., "IAB and IESG Selection, Confirmation, and Recall Process: Revision of the Nominating and Recall Committees Timeline", RFC 5078, DOI 10.17487/RFC5078, October 2007, <https://www.rfc-editor.org/info/rfc5078>.

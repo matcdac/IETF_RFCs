@@ -1,0 +1,1 @@
+Abley, J., Bagnulo, M., and A. Garcia-Martinez, "Considerations on the Application of the Level 3 Multihoming Shim Protocol for IPv6 (Shim6)", RFC 6629, DOI 10.17487/RFC6629, June 2012, <https://www.rfc-editor.org/info/rfc6629>.

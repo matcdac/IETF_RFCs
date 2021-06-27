@@ -1,0 +1,1 @@
+Holmberg, C., Burger, E., and H. Kaplan, "Session Initiation Protocol (SIP) INFO Method and Package Framework", RFC 6086, DOI 10.17487/RFC6086, January 2011, <https://www.rfc-editor.org/info/rfc6086>.

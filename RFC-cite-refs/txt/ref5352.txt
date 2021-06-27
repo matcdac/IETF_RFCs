@@ -1,0 +1,1 @@
+Stewart, R., Xie, Q., Stillman, M., and M. Tuexen, "Aggregate Server Access Protocol (ASAP)", RFC 5352, DOI 10.17487/RFC5352, September 2008, <https://www.rfc-editor.org/info/rfc5352>.

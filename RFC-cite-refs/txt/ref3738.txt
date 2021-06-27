@@ -1,0 +1,1 @@
+Luby, M. and V. Goyal, "Wave and Equation Based Rate Control (WEBRC) Building Block", RFC 3738, DOI 10.17487/RFC3738, April 2004, <https://www.rfc-editor.org/info/rfc3738>.

@@ -1,0 +1,1 @@
+Asadullah, S., Ahmed, A., Popoviciu, C., Savola, P., and J. Palet, "ISP IPv6 Deployment Scenarios in Broadband Access Networks", RFC 4779, DOI 10.17487/RFC4779, January 2007, <https://www.rfc-editor.org/info/rfc4779>.

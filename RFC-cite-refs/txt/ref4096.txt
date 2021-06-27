@@ -1,0 +1,1 @@
+Malamud, C., "Policy-Mandated Labels Such as "Adv:" in Email Subject Headers Considered Ineffective At Best", RFC 4096, DOI 10.17487/RFC4096, May 2005, <https://www.rfc-editor.org/info/rfc4096>.

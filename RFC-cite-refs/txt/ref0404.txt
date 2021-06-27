@@ -1,0 +1,1 @@
+McKenzie, A., "Host Address Changes Involving Rand and ISI", RFC 404, DOI 10.17487/RFC0404, October 1972, <https://www.rfc-editor.org/info/rfc404>.

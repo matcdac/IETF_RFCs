@@ -1,0 +1,1 @@
+Wing, D., Ed., Fries, S., Tschofenig, H., and F. Audet, "Requirements and Analysis of Media Security Management Protocols", RFC 5479, DOI 10.17487/RFC5479, April 2009, <https://www.rfc-editor.org/info/rfc5479>.

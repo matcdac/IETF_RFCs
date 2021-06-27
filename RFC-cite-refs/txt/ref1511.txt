@@ -1,0 +1,1 @@
+Linn, J., "Common Authentication Technology Overview", RFC 1511, DOI 10.17487/RFC1511, September 1993, <https://www.rfc-editor.org/info/rfc1511>.

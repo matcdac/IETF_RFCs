@@ -1,0 +1,1 @@
+Seriff, M., "ARPANET host availability data", RFC 308, DOI 10.17487/RFC0308, March 1972, <https://www.rfc-editor.org/info/rfc308>.

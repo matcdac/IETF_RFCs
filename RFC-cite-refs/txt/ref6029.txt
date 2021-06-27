@@ -1,0 +1,1 @@
+Rimac, I., Hilt, V., Tomsu, M., Gurbani, V., and E. Marocco, "A Survey on Research on the Application-Layer Traffic Optimization (ALTO) Problem", RFC 6029, DOI 10.17487/RFC6029, October 2010, <https://www.rfc-editor.org/info/rfc6029>.

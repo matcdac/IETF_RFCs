@@ -1,0 +1,1 @@
+Weaver, J., "RTP Payload Format for VC-2 High Quality (HQ) Profile", RFC 8450, DOI 10.17487/RFC8450, October 2018, <https://www.rfc-editor.org/info/rfc8450>.

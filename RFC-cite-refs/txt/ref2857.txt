@@ -1,0 +1,1 @@
+Keromytis, A. and N. Provos, "The Use of HMAC-RIPEMD-160-96 within ESP and AH", RFC 2857, DOI 10.17487/RFC2857, June 2000, <https://www.rfc-editor.org/info/rfc2857>.

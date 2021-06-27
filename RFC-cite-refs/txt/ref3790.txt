@@ -1,0 +1,1 @@
+Mickles, C., Ed., and P. Nesser, II, "Survey of IPv4 Addresses in Currently Deployed IETF Internet Area Standards Track and Experimental Documents", RFC 3790, DOI 10.17487/RFC3790, June 2004, <https://www.rfc-editor.org/info/rfc3790>.

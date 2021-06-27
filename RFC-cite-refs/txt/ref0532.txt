@@ -1,0 +1,1 @@
+Merryman, R., "UCSD-CC Server-FTP facility", RFC 532, DOI 10.17487/RFC0532, July 1973, <https://www.rfc-editor.org/info/rfc532>.

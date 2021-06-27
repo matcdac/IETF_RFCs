@@ -1,0 +1,1 @@
+Korn, D., MacDonald, J., Mogul, J., and K. Vo, "The VCDIFF Generic Differencing and Compression Data Format", RFC 3284, DOI 10.17487/RFC3284, June 2002, <https://www.rfc-editor.org/info/rfc3284>.

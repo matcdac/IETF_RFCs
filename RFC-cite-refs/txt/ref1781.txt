@@ -1,0 +1,1 @@
+Kille, S., "Using the OSI Directory to Achieve User Friendly Naming", RFC 1781, DOI 10.17487/RFC1781, March 1995, <https://www.rfc-editor.org/info/rfc1781>.

@@ -1,0 +1,1 @@
+Maino, F. and D. Black, "Use of IKEv2 in the Fibre Channel Security Association Management Protocol", RFC 4595, DOI 10.17487/RFC4595, July 2006, <https://www.rfc-editor.org/info/rfc4595>.

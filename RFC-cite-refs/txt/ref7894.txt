@@ -1,0 +1,1 @@
+Pritikin, M. and C. Wallace, "Alternative Challenge Password Attributes for Enrollment over Secure Transport", RFC 7894, DOI 10.17487/RFC7894, June 2016, <https://www.rfc-editor.org/info/rfc7894>.

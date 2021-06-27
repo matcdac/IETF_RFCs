@@ -1,0 +1,1 @@
+Fu, Y., Jiang, S., Liu, B., Dong, J., and Y. Chen, "Definitions of Managed Objects for Mapping of Address and Port with Encapsulation (MAP-E)", RFC 8389, DOI 10.17487/RFC8389, December 2018, <https://www.rfc-editor.org/info/rfc8389>.

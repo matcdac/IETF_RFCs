@@ -1,0 +1,1 @@
+Despres, R., Ed., Carpenter, B., Wing, D., and S. Jiang, "Native IPv6 behind IPv4-to-IPv4 NAT Customer Premises Equipment (6a44)", RFC 6751, DOI 10.17487/RFC6751, October 2012, <https://www.rfc-editor.org/info/rfc6751>.

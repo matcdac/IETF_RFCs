@@ -1,0 +1,1 @@
+Tsenov, T., Tschofenig, H., Fu, X., Ed., Aoun, C., and E. Davies, "General Internet Signaling Transport (GIST) State Machine", RFC 5972, DOI 10.17487/RFC5972, October 2010, <https://www.rfc-editor.org/info/rfc5972>.

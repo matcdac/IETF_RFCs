@@ -1,0 +1,1 @@
+Reynolds, J. and J. Postel, "Official protocols", RFC 880, DOI 10.17487/RFC0880, October 1983, <https://www.rfc-editor.org/info/rfc880>.

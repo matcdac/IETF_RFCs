@@ -1,0 +1,1 @@
+Elie, M., "Comments on Memory Allocation Control Commands: CEASE, ALL, GVB, RET, and RFNM", RFC 68, DOI 10.17487/RFC0068, August 1970, <https://www.rfc-editor.org/info/rfc68>.

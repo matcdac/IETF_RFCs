@@ -1,0 +1,1 @@
+Luciani, J., Suzuki, H., Doraswamy, N., and D. Horton, "NHRP with Mobile NHCs", RFC 2520, DOI 10.17487/RFC2520, February 1999, <https://www.rfc-editor.org/info/rfc2520>.

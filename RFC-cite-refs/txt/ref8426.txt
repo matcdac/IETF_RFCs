@@ -1,0 +1,1 @@
+Sitaraman, H., Ed., Beeram, V., Minei, I., and S. Sivabalan, "Recommendations for RSVP-TE and Segment Routing (SR) Label Switched Path (LSP) Coexistence", RFC 8426, DOI 10.17487/RFC8426, July 2018, <https://www.rfc-editor.org/info/rfc8426>.

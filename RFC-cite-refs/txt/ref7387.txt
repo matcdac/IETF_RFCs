@@ -1,0 +1,1 @@
+Key, R., Ed., Yong, L., Ed., Delord, S., Jounay, F., and L. Jin, "A Framework for Ethernet Tree (E-Tree) Service over a Multiprotocol Label Switching (MPLS) Network", RFC 7387, DOI 10.17487/RFC7387, October 2014, <https://www.rfc-editor.org/info/rfc7387>.

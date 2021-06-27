@@ -1,0 +1,1 @@
+Kumaki, K., Ed., Murai, T., Cheng, D., Matsushima, S., and P. Jiang, "Support for Resource Reservation Protocol Traffic Engineering (RSVP-TE) in Layer 3 Virtual Private Networks (L3VPNs)", RFC 6882, DOI 10.17487/RFC6882, March 2013, <https://www.rfc-editor.org/info/rfc6882>.

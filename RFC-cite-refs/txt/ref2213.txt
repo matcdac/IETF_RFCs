@@ -1,0 +1,1 @@
+Baker, F., Krawczyk, J., and A. Sastry, "Integrated Services Management Information Base using SMIv2", RFC 2213, DOI 10.17487/RFC2213, September 1997, <https://www.rfc-editor.org/info/rfc2213>.

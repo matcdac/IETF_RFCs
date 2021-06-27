@@ -1,0 +1,1 @@
+Zeilenga, K., "Lightweight Directory Access Protocol (LDAP) Transactions", RFC 5805, DOI 10.17487/RFC5805, March 2010, <https://www.rfc-editor.org/info/rfc5805>.

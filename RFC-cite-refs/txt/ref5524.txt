@@ -1,0 +1,1 @@
+Cridland, D., "Extended URLFETCH for Binary and Converted Parts", RFC 5524, DOI 10.17487/RFC5524, May 2009, <https://www.rfc-editor.org/info/rfc5524>.

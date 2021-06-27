@@ -1,0 +1,1 @@
+Braden, R. and L. Zhang, "RSVP Cryptographic Authentication -- Updated Message Type Value", RFC 3097, DOI 10.17487/RFC3097, April 2001, <https://www.rfc-editor.org/info/rfc3097>.

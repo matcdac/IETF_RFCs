@@ -1,0 +1,1 @@
+Mindel, J. and R. Slaski, "FTP-FTAM Gateway Specification", RFC 1415, DOI 10.17487/RFC1415, January 1993, <https://www.rfc-editor.org/info/rfc1415>.

@@ -1,0 +1,1 @@
+Prue, W. and J. Postel, "Something a Host Could Do with Source Quench: The Source Quench Introduced Delay (SQuID)", RFC 1016, DOI 10.17487/RFC1016, July 1987, <https://www.rfc-editor.org/info/rfc1016>.

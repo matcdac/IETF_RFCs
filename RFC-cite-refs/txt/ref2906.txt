@@ -1,0 +1,1 @@
+Farrell, S., Vollbrecht, J., Calhoun, P., Gommans, L., Gross, G., de Bruijn, B., de Laat, C., Holdrege, M., and D. Spence, "AAA Authorization Requirements", RFC 2906, DOI 10.17487/RFC2906, August 2000, <https://www.rfc-editor.org/info/rfc2906>.

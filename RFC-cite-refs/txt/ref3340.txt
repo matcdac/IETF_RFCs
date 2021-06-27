@@ -1,0 +1,1 @@
+Rose, M., Klyne, G., and D. Crocker, "The Application Exchange Core", RFC 3340, DOI 10.17487/RFC3340, July 2002, <https://www.rfc-editor.org/info/rfc3340>.

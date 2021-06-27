@@ -1,0 +1,1 @@
+Zhang, F. and A. Farrel, "Conveying Vendor-Specific Constraints in the Path Computation Element Communication Protocol", RFC 7150, DOI 10.17487/RFC7150, March 2014, <https://www.rfc-editor.org/info/rfc7150>.

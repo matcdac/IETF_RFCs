@@ -1,0 +1,1 @@
+Jenkins, M., "Using Commercial National Security Algorithm Suite Algorithms in Secure/Multipurpose Internet Mail Extensions", RFC 8755, DOI 10.17487/RFC8755, March 2020, <https://www.rfc-editor.org/info/rfc8755>.

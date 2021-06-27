@@ -1,0 +1,1 @@
+VanBokkelen, J., "Telnet terminal-type option", RFC 1091, DOI 10.17487/RFC1091, February 1989, <https://www.rfc-editor.org/info/rfc1091>.

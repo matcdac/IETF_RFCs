@@ -1,0 +1,1 @@
+Waehlisch, M., Schmidt, T., and S. Venaas, "A Common API for Transparent Hybrid Multicast", RFC 7046, DOI 10.17487/RFC7046, December 2013, <https://www.rfc-editor.org/info/rfc7046>.

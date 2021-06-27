@@ -1,0 +1,1 @@
+Berger, L., "OSPFv3-Based Layer 1 VPN Auto-Discovery", RFC 5523, DOI 10.17487/RFC5523, April 2009, <https://www.rfc-editor.org/info/rfc5523>.

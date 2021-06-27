@@ -1,0 +1,1 @@
+Clouston, B., Ed., and B. Moore, Ed., "Definitions of Managed Objects for HPR using SMIv2", RFC 2238, DOI 10.17487/RFC2238, November 1997, <https://www.rfc-editor.org/info/rfc2238>.

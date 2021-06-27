@@ -1,0 +1,1 @@
+Narasimhan, P., Harkins, D., and S. Ponnuswamy, "SLAPP: Secure Light Access Point Protocol", RFC 5413, DOI 10.17487/RFC5413, February 2010, <https://www.rfc-editor.org/info/rfc5413>.

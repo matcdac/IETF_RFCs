@@ -1,0 +1,1 @@
+Thubert, P., Ed., Perkins, C., and E. Levy-Abegnoli, "IPv6 Backbone Router", RFC 8929, DOI 10.17487/RFC8929, November 2020, <https://www.rfc-editor.org/info/rfc8929>.

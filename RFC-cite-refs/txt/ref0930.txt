@@ -1,0 +1,1 @@
+Solomon, M. and E. Wimmers, "Telnet terminal type option", RFC 930, DOI 10.17487/RFC0930, January 1985, <https://www.rfc-editor.org/info/rfc930>.

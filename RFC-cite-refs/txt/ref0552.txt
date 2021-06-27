@@ -1,0 +1,1 @@
+Owen, A., "Single access to standard protocols", RFC 552, DOI 10.17487/RFC0552, July 1973, <https://www.rfc-editor.org/info/rfc552>.

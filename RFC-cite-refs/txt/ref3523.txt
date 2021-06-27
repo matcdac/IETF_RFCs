@@ -1,0 +1,1 @@
+Polk, J., "Internet Emergency Preparedness (IEPREP) Telephony Topology Terminology", RFC 3523, DOI 10.17487/RFC3523, April 2003, <https://www.rfc-editor.org/info/rfc3523>.

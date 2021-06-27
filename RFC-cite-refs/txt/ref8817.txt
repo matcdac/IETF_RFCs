@@ -1,0 +1,1 @@
+Demjanenko, V., Punaro, J., and D. Satterlee, "RTP Payload Format for Tactical Secure Voice Cryptographic Interoperability Specification (TSVCIS) Codec", RFC 8817, DOI 10.17487/RFC8817, August 2020, <https://www.rfc-editor.org/info/rfc8817>.

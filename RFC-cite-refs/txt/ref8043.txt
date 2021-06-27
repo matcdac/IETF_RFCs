@@ -1,0 +1,1 @@
+Sarikaya, B. and M. Boucadair, "Source-Address-Dependent Routing and Source Address Selection for IPv6 Hosts: Overview of the Problem Space", RFC 8043, DOI 10.17487/RFC8043, January 2017, <https://www.rfc-editor.org/info/rfc8043>.

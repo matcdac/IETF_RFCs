@@ -1,0 +1,1 @@
+Salsman, J. and H. Alvestrand, "The Audio/L16 MIME content type", RFC 2586, DOI 10.17487/RFC2586, May 1999, <https://www.rfc-editor.org/info/rfc2586>.

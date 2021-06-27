@@ -1,0 +1,1 @@
+Joachimpillai, D. and J. Hadi Salim, "Forwarding and Control Element Separation (ForCES) Inter-FE Logical Functional Block (LFB)", RFC 8013, DOI 10.17487/RFC8013, February 2017, <https://www.rfc-editor.org/info/rfc8013>.

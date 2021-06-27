@@ -1,0 +1,1 @@
+Stallman, R., "SUPDUP graphics extension", RFC 746, DOI 10.17487/RFC0746, March 1978, <https://www.rfc-editor.org/info/rfc746>.

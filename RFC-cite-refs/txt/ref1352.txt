@@ -1,0 +1,1 @@
+Galvin, J., McCloghrie, K., and J. Davin, "SNMP Security Protocols", RFC 1352, DOI 10.17487/RFC1352, July 1992, <https://www.rfc-editor.org/info/rfc1352>.

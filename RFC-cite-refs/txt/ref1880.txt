@@ -1,0 +1,1 @@
+Postel, J., Ed., "Internet Official Protocol Standards", RFC 1880, DOI 10.17487/RFC1880, November 1995, <https://www.rfc-editor.org/info/rfc1880>.

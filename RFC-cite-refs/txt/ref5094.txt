@@ -1,0 +1,1 @@
+Devarapalli, V., Patel, A., and K. Leung, "Mobile IPv6 Vendor Specific Option", RFC 5094, DOI 10.17487/RFC5094, December 2007, <https://www.rfc-editor.org/info/rfc5094>.

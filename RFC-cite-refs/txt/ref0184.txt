@@ -1,0 +1,1 @@
+Kelley, K., "Proposed graphic display modes", RFC 184, DOI 10.17487/RFC0184, July 1971, <https://www.rfc-editor.org/info/rfc184>.

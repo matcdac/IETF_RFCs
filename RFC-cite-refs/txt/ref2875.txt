@@ -1,0 +1,1 @@
+Prafullchandra, H. and J. Schaad, "Diffie-Hellman Proof-of-Possession Algorithms", RFC 2875, DOI 10.17487/RFC2875, July 2000, <https://www.rfc-editor.org/info/rfc2875>.

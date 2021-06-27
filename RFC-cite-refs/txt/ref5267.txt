@@ -1,0 +1,1 @@
+Cridland, D. and C. King, "Contexts for IMAP4", RFC 5267, DOI 10.17487/RFC5267, July 2008, <https://www.rfc-editor.org/info/rfc5267>.

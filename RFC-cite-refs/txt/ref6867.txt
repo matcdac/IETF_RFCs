@@ -1,0 +1,1 @@
+Nir, Y. and Q. Wu, "An Internet Key Exchange Protocol Version 2 (IKEv2) Extension to Support EAP Re-authentication Protocol (ERP)", RFC 6867, DOI 10.17487/RFC6867, January 2013, <https://www.rfc-editor.org/info/rfc6867>.

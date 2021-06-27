@@ -1,0 +1,1 @@
+Lee, Y., Ed., and R. Casellas, Ed., "The Path Computation Element Communication Protocol (PCEP) Extension for Wavelength Switched Optical Network (WSON) Routing and Wavelength Assignment (RWA)", RFC 8780, DOI 10.17487/RFC8780, July 2020, <https://www.rfc-editor.org/info/rfc8780>.

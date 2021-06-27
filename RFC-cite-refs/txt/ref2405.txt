@@ -1,0 +1,1 @@
+Madson, C. and N. Doraswamy, "The ESP DES-CBC Cipher Algorithm With Explicit IV", RFC 2405, DOI 10.17487/RFC2405, November 1998, <https://www.rfc-editor.org/info/rfc2405>.

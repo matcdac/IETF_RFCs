@@ -1,0 +1,1 @@
+Fowler, D., Ed., "Definitions of Managed Objects for the DS0 and DS0 Bundle Interface Type", RFC 2494, DOI 10.17487/RFC2494, January 1999, <https://www.rfc-editor.org/info/rfc2494>.

@@ -1,0 +1,1 @@
+Mealling, M., "A Uniform Resource Name Namespace for the EPCglobal Electronic Product Code (EPC) and Related Standards", RFC 5134, DOI 10.17487/RFC5134, January 2008, <https://www.rfc-editor.org/info/rfc5134>.

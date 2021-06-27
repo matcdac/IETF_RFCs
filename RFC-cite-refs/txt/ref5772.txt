@@ -1,0 +1,1 @@
+Doria, A., Davies, E., and F. Kastenholz, "A Set of Possible Requirements for a Future Routing Architecture", RFC 5772, DOI 10.17487/RFC5772, February 2010, <https://www.rfc-editor.org/info/rfc5772>.

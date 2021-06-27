@@ -1,0 +1,1 @@
+Troan, O., "IANA Considerations for IPv6 Neighbor Discovery Prefix Information Option Flags", RFC 8425, DOI 10.17487/RFC8425, July 2018, <https://www.rfc-editor.org/info/rfc8425>.

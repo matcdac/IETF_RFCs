@@ -1,0 +1,1 @@
+Roca, V. and B. Adamson, "FCAST: Object Delivery for the Asynchronous Layered Coding (ALC) and NACK-Oriented Reliable Multicast (NORM) Protocols", RFC 6968, DOI 10.17487/RFC6968, July 2013, <https://www.rfc-editor.org/info/rfc6968>.

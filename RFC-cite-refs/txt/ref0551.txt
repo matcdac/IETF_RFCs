@@ -1,0 +1,1 @@
+Feinroth, Y. and R. Fink, "NYU, ANL, and LBL Joining the Net", RFC 551, DOI 10.17487/RFC0551, August 1973, <https://www.rfc-editor.org/info/rfc551>.

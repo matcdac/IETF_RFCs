@@ -1,0 +1,1 @@
+Soliman, H., Castelluccia, C., ElMalki, K., and L. Bellier, "Hierarchical Mobile IPv6 (HMIPv6) Mobility Management", RFC 5380, DOI 10.17487/RFC5380, October 2008, <https://www.rfc-editor.org/info/rfc5380>.

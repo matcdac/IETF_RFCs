@@ -1,0 +1,1 @@
+Irby, C., "Graphics implementation and conceptualization at Augmentation Research Center", RFC 191, DOI 10.17487/RFC0191, July 1971, <https://www.rfc-editor.org/info/rfc191>.

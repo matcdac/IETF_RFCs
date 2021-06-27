@@ -1,0 +1,1 @@
+Brusilovsky, A., Faynberg, I., Zeltsan, Z., and S. Patel, "Password-Authenticated Key (PAK) Diffie-Hellman Exchange", RFC 5683, DOI 10.17487/RFC5683, February 2010, <https://www.rfc-editor.org/info/rfc5683>.

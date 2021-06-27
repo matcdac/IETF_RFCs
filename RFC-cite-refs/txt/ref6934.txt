@@ -1,0 +1,1 @@
+Bitar, N., Ed., Wadhwa, S., Ed., Haag, T., and H. Li, "Applicability of the Access Node Control Mechanism to Broadband Networks Based on Passive Optical Networks (PONs)", RFC 6934, DOI 10.17487/RFC6934, June 2013, <https://www.rfc-editor.org/info/rfc6934>.

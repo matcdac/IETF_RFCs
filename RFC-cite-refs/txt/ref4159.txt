@@ -1,0 +1,1 @@
+Huston, G., "Deprecation of "ip6.int"", BCP 109, RFC 4159, DOI 10.17487/RFC4159, August 2005, <https://www.rfc-editor.org/info/rfc4159>.

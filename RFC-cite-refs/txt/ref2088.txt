@@ -1,0 +1,1 @@
+Myers, J., "IMAP4 non-synchronizing literals", RFC 2088, DOI 10.17487/RFC2088, January 1997, <https://www.rfc-editor.org/info/rfc2088>.

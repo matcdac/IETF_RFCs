@@ -1,0 +1,1 @@
+Katz, A. and D. Cohen, "A File Format for the Exchange of Images in the Internet", RFC 1314, DOI 10.17487/RFC1314, April 1992, <https://www.rfc-editor.org/info/rfc1314>.

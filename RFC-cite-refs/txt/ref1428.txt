@@ -1,0 +1,1 @@
+Vaudreuil, G., "Transition of Internet Mail from Just-Send-8 to 8bit-SMTP/MIME", RFC 1428, DOI 10.17487/RFC1428, February 1993, <https://www.rfc-editor.org/info/rfc1428>.

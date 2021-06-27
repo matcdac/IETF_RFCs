@@ -1,0 +1,1 @@
+Perkins, C. and P. Calhoun, "Mobile IPv4 Challenge/Response Extensions", RFC 3012, DOI 10.17487/RFC3012, November 2000, <https://www.rfc-editor.org/info/rfc3012>.

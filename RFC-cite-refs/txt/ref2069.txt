@@ -1,0 +1,1 @@
+Franks, J., Hallam-Baker, P., Hostetler, J., Leach, P., Luotonen, A., Sink, E., and L. Stewart, "An Extension to HTTP : Digest Access Authentication", RFC 2069, DOI 10.17487/RFC2069, January 1997, <https://www.rfc-editor.org/info/rfc2069>.

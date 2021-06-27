@@ -1,0 +1,1 @@
+Reynolds, J., "BOOTP vendor information extensions", RFC 1084, DOI 10.17487/RFC1084, December 1988, <https://www.rfc-editor.org/info/rfc1084>.

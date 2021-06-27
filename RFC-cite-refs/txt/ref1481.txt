@@ -1,0 +1,1 @@
+Huitema, C., "IAB Recommendation for an Intermediate Strategy to Address the Issue of Scaling", RFC 1481, DOI 10.17487/RFC1481, July 1993, <https://www.rfc-editor.org/info/rfc1481>.

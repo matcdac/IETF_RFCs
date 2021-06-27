@@ -1,0 +1,1 @@
+Boeyen, S., Howes, T., and P. Richard, "Internet X.509 Public Key Infrastructure LDAPv2 Schema", RFC 2587, DOI 10.17487/RFC2587, June 1999, <https://www.rfc-editor.org/info/rfc2587>.

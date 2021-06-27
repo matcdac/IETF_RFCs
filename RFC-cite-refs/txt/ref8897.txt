@@ -1,0 +1,1 @@
+Ma, D. and S. Kent, "Requirements for Resource Public Key Infrastructure (RPKI) Relying Parties", RFC 8897, DOI 10.17487/RFC8897, September 2020, <https://www.rfc-editor.org/info/rfc8897>.

@@ -1,0 +1,1 @@
+Clouston, B. and B. Moore, "Definitions of Managed Objects for APPN TRAPS", RFC 2456, DOI 10.17487/RFC2456, November 1998, <https://www.rfc-editor.org/info/rfc2456>.

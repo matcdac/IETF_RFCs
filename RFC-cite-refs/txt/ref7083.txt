@@ -1,0 +1,1 @@
+Droms, R., "Modification to Default Values of SOL_MAX_RT and INF_MAX_RT", RFC 7083, DOI 10.17487/RFC7083, November 2013, <https://www.rfc-editor.org/info/rfc7083>.

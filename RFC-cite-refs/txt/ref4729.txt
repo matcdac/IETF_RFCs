@@ -1,0 +1,1 @@
+Abel, M., "A Uniform Resource Name (URN) Namespace for  the Near Field Communication (NFC) Forum", RFC 4729, DOI 10.17487/RFC4729, November 2006, <https://www.rfc-editor.org/info/rfc4729>.

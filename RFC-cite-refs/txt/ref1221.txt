@@ -1,0 +1,1 @@
+Edmond, W., "Host Access Protocol (HAP) specification: Version 2", RFC 1221, DOI 10.17487/RFC1221, April 1991, <https://www.rfc-editor.org/info/rfc1221>.

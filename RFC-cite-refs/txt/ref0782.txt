@@ -1,0 +1,1 @@
+Nabielsky, J. and A. Skelton, "Virtual Terminal management model", RFC 782, DOI 10.17487/RFC0782, January 1981, <https://www.rfc-editor.org/info/rfc782>.

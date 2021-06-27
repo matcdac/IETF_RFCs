@@ -1,0 +1,1 @@
+Linn, J., "The Kerberos Version 5 GSS-API Mechanism", RFC 1964, DOI 10.17487/RFC1964, June 1996, <https://www.rfc-editor.org/info/rfc1964>.

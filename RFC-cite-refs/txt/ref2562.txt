@@ -1,0 +1,1 @@
+White, K. and R. Moore, "Definitions of Protocol and Managed Objects for TN3270E Response Time Collection Using SMIv2 (TN3270E-RT-MIB)", RFC 2562, DOI 10.17487/RFC2562, April 1999, <https://www.rfc-editor.org/info/rfc2562>.

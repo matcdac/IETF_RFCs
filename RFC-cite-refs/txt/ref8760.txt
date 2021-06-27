@@ -1,0 +1,1 @@
+Shekh-Yusef, R., "The Session Initiation Protocol (SIP) Digest Access Authentication Scheme", RFC 8760, DOI 10.17487/RFC8760, March 2020, <https://www.rfc-editor.org/info/rfc8760>.

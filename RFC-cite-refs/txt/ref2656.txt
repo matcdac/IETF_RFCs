@@ -1,0 +1,1 @@
+Hardie, T., "Registration Procedures for SOIF Template Types", RFC 2656, DOI 10.17487/RFC2656, August 1999, <https://www.rfc-editor.org/info/rfc2656>.

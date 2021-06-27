@@ -1,0 +1,1 @@
+Gilligan, R., Thomson, S., Bound, J., and W. Stevens, "Basic Socket Interface Extensions for IPv6", RFC 2553, DOI 10.17487/RFC2553, March 1999, <https://www.rfc-editor.org/info/rfc2553>.

@@ -1,0 +1,1 @@
+Waitzman, D., Partridge, C., and S. Deering, "Distance Vector Multicast Routing Protocol", RFC 1075, DOI 10.17487/RFC1075, November 1988, <https://www.rfc-editor.org/info/rfc1075>.

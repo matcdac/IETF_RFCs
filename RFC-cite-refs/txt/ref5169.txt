@@ -1,0 +1,1 @@
+Clancy, T., Nakhjiri, M., Narayanan, V., and L. Dondeti, "Handover Key Management and Re-Authentication Problem Statement", RFC 5169, DOI 10.17487/RFC5169, March 2008, <https://www.rfc-editor.org/info/rfc5169>.

@@ -1,0 +1,1 @@
+Woundy, R., "Baseline Privacy Interface Management Information Base for DOCSIS Compliant Cable Modems and Cable Modem Termination Systems", RFC 3083, DOI 10.17487/RFC3083, March 2001, <https://www.rfc-editor.org/info/rfc3083>.

@@ -1,0 +1,1 @@
+Sajassi, A., Ed., Salam, S., Del Regno, N., and J. Rabadan, "Seamless Integration of Ethernet VPN (EVPN) with Virtual Private LAN Service (VPLS) and Their Provider Backbone Bridge (PBB) Equivalents", RFC 8560, DOI 10.17487/RFC8560, May 2019, <https://www.rfc-editor.org/info/rfc8560>.

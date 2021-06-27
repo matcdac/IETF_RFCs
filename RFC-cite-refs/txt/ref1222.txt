@@ -1,0 +1,1 @@
+Braun, H. and Y. Rekhter, "Advancing the NSFNET routing architecture", RFC 1222, DOI 10.17487/RFC1222, May 1991, <https://www.rfc-editor.org/info/rfc1222>.

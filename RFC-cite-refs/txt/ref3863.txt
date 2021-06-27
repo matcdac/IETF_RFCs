@@ -1,0 +1,1 @@
+Sugano, H., Fujimoto, S., Klyne, G., Bateman, A., Carr, W., and J. Peterson, "Presence Information Data Format (PIDF)", RFC 3863, DOI 10.17487/RFC3863, August 2004, <https://www.rfc-editor.org/info/rfc3863>.

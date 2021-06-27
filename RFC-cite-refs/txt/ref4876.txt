@@ -1,0 +1,1 @@
+Neal-Joslin, B., Ed., Howard, L., and M. Ansari, "A Configuration Profile Schema for Lightweight Directory Access Protocol (LDAP)-Based Agents", RFC 4876, DOI 10.17487/RFC4876, May 2007, <https://www.rfc-editor.org/info/rfc4876>.

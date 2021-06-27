@@ -1,0 +1,1 @@
+Rosen, B., Schulzrinne, H., Tschofenig, H., and R. Gellens, "Non-interactive Emergency Calls", RFC 8876, DOI 10.17487/RFC8876, September 2020, <https://www.rfc-editor.org/info/rfc8876>.

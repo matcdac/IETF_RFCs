@@ -1,0 +1,1 @@
+North, J., "ARPA Network Mailing Lists", RFC 211, DOI 10.17487/RFC0211, August 1971, <https://www.rfc-editor.org/info/rfc211>.

@@ -1,0 +1,1 @@
+Koodli, R. and C. Perkins, "Mobile IPv4 Fast Handovers", RFC 4988, DOI 10.17487/RFC4988, October 2007, <https://www.rfc-editor.org/info/rfc4988>.

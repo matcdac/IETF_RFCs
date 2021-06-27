@@ -1,0 +1,1 @@
+Klensin, J. and S. Hartman, "Handling Normative References to Standards-Track Documents", BCP 97, RFC 4897, DOI 10.17487/RFC4897, June 2007, <https://www.rfc-editor.org/info/rfc4897>.

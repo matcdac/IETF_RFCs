@@ -1,0 +1,1 @@
+Suzuki, M., "The Assignment of the Information Field and Protocol Identifier in the Q.2941 Generic Identifier and Q.2957 User-to-user Signaling for the Internet Protocol", RFC 3033, DOI 10.17487/RFC3033, January 2001, <https://www.rfc-editor.org/info/rfc3033>.

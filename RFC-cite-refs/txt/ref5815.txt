@@ -1,0 +1,1 @@
+Dietz, T., Ed., Kobayashi, A., Claise, B., and G. Muenz, "Definitions of Managed Objects for IP Flow Information Export", RFC 5815, DOI 10.17487/RFC5815, April 2010, <https://www.rfc-editor.org/info/rfc5815>.

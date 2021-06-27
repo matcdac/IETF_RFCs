@@ -1,0 +1,1 @@
+Farrel, A., "Requirements for Morality Sections in Routing Area Drafts", RFC 4041, DOI 10.17487/RFC4041, April 1 2005, <https://www.rfc-editor.org/info/rfc4041>.

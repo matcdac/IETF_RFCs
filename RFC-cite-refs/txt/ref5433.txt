@@ -1,0 +1,1 @@
+Clancy, T. and H. Tschofenig, "Extensible Authentication Protocol - Generalized Pre-Shared Key (EAP-GPSK) Method", RFC 5433, DOI 10.17487/RFC5433, February 2009, <https://www.rfc-editor.org/info/rfc5433>.

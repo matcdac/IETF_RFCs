@@ -1,0 +1,1 @@
+O'Hara, B., Calhoun, P., and J. Kempf, "Configuration and Provisioning for Wireless Access Points (CAPWAP) Problem Statement", RFC 3990, DOI 10.17487/RFC3990, February 2005, <https://www.rfc-editor.org/info/rfc3990>.

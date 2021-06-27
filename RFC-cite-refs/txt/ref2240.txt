@@ -1,0 +1,1 @@
+Vaughan, O., "A Legal Basis for Domain Name Allocation", RFC 2240, DOI 10.17487/RFC2240, November 1997, <https://www.rfc-editor.org/info/rfc2240>.

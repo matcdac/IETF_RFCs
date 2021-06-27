@@ -1,0 +1,1 @@
+Loughney, J., Ed., Nakhjiri, M., Perkins, C., and R. Koodli, "Context Transfer Protocol (CXTP)", RFC 4067, DOI 10.17487/RFC4067, July 2005, <https://www.rfc-editor.org/info/rfc4067>.

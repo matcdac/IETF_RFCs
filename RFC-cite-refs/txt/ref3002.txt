@@ -1,0 +1,1 @@
+Mitzel, D., "Overview of 2000 IAB Wireless Internetworking Workshop", RFC 3002, DOI 10.17487/RFC3002, December 2000, <https://www.rfc-editor.org/info/rfc3002>.

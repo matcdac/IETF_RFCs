@@ -1,0 +1,1 @@
+Huston, G., "6to4 Reverse DNS Delegation Specification", RFC 5158, DOI 10.17487/RFC5158, March 2008, <https://www.rfc-editor.org/info/rfc5158>.

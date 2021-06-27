@@ -1,0 +1,1 @@
+Morales, L. and P. Hasse, "IP to X.121 address mapping for DDN", RFC 1236, DOI 10.17487/RFC1236, June 1991, <https://www.rfc-editor.org/info/rfc1236>.

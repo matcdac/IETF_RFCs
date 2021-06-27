@@ -1,0 +1,1 @@
+Dolly, M. and C. Wendt, "Assertion Values for Resource Priority Header and SIP Priority Header Claims in Support of Emergency Services Networks", RFC 9027, DOI 10.17487/RFC9027, June 2021, <https://www.rfc-editor.org/info/rfc9027>.

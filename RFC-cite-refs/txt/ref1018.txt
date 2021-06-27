@@ -1,0 +1,1 @@
+McKenzie, A., "Some comments on SQuID", RFC 1018, DOI 10.17487/RFC1018, August 1987, <https://www.rfc-editor.org/info/rfc1018>.

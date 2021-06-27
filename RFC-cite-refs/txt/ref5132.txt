@@ -1,0 +1,1 @@
+McWalter, D., Thaler, D., and A. Kessler, "IP Multicast MIB", RFC 5132, DOI 10.17487/RFC5132, December 2007, <https://www.rfc-editor.org/info/rfc5132>.

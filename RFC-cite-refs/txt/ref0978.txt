@@ -1,0 +1,1 @@
+Reynolds, J., Gillman, R., Brackenridge, W., Witkowski, A., and J. Postel, "Voice File Interchange Protocol (VFIP)", RFC 978, DOI 10.17487/RFC0978, February 1986, <https://www.rfc-editor.org/info/rfc978>.

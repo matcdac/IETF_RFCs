@@ -1,0 +1,1 @@
+Clouston, B. and B. Moore, "Definitions of Managed Objects for Extended Border Node", RFC 2457, DOI 10.17487/RFC2457, November 1998, <https://www.rfc-editor.org/info/rfc2457>.

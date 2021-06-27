@@ -1,0 +1,1 @@
+Herriot, R., Ed., Butler, S., Moore, P., and R. Turner, "Internet Printing Protocol/1.0: Encoding and Transport", RFC 2565, DOI 10.17487/RFC2565, April 1999, <https://www.rfc-editor.org/info/rfc2565>.

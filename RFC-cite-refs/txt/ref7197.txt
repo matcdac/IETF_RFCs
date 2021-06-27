@@ -1,0 +1,1 @@
+Begen, A., Cai, Y., and H. Ou, "Duplication Delay Attribute in the Session Description Protocol", RFC 7197, DOI 10.17487/RFC7197, April 2014, <https://www.rfc-editor.org/info/rfc7197>.

@@ -1,0 +1,1 @@
+Karagiannis, G., Taylor, T., Chan, K., Menth, M., and P. Eardley, "Requirements for Signaling of Pre-Congestion Information in a Diffserv Domain", RFC 6663, DOI 10.17487/RFC6663, July 2012, <https://www.rfc-editor.org/info/rfc6663>.

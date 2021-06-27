@@ -1,0 +1,1 @@
+Nainar, N., Pignataro, C., Iqbal, F., and A. Vainshtein, "Clarification of Segment ID Sub-TLV Length for RFC 8287", RFC 8690, DOI 10.17487/RFC8690, December 2019, <https://www.rfc-editor.org/info/rfc8690>.

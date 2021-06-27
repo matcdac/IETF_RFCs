@@ -1,0 +1,1 @@
+Waitzman, D., "Telnet window size option", RFC 1073, DOI 10.17487/RFC1073, October 1988, <https://www.rfc-editor.org/info/rfc1073>.

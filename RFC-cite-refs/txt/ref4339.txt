@@ -1,0 +1,1 @@
+Jeong, J., Ed., "IPv6 Host Configuration of DNS Server Information Approaches", RFC 4339, DOI 10.17487/RFC4339, February 2006, <https://www.rfc-editor.org/info/rfc4339>.

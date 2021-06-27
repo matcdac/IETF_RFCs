@@ -1,0 +1,1 @@
+Smallberg, D., "Who talks TCP?", RFC 833, DOI 10.17487/RFC0833, December 1982, <https://www.rfc-editor.org/info/rfc833>.

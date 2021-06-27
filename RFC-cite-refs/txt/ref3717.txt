@@ -1,0 +1,1 @@
+Rajagopalan, B., Luciani, J., and D. Awduche, "IP over Optical Networks: A Framework", RFC 3717, DOI 10.17487/RFC3717, March 2004, <https://www.rfc-editor.org/info/rfc3717>.

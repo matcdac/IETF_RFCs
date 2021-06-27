@@ -1,0 +1,1 @@
+Howes, T., "The String Representation of LDAP Search Filters", RFC 2254, DOI 10.17487/RFC2254, December 1997, <https://www.rfc-editor.org/info/rfc2254>.

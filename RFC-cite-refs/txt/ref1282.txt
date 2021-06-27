@@ -1,0 +1,1 @@
+Kantor, B., "BSD Rlogin", RFC 1282, DOI 10.17487/RFC1282, December 1991, <https://www.rfc-editor.org/info/rfc1282>.

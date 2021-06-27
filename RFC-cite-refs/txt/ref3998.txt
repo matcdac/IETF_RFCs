@@ -1,0 +1,1 @@
+Kugler, C., Lewis, H., and T. Hastings, Ed., "Internet Printing Protocol (IPP): Job and Printer Administrative Operations", RFC 3998, DOI 10.17487/RFC3998, March 2005, <https://www.rfc-editor.org/info/rfc3998>.

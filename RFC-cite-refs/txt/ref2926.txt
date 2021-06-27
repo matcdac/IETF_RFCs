@@ -1,0 +1,1 @@
+Kempf, J., Moats, R., and P. St. Pierre, "Conversion of LDAP Schemas to and from SLP Templates", RFC 2926, DOI 10.17487/RFC2926, September 2000, <https://www.rfc-editor.org/info/rfc2926>.

@@ -1,0 +1,1 @@
+Gagliano, R., Krishnan, S., and A. Kukec, "Certificate Profile and Certificate Management for SEcure Neighbor Discovery (SEND)", RFC 6494, DOI 10.17487/RFC6494, February 2012, <https://www.rfc-editor.org/info/rfc6494>.

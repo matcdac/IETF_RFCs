@@ -1,0 +1,1 @@
+Shenker, S. and J. Wroclawski, "Network Element Service Specification Template", RFC 2216, DOI 10.17487/RFC2216, September 1997, <https://www.rfc-editor.org/info/rfc2216>.

@@ -1,0 +1,1 @@
+Dearlove, C. and T. Clausen, "Multi-Topology Extension for the Optimized Link State Routing Protocol Version 2 (OLSRv2)", RFC 7722, DOI 10.17487/RFC7722, December 2015, <https://www.rfc-editor.org/info/rfc7722>.

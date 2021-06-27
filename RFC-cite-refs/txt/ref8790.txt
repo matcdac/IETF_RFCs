@@ -1,0 +1,1 @@
+Keränen, A. and M. Mohajer, "FETCH and PATCH with Sensor Measurement Lists (SenML)", RFC 8790, DOI 10.17487/RFC8790, June 2020, <https://www.rfc-editor.org/info/rfc8790>.

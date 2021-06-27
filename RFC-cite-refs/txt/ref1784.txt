@@ -1,0 +1,1 @@
+Malkin, G. and A. Harkin, "TFTP Timeout Interval and Transfer Size Options", RFC 1784, DOI 10.17487/RFC1784, March 1995, <https://www.rfc-editor.org/info/rfc1784>.

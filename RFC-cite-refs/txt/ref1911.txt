@@ -1,0 +1,1 @@
+Vaudreuil, G., "Voice Profile for Internet Mail", RFC 1911, DOI 10.17487/RFC1911, February 1996, <https://www.rfc-editor.org/info/rfc1911>.

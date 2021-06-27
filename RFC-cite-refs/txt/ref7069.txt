@@ -1,0 +1,1 @@
+Alimi, R., Rahman, A., Kutscher, D., Yang, Y., Song, H., and K. Pentikousis, "DECoupled Application Data Enroute (DECADE)", RFC 7069, DOI 10.17487/RFC7069, November 2013, <https://www.rfc-editor.org/info/rfc7069>.

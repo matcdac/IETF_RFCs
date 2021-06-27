@@ -1,0 +1,1 @@
+Lentini, J., Everhart, C., Ellard, D., Tewari, R., and M. Naik, "Requirements for Federated File Systems", RFC 5716, DOI 10.17487/RFC5716, January 2010, <https://www.rfc-editor.org/info/rfc5716>.

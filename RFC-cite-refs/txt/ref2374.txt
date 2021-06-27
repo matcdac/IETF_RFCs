@@ -1,0 +1,1 @@
+Hinden, R., O'Dell, M., and S. Deering, "An IPv6 Aggregatable Global Unicast Address Format", RFC 2374, DOI 10.17487/RFC2374, July 1998, <https://www.rfc-editor.org/info/rfc2374>.

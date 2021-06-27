@@ -1,0 +1,1 @@
+Graff, C., "IPv4 Option for Sender Directed Multi-Destination Delivery", RFC 1770, DOI 10.17487/RFC1770, March 1995, <https://www.rfc-editor.org/info/rfc1770>.

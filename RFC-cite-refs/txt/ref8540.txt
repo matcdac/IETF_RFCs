@@ -1,0 +1,1 @@
+Stewart, R., Tuexen, M., and M. Proshin, "Stream Control Transmission Protocol: Errata and Issues in RFC 4960", RFC 8540, DOI 10.17487/RFC8540, February 2019, <https://www.rfc-editor.org/info/rfc8540>.

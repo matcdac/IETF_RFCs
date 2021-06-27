@@ -1,0 +1,1 @@
+Hoffman, P., Levine, J., and A. Hathcock, "Vouch By Reference", RFC 5518, DOI 10.17487/RFC5518, April 2009, <https://www.rfc-editor.org/info/rfc5518>.

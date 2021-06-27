@@ -1,0 +1,1 @@
+Sun, W., Ed., and G. Zhang, Ed., "Label Switched Path (LSP) Dynamic Provisioning Performance Metrics in Generalized MPLS Networks", RFC 5814, DOI 10.17487/RFC5814, March 2010, <https://www.rfc-editor.org/info/rfc5814>.

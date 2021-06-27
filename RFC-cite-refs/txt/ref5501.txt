@@ -1,0 +1,1 @@
+Kamite, Y., Ed., Wada, Y., Serbest, Y., Morin, T., and L. Fang, "Requirements for Multicast Support in Virtual Private LAN Services", RFC 5501, DOI 10.17487/RFC5501, March 2009, <https://www.rfc-editor.org/info/rfc5501>.

@@ -1,0 +1,1 @@
+Higashiyama, M. and F. Baker, "PPP Bridging Control Protocol (BCP)", RFC 2878, DOI 10.17487/RFC2878, July 2000, <https://www.rfc-editor.org/info/rfc2878>.

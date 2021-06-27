@@ -1,0 +1,1 @@
+Austein, R., Ed., and B. Wijnen, Ed., "Structure of the IETF Administrative Support Activity (IASA)", RFC 4071, DOI 10.17487/RFC4071, April 2005, <https://www.rfc-editor.org/info/rfc4071>.

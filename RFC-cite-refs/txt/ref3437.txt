@@ -1,0 +1,1 @@
+Palter, W. and W. Townsley, "Layer-Two Tunneling Protocol Extensions for PPP Link Control Protocol Negotiation", RFC 3437, DOI 10.17487/RFC3437, December 2002, <https://www.rfc-editor.org/info/rfc3437>.

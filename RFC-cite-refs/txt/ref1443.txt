@@ -1,0 +1,1 @@
+Case, J., McCloghrie, K., Rose, M., and S. Waldbusser, "Textual Conventions for version 2 of the Simple Network Management Protocol (SNMPv2)", RFC 1443, DOI 10.17487/RFC1443, April 1993, <https://www.rfc-editor.org/info/rfc1443>.

@@ -1,0 +1,1 @@
+Song, H., Zong, N., Yang, Y., and R. Alimi, "DECoupled Application Data Enroute (DECADE) Problem Statement", RFC 6646, DOI 10.17487/RFC6646, July 2012, <https://www.rfc-editor.org/info/rfc6646>.

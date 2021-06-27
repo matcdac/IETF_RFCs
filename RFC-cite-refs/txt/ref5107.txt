@@ -1,0 +1,1 @@
+Johnson, R., Kumarasamy, J., Kinnear, K., and M. Stapp, "DHCP Server Identifier Override Suboption", RFC 5107, DOI 10.17487/RFC5107, February 2008, <https://www.rfc-editor.org/info/rfc5107>.

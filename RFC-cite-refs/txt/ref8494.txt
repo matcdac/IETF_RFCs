@@ -1,0 +1,1 @@
+Wilson, D. and A. Melnikov, Ed., "Multicast Email (MULE) over Allied Communications Publication (ACP) 142", RFC 8494, DOI 10.17487/RFC8494, November 2018, <https://www.rfc-editor.org/info/rfc8494>.

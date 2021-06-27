@@ -1,0 +1,1 @@
+Thomas, R., "Tenex load averages for July 1973", RFC 546, DOI 10.17487/RFC0546, August 1973, <https://www.rfc-editor.org/info/rfc546>.

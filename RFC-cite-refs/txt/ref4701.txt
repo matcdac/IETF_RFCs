@@ -1,0 +1,1 @@
+Stapp, M., Lemon, T., and A. Gustafsson, "A DNS Resource Record (RR) for Encoding Dynamic Host Configuration Protocol (DHCP) Information (DHCID RR)", RFC 4701, DOI 10.17487/RFC4701, October 2006, <https://www.rfc-editor.org/info/rfc4701>.

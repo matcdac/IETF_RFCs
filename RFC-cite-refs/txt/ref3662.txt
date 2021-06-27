@@ -1,0 +1,1 @@
+Bless, R., Nichols, K., and K. Wehrle, "A Lower Effort Per-Domain Behavior (PDB) for Differentiated Services", RFC 3662, DOI 10.17487/RFC3662, December 2003, <https://www.rfc-editor.org/info/rfc3662>.

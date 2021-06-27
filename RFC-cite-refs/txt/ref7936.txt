@@ -1,0 +1,1 @@
+Hardie, T., "Clarifying Registry Procedures for the WebSocket Subprotocol Name Registry", RFC 7936, DOI 10.17487/RFC7936, July 2016, <https://www.rfc-editor.org/info/rfc7936>.

@@ -1,0 +1,1 @@
+Braden, R. and L. Zhang, "Resource ReSerVation Protocol (RSVP) -- Version 1 Message Processing Rules", RFC 2209, DOI 10.17487/RFC2209, September 1997, <https://www.rfc-editor.org/info/rfc2209>.

@@ -1,0 +1,1 @@
+Kastenholz, F., "Implementation Notes and Experience for the Internet Ethernet MIB", RFC 1369, DOI 10.17487/RFC1369, October 1992, <https://www.rfc-editor.org/info/rfc1369>.

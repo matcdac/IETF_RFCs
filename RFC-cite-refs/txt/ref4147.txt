@@ -1,0 +1,1 @@
+Huston, G., "Proposed Changes to the Format of the IANA IPv6 Registry", RFC 4147, DOI 10.17487/RFC4147, August 2005, <https://www.rfc-editor.org/info/rfc4147>.

@@ -1,0 +1,1 @@
+Floyd, S. and T. Henderson, "The NewReno Modification to TCP's Fast Recovery Algorithm", RFC 2582, DOI 10.17487/RFC2582, April 1999, <https://www.rfc-editor.org/info/rfc2582>.

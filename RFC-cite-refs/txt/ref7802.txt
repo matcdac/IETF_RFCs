@@ -1,0 +1,1 @@
+Emery, S. and N. Williams, "A Pseudo-Random Function (PRF) for the Kerberos V Generic Security Service Application Program Interface (GSS-API) Mechanism", RFC 7802, DOI 10.17487/RFC7802, March 2016, <https://www.rfc-editor.org/info/rfc7802>.

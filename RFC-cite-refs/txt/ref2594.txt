@@ -1,0 +1,1 @@
+Hazewinkel, H., Kalbfleisch, C., and J. Schoenwaelder, "Definitions of Managed Objects for WWW Services", RFC 2594, DOI 10.17487/RFC2594, May 1999, <https://www.rfc-editor.org/info/rfc2594>.

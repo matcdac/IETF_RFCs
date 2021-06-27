@@ -1,0 +1,1 @@
+Kavasseri, R., Ed., "Distributed Management Expression MIB", RFC 2982, DOI 10.17487/RFC2982, October 2000, <https://www.rfc-editor.org/info/rfc2982>.

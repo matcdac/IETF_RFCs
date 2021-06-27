@@ -1,0 +1,1 @@
+Bierman, A., Bucci, C., and R. Iddon, "Remote Network Monitoring MIB Protocol Identifier Macros", RFC 2896, DOI 10.17487/RFC2896, August 2000, <https://www.rfc-editor.org/info/rfc2896>.

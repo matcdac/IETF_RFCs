@@ -1,0 +1,1 @@
+Saint-Andre, P., "The Jabber-ID Header Field", RFC 7259, DOI 10.17487/RFC7259, May 2014, <https://www.rfc-editor.org/info/rfc7259>.

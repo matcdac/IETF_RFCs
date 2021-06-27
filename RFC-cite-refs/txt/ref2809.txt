@@ -1,0 +1,1 @@
+Aboba, B. and G. Zorn, "Implementation of L2TP Compulsory Tunneling via RADIUS", RFC 2809, DOI 10.17487/RFC2809, April 2000, <https://www.rfc-editor.org/info/rfc2809>.

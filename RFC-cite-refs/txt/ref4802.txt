@@ -1,0 +1,1 @@
+Nadeau, T., Ed., and A. Farrel, Ed., "Generalized Multiprotocol Label Switching (GMPLS) Traffic Engineering Management Information Base", RFC 4802, DOI 10.17487/RFC4802, February 2007, <https://www.rfc-editor.org/info/rfc4802>.

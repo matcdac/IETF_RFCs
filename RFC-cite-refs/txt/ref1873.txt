@@ -1,0 +1,1 @@
+Levinson, E., "Message/External-Body Content-ID Access Type", RFC 1873, DOI 10.17487/RFC1873, December 1995, <https://www.rfc-editor.org/info/rfc1873>.

@@ -1,0 +1,1 @@
+Alvestrand, H., "X.400 Use of Extended Character Sets", RFC 1502, DOI 10.17487/RFC1502, August 1993, <https://www.rfc-editor.org/info/rfc1502>.

@@ -1,0 +1,1 @@
+Popp, N., Mealling, M., Masinter, L., and K. Sollins, "Context and Goals for Common Name Resolution", RFC 2972, DOI 10.17487/RFC2972, October 2000, <https://www.rfc-editor.org/info/rfc2972>.

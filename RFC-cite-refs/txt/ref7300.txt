@@ -1,0 +1,1 @@
+Haas, J. and J. Mitchell, "Reservation of Last Autonomous System (AS) Numbers", BCP 6, RFC 7300, DOI 10.17487/RFC7300, July 2014, <https://www.rfc-editor.org/info/rfc7300>.

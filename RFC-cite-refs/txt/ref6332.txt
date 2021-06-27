@@ -1,0 +1,1 @@
+Begen, A. and E. Friedrich, "Multicast Acquisition Report Block Type for RTP Control Protocol (RTCP) Extended Reports (XRs)", RFC 6332, DOI 10.17487/RFC6332, July 2011, <https://www.rfc-editor.org/info/rfc6332>.

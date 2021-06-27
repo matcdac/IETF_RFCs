@@ -1,0 +1,1 @@
+Vaughan, N. and E. Feinler, "ARPANET accounts", RFC 518, DOI 10.17487/RFC0518, June 1973, <https://www.rfc-editor.org/info/rfc518>.

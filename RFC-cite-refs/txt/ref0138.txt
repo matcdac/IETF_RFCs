@@ -1,0 +1,1 @@
+Anderson, R., Cerf, V., Harslem, E., Heafner, J., Madden, J., Metcalfe, R., Shoshani, A., White, J., and D. Wood, "Status report on proposed Data Reconfiguration Service", RFC 138, DOI 10.17487/RFC0138, April 1971, <https://www.rfc-editor.org/info/rfc138>.

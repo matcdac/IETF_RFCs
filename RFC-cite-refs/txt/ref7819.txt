@@ -1,0 +1,1 @@
+Jiang, S., Krishnan, S., and T. Mrugalski, "Privacy Considerations for DHCP", RFC 7819, DOI 10.17487/RFC7819, April 2016, <https://www.rfc-editor.org/info/rfc7819>.

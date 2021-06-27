@@ -1,0 +1,1 @@
+Thomas, R., "Change in socket for TIP news facility", RFC 470, DOI 10.17487/RFC0470, March 1973, <https://www.rfc-editor.org/info/rfc470>.

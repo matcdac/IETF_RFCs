@@ -1,0 +1,1 @@
+Krilanovich, M., "Update on SMFS Login and Logout", RFC 431, DOI 10.17487/RFC0431, December 1972, <https://www.rfc-editor.org/info/rfc431>.

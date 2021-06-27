@@ -1,0 +1,1 @@
+Foster, B., "MGCP CAS Packages", RFC 3064, DOI 10.17487/RFC3064, February 2001, <https://www.rfc-editor.org/info/rfc3064>.

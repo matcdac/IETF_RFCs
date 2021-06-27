@@ -1,0 +1,1 @@
+Fujimura, K. and D. Eastlake, "Requirements and Design for Voucher Trading System (VTS)", RFC 3506, DOI 10.17487/RFC3506, March 2003, <https://www.rfc-editor.org/info/rfc3506>.

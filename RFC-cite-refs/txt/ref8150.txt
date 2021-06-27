@@ -1,0 +1,1 @@
+Kingston Smiler, S., Venkatesan, M., King, D., Aldrin, S., and J. Ryoo, "MPLS Transport Profile Linear Protection MIB", RFC 8150, DOI 10.17487/RFC8150, April 2017, <https://www.rfc-editor.org/info/rfc8150>.

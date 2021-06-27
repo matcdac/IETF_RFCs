@@ -1,0 +1,1 @@
+Saldana, J., Ed., Arcia-Moret, A., Braem, B., Pietrosemoli, E., Sathiaseelan, A., and M. Zennaro, "Alternative Network Deployments: Taxonomy, Characterization, Technologies, and Architectures", RFC 7962, DOI 10.17487/RFC7962, August 2016, <https://www.rfc-editor.org/info/rfc7962>.

@@ -1,0 +1,1 @@
+Williams, N. and A. Melnikov, "Generic Security Service Application Program Interface (GSS-API) Internationalization and Domain-Based Service Names and Name Type", RFC 5178, DOI 10.17487/RFC5178, May 2008, <https://www.rfc-editor.org/info/rfc5178>.

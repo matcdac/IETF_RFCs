@@ -1,0 +1,1 @@
+Zweig, J. and C. Partridge, "TCP alternate checksum options", RFC 1145, DOI 10.17487/RFC1145, February 1990, <https://www.rfc-editor.org/info/rfc1145>.

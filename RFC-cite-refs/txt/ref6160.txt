@@ -1,0 +1,1 @@
+Turner, S., "Algorithms for Cryptographic Message Syntax (CMS) Protection of Symmetric Key Package Content Types", RFC 6160, DOI 10.17487/RFC6160, April 2011, <https://www.rfc-editor.org/info/rfc6160>.

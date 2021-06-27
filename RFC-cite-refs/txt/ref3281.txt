@@ -1,0 +1,1 @@
+Farrell, S. and R. Housley, "An Internet Attribute Certificate Profile for Authorization", RFC 3281, DOI 10.17487/RFC3281, April 2002, <https://www.rfc-editor.org/info/rfc3281>.

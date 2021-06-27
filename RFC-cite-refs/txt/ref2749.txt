@@ -1,0 +1,1 @@
+Herzog, S., Ed., Boyle, J., Cohen, R., Durham, D., Rajan, R., and A. Sastry, "COPS usage for RSVP", RFC 2749, DOI 10.17487/RFC2749, January 2000, <https://www.rfc-editor.org/info/rfc2749>.

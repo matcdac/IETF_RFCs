@@ -1,0 +1,1 @@
+Kumari, W. and C. Doyle, "Secure Device Install", RFC 8886, DOI 10.17487/RFC8886, September 2020, <https://www.rfc-editor.org/info/rfc8886>.

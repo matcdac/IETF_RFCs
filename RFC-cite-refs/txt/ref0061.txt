@@ -1,0 +1,1 @@
+Walden, D., "Note on Interprocess Communication in a Resource Sharing Computer Network", RFC 61, DOI 10.17487/RFC0061, July 1970, <https://www.rfc-editor.org/info/rfc61>.

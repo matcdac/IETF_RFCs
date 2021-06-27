@@ -1,0 +1,1 @@
+Martini, L., Ed., Rosen, E., Ed., and N. El-Aawar, Ed., "Encapsulation Methods for Transport of Layer 2 Frames over MPLS Networks", RFC 4905, DOI 10.17487/RFC4905, June 2007, <https://www.rfc-editor.org/info/rfc4905>.

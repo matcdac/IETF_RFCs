@@ -1,0 +1,1 @@
+Parsons, G., Rafferty, J., and S. Zilles, "Tag Image File Format (TIFF) - image/tiff MIME Sub-type Registration", RFC 2302, DOI 10.17487/RFC2302, March 1998, <https://www.rfc-editor.org/info/rfc2302>.

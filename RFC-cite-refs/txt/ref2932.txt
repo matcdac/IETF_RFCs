@@ -1,0 +1,1 @@
+McCloghrie, K., Farinacci, D., and D. Thaler, "IPv4 Multicast Routing MIB", RFC 2932, DOI 10.17487/RFC2932, October 2000, <https://www.rfc-editor.org/info/rfc2932>.

@@ -1,0 +1,1 @@
+Jones, D. and R. Woundy, "The DOCSIS (Data-Over-Cable Service Interface Specifications) Device Class DHCP (Dynamic Host Configuration Protocol) Relay Agent Information Sub-option", RFC 3256, DOI 10.17487/RFC3256, April 2002, <https://www.rfc-editor.org/info/rfc3256>.

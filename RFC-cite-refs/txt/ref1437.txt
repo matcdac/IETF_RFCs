@@ -1,0 +1,1 @@
+Borenstein, N. and M. Linimon, "The Extension of MIME Content-Types to a New Medium", RFC 1437, DOI 10.17487/RFC1437, April 1 1993, <https://www.rfc-editor.org/info/rfc1437>.

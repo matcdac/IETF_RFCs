@@ -1,0 +1,1 @@
+Postel, J., "Note to Protocol Designers and Implementers", RFC 580, DOI 10.17487/RFC0580, October 1973, <https://www.rfc-editor.org/info/rfc580>.

@@ -1,0 +1,1 @@
+Ashwood-Smith, P., Ed., and L. Berger, Ed., "Generalized Multi-Protocol Label Switching (GMPLS) Signaling Constraint-based Routed Label Distribution Protocol (CR-LDP) Extensions", RFC 3472, DOI 10.17487/RFC3472, January 2003, <https://www.rfc-editor.org/info/rfc3472>.

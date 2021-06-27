@@ -1,0 +1,1 @@
+Jones, P., "Resource Allocation, Control, and Accounting for the Use of Network Resources", RFC 1346, DOI 10.17487/RFC1346, June 1992, <https://www.rfc-editor.org/info/rfc1346>.

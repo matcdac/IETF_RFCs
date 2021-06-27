@@ -1,0 +1,1 @@
+Fox, B. and B. Petri, "NHRP Support for Virtual Private Networks", RFC 2735, DOI 10.17487/RFC2735, December 1999, <https://www.rfc-editor.org/info/rfc2735>.

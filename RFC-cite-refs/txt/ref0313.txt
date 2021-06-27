@@ -1,0 +1,1 @@
+O'Sullivan, T., "Computer based instruction", RFC 313, DOI 10.17487/RFC0313, March 1972, <https://www.rfc-editor.org/info/rfc313>.

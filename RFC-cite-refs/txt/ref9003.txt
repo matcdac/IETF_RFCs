@@ -1,0 +1,1 @@
+Snijders, J., Heitz, J., Scudder, J., and A. Azimov, "Extended BGP Administrative Shutdown Communication", RFC 9003, DOI 10.17487/RFC9003, January 2021, <https://www.rfc-editor.org/info/rfc9003>.

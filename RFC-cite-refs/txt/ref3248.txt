@@ -1,0 +1,1 @@
+Armitage, G., Carpenter, B., Casati, A., Crowcroft, J., Halpern, J., Kumar, B., and J. Schnizlein, "A Delay Bound alternative revision of RFC 2598", RFC 3248, DOI 10.17487/RFC3248, March 2002, <https://www.rfc-editor.org/info/rfc3248>.

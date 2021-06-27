@@ -1,0 +1,1 @@
+Davis, M., Phillips, A., Umaoka, Y., and C. Falk, "BCP 47 Extension T - Transformed Content", RFC 6497, DOI 10.17487/RFC6497, February 2012, <https://www.rfc-editor.org/info/rfc6497>.

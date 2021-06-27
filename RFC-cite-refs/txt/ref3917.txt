@@ -1,0 +1,1 @@
+Quittek, J., Zseby, T., Claise, B., and S. Zander, "Requirements for IP Flow Information Export (IPFIX)", RFC 3917, DOI 10.17487/RFC3917, October 2004, <https://www.rfc-editor.org/info/rfc3917>.

@@ -1,0 +1,1 @@
+Begen, A. and C. Perkins, "Duplicating RTP Streams", RFC 7198, DOI 10.17487/RFC7198, April 2014, <https://www.rfc-editor.org/info/rfc7198>.

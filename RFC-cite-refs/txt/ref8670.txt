@@ -1,0 +1,1 @@
+Filsfils, C., Ed., Previdi, S., Dawra, G., Aries, E., and P. Lapukhov, "BGP Prefix Segment in Large-Scale Data Centers", RFC 8670, DOI 10.17487/RFC8670, December 2019, <https://www.rfc-editor.org/info/rfc8670>.

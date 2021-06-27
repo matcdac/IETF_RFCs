@@ -1,0 +1,1 @@
+Moats, R., "URN Syntax", RFC 2141, DOI 10.17487/RFC2141, May 1997, <https://www.rfc-editor.org/info/rfc2141>.

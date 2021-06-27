@@ -1,0 +1,1 @@
+Zhang, K. and E. Elkin, "XACCT's Common Reliable Accounting for Network Element (CRANE) Protocol Specification Version 1.0", RFC 3423, DOI 10.17487/RFC3423, November 2002, <https://www.rfc-editor.org/info/rfc3423>.

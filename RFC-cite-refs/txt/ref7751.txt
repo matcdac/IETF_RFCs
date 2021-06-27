@@ -1,0 +1,1 @@
+Sorce, S. and T. Yu, "Kerberos Authorization Data Container Authenticated by Multiple Message Authentication Codes (MACs)", RFC 7751, DOI 10.17487/RFC7751, March 2016, <https://www.rfc-editor.org/info/rfc7751>.

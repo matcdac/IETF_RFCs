@@ -1,0 +1,1 @@
+Levine, J. and M. Delany, "A "Null MX" No Service Resource Record for Domains That Accept No Mail", RFC 7505, DOI 10.17487/RFC7505, June 2015, <https://www.rfc-editor.org/info/rfc7505>.

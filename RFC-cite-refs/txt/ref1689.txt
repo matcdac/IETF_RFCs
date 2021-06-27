@@ -1,0 +1,1 @@
+Foster, J., Ed., "A Status Report on Networked Information Retrieval: Tools and Groups", FYI 25, RFC 1689, DOI 10.17487/RFC1689, August 1994, <https://www.rfc-editor.org/info/rfc1689>.

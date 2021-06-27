@@ -1,0 +1,1 @@
+Barker, P. and S. Kille, "The COSINE and Internet X.500 Schema", RFC 1274, DOI 10.17487/RFC1274, November 1991, <https://www.rfc-editor.org/info/rfc1274>.

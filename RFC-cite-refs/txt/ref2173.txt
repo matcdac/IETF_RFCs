@@ -1,0 +1,1 @@
+Murakami, K. and M. Maruyama, "A MAPOS version 1 Extension - Node Switch Protocol", RFC 2173, DOI 10.17487/RFC2173, June 1997, <https://www.rfc-editor.org/info/rfc2173>.

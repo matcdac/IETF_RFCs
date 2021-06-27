@@ -1,0 +1,1 @@
+Ouazana, R., Ed., "Handling Message Disposition Notification with the JSON Meta Application Protocol (JMAP)", RFC 9007, DOI 10.17487/RFC9007, March 2021, <https://www.rfc-editor.org/info/rfc9007>.

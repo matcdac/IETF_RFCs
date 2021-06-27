@@ -1,0 +1,1 @@
+Crowcroft, J. and J. Onions, "Network Time Protocol (NTP) over the OSI Remote Operations Service", RFC 1165, DOI 10.17487/RFC1165, June 1990, <https://www.rfc-editor.org/info/rfc1165>.

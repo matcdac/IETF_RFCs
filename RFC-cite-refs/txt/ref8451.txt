@@ -1,0 +1,1 @@
+Singh, V., Huang, R., Even, R., Romascanu, D., and L. Deng, "Considerations for Selecting RTP Control Protocol (RTCP) Extended Report (XR) Metrics for the WebRTC Statistics API", RFC 8451, DOI 10.17487/RFC8451, September 2018, <https://www.rfc-editor.org/info/rfc8451>.

@@ -1,0 +1,1 @@
+Vixie, P. and D. Wessels, "Hyper Text Caching Protocol (HTCP/0.0)", RFC 2756, DOI 10.17487/RFC2756, January 2000, <https://www.rfc-editor.org/info/rfc2756>.

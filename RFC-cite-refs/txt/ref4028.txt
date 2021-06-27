@@ -1,0 +1,1 @@
+Donovan, S. and J. Rosenberg, "Session Timers in the Session Initiation Protocol (SIP)", RFC 4028, DOI 10.17487/RFC4028, April 2005, <https://www.rfc-editor.org/info/rfc4028>.

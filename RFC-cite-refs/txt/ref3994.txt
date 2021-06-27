@@ -1,0 +1,1 @@
+Schulzrinne, H., "Indication of Message Composition for Instant Messaging", RFC 3994, DOI 10.17487/RFC3994, January 2005, <https://www.rfc-editor.org/info/rfc3994>.

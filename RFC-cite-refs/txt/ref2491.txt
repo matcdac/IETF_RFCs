@@ -1,0 +1,1 @@
+Armitage, G., Schulter, P., Jork, M., and G. Harter, "IPv6 over Non-Broadcast Multiple Access (NBMA) networks", RFC 2491, DOI 10.17487/RFC2491, January 1999, <https://www.rfc-editor.org/info/rfc2491>.

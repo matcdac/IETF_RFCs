@@ -1,0 +1,1 @@
+Hoehrmann, B., "Scripting Media Types", RFC 4329, DOI 10.17487/RFC4329, April 2006, <https://www.rfc-editor.org/info/rfc4329>.

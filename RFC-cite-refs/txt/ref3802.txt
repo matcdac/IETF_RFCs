@@ -1,0 +1,1 @@
+Vaudreuil, G. and G. Parsons, "Toll Quality Voice - 32 kbit/s Adaptive Differential Pulse Code Modulation (ADPCM) MIME Sub-type Registration", RFC 3802, DOI 10.17487/RFC3802, June 2004, <https://www.rfc-editor.org/info/rfc3802>.

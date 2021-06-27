@@ -1,0 +1,1 @@
+Spinellis, D., "Greek Character Encoding for Electronic Mail Messages", RFC 1947, DOI 10.17487/RFC1947, May 1996, <https://www.rfc-editor.org/info/rfc1947>.

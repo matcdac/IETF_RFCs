@@ -1,0 +1,1 @@
+Floyd, S., Henderson, T., and A. Gurtov, "The NewReno Modification to TCP's Fast Recovery Algorithm", RFC 3782, DOI 10.17487/RFC3782, April 2004, <https://www.rfc-editor.org/info/rfc3782>.

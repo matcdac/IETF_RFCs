@@ -1,0 +1,1 @@
+Li, H., Martini, L., He, J., and F. Huang, "Using the Generic Associated Channel Label for Pseudowire in the MPLS Transport Profile (MPLS-TP)", RFC 6423, DOI 10.17487/RFC6423, November 2011, <https://www.rfc-editor.org/info/rfc6423>.

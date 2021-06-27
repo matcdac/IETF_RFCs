@@ -1,0 +1,1 @@
+Wasserman, M., Ed., "Recommendations for IPv6 in Third Generation Partnership Project (3GPP) Standards", RFC 3314, DOI 10.17487/RFC3314, September 2002, <https://www.rfc-editor.org/info/rfc3314>.

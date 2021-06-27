@@ -1,0 +1,1 @@
+Burchfiel, J., Cosell, B., Tomlinson, R., and D. Walden, "TIP/Tenex reliability improvements", RFC 636, DOI 10.17487/RFC0636, June 1974, <https://www.rfc-editor.org/info/rfc636>.

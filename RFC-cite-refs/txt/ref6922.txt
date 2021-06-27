@@ -1,0 +1,1 @@
+Shafranovich, Y., "The application/sql Media Type", RFC 6922, DOI 10.17487/RFC6922, April 2013, <https://www.rfc-editor.org/info/rfc6922>.

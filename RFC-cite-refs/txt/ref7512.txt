@@ -1,0 +1,1 @@
+Pechanec, J. and D. Moffat, "The PKCS #11 URI Scheme", RFC 7512, DOI 10.17487/RFC7512, April 2015, <https://www.rfc-editor.org/info/rfc7512>.

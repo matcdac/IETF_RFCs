@@ -1,0 +1,1 @@
+Lennox, J. and H. Schulzrinne, "Call Processing Language Framework and Requirements", RFC 2824, DOI 10.17487/RFC2824, May 2000, <https://www.rfc-editor.org/info/rfc2824>.

@@ -1,0 +1,1 @@
+Leymann, N., Heidemann, C., Zhang, M., Sarikaya, B., and M. Cullen, "Huawei's GRE Tunnel Bonding Protocol", RFC 8157, DOI 10.17487/RFC8157, May 2017, <https://www.rfc-editor.org/info/rfc8157>.

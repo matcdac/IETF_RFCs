@@ -1,0 +1,1 @@
+Deering, S., "Host extensions for IP multicasting", RFC 988, DOI 10.17487/RFC0988, July 1986, <https://www.rfc-editor.org/info/rfc988>.

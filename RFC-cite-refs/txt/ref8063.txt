@@ -1,0 +1,1 @@
+Ribbers, H., Groeneweg, M., Gieben, R., and A. Verschuren, "Key Relay Mapping for the Extensible Provisioning Protocol", RFC 8063, DOI 10.17487/RFC8063, February 2017, <https://www.rfc-editor.org/info/rfc8063>.

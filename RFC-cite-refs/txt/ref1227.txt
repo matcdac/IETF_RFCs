@@ -1,0 +1,1 @@
+Rose, M., "SNMP MUX protocol and MIB", RFC 1227, DOI 10.17487/RFC1227, May 1991, <https://www.rfc-editor.org/info/rfc1227>.

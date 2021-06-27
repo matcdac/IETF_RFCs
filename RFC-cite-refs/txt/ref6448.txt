@@ -1,0 +1,1 @@
+Yount, R., "The Unencrypted Form of Kerberos 5 KRB-CRED Message", RFC 6448, DOI 10.17487/RFC6448, November 2011, <https://www.rfc-editor.org/info/rfc6448>.

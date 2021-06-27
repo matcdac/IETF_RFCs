@@ -1,0 +1,1 @@
+Karels, M., "Another Internet subnet addressing scheme", RFC 936, DOI 10.17487/RFC0936, February 1985, <https://www.rfc-editor.org/info/rfc936>.

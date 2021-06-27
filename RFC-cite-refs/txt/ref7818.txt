@@ -1,0 +1,1 @@
+Jethanandani, M., "URN Namespace for MEF Documents", RFC 7818, DOI 10.17487/RFC7818, March 2016, <https://www.rfc-editor.org/info/rfc7818>.

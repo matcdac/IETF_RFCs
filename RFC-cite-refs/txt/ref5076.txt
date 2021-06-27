@@ -1,0 +1,1 @@
+Hoeneisen, B., "ENUM Validation Information Mapping for the Extensible Provisioning Protocol", RFC 5076, DOI 10.17487/RFC5076, December 2007, <https://www.rfc-editor.org/info/rfc5076>.

@@ -1,0 +1,1 @@
+Smyslov, V., "Simple Cryptographic Program Interface (Crypto API)", RFC 2628, DOI 10.17487/RFC2628, June 1999, <https://www.rfc-editor.org/info/rfc2628>.

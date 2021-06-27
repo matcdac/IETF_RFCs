@@ -1,0 +1,1 @@
+Eastlake 3rd, D. and T. Goldstein, "ECML v1.1: Field Specifications for E-Commerce", RFC 3106, DOI 10.17487/RFC3106, April 2001, <https://www.rfc-editor.org/info/rfc3106>.

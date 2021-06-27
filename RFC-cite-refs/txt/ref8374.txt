@@ -1,0 +1,1 @@
+Sriram, K., Ed., "BGPsec Design Choices and Summary of Supporting Discussions", RFC 8374, DOI 10.17487/RFC8374, April 2018, <https://www.rfc-editor.org/info/rfc8374>.

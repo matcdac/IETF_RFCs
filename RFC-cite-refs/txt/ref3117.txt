@@ -1,0 +1,1 @@
+Rose, M., "On the Design of Application Protocols", RFC 3117, DOI 10.17487/RFC3117, November 2001, <https://www.rfc-editor.org/info/rfc3117>.

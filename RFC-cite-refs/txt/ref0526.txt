@@ -1,0 +1,1 @@
+Pratt, W., "Technical meeting: Digital image processing software systems", RFC 526, DOI 10.17487/RFC0526, June 1973, <https://www.rfc-editor.org/info/rfc526>.

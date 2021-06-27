@@ -1,0 +1,1 @@
+Nishioka, I. and D. King, "Use of the Synchronization VECtor (SVEC) List for Synchronized Dependent Path Computations", RFC 6007, DOI 10.17487/RFC6007, September 2010, <https://www.rfc-editor.org/info/rfc6007>.

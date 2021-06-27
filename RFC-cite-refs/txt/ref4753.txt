@@ -1,0 +1,1 @@
+Fu, D. and J. Solinas, "ECP Groups For IKE and IKEv2", RFC 4753, DOI 10.17487/RFC4753, January 2007, <https://www.rfc-editor.org/info/rfc4753>.

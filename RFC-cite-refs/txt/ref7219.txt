@@ -1,0 +1,1 @@
+Bagnulo, M. and A. Garcia-Martinez, "SEcure Neighbor Discovery (SEND) Source Address Validation Improvement (SAVI)", RFC 7219, DOI 10.17487/RFC7219, May 2014, <https://www.rfc-editor.org/info/rfc7219>.

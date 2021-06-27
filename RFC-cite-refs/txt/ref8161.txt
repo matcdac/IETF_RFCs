@@ -1,0 +1,1 @@
+Cerveny, W., Bonica, R., and R. Thomas, "Benchmarking the Neighbor Discovery Protocol", RFC 8161, DOI 10.17487/RFC8161, May 2017, <https://www.rfc-editor.org/info/rfc8161>.

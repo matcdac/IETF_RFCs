@@ -1,0 +1,1 @@
+Postel, J., "Telnet Protocol specification", RFC 764, DOI 10.17487/RFC0764, June 1980, <https://www.rfc-editor.org/info/rfc764>.

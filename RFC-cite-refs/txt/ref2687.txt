@@ -1,0 +1,1 @@
+Bormann, C., "PPP in a Real-time Oriented HDLC-like Framing", RFC 2687, DOI 10.17487/RFC2687, September 1999, <https://www.rfc-editor.org/info/rfc2687>.

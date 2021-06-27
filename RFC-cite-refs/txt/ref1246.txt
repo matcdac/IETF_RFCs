@@ -1,0 +1,1 @@
+Moy, J., "Experience with the OSPF Protocol", RFC 1246, DOI 10.17487/RFC1246, July 1991, <https://www.rfc-editor.org/info/rfc1246>.

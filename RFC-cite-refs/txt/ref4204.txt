@@ -1,0 +1,1 @@
+Lang, J., Ed., "Link Management Protocol (LMP)", RFC 4204, DOI 10.17487/RFC4204, October 2005, <https://www.rfc-editor.org/info/rfc4204>.

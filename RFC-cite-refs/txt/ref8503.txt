@@ -1,0 +1,1 @@
+Tsunoda, H., "BGP/MPLS Layer 3 VPN Multicast Management Information Base", RFC 8503, DOI 10.17487/RFC8503, December 2018, <https://www.rfc-editor.org/info/rfc8503>.

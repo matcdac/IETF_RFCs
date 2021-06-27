@@ -1,0 +1,1 @@
+Wilde, E., "The 'describes' Link Relation Type", RFC 6892, DOI 10.17487/RFC6892, March 2013, <https://www.rfc-editor.org/info/rfc6892>.

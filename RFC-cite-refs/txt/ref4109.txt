@@ -1,0 +1,1 @@
+Hoffman, P., "Algorithms for Internet Key Exchange version 1 (IKEv1)", RFC 4109, DOI 10.17487/RFC4109, May 2005, <https://www.rfc-editor.org/info/rfc4109>.

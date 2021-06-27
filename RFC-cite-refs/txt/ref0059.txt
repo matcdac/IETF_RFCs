@@ -1,0 +1,1 @@
+Meyer, E., "Flow Control - Fixed Versus Demand Allocation", RFC 59, DOI 10.17487/RFC0059, June 1970, <https://www.rfc-editor.org/info/rfc59>.

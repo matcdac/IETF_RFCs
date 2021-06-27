@@ -1,0 +1,1 @@
+Xu, M., Cui, Y., Wu, J., Yang, S., and C. Metz, "IPv4 Multicast over an IPv6 Multicast in Softwire Mesh Networks", RFC 8638, DOI 10.17487/RFC8638, September 2019, <https://www.rfc-editor.org/info/rfc8638>.

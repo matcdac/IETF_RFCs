@@ -1,0 +1,1 @@
+Templin, F., Ed., "Transmission of IPv4 Packets over Intra-Site Automatic Tunnel Addressing Protocol (ISATAP) Interfaces", RFC 5579, DOI 10.17487/RFC5579, February 2010, <https://www.rfc-editor.org/info/rfc5579>.

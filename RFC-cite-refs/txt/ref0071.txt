@@ -1,0 +1,1 @@
+Schipper, T., "Reallocation in Case of Input Error", RFC 71, DOI 10.17487/RFC0071, September 1970, <https://www.rfc-editor.org/info/rfc71>.

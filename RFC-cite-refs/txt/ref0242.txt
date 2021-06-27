@@ -1,0 +1,1 @@
+Haibt, L. and A. Mullery, "Data Descriptive Language for Shared Data", RFC 242, DOI 10.17487/RFC0242, July 1971, <https://www.rfc-editor.org/info/rfc242>.

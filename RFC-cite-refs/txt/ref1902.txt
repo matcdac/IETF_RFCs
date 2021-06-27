@@ -1,0 +1,1 @@
+Case, J., McCloghrie, K., Rose, M., and S. Waldbusser, "Structure of Management Information for Version 2 of the Simple Network Management Protocol (SNMPv2)", RFC 1902, DOI 10.17487/RFC1902, January 1996, <https://www.rfc-editor.org/info/rfc1902>.

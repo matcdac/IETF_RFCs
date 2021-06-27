@@ -1,0 +1,1 @@
+Dondeti, L., Ed., Castleford, D., and F. Hartung, "Multimedia Internet KEYing (MIKEY) General Extension Payload for Open Mobile Alliance BCAST LTKM/STKM Transport", RFC 4909, DOI 10.17487/RFC4909, June 2007, <https://www.rfc-editor.org/info/rfc4909>.

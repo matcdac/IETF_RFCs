@@ -1,0 +1,1 @@
+Hathaway, W., "More on lost message detection", RFC 512, DOI 10.17487/RFC0512, May 1973, <https://www.rfc-editor.org/info/rfc512>.

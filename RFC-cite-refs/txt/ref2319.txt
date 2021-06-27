@@ -1,0 +1,1 @@
+KOI8-U Working Group, "Ukrainian Character Set KOI8-U", RFC 2319, DOI 10.17487/RFC2319, April 1998, <https://www.rfc-editor.org/info/rfc2319>.

@@ -1,0 +1,1 @@
+Isomaki, M. and E. Leppanen, "An Extensible Markup Language (XML) Configuration Access Protocol (XCAP) Usage for Manipulating Presence Document Contents", RFC 4827, DOI 10.17487/RFC4827, May 2007, <https://www.rfc-editor.org/info/rfc4827>.

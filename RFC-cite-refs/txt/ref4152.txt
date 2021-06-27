@@ -1,0 +1,1 @@
+Tesink, K. and R. Fox, "A Uniform Resource Name (URN) Namespace for the Common Language Equipment Identifier (CLEI) Code", RFC 4152, DOI 10.17487/RFC4152, August 2005, <https://www.rfc-editor.org/info/rfc4152>.

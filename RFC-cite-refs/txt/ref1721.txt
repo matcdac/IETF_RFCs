@@ -1,0 +1,1 @@
+Malkin, G., "RIP Version 2 Protocol Analysis", RFC 1721, DOI 10.17487/RFC1721, November 1994, <https://www.rfc-editor.org/info/rfc1721>.

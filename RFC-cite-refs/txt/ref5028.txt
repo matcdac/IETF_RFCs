@@ -1,0 +1,1 @@
+Mahy, R., "A Telephone Number Mapping (ENUM) Service Registration for Instant Messaging (IM) Services", RFC 5028, DOI 10.17487/RFC5028, October 2007, <https://www.rfc-editor.org/info/rfc5028>.

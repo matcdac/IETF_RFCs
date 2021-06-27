@@ -1,0 +1,1 @@
+The North American Directory Forum, "A Naming Scheme for c=US", RFC 1255, DOI 10.17487/RFC1255, September 1991, <https://www.rfc-editor.org/info/rfc1255>.

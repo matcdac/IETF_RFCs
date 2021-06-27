@@ -1,0 +1,1 @@
+Burgin, K. and M. Peck, "Suite B Profile for Internet Protocol Security (IPsec)", RFC 6380, DOI 10.17487/RFC6380, October 2011, <https://www.rfc-editor.org/info/rfc6380>.

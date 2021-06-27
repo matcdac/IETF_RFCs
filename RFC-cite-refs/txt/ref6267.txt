@@ -1,0 +1,1 @@
+Cakulev, V. and G. Sundaram, "MIKEY-IBAKE: Identity-Based Authenticated Key Exchange (IBAKE) Mode of Key Distribution in Multimedia Internet KEYing (MIKEY)", RFC 6267, DOI 10.17487/RFC6267, June 2011, <https://www.rfc-editor.org/info/rfc6267>.

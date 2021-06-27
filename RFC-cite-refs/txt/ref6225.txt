@@ -1,0 +1,1 @@
+Polk, J., Linsner, M., Thomson, M., and B. Aboba, Ed., "Dynamic Host Configuration Protocol Options for Coordinate-Based Location Configuration Information", RFC 6225, DOI 10.17487/RFC6225, July 2011, <https://www.rfc-editor.org/info/rfc6225>.

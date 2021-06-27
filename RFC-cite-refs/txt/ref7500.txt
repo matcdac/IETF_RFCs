@@ -1,0 +1,1 @@
+Housley, R., Ed., and O. Kolkman, Ed., "Principles for Operation of Internet Assigned Numbers Authority (IANA) Registries", RFC 7500, DOI 10.17487/RFC7500, April 2015, <https://www.rfc-editor.org/info/rfc7500>.

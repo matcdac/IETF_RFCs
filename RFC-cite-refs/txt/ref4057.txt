@@ -1,0 +1,1 @@
+Bound, J., Ed., "IPv6 Enterprise Network Scenarios", RFC 4057, DOI 10.17487/RFC4057, June 2005, <https://www.rfc-editor.org/info/rfc4057>.

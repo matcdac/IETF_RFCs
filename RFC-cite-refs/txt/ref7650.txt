@@ -1,0 +1,1 @@
+Jimenez, J., Lopez-Vega, J., Maenpaa, J., and G. Camarillo, "A Constrained Application Protocol (CoAP) Usage for REsource LOcation And Discovery (RELOAD)", RFC 7650, DOI 10.17487/RFC7650, September 2015, <https://www.rfc-editor.org/info/rfc7650>.

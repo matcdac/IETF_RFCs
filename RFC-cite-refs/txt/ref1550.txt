@@ -1,0 +1,1 @@
+Bradner, S. and A. Mankin, "IP: Next Generation (IPng) White Paper Solicitation", RFC 1550, DOI 10.17487/RFC1550, December 1993, <https://www.rfc-editor.org/info/rfc1550>.

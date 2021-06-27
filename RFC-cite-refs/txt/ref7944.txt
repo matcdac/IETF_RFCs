@@ -1,0 +1,1 @@
+Donovan, S., "Diameter Routing Message Priority", RFC 7944, DOI 10.17487/RFC7944, August 2016, <https://www.rfc-editor.org/info/rfc7944>.

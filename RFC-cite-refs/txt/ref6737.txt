@@ -1,0 +1,1 @@
+Jiao, K. and G. Zorn, "The Diameter Capabilities Update Application", RFC 6737, DOI 10.17487/RFC6737, October 2012, <https://www.rfc-editor.org/info/rfc6737>.

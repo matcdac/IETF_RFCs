@@ -1,0 +1,1 @@
+Gulbrandsen, A. and P. Vixie, "A DNS RR for specifying the location of services (DNS SRV)", RFC 2052, DOI 10.17487/RFC2052, October 1996, <https://www.rfc-editor.org/info/rfc2052>.

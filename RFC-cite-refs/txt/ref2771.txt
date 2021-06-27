@@ -1,0 +1,1 @@
+Finlayson, R., "An Abstract API for Multicast Address Allocation", RFC 2771, DOI 10.17487/RFC2771, February 2000, <https://www.rfc-editor.org/info/rfc2771>.

@@ -1,0 +1,1 @@
+Chapin, L., "The Internet Standards Process", RFC 1310, DOI 10.17487/RFC1310, March 1992, <https://www.rfc-editor.org/info/rfc1310>.

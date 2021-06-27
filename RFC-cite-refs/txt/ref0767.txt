@@ -1,0 +1,1 @@
+Postel, J., "Structured format for transmission of multi-media documents", RFC 767, DOI 10.17487/RFC0767, August 1980, <https://www.rfc-editor.org/info/rfc767>.

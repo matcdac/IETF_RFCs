@@ -1,0 +1,1 @@
+Throop, D. and F. Baker, "SNMP MIB Extension for X.25 LAPB", RFC 1381, DOI 10.17487/RFC1381, November 1992, <https://www.rfc-editor.org/info/rfc1381>.

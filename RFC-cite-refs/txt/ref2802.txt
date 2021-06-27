@@ -1,0 +1,1 @@
+Davidson, K. and Y. Kawatsura, "Digital Signatures for the v1.0 Internet Open Trading Protocol (IOTP)", RFC 2802, DOI 10.17487/RFC2802, April 2000, <https://www.rfc-editor.org/info/rfc2802>.

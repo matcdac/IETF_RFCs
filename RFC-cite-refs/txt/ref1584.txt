@@ -1,0 +1,1 @@
+Moy, J., "Multicast Extensions to OSPF", RFC 1584, DOI 10.17487/RFC1584, March 1994, <https://www.rfc-editor.org/info/rfc1584>.

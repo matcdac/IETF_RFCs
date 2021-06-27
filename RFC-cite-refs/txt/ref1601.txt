@@ -1,0 +1,1 @@
+Huitema, C., "Charter of the Internet Architecture Board (IAB)", RFC 1601, DOI 10.17487/RFC1601, March 1994, <https://www.rfc-editor.org/info/rfc1601>.

@@ -1,0 +1,1 @@
+Bates, T., Gerich, E., Joncheray, L., Jouanigot, J-M., Karrenberg, D., Terpstra, M., and J. Yu, "Representation of IP Routing Policies in a Routing Registry (ripe-81++)", RFC 1786, DOI 10.17487/RFC1786, March 1995, <https://www.rfc-editor.org/info/rfc1786>.

@@ -1,0 +1,1 @@
+Williams, N., Johansson, L., Hartman, S., and S. Josefsson, "Generic Security Service Application Programming Interface (GSS-API) Naming Extensions", RFC 6680, DOI 10.17487/RFC6680, August 2012, <https://www.rfc-editor.org/info/rfc6680>.

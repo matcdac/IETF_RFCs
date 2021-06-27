@@ -1,0 +1,1 @@
+Scott, M. and M. Bjorklund, "YANG Module for NETCONF Monitoring", RFC 6022, DOI 10.17487/RFC6022, October 2010, <https://www.rfc-editor.org/info/rfc6022>.

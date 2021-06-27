@@ -1,0 +1,1 @@
+Zhao, W., Schulzrinne, H., Guttman, E., Bisdikian, C., and W. Jerome, "Select and Sort Extensions for the Service Location Protocol (SLP)", RFC 3421, DOI 10.17487/RFC3421, November 2002, <https://www.rfc-editor.org/info/rfc3421>.

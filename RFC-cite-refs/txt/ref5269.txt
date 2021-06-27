@@ -1,0 +1,1 @@
+Kempf, J. and R. Koodli, "Distributing a Symmetric Fast Mobile IPv6 (FMIPv6) Handover Key Using SEcure Neighbor Discovery (SEND)", RFC 5269, DOI 10.17487/RFC5269, June 2008, <https://www.rfc-editor.org/info/rfc5269>.

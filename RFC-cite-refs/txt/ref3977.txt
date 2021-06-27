@@ -1,0 +1,1 @@
+Feather, C., "Network News Transfer Protocol (NNTP)", RFC 3977, DOI 10.17487/RFC3977, October 2006, <https://www.rfc-editor.org/info/rfc3977>.

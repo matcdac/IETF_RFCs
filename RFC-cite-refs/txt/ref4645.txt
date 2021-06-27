@@ -1,0 +1,1 @@
+Ewell, D., "Initial Language Subtag Registry", RFC 4645, DOI 10.17487/RFC4645, September 2006, <https://www.rfc-editor.org/info/rfc4645>.

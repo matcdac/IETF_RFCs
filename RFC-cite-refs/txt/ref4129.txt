@@ -1,0 +1,1 @@
+Mukundan, R., Morneault, K., and N. Mangalpally, "Digital Private Network Signaling System (DPNSS)/Digital Access Signaling System 2 (DASS 2) Extensions to the IUA Protocol", RFC 4129, DOI 10.17487/RFC4129, September 2005, <https://www.rfc-editor.org/info/rfc4129>.

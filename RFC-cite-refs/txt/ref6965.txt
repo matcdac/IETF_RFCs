@@ -1,0 +1,1 @@
+Fang, L., Ed., Bitar, N., Zhang, R., Daikoku, M., and P. Pan, "MPLS Transport Profile (MPLS-TP) Applicability: Use Cases and Design", RFC 6965, DOI 10.17487/RFC6965, August 2013, <https://www.rfc-editor.org/info/rfc6965>.

@@ -1,0 +1,1 @@
+Haller, N. and R. Atkinson, "On Internet Authentication", RFC 1704, DOI 10.17487/RFC1704, October 1994, <https://www.rfc-editor.org/info/rfc1704>.

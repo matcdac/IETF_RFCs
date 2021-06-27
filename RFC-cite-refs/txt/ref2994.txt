@@ -1,0 +1,1 @@
+Ohta, H. and M. Matsui, "A Description of the MISTY1 Encryption Algorithm", RFC 2994, DOI 10.17487/RFC2994, November 2000, <https://www.rfc-editor.org/info/rfc2994>.

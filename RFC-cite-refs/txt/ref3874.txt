@@ -1,0 +1,1 @@
+Housley, R., "A 224-bit One-way Hash Function: SHA-224", RFC 3874, DOI 10.17487/RFC3874, September 2004, <https://www.rfc-editor.org/info/rfc3874>.

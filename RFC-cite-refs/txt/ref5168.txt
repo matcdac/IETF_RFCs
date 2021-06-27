@@ -1,0 +1,1 @@
+Levin, O., Even, R., and P. Hagendorf, "XML Schema for Media Control", RFC 5168, DOI 10.17487/RFC5168, March 2008, <https://www.rfc-editor.org/info/rfc5168>.

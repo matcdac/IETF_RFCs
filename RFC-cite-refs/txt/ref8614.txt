@@ -1,0 +1,1 @@
+Singh, R., Kompella, K., and S. Palislamovic, "Updated Processing of Control Flags for BGP Virtual Private LAN Service (VPLS)", RFC 8614, DOI 10.17487/RFC8614, June 2019, <https://www.rfc-editor.org/info/rfc8614>.

@@ -1,0 +1,1 @@
+Foster, B., Auerbach, D., and F. Andreasen, "The Media Gateway Control Protocol (MGCP) Bulk Audit Package", RFC 3624, DOI 10.17487/RFC3624, November 2003, <https://www.rfc-editor.org/info/rfc3624>.

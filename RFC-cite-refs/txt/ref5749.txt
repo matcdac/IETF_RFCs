@@ -1,0 +1,1 @@
+Hoeper, K., Ed., Nakhjiri, M., and Y. Ohba, Ed., "Distribution of EAP-Based Keys for Handover and Re-Authentication", RFC 5749, DOI 10.17487/RFC5749, March 2010, <https://www.rfc-editor.org/info/rfc5749>.

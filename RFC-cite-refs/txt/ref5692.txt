@@ -1,0 +1,1 @@
+Jeon, H., Jeong, S., and M. Riegel, "Transmission of IP over Ethernet over IEEE 802.16 Networks", RFC 5692, DOI 10.17487/RFC5692, October 2009, <https://www.rfc-editor.org/info/rfc5692>.

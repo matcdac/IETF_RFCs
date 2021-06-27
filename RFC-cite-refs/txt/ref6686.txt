@@ -1,0 +1,1 @@
+Kucherawy, M., "Resolution of the Sender Policy Framework (SPF) and Sender ID Experiments", RFC 6686, DOI 10.17487/RFC6686, July 2012, <https://www.rfc-editor.org/info/rfc6686>.

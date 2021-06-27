@@ -1,0 +1,1 @@
+Li, Y., Eastlake 3rd, D., Kreeger, L., Narten, T., and D. Black, "Split Network Virtualization Edge (Split-NVE) Control-Plane Requirements", RFC 8394, DOI 10.17487/RFC8394, May 2018, <https://www.rfc-editor.org/info/rfc8394>.

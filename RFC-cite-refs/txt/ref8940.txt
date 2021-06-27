@@ -1,0 +1,1 @@
+DeKok, A., "Extensible Authentication Protocol (EAP) Session-Id Derivation for EAP Subscriber Identity Module (EAP-SIM), EAP Authentication and Key Agreement (EAP-AKA), and Protected EAP (PEAP)", RFC 8940, DOI 10.17487/RFC8940, October 2020, <https://www.rfc-editor.org/info/rfc8940>.

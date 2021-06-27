@@ -1,0 +1,1 @@
+Zimmerman, D., "Finger User Information Protocol", RFC 1194, DOI 10.17487/RFC1194, November 1990, <https://www.rfc-editor.org/info/rfc1194>.

@@ -1,0 +1,1 @@
+Montenegro, G. and M. Borella, "RSIP Support for End-to-end IPsec", RFC 3104, DOI 10.17487/RFC3104, October 2001, <https://www.rfc-editor.org/info/rfc3104>.

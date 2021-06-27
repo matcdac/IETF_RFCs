@@ -1,0 +1,1 @@
+Danisch, H., "The Exponential Security System TESS: An Identity-Based Cryptographic Protocol for Authenticated Key-Exchange (E.I.S.S.-Report 1995/4)", RFC 1824, DOI 10.17487/RFC1824, August 1995, <https://www.rfc-editor.org/info/rfc1824>.

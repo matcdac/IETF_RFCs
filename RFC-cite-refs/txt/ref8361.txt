@@ -1,0 +1,1 @@
+Hao, W., Li, Y., Durrani, M., Gupta, S., and A. Qu, "Transparent Interconnection of Lots of Links (TRILL): Centralized Replication for Active-Active Broadcast, Unknown Unicast, and Multicast (BUM) Traffic", RFC 8361, DOI 10.17487/RFC8361, April 2018, <https://www.rfc-editor.org/info/rfc8361>.

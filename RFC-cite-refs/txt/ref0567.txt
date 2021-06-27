@@ -1,0 +1,1 @@
+Deutsch, L., "Cross Country Network Bandwidth", RFC 567, DOI 10.17487/RFC0567, September 1973, <https://www.rfc-editor.org/info/rfc567>.

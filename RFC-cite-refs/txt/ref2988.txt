@@ -1,0 +1,1 @@
+Paxson, V. and M. Allman, "Computing TCP's Retransmission Timer", RFC 2988, DOI 10.17487/RFC2988, November 2000, <https://www.rfc-editor.org/info/rfc2988>.

@@ -1,0 +1,1 @@
+Allan, D., Ed., Tantsura, J., Fedyk, D., and A. Sajassi, "Support for Shortest Path Bridging MAC Mode over Ethernet VPN (EVPN)", RFC 7734, DOI 10.17487/RFC7734, January 2016, <https://www.rfc-editor.org/info/rfc7734>.

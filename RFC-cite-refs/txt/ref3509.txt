@@ -1,0 +1,1 @@
+Zinin, A., Lindem, A., and D. Yeung, "Alternative Implementations of OSPF Area Border Routers", RFC 3509, DOI 10.17487/RFC3509, April 2003, <https://www.rfc-editor.org/info/rfc3509>.

@@ -1,0 +1,1 @@
+New, D. and M. Rose, "Reliable Delivery for syslog", RFC 3195, DOI 10.17487/RFC3195, November 2001, <https://www.rfc-editor.org/info/rfc3195>.

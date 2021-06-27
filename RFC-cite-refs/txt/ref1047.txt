@@ -1,0 +1,1 @@
+Partridge, C., "Duplicate messages and SMTP", RFC 1047, DOI 10.17487/RFC1047, February 1988, <https://www.rfc-editor.org/info/rfc1047>.

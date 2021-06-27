@@ -1,0 +1,1 @@
+Campbell, B., Ed., Cooper, A., and B. Leiba, "DISPATCH-Style Working Groups and the SIP Change Process", BCP 67, RFC 7957, DOI 10.17487/RFC7957, August 2016, <https://www.rfc-editor.org/info/rfc7957>.

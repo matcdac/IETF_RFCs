@@ -1,0 +1,1 @@
+Leech, M., "Key Management Considerations for the TCP MD5 Signature Option", RFC 3562, DOI 10.17487/RFC3562, July 2003, <https://www.rfc-editor.org/info/rfc3562>.

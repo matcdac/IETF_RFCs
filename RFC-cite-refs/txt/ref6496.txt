@@ -1,0 +1,1 @@
+Krishnan, S., Laganier, J., Bonola, M., and A. Garcia-Martinez, "Secure Proxy ND Support for SEcure Neighbor Discovery (SEND)", RFC 6496, DOI 10.17487/RFC6496, February 2012, <https://www.rfc-editor.org/info/rfc6496>.

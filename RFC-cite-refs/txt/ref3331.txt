@@ -1,0 +1,1 @@
+Morneault, K., Dantu, R., Sidebottom, G., Bidulock, B., and J. Heitz, "Signaling System 7 (SS7) Message Transfer Part 2 (MTP2) - User Adaptation Layer", RFC 3331, DOI 10.17487/RFC3331, September 2002, <https://www.rfc-editor.org/info/rfc3331>.

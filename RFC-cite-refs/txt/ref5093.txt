@@ -1,0 +1,1 @@
+Hunt, G., "BT's eXtended Network Quality RTP Control Protocol Extended Reports (RTCP XR XNQ)", RFC 5093, DOI 10.17487/RFC5093, December 2007, <https://www.rfc-editor.org/info/rfc5093>.

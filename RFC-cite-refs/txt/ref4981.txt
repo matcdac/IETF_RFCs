@@ -1,0 +1,1 @@
+Risson, J. and T. Moors, "Survey of Research towards Robust Peer-to-Peer Networks: Search Methods", RFC 4981, DOI 10.17487/RFC4981, September 2007, <https://www.rfc-editor.org/info/rfc4981>.

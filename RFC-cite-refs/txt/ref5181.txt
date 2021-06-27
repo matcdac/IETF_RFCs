@@ -1,0 +1,1 @@
+Shin, M-K., Ed., Han, Y-H., Kim, S-E., and D. Premec, "IPv6 Deployment Scenarios in 802.16 Networks", RFC 5181, DOI 10.17487/RFC5181, May 2008, <https://www.rfc-editor.org/info/rfc5181>.

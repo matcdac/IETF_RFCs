@@ -1,0 +1,1 @@
+Stump, G., Droms, R., Gu, Y., Vyaghrapuri, R., Demirtjis, A., Beser, B., and J. Privat, "The User Class Option for DHCP", RFC 3004, DOI 10.17487/RFC3004, November 2000, <https://www.rfc-editor.org/info/rfc3004>.

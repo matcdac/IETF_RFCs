@@ -1,0 +1,1 @@
+Ernst, T. and H-Y. Lach, "Network Mobility Support Terminology", RFC 4885, DOI 10.17487/RFC4885, July 2007, <https://www.rfc-editor.org/info/rfc4885>.

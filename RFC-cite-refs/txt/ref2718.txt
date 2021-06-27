@@ -1,0 +1,1 @@
+Masinter, L., Alvestrand, H., Zigmond, D., and R. Petke, "Guidelines for new URL Schemes", RFC 2718, DOI 10.17487/RFC2718, November 1999, <https://www.rfc-editor.org/info/rfc2718>.

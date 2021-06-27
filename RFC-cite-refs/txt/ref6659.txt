@@ -1,0 +1,1 @@
+Begen, A., "Considerations for Deploying the Rapid Acquisition of Multicast RTP Sessions (RAMS) Method", RFC 6659, DOI 10.17487/RFC6659, July 2012, <https://www.rfc-editor.org/info/rfc6659>.

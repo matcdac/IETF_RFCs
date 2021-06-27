@@ -1,0 +1,1 @@
+Wright, F., "Design Goals for an Internet Printing Protocol", RFC 2567, DOI 10.17487/RFC2567, April 1999, <https://www.rfc-editor.org/info/rfc2567>.

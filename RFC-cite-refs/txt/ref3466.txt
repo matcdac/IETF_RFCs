@@ -1,0 +1,1 @@
+Day, M., Cain, B., Tomlinson, G., and P. Rzewski, "A Model for Content Internetworking (CDI)", RFC 3466, DOI 10.17487/RFC3466, February 2003, <https://www.rfc-editor.org/info/rfc3466>.

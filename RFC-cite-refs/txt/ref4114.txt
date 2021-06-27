@@ -1,0 +1,1 @@
+Hollenbeck, S., "E.164 Number Mapping for the Extensible Provisioning Protocol (EPP)", RFC 4114, DOI 10.17487/RFC4114, June 2005, <https://www.rfc-editor.org/info/rfc4114>.

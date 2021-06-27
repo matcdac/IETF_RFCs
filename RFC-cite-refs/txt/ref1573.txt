@@ -1,0 +1,1 @@
+McCloghrie, K. and F. Kastenholz, "Evolution of the Interfaces Group of MIB-II", RFC 1573, DOI 10.17487/RFC1573, January 1994, <https://www.rfc-editor.org/info/rfc1573>.

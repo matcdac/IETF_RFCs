@@ -1,0 +1,1 @@
+Zhao, W., Schulzrinne, H., and E. Guttman, "Mesh-enhanced Service Location Protocol (mSLP)", RFC 3528, DOI 10.17487/RFC3528, April 2003, <https://www.rfc-editor.org/info/rfc3528>.

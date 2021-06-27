@@ -1,0 +1,1 @@
+Wijnen, B. and A. Bierman, "IANA Guidelines for the Registry of Remote Monitoring (RMON) MIB modules", RFC 3737, DOI 10.17487/RFC3737, April 2004, <https://www.rfc-editor.org/info/rfc3737>.

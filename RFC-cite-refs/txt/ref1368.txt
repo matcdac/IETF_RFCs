@@ -1,0 +1,1 @@
+McMaster, D. and K. McCloghrie, "Definition of Managed Objects for IEEE 802.3 Repeater Devices", RFC 1368, DOI 10.17487/RFC1368, October 1992, <https://www.rfc-editor.org/info/rfc1368>.

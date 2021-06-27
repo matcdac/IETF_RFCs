@@ -1,0 +1,1 @@
+Mahy, R., "A Message Summary and Message Waiting Indication Event Package for the Session Initiation Protocol (SIP)", RFC 3842, DOI 10.17487/RFC3842, August 2004, <https://www.rfc-editor.org/info/rfc3842>.

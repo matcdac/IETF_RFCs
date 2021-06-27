@@ -1,0 +1,1 @@
+Daigle, L. and T. Eklof, "Mesh of Multiple DAG servers - Results from TISDAG", RFC 2968, DOI 10.17487/RFC2968, October 2000, <https://www.rfc-editor.org/info/rfc2968>.

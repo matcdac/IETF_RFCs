@@ -1,0 +1,1 @@
+McKenzie, W. and J. Cheng, "SNA APPN Node MIB", RFC 1593, DOI 10.17487/RFC1593, March 1994, <https://www.rfc-editor.org/info/rfc1593>.

@@ -1,0 +1,1 @@
+Giaretta, G., Guardini, I., Demaria, E., Bournelle, J., and R. Lopez, "Authentication, Authorization, and Accounting (AAA) Goals for Mobile IPv6", RFC 5637, DOI 10.17487/RFC5637, September 2009, <https://www.rfc-editor.org/info/rfc5637>.

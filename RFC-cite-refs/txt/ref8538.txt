@@ -1,0 +1,1 @@
+Patel, K., Fernando, R., Scudder, J., and J. Haas, "Notification Message Support for BGP Graceful Restart", RFC 8538, DOI 10.17487/RFC8538, March 2019, <https://www.rfc-editor.org/info/rfc8538>.

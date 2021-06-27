@@ -1,0 +1,1 @@
+Rosenberg, J., "Identification of Communications Services in the Session Initiation Protocol (SIP)", RFC 5897, DOI 10.17487/RFC5897, June 2010, <https://www.rfc-editor.org/info/rfc5897>.

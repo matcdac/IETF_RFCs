@@ -1,0 +1,1 @@
+Ferguson, P. and H. Berkowitz, "Network Renumbering Overview: Why would I want it and what is it anyway?", RFC 2071, DOI 10.17487/RFC2071, January 1997, <https://www.rfc-editor.org/info/rfc2071>.

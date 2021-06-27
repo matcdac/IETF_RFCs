@@ -1,0 +1,1 @@
+Berger, L., "RSVP over ATM Implementation Requirements", RFC 2380, DOI 10.17487/RFC2380, August 1998, <https://www.rfc-editor.org/info/rfc2380>.

@@ -1,0 +1,1 @@
+Baker, F. and D. Meyer, "Internet Protocols for the Smart Grid", RFC 6272, DOI 10.17487/RFC6272, June 2011, <https://www.rfc-editor.org/info/rfc6272>.

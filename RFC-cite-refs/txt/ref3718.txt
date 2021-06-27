@@ -1,0 +1,1 @@
+McGowan, R., "A Summary of Unicode Consortium Procedures, Policies, Stability, and Public Access", RFC 3718, DOI 10.17487/RFC3718, February 2004, <https://www.rfc-editor.org/info/rfc3718>.

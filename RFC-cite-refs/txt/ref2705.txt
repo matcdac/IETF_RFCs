@@ -1,0 +1,1 @@
+Arango, M., Dugan, A., Elliott, I., Huitema, C., and S. Pickett, "Media Gateway Control Protocol (MGCP) Version 1.0", RFC 2705, DOI 10.17487/RFC2705, October 1999, <https://www.rfc-editor.org/info/rfc2705>.

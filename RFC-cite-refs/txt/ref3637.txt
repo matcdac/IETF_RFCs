@@ -1,0 +1,1 @@
+Heard, C., Ed., "Definitions of Managed Objects for the Ethernet WAN Interface Sublayer", RFC 3637, DOI 10.17487/RFC3637, September 2003, <https://www.rfc-editor.org/info/rfc3637>.

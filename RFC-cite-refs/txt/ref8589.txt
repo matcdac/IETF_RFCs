@@ -1,0 +1,1 @@
+Tamas, A., Phister, B., Ed., and J-E. Rodriguez, "The 'leaptofrogans' URI Scheme", RFC 8589, DOI 10.17487/RFC8589, May 2019, <https://www.rfc-editor.org/info/rfc8589>.

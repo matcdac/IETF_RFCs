@@ -1,0 +1,1 @@
+Jang, H., Yegin, A., Chowdhury, K., Choi, J., and T. Lemon, "DHCP Options for Home Information Discovery in Mobile IPv6 (MIPv6)", RFC 6610, DOI 10.17487/RFC6610, May 2012, <https://www.rfc-editor.org/info/rfc6610>.

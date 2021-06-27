@@ -1,0 +1,1 @@
+Herriot, R. and I. McDonald, "Internet Printing Protocol/1.1: IPP URL Scheme", RFC 3510, DOI 10.17487/RFC3510, April 2003, <https://www.rfc-editor.org/info/rfc3510>.

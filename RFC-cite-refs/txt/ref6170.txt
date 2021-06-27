@@ -1,0 +1,1 @@
+Santesson, S., Housley, R., Bajaj, S., and L. Rosenthol, "Internet X.509 Public Key Infrastructure -- Certificate Image", RFC 6170, DOI 10.17487/RFC6170, May 2011, <https://www.rfc-editor.org/info/rfc6170>.

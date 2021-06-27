@@ -1,0 +1,1 @@
+Steenstrup, M., "An Architecture for Inter-Domain Policy Routing", RFC 1478, DOI 10.17487/RFC1478, June 1993, <https://www.rfc-editor.org/info/rfc1478>.

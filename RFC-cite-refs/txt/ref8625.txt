@@ -1,0 +1,1 @@
+Long, H., Ye, M., Ed., Mirsky, G., Ed., D'Alessandro, A., and H. Shah, "Ethernet Traffic Parameters with Availability Information", RFC 8625, DOI 10.17487/RFC8625, August 2019, <https://www.rfc-editor.org/info/rfc8625>.

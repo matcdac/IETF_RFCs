@@ -1,0 +1,1 @@
+Fenner, B. and D. Thaler, "Multicast Source Discovery Protocol (MSDP) MIB", RFC 4624, DOI 10.17487/RFC4624, October 2006, <https://www.rfc-editor.org/info/rfc4624>.

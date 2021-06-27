@@ -1,0 +1,1 @@
+Nelson, D., "RADIUS Authentication Client MIB for IPv6", RFC 4668, DOI 10.17487/RFC4668, August 2006, <https://www.rfc-editor.org/info/rfc4668>.

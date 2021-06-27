@@ -1,0 +1,1 @@
+Rosenberg, J., "A Session Initiation Protocol (SIP) Event Package for Registrations", RFC 3680, DOI 10.17487/RFC3680, March 2004, <https://www.rfc-editor.org/info/rfc3680>.

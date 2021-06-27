@@ -1,0 +1,1 @@
+Harslem, E. and J. Heafner, "Comments on "Socket Conventions Reconsidered"", RFC 175, DOI 10.17487/RFC0175, June 1971, <https://www.rfc-editor.org/info/rfc175>.

@@ -1,0 +1,1 @@
+Camarillo, G., Niemi, A., Isomaki, M., Garcia-Martin, M., and H. Khartabil, "Referring to Multiple Resources in the Session Initiation Protocol (SIP)", RFC 5368, DOI 10.17487/RFC5368, October 2008, <https://www.rfc-editor.org/info/rfc5368>.

@@ -1,0 +1,1 @@
+Skoglund, J. and M. Graczyk, "Ambisonics in an Ogg Opus Container", RFC 8486, DOI 10.17487/RFC8486, October 2018, <https://www.rfc-editor.org/info/rfc8486>.

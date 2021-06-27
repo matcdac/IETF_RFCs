@@ -1,0 +1,1 @@
+Bryant, D. and P. Brittain, "APPN Implementer's Workshop Closed Pages Document DLSw v2.0 Enhancements", RFC 2166, DOI 10.17487/RFC2166, June 1997, <https://www.rfc-editor.org/info/rfc2166>.

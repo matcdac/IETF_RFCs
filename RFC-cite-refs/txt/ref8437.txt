@@ -1,0 +1,1 @@
+Newman, C., "IMAP UNAUTHENTICATE Extension for Connection Reuse", RFC 8437, DOI 10.17487/RFC8437, August 2018, <https://www.rfc-editor.org/info/rfc8437>.

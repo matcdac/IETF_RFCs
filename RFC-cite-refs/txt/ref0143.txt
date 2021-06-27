@@ -1,0 +1,1 @@
+Naylor, W., Wong, J., Kline, C., and J. Postel, "Regarding proffered official ICP", RFC 143, DOI 10.17487/RFC0143, May 1971, <https://www.rfc-editor.org/info/rfc143>.

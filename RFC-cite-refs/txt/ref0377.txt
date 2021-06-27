@@ -1,0 +1,1 @@
+Braden, R., "Using TSO via ARPA Network Virtual Terminal", RFC 377, DOI 10.17487/RFC0377, August 1972, <https://www.rfc-editor.org/info/rfc377>.

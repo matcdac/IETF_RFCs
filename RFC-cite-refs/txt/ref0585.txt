@@ -1,0 +1,1 @@
+Crocker, D., Neigus, N., Feinler, E., and J. Iseli, "ARPANET users interest working group meeting", RFC 585, DOI 10.17487/RFC0585, November 1973, <https://www.rfc-editor.org/info/rfc585>.

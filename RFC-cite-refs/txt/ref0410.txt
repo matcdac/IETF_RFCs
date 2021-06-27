@@ -1,0 +1,1 @@
+McQuillan, J., "Removal of the 30-Second Delay When Hosts Come Up", RFC 410, DOI 10.17487/RFC0410, November 1972, <https://www.rfc-editor.org/info/rfc410>.

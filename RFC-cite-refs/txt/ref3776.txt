@@ -1,0 +1,1 @@
+Arkko, J., Devarapalli, V., and F. Dupont, "Using IPsec to Protect Mobile IPv6 Signaling Between Mobile Nodes and Home Agents", RFC 3776, DOI 10.17487/RFC3776, June 2004, <https://www.rfc-editor.org/info/rfc3776>.

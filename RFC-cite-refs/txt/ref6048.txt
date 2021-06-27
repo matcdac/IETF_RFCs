@@ -1,0 +1,1 @@
+Elie, J., "Network News Transfer Protocol (NNTP) Additions to LIST Command", RFC 6048, DOI 10.17487/RFC6048, November 2010, <https://www.rfc-editor.org/info/rfc6048>.

@@ -1,0 +1,1 @@
+Lemieux, P., "Entertainment Identifier Registry (EIDR) URN Namespace Definition", RFC 7302, DOI 10.17487/RFC7302, July 2014, <https://www.rfc-editor.org/info/rfc7302>.

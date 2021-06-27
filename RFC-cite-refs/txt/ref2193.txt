@@ -1,0 +1,1 @@
+Gahrns, M., "IMAP4 Mailbox Referrals", RFC 2193, DOI 10.17487/RFC2193, September 1997, <https://www.rfc-editor.org/info/rfc2193>.

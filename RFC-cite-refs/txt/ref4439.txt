@@ -1,0 +1,1 @@
+DeSanti, C., Gaonkar, V., McCloghrie, K., and S. Gai, "Fibre Channel Fabric Address Manager MIB", RFC 4439, DOI 10.17487/RFC4439, March 2006, <https://www.rfc-editor.org/info/rfc4439>.

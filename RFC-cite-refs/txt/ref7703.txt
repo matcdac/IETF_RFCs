@@ -1,0 +1,1 @@
+Cordeiro, E., Carnier, R., and A. Moreiras, "Experience with Testing of Mapping of Address and Port Using Translation (MAP-T)", RFC 7703, DOI 10.17487/RFC7703, November 2015, <https://www.rfc-editor.org/info/rfc7703>.

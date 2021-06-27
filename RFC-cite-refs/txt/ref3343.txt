@@ -1,0 +1,1 @@
+Rose, M., Klyne, G., and D. Crocker, "The Application Exchange (APEX) Presence Service", RFC 3343, DOI 10.17487/RFC3343, April 2003, <https://www.rfc-editor.org/info/rfc3343>.

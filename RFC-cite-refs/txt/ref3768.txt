@@ -1,0 +1,1 @@
+Hinden, R., Ed., "Virtual Router Redundancy Protocol (VRRP)", RFC 3768, DOI 10.17487/RFC3768, April 2004, <https://www.rfc-editor.org/info/rfc3768>.

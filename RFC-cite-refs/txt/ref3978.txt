@@ -1,0 +1,1 @@
+Bradner, S., Ed., "IETF Rights in Contributions", RFC 3978, DOI 10.17487/RFC3978, March 2005, <https://www.rfc-editor.org/info/rfc3978>.

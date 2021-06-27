@@ -1,0 +1,1 @@
+Patil, B. and G. Dommety, "Why the Authentication Data Suboption is Needed for Mobile IPv6 (MIPv6)", RFC 5419, DOI 10.17487/RFC5419, January 2009, <https://www.rfc-editor.org/info/rfc5419>.

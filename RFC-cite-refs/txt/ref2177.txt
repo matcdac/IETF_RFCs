@@ -1,0 +1,1 @@
+Leiba, B., "IMAP4 IDLE command", RFC 2177, DOI 10.17487/RFC2177, June 1997, <https://www.rfc-editor.org/info/rfc2177>.

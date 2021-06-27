@@ -1,0 +1,1 @@
+Perkins, C., Ed., "IP Mobility Support for IPv4", RFC 3344, DOI 10.17487/RFC3344, August 2002, <https://www.rfc-editor.org/info/rfc3344>.

@@ -1,0 +1,1 @@
+Kirton, P., "EGP Gateway under Berkeley UNIX 4.2", RFC 911, DOI 10.17487/RFC0911, August 1984, <https://www.rfc-editor.org/info/rfc911>.

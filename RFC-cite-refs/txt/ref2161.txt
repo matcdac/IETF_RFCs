@@ -1,0 +1,1 @@
+Alvestrand, H., "A MIME Body Part for ODA", RFC 2161, DOI 10.17487/RFC2161, January 1998, <https://www.rfc-editor.org/info/rfc2161>.

@@ -1,0 +1,1 @@
+Yoshino, T., "Compression Extensions for WebSocket", RFC 7692, DOI 10.17487/RFC7692, December 2015, <https://www.rfc-editor.org/info/rfc7692>.

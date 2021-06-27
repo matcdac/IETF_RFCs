@@ -1,0 +1,1 @@
+Kastenholz, F., "The Definitions of Managed Objects for the Link Control Protocol of the Point-to-Point Protocol", RFC 1471, DOI 10.17487/RFC1471, June 1993, <https://www.rfc-editor.org/info/rfc1471>.

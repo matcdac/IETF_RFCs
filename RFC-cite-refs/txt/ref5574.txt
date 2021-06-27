@@ -1,0 +1,1 @@
+Herlein, G., Valin, J., Heggestad, A., and A. Moizard, "RTP Payload Format for the Speex Codec", RFC 5574, DOI 10.17487/RFC5574, June 2009, <https://www.rfc-editor.org/info/rfc5574>.

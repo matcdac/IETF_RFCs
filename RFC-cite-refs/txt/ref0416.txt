@@ -1,0 +1,1 @@
+Norton, J., "ARC System Will Be Unavailable for Use During Thanksgiving Week", RFC 416, DOI 10.17487/RFC0416, November 1972, <https://www.rfc-editor.org/info/rfc416>.

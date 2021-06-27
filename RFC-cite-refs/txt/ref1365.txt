@@ -1,0 +1,1 @@
+Siyan, K., "An IP Address Extension Proposal", RFC 1365, DOI 10.17487/RFC1365, September 1992, <https://www.rfc-editor.org/info/rfc1365>.

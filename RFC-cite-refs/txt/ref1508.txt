@@ -1,0 +1,1 @@
+Linn, J., "Generic Security Service Application Program Interface", RFC 1508, DOI 10.17487/RFC1508, September 1993, <https://www.rfc-editor.org/info/rfc1508>.

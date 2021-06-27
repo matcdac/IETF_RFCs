@@ -1,0 +1,1 @@
+Chapin, L., "Charter of the Internet Architecture Board (IAB)", RFC 1358, DOI 10.17487/RFC1358, August 1992, <https://www.rfc-editor.org/info/rfc1358>.

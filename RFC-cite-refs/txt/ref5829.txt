@@ -1,0 +1,1 @@
+Brown, A., Clemm, G., and J. Reschke, Ed., "Link Relation Types for Simple Version Navigation between Web Resources", RFC 5829, DOI 10.17487/RFC5829, April 2010, <https://www.rfc-editor.org/info/rfc5829>.

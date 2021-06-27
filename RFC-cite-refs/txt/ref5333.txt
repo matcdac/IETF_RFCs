@@ -1,0 +1,1 @@
+Mahy, R. and B. Hoeneisen, "IANA Registration of Enumservices for Internet Calendaring", RFC 5333, DOI 10.17487/RFC5333, October 2009, <https://www.rfc-editor.org/info/rfc5333>.

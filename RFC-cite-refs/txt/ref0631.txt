@@ -1,0 +1,1 @@
+Danthine, A., "International meeting on minicomputers and data communication: Call for papers", RFC 631, DOI 10.17487/RFC0631, April 1974, <https://www.rfc-editor.org/info/rfc631>.

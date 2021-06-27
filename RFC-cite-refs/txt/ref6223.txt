@@ -1,0 +1,1 @@
+Holmberg, C., "Indication of Support for Keep-Alive", RFC 6223, DOI 10.17487/RFC6223, April 2011, <https://www.rfc-editor.org/info/rfc6223>.

@@ -1,0 +1,1 @@
+Shekh-Yusef, R. and M. Barnes, "Indication of Conference Focus Support for the Centralized Conferencing Manipulation Protocol (CCMP)", RFC 7082, DOI 10.17487/RFC7082, December 2013, <https://www.rfc-editor.org/info/rfc7082>.

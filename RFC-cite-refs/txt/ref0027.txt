@@ -1,0 +1,1 @@
+Crocker, S., "Documentation Conventions", RFC 27, DOI 10.17487/RFC0027, December 1969, <https://www.rfc-editor.org/info/rfc27>.

@@ -1,0 +1,1 @@
+Dearlove, C. and T. Clausen, "TLV Naming in the Mobile Ad Hoc Network (MANET) Generalized Packet/Message Format", RFC 7631, DOI 10.17487/RFC7631, September 2015, <https://www.rfc-editor.org/info/rfc7631>.

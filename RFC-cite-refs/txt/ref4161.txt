@@ -1,0 +1,1 @@
+Mimura, K., Yokoyama, K., Satoh, T., Watanabe, K., and C. Kanaide, "Guidelines for Optional Services for Internet Fax Gateways", RFC 4161, DOI 10.17487/RFC4161, August 2005, <https://www.rfc-editor.org/info/rfc4161>.

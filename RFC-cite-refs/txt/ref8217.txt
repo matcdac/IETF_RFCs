@@ -1,0 +1,1 @@
+Sparks, R., "Clarifications for When to Use the name-addr Production in SIP Messages", RFC 8217, DOI 10.17487/RFC8217, August 2017, <https://www.rfc-editor.org/info/rfc8217>.

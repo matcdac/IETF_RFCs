@@ -1,0 +1,1 @@
+Reynolds, J., "Reassignment of experimental MIBs to standard MIBs", RFC 1239, DOI 10.17487/RFC1239, June 1991, <https://www.rfc-editor.org/info/rfc1239>.

@@ -1,0 +1,1 @@
+Postel, J., "Request for comments on Request for Comments: Instructions to RFC authors", RFC 1111, DOI 10.17487/RFC1111, August 1989, <https://www.rfc-editor.org/info/rfc1111>.

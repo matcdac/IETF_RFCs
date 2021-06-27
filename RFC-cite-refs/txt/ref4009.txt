@@ -1,0 +1,1 @@
+Park, J., Lee, S., Kim, J., and J. Lee, "The SEED Encryption Algorithm", RFC 4009, DOI 10.17487/RFC4009, February 2005, <https://www.rfc-editor.org/info/rfc4009>.

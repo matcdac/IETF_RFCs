@@ -1,0 +1,1 @@
+Kumar, D., Salam, S., and T. Senevirathne, "Transparent Interconnection of Lots of Links (TRILL) Operations, Administration, and Maintenance (OAM) MIB", RFC 7784, DOI 10.17487/RFC7784, February 2016, <https://www.rfc-editor.org/info/rfc7784>.

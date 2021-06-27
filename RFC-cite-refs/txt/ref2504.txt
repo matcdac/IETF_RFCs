@@ -1,0 +1,1 @@
+Guttman, E., Leong, L., and G. Malkin, "Users' Security Handbook", FYI 34, RFC 2504, DOI 10.17487/RFC2504, February 1999, <https://www.rfc-editor.org/info/rfc2504>.

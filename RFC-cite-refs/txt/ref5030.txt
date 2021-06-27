@@ -1,0 +1,1 @@
+Nakhjiri, M., Ed., Chowdhury, K., Lior, A., and K. Leung, "Mobile IPv4 RADIUS Requirements", RFC 5030, DOI 10.17487/RFC5030, October 2007, <https://www.rfc-editor.org/info/rfc5030>.

@@ -1,0 +1,1 @@
+McLaughlin, L., "Line printer daemon protocol", RFC 1179, DOI 10.17487/RFC1179, August 1990, <https://www.rfc-editor.org/info/rfc1179>.

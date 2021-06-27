@@ -1,0 +1,1 @@
+Muravskiy, O. and T. Bruijnzeels, "RIPE NCC's Implementation of Resource Public Key Infrastructure (RPKI) Certificate Tree Validation", RFC 8488, DOI 10.17487/RFC8488, December 2018, <https://www.rfc-editor.org/info/rfc8488>.

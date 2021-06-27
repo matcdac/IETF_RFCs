@@ -1,0 +1,1 @@
+Dhody, D., King, D., and A. Farrel, "Experimental Codepoint Allocation for the Path Computation Element Communication Protocol (PCEP)", RFC 8356, DOI 10.17487/RFC8356, March 2018, <https://www.rfc-editor.org/info/rfc8356>.

@@ -1,0 +1,1 @@
+Johnston, A., Ed., Soroushnejad, M., Ed., and V. Venkataramanan, "Shared Appearances of a Session Initiation Protocol (SIP) Address of Record (AOR)", RFC 7463, DOI 10.17487/RFC7463, March 2015, <https://www.rfc-editor.org/info/rfc7463>.

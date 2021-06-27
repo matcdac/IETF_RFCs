@@ -1,0 +1,1 @@
+O'Malley, S. and L. Peterson, "TCP Extensions Considered Harmful", RFC 1263, DOI 10.17487/RFC1263, October 1991, <https://www.rfc-editor.org/info/rfc1263>.

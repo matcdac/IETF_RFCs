@@ -1,0 +1,1 @@
+Sklower, K. and G. Meyer, "The PPP DES Encryption Protocol, Version 2 (DESE-bis)", RFC 2419, DOI 10.17487/RFC2419, September 1998, <https://www.rfc-editor.org/info/rfc2419>.

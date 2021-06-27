@@ -1,0 +1,1 @@
+Ortseifen, M. and G. Dickfeld, "A Uniform Resource Name (URN) Namespace for Eurosystem Messaging", RFC 7207, DOI 10.17487/RFC7207, April 2014, <https://www.rfc-editor.org/info/rfc7207>.

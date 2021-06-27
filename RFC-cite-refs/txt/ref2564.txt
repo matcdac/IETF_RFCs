@@ -1,0 +1,1 @@
+Kalbfleisch, C., Krupczak, C., Presuhn, R., and J. Saperia, "Application Management MIB", RFC 2564, DOI 10.17487/RFC2564, May 1999, <https://www.rfc-editor.org/info/rfc2564>.

@@ -1,0 +1,1 @@
+Papadimitriou, D., Drake, J., Ash, J., Farrel, A., and L. Ong, "Requirements for Generalized MPLS (GMPLS) Signaling Usage and Extensions for Automatically Switched Optical Network (ASON)", RFC 4139, DOI 10.17487/RFC4139, July 2005, <https://www.rfc-editor.org/info/rfc4139>.

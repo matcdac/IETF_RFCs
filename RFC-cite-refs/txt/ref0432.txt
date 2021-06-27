@@ -1,0 +1,1 @@
+Neigus, N., "Network logical map", RFC 432, DOI 10.17487/RFC0432, December 1972, <https://www.rfc-editor.org/info/rfc432>.

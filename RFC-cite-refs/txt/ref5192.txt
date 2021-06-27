@@ -1,0 +1,1 @@
+Morand, L., Yegin, A., Kumar, S., and S. Madanapalli, "DHCP Options for Protocol for Carrying Authentication for Network Access (PANA) Authentication Agents", RFC 5192, DOI 10.17487/RFC5192, May 2008, <https://www.rfc-editor.org/info/rfc5192>.

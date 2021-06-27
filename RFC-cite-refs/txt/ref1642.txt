@@ -1,0 +1,1 @@
+Goldsmith, D. and M. Davis, "UTF-7 - A Mail-Safe Transformation Format of Unicode", RFC 1642, DOI 10.17487/RFC1642, July 1994, <https://www.rfc-editor.org/info/rfc1642>.

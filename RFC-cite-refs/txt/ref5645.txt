@@ -1,0 +1,1 @@
+Ewell, D., Ed., "Update to the Language Subtag Registry", RFC 5645, DOI 10.17487/RFC5645, September 2009, <https://www.rfc-editor.org/info/rfc5645>.

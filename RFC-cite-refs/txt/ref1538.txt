@@ -1,0 +1,1 @@
+Behl, W., Sterling, B., and W. Teskey, "Advanced SNA/IP : A Simple SNA Transport Protocol", RFC 1538, DOI 10.17487/RFC1538, October 1993, <https://www.rfc-editor.org/info/rfc1538>.

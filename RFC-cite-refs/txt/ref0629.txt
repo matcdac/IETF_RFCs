@@ -1,0 +1,1 @@
+North, J., "Scenario for using the Network Journal", RFC 629, DOI 10.17487/RFC0629, March 1974, <https://www.rfc-editor.org/info/rfc629>.

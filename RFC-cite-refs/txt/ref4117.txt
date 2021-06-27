@@ -1,0 +1,1 @@
+Camarillo, G., Burger, E., Schulzrinne, H., and A. van Wijk, "Transcoding Services Invocation in the Session Initiation Protocol (SIP) Using Third Party Call Control (3pcc)", RFC 4117, DOI 10.17487/RFC4117, June 2005, <https://www.rfc-editor.org/info/rfc4117>.

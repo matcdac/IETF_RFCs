@@ -1,0 +1,1 @@
+Mills, D., "Distributed-protocol authentication scheme", RFC 1004, DOI 10.17487/RFC1004, April 1987, <https://www.rfc-editor.org/info/rfc1004>.

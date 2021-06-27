@@ -1,0 +1,1 @@
+Polk, J., "Registering a SIP Resource Priority Header Field Namespace for Local Emergency Communications", RFC 7135, DOI 10.17487/RFC7135, May 2014, <https://www.rfc-editor.org/info/rfc7135>.

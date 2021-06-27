@@ -1,0 +1,1 @@
+Mills, D., "Measured performance of the Network Time Protocol in the Internet system", RFC 1128, DOI 10.17487/RFC1128, October 1989, <https://www.rfc-editor.org/info/rfc1128>.

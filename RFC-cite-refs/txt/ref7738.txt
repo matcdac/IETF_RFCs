@@ -1,0 +1,1 @@
+Blanchet, M., Schiltknecht, A., and P. Shames, "A Uniform Resource Name (URN) Namespace for the Consultative Committee for Space Data Systems (CCSDS)", RFC 7738, DOI 10.17487/RFC7738, January 2016, <https://www.rfc-editor.org/info/rfc7738>.

@@ -1,0 +1,1 @@
+Toyoda, K. and D. Crocker, "SMTP and MIME Extensions for Content Conversion", RFC 4141, DOI 10.17487/RFC4141, November 2005, <https://www.rfc-editor.org/info/rfc4141>.

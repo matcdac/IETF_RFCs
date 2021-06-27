@@ -1,0 +1,1 @@
+Leiner, B. and Y. Rekhter, "The MultiProtocol Internet", RFC 1560, DOI 10.17487/RFC1560, December 1993, <https://www.rfc-editor.org/info/rfc1560>.

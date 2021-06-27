@@ -1,0 +1,1 @@
+Dasgupta, S., de Oliveira, J., and JP. Vasseur, "Performance Analysis of Inter-Domain Path Computation Methodologies", RFC 5468, DOI 10.17487/RFC5468, April 2009, <https://www.rfc-editor.org/info/rfc5468>.

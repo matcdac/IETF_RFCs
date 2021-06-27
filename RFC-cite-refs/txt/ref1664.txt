@@ -1,0 +1,1 @@
+Allocchio, C., Bonito, A., Cole, B., Giordano, S., and R. Hagens, "Using the Internet DNS to Distribute RFC1327 Mail Address Mapping Tables", RFC 1664, DOI 10.17487/RFC1664, August 1994, <https://www.rfc-editor.org/info/rfc1664>.

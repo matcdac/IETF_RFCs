@@ -1,0 +1,1 @@
+International Telegraph and Telephone Consultative Committee of the International Telecommunication Union, "CCITT draft recommendation T.4", RFC 804, DOI 10.17487/RFC0804, January 1981, <https://www.rfc-editor.org/info/rfc804>.

@@ -1,0 +1,1 @@
+Sparks, R. and A. Roach, "Clarifications for the Use of REFER with RFC 6665", RFC 7647, DOI 10.17487/RFC7647, September 2015, <https://www.rfc-editor.org/info/rfc7647>.

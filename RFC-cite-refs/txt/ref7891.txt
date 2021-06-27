@@ -1,0 +1,1 @@
+Asghar, J., Wijnands, IJ., Ed., Krishnaswamy, S., Karan, A., and V. Arya, "Explicit Reverse Path Forwarding (RPF) Vector", RFC 7891, DOI 10.17487/RFC7891, June 2016, <https://www.rfc-editor.org/info/rfc7891>.

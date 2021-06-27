@@ -1,0 +1,1 @@
+Vaarala, S. and E. Klovning, "Mobile IPv4 Traversal across IPsec-Based VPN Gateways", RFC 5265, DOI 10.17487/RFC5265, June 2008, <https://www.rfc-editor.org/info/rfc5265>.

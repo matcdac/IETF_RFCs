@@ -1,0 +1,1 @@
+Vaudreuil, G. and G. Parsons, "Voice Profile for Internet Mail - version 2", RFC 2421, DOI 10.17487/RFC2421, September 1998, <https://www.rfc-editor.org/info/rfc2421>.

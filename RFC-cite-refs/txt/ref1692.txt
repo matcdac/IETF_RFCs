@@ -1,0 +1,1 @@
+Cameron, P., Crocker, D., Cohen, D., and J. Postel, "Transport Multiplexing Protocol (TMux)", RFC 1692, DOI 10.17487/RFC1692, August 1994, <https://www.rfc-editor.org/info/rfc1692>.

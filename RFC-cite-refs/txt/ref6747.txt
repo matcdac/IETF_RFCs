@@ -1,0 +1,1 @@
+RJ Atkinson and SN Bhatti, "Address Resolution Protocol (ARP) for the Identifier-Locator Network Protocol for IPv4 (ILNPv4)", RFC 6747, DOI 10.17487/RFC6747, November 2012, <https://www.rfc-editor.org/info/rfc6747>.

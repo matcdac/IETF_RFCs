@@ -1,0 +1,1 @@
+Dutta, P., Bocci, M., and L. Martini, "Explicit Path Routing for Dynamic Multi-Segment Pseudowires", RFC 7392, DOI 10.17487/RFC7392, December 2014, <https://www.rfc-editor.org/info/rfc7392>.

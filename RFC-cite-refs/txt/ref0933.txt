@@ -1,0 +1,1 @@
+Silverman, S., "Output marking Telnet option", RFC 933, DOI 10.17487/RFC0933, January 1985, <https://www.rfc-editor.org/info/rfc933>.

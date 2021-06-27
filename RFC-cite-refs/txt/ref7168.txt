@@ -1,0 +1,1 @@
+Nazar, I., "The Hyper Text Coffee Pot Control Protocol for Tea Efflux Appliances (HTCPCP-TEA)", RFC 7168, DOI 10.17487/RFC7168, April 1 2014, <https://www.rfc-editor.org/info/rfc7168>.

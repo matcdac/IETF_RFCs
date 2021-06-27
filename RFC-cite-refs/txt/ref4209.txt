@@ -1,0 +1,1 @@
+Fredette, A., Ed., and J. Lang, Ed., "Link Management Protocol (LMP) for Dense Wavelength Division Multiplexing (DWDM) Optical Line Systems", RFC 4209, DOI 10.17487/RFC4209, October 2005, <https://www.rfc-editor.org/info/rfc4209>.

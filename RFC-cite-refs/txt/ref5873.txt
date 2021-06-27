@@ -1,0 +1,1 @@
+Ohba, Y. and A. Yegin, "Pre-Authentication Support for the Protocol for Carrying Authentication for Network Access (PANA)", RFC 5873, DOI 10.17487/RFC5873, May 2010, <https://www.rfc-editor.org/info/rfc5873>.

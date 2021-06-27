@@ -1,0 +1,1 @@
+Internet Engineering Steering Group and R. Hinden, "Applicability Statement for the Implementation of Classless Inter-Domain Routing (CIDR)", RFC 1517, DOI 10.17487/RFC1517, September 1993, <https://www.rfc-editor.org/info/rfc1517>.

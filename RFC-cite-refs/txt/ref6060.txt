@@ -1,0 +1,1 @@
+Fedyk, D., Shah, H., Bitar, N., and A. Takacs, "Generalized Multiprotocol Label Switching (GMPLS) Control of Ethernet Provider Backbone Traffic Engineering (PBB-TE)", RFC 6060, DOI 10.17487/RFC6060, March 2011, <https://www.rfc-editor.org/info/rfc6060>.

@@ -1,0 +1,1 @@
+Andreasen, F., McKibben, B., and B. Marshall, "Private Session Initiation Protocol (SIP) Proxy-to-Proxy Extensions for Supporting the PacketCable Distributed Call Signaling Architecture", RFC 5503, DOI 10.17487/RFC5503, March 2009, <https://www.rfc-editor.org/info/rfc5503>.

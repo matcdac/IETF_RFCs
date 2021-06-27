@@ -1,0 +1,1 @@
+Blane, R., "Liaison to IETF/ISOC on ENUM", RFC 3026, DOI 10.17487/RFC3026, January 2001, <https://www.rfc-editor.org/info/rfc3026>.

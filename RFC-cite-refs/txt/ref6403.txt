@@ -1,0 +1,1 @@
+Zieglar, L., Turner, S., and M. Peck, "Suite B Profile of Certificate Management over CMS", RFC 6403, DOI 10.17487/RFC6403, November 2011, <https://www.rfc-editor.org/info/rfc6403>.

@@ -1,0 +1,1 @@
+Talpey, T. and C. Juszczak, "Network File System (NFS) Remote Direct Memory Access (RDMA) Problem Statement", RFC 5532, DOI 10.17487/RFC5532, May 2009, <https://www.rfc-editor.org/info/rfc5532>.

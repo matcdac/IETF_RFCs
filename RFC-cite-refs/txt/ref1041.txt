@@ -1,0 +1,1 @@
+Rekhter, Y., "Telnet 3270 regime option", RFC 1041, DOI 10.17487/RFC1041, January 1988, <https://www.rfc-editor.org/info/rfc1041>.

@@ -1,0 +1,1 @@
+Zeilenga, K., Ed., "Lightweight Directory Access Protocol (LDAP): Technical Specification Road Map", RFC 4510, DOI 10.17487/RFC4510, June 2006, <https://www.rfc-editor.org/info/rfc4510>.

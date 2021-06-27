@@ -1,0 +1,1 @@
+Eriksson, J., "An Experimental Encapsulation of IP Datagrams on Top of ATM", RFC 1926, DOI 10.17487/RFC1926, April 1 1996, <https://www.rfc-editor.org/info/rfc1926>.

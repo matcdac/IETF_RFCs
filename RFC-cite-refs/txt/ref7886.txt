@@ -1,0 +1,1 @@
+Govindan, V. and C. Pignataro, "Advertising Seamless Bidirectional Forwarding Detection (S-BFD) Discriminators in the Layer Two Tunneling Protocol Version 3 (L2TPv3)", RFC 7886, DOI 10.17487/RFC7886, July 2016, <https://www.rfc-editor.org/info/rfc7886>.

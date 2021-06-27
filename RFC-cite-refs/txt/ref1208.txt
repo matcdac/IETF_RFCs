@@ -1,0 +1,1 @@
+Jacobsen, O. and D. Lynch, "A Glossary of Networking Terms", RFC 1208, DOI 10.17487/RFC1208, March 1991, <https://www.rfc-editor.org/info/rfc1208>.

@@ -1,0 +1,1 @@
+Rosenberg, J. and P. Kyzivat, "Guidelines for Usage of the Session Initiation Protocol (SIP) Caller Preferences Extension", RFC 4596, DOI 10.17487/RFC4596, July 2006, <https://www.rfc-editor.org/info/rfc4596>.

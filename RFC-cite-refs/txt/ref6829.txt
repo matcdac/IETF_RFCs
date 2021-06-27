@@ -1,0 +1,1 @@
+Chen, M., Pan, P., Pignataro, C., and R. Asati, "Label Switched Path (LSP) Ping for Pseudowire Forwarding Equivalence Classes (FECs) Advertised over IPv6", RFC 6829, DOI 10.17487/RFC6829, January 2013, <https://www.rfc-editor.org/info/rfc6829>.

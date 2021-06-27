@@ -1,0 +1,1 @@
+Housley, R. and S. Hollenbeck, "EtherIP: Tunneling Ethernet Frames in IP Datagrams", RFC 3378, DOI 10.17487/RFC3378, September 2002, <https://www.rfc-editor.org/info/rfc3378>.

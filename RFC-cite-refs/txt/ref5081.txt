@@ -1,0 +1,1 @@
+Mavrogiannopoulos, N., "Using OpenPGP Keys for Transport Layer Security (TLS) Authentication", RFC 5081, DOI 10.17487/RFC5081, November 2007, <https://www.rfc-editor.org/info/rfc5081>.

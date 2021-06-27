@@ -1,0 +1,1 @@
+McDaniel, L., "Mathematical Software on the ARPA Network", RFC 382, DOI 10.17487/RFC0382, August 1972, <https://www.rfc-editor.org/info/rfc382>.

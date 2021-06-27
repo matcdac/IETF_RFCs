@@ -1,0 +1,1 @@
+Rekhter, Y., "Routing in a Multi-provider Internet", RFC 1787, DOI 10.17487/RFC1787, April 1995, <https://www.rfc-editor.org/info/rfc1787>.

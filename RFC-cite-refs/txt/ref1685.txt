@@ -1,0 +1,1 @@
+Alvestrand, H., "Writing X.400 O/R Names", RTR 12, RFC 1685, DOI 10.17487/RFC1685, August 1994, <https://www.rfc-editor.org/info/rfc1685>.

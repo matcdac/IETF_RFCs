@@ -1,0 +1,1 @@
+Durand, A. and J. Ihren, "DNS IPv6 Transport Operational Guidelines", BCP 91, RFC 3901, DOI 10.17487/RFC3901, September 2004, <https://www.rfc-editor.org/info/rfc3901>.

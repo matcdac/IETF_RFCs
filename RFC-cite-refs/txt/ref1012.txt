@@ -1,0 +1,1 @@
+Reynolds, J. and J. Postel, "Bibliography of Request For Comments 1 through 999", RFC 1012, DOI 10.17487/RFC1012, June 1987, <https://www.rfc-editor.org/info/rfc1012>.

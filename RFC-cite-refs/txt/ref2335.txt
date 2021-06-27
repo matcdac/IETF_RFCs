@@ -1,0 +1,1 @@
+Luciani, J., "A Distributed NHRP Service Using SCSP", RFC 2335, DOI 10.17487/RFC2335, April 1998, <https://www.rfc-editor.org/info/rfc2335>.

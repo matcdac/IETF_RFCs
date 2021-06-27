@@ -1,0 +1,1 @@
+Francis, C. and D. Pinkas, "Attribute Certificate (AC) Policies Extension", RFC 4476, DOI 10.17487/RFC4476, May 2006, <https://www.rfc-editor.org/info/rfc4476>.

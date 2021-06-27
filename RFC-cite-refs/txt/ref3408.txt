@@ -1,0 +1,1 @@
+Liu, Z. and K. Le, "Zero-byte Support for Bidirectional Reliable Mode (R-mode) in Extended Link-Layer Assisted RObust Header Compression (ROHC) Profile", RFC 3408, DOI 10.17487/RFC3408, December 2002, <https://www.rfc-editor.org/info/rfc3408>.

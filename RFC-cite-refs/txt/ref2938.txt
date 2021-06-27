@@ -1,0 +1,1 @@
+Klyne, G. and L. Masinter, "Identifying Composite Media Features", RFC 2938, DOI 10.17487/RFC2938, September 2000, <https://www.rfc-editor.org/info/rfc2938>.

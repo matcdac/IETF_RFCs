@@ -1,0 +1,1 @@
+Moore, K. and G. Vaudreuil, "An Extensible Message Format for Delivery Status Notifications", RFC 1894, DOI 10.17487/RFC1894, January 1996, <https://www.rfc-editor.org/info/rfc1894>.

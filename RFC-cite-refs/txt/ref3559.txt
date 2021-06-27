@@ -1,0 +1,1 @@
+Thaler, D., "Multicast Address Allocation MIB", RFC 3559, DOI 10.17487/RFC3559, June 2003, <https://www.rfc-editor.org/info/rfc3559>.

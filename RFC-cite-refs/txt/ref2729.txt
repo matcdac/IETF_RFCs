@@ -1,0 +1,1 @@
+Bagnall, P., Briscoe, R., and A. Poppitt, "Taxonomy of Communication Requirements for Large-scale Multicast Applications", RFC 2729, DOI 10.17487/RFC2729, December 1999, <https://www.rfc-editor.org/info/rfc2729>.

@@ -1,0 +1,1 @@
+Li, D., Xu, H., Bardalai, S., Meuric, J., and D. Caviglia, "Data Channel Status Confirmation Extensions for the Link Management Protocol", RFC 5818, DOI 10.17487/RFC5818, April 2010, <https://www.rfc-editor.org/info/rfc5818>.

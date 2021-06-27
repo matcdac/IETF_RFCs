@@ -1,0 +1,1 @@
+Dearlove, C. and T. Clausen, "Optimized Link State Routing Protocol Version 2 (OLSRv2) and MANET Neighborhood Discovery Protocol (NHDP) Extension TLVs", RFC 7188, DOI 10.17487/RFC7188, April 2014, <https://www.rfc-editor.org/info/rfc7188>.

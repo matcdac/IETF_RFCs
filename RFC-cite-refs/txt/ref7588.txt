@@ -1,0 +1,1 @@
+Bonica, R., Pignataro, C., and J. Touch, "A Widely Deployed Solution to the Generic Routing Encapsulation (GRE) Fragmentation Problem", RFC 7588, DOI 10.17487/RFC7588, July 2015, <https://www.rfc-editor.org/info/rfc7588>.

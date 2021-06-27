@@ -1,0 +1,1 @@
+Dubuc, M., Nadeau, T., and J. Lang, "Traffic Engineering Link Management Information Base", RFC 4220, DOI 10.17487/RFC4220, November 2005, <https://www.rfc-editor.org/info/rfc4220>.

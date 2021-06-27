@@ -1,0 +1,1 @@
+Saint-Andre, P., "End-to-End Signing and Object Encryption for the Extensible Messaging and Presence Protocol (XMPP)", RFC 3923, DOI 10.17487/RFC3923, October 2004, <https://www.rfc-editor.org/info/rfc3923>.

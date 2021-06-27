@@ -1,0 +1,1 @@
+Guttman, E., "Attribute List Extension for the Service Location Protocol", RFC 3059, DOI 10.17487/RFC3059, February 2001, <https://www.rfc-editor.org/info/rfc3059>.

@@ -1,0 +1,1 @@
+Blanchet, M. and F. Parent, "IPv6 Tunnel Broker with the Tunnel Setup Protocol (TSP)", RFC 5572, DOI 10.17487/RFC5572, February 2010, <https://www.rfc-editor.org/info/rfc5572>.

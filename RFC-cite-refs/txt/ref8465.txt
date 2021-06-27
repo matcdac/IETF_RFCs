@@ -1,0 +1,1 @@
+Atarius, R., Ed., "Using the Mobile Equipment Identity (MEID) URN as an Instance ID", RFC 8465, DOI 10.17487/RFC8465, September 2018, <https://www.rfc-editor.org/info/rfc8465>.

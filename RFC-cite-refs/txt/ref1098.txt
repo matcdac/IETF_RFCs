@@ -1,0 +1,1 @@
+Case, J., Fedor, M., Schoffstall, M., and J. Davin, "Simple Network Management Protocol (SNMP)", RFC 1098, DOI 10.17487/RFC1098, April 1989, <https://www.rfc-editor.org/info/rfc1098>.

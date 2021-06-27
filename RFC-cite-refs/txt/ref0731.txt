@@ -1,0 +1,1 @@
+Day, J., "Telnet Data Entry Terminal option", RFC 731, DOI 10.17487/RFC0731, June 1977, <https://www.rfc-editor.org/info/rfc731>.

@@ -1,0 +1,1 @@
+Meyer, G., "Protocol Analysis for Extensions to RIP to Support Demand Circuits", RFC 1581, DOI 10.17487/RFC1581, February 1994, <https://www.rfc-editor.org/info/rfc1581>.

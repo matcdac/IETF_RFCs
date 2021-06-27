@@ -1,0 +1,1 @@
+Drach, S., "DHCP Option for The Open Group's User Authentication Protocol", RFC 2485, DOI 10.17487/RFC2485, January 1999, <https://www.rfc-editor.org/info/rfc2485>.

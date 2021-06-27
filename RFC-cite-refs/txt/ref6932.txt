@@ -1,0 +1,1 @@
+Harkins, D., Ed., "Brainpool Elliptic Curves for the Internet Key Exchange (IKE) Group Description Registry", RFC 6932, DOI 10.17487/RFC6932, May 2013, <https://www.rfc-editor.org/info/rfc6932>.

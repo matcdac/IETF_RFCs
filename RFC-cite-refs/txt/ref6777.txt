@@ -1,0 +1,1 @@
+Sun, W., Ed., Zhang, G., Ed., Gao, J., Xie, G., and R. Papneja, "Label Switched Path (LSP) Data Path Delay Metrics in Generalized MPLS and MPLS Traffic Engineering (MPLS-TE) Networks", RFC 6777, DOI 10.17487/RFC6777, November 2012, <https://www.rfc-editor.org/info/rfc6777>.

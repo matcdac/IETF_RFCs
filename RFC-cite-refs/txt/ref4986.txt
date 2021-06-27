@@ -1,0 +1,1 @@
+Eland, H., Mundy, R., Crocker, S., and S. Krishnaswamy, "Requirements Related to DNS Security (DNSSEC) Trust Anchor Rollover", RFC 4986, DOI 10.17487/RFC4986, August 2007, <https://www.rfc-editor.org/info/rfc4986>.

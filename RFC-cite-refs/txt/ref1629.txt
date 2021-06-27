@@ -1,0 +1,1 @@
+Colella, R., Callon, R., Gardner, E., and Y. Rekhter, "Guidelines for OSI NSAP Allocation in the Internet", RFC 1629, DOI 10.17487/RFC1629, May 1994, <https://www.rfc-editor.org/info/rfc1629>.

@@ -1,0 +1,1 @@
+Troll, R., "DHCP Option to Disable Stateless Auto-Configuration in IPv4 Clients", RFC 2563, DOI 10.17487/RFC2563, May 1999, <https://www.rfc-editor.org/info/rfc2563>.

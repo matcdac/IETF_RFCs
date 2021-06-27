@@ -1,0 +1,1 @@
+Braden, R., "EBCDIC/ASCII Mapping for Network RJE", RFC 338, DOI 10.17487/RFC0338, May 1972, <https://www.rfc-editor.org/info/rfc338>.

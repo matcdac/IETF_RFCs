@@ -1,0 +1,1 @@
+Pauly, T., Ed., and D. Thakore, Ed., "Captive Portal API", RFC 8908, DOI 10.17487/RFC8908, September 2020, <https://www.rfc-editor.org/info/rfc8908>.

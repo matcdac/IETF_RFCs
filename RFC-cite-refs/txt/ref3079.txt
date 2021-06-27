@@ -1,0 +1,1 @@
+Zorn, G., "Deriving Keys for use with Microsoft Point-to-Point Encryption (MPPE)", RFC 3079, DOI 10.17487/RFC3079, March 2001, <https://www.rfc-editor.org/info/rfc3079>.

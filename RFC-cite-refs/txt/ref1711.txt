@@ -1,0 +1,1 @@
+Houttuin, J., "Classifications in E-mail Routing", RFC 1711, DOI 10.17487/RFC1711, October 1994, <https://www.rfc-editor.org/info/rfc1711>.

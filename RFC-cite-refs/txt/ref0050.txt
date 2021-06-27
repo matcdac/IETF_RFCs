@@ -1,0 +1,1 @@
+Harslen, E. and J. Heafner, "Comments on the Meyer Proposal", RFC 50, DOI 10.17487/RFC0050, April 1970, <https://www.rfc-editor.org/info/rfc50>.

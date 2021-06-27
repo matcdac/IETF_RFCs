@@ -1,0 +1,1 @@
+Makela, A. and J. Korhonen, "Home Agent-Assisted Route Optimization between Mobile IPv4 Networks", RFC 6521, DOI 10.17487/RFC6521, February 2012, <https://www.rfc-editor.org/info/rfc6521>.

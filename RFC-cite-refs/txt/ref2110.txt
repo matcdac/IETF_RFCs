@@ -1,0 +1,1 @@
+Palme, J. and A. Hopmann, "MIME E-mail Encapsulation of Aggregate Documents, such as HTML (MHTML)", RFC 2110, DOI 10.17487/RFC2110, March 1997, <https://www.rfc-editor.org/info/rfc2110>.

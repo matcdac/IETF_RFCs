@@ -1,0 +1,1 @@
+Eastlake, D., "Internet Open Trading Protocol (IOTP) Version 1, Errata", RFC 3504, DOI 10.17487/RFC3504, March 2003, <https://www.rfc-editor.org/info/rfc3504>.

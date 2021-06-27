@@ -1,0 +1,1 @@
+Johnson, R., Kinnear, K., and M. Stapp, "Description of Cisco Systems' Subnet Allocation Option for DHCPv4", RFC 6656, DOI 10.17487/RFC6656, July 2012, <https://www.rfc-editor.org/info/rfc6656>.

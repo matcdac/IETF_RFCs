@@ -1,0 +1,1 @@
+Mockapetris, P., "Domain system changes and observations", RFC 973, DOI 10.17487/RFC0973, January 1986, <https://www.rfc-editor.org/info/rfc973>.

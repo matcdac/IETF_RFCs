@@ -1,0 +1,1 @@
+Ahlberg, J., Ed., Ye, M., Ed., Li, X., Contreras, LM., and CJ. Bernardos, "A Framework for Management and Control of Microwave and Millimeter Wave Interface Parameters", RFC 8432, DOI 10.17487/RFC8432, October 2018, <https://www.rfc-editor.org/info/rfc8432>.

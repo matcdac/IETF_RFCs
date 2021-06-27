@@ -1,0 +1,1 @@
+Livingood, J. and D. Troshynski, "IANA Registration of Enumservices for Voice and Video Messaging", RFC 5278, DOI 10.17487/RFC5278, July 2008, <https://www.rfc-editor.org/info/rfc5278>.

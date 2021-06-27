@@ -1,0 +1,1 @@
+Karp, D., "Display-Based Address Sorting for the IMAP4 SORT Extension", RFC 5957, DOI 10.17487/RFC5957, July 2010, <https://www.rfc-editor.org/info/rfc5957>.

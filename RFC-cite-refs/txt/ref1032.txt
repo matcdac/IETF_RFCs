@@ -1,0 +1,1 @@
+Stahl, M., "Domain administrators guide", RFC 1032, DOI 10.17487/RFC1032, November 1987, <https://www.rfc-editor.org/info/rfc1032>.

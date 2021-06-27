@@ -1,0 +1,1 @@
+Mills, D., "Simple Network Time Protocol (SNTP)", RFC 1769, DOI 10.17487/RFC1769, March 1995, <https://www.rfc-editor.org/info/rfc1769>.

@@ -1,0 +1,1 @@
+Lindgren, A., Doria, A., Davies, E., and S. Grasic, "Probabilistic Routing Protocol for Intermittently Connected Networks", RFC 6693, DOI 10.17487/RFC6693, August 2012, <https://www.rfc-editor.org/info/rfc6693>.

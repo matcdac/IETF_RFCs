@@ -1,0 +1,1 @@
+Gould, J. and M. Pozun, "Login Security Extension for the Extensible Provisioning Protocol (EPP)", RFC 8807, DOI 10.17487/RFC8807, August 2020, <https://www.rfc-editor.org/info/rfc8807>.

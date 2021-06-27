@@ -1,0 +1,1 @@
+Sahni, M., Ed., "Online Certificate Status Protocol (OCSP) Nonce Extension", RFC 8954, DOI 10.17487/RFC8954, November 2020, <https://www.rfc-editor.org/info/rfc8954>.

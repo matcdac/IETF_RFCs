@@ -1,0 +1,1 @@
+Shoshani, A., "Solution to the race condition in the ICP", RFC 161, DOI 10.17487/RFC0161, May 1971, <https://www.rfc-editor.org/info/rfc161>.

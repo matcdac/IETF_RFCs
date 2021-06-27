@@ -1,0 +1,1 @@
+McDonald, I., "IANA Charset MIB", RFC 3808, DOI 10.17487/RFC3808, June 2004, <https://www.rfc-editor.org/info/rfc3808>.

@@ -1,0 +1,1 @@
+Warnicke, E., "A Suggested Scheme for DNS Resolution of Networks and Gateways", RFC 4183, DOI 10.17487/RFC4183, September 2005, <https://www.rfc-editor.org/info/rfc4183>.

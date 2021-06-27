@@ -1,0 +1,1 @@
+Nystroem, M., "Cryptographic Token Key Initialization Protocol (CT-KIP) Version 1.0 Revision 1", RFC 4758, DOI 10.17487/RFC4758, November 2006, <https://www.rfc-editor.org/info/rfc4758>.

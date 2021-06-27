@@ -1,0 +1,1 @@
+Papadimitriou, D., Ed., Ong, L., Sadler, J., Shew, S., and D. Ward, "Evaluation of Existing Routing Protocols against Automatic Switched Optical Network (ASON) Routing Requirements", RFC 4652, DOI 10.17487/RFC4652, October 2006, <https://www.rfc-editor.org/info/rfc4652>.

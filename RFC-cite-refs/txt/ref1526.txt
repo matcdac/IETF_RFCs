@@ -1,0 +1,1 @@
+Piscitello, D., "Assignment of System Identifiers for TUBA/CLNP Hosts", RFC 1526, DOI 10.17487/RFC1526, September 1993, <https://www.rfc-editor.org/info/rfc1526>.

@@ -1,0 +1,1 @@
+Davin, J., Case, J., Fedor, M., and M. Schoffstall, "Simple Gateway Monitoring Protocol", RFC 1028, DOI 10.17487/RFC1028, November 1987, <https://www.rfc-editor.org/info/rfc1028>.

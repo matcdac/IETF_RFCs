@@ -1,0 +1,1 @@
+Winterbottom, J. and M. Thomson, "Specifying Holes in Location-to-Service Translation (LoST) Service Boundaries", RFC 5964, DOI 10.17487/RFC5964, August 2010, <https://www.rfc-editor.org/info/rfc5964>.

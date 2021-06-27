@@ -1,0 +1,1 @@
+Boeyen, S. and P. Hallam-Baker, "Internet X.509 Public Key Infrastructure Repository Locator Service", RFC 4386, DOI 10.17487/RFC4386, February 2006, <https://www.rfc-editor.org/info/rfc4386>.

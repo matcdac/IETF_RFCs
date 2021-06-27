@@ -1,0 +1,1 @@
+Lee, F., "HZ - A Data Format for Exchanging Files of Arbitrarily Mixed Chinese and ASCII characters", RFC 1843, DOI 10.17487/RFC1843, August 1995, <https://www.rfc-editor.org/info/rfc1843>.

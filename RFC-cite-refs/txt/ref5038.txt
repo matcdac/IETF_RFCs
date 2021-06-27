@@ -1,0 +1,1 @@
+Thomas, B. and L. Andersson, "The Label Distribution Protocol (LDP) Implementation Survey Results", RFC 5038, DOI 10.17487/RFC5038, October 2007, <https://www.rfc-editor.org/info/rfc5038>.

@@ -1,0 +1,1 @@
+Camarillo, G., Ott, J., and K. Drage, "The Binary Floor Control Protocol (BFCP)", RFC 4582, DOI 10.17487/RFC4582, November 2006, <https://www.rfc-editor.org/info/rfc4582>.

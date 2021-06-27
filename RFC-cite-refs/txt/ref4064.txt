@@ -1,0 +1,1 @@
+Patel, A. and K. Leung, "Experimental Message, Extensions, and Error Codes for Mobile IPv4", RFC 4064, DOI 10.17487/RFC4064, May 2005, <https://www.rfc-editor.org/info/rfc4064>.

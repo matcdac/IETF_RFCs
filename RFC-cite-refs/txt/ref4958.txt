@@ -1,0 +1,1 @@
+Carlberg, K., "A Framework for Supporting Emergency Telecommunications Services (ETS) within a Single Administrative Domain", RFC 4958, DOI 10.17487/RFC4958, July 2007, <https://www.rfc-editor.org/info/rfc4958>.

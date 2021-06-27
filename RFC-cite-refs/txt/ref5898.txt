@@ -1,0 +1,1 @@
+Andreasen, F., Camarillo, G., Oran, D., and D. Wing, "Connectivity Preconditions for Session Description Protocol (SDP) Media Streams", RFC 5898, DOI 10.17487/RFC5898, July 2010, <https://www.rfc-editor.org/info/rfc5898>.

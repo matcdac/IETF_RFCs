@@ -1,0 +1,1 @@
+Hardie, T., Bowman, M., Hardy, D., Schwartz, M., and D. Wessels, "CIP Index Object Format for SOIF Objects", RFC 2655, DOI 10.17487/RFC2655, August 1999, <https://www.rfc-editor.org/info/rfc2655>.

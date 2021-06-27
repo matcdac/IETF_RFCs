@@ -1,0 +1,1 @@
+Romano, S., Stahl, M., and M. Recker, "Internet numbers", RFC 1062, DOI 10.17487/RFC1062, August 1988, <https://www.rfc-editor.org/info/rfc1062>.

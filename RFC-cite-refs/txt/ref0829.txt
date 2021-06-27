@@ -1,0 +1,1 @@
+Cerf, V., "Packet satellite technology reference sources", RFC 829, DOI 10.17487/RFC0829, November 1982, <https://www.rfc-editor.org/info/rfc829>.

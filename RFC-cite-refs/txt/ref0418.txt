@@ -1,0 +1,1 @@
+Hathaway, W., "Server File Transfer Under TSS/360 At NASA-Ames Research Center", RFC 418, DOI 10.17487/RFC0418, November 1972, <https://www.rfc-editor.org/info/rfc418>.

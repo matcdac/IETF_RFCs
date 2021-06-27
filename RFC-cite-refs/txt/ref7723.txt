@@ -1,0 +1,1 @@
+Kiesel, S. and R. Penno, "Port Control Protocol (PCP) Anycast Addresses", RFC 7723, DOI 10.17487/RFC7723, January 2016, <https://www.rfc-editor.org/info/rfc7723>.

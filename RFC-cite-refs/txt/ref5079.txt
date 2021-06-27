@@ -1,0 +1,1 @@
+Rosenberg, J., "Rejecting Anonymous Requests in the Session Initiation Protocol (SIP)", RFC 5079, DOI 10.17487/RFC5079, December 2007, <https://www.rfc-editor.org/info/rfc5079>.

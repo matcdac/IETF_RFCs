@@ -1,0 +1,1 @@
+Sprecher, N. and KY. Hong, "The Reasons for Selecting a Single Solution for MPLS Transport Profile (MPLS-TP) Operations, Administration, and Maintenance (OAM)", RFC 6670, DOI 10.17487/RFC6670, July 2012, <https://www.rfc-editor.org/info/rfc6670>.

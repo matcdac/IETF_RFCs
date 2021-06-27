@@ -1,0 +1,1 @@
+Eastlake 3rd, D., "Internet Open Trading Protocol Version 2 Requirements", RFC 3354, DOI 10.17487/RFC3354, August 2002, <https://www.rfc-editor.org/info/rfc3354>.

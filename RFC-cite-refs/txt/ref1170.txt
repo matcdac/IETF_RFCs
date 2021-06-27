@@ -1,0 +1,1 @@
+Fougner, R., "Public key standards and licenses", RFC 1170, DOI 10.17487/RFC1170, January 1991, <https://www.rfc-editor.org/info/rfc1170>.

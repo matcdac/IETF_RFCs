@@ -1,0 +1,1 @@
+Reynolds, J. and R. Braden, "Internet Official Protocol Standards", RFC 2600, DOI 10.17487/RFC2600, March 2000, <https://www.rfc-editor.org/info/rfc2600>.

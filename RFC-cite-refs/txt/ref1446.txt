@@ -1,0 +1,1 @@
+Galvin, J. and K. McCloghrie, "Security Protocols for version 2 of the Simple Network Management Protocol (SNMPv2)", RFC 1446, DOI 10.17487/RFC1446, April 1993, <https://www.rfc-editor.org/info/rfc1446>.

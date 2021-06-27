@@ -1,0 +1,1 @@
+Shah, H., Rosen, E., Le Faucheur, F., and G. Heron, "IP-Only LAN Service (IPLS)", RFC 7436, DOI 10.17487/RFC7436, January 2015, <https://www.rfc-editor.org/info/rfc7436>.

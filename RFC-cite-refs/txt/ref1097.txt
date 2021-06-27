@@ -1,0 +1,1 @@
+Miller, B., "Telnet subliminal-message option", RFC 1097, DOI 10.17487/RFC1097, April 1 1989, <https://www.rfc-editor.org/info/rfc1097>.

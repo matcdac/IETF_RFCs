@@ -1,0 +1,1 @@
+Harrenstien, K. and V. White, "NICNAME/WHOIS", RFC 812, DOI 10.17487/RFC0812, March 1982, <https://www.rfc-editor.org/info/rfc812>.

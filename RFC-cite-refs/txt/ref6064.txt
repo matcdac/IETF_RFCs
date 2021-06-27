@@ -1,0 +1,1 @@
+Westerlund, M. and P. Frojdh, "SDP and RTSP Extensions Defined for 3GPP Packet-Switched Streaming Service and Multimedia Broadcast/Multicast Service", RFC 6064, DOI 10.17487/RFC6064, January 2011, <https://www.rfc-editor.org/info/rfc6064>.

@@ -1,0 +1,1 @@
+Kalin, T. and M. Molina, "A URN Namespace for GEANT", RFC 4926, DOI 10.17487/RFC4926, July 2007, <https://www.rfc-editor.org/info/rfc4926>.

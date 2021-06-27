@@ -1,0 +1,1 @@
+Atkins, D., "Use of the Walnut Digital Signature Algorithm with CBOR Object Signing and Encryption (COSE)", RFC 9021, DOI 10.17487/RFC9021, May 2021, <https://www.rfc-editor.org/info/rfc9021>.

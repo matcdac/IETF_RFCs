@@ -1,0 +1,1 @@
+Hagens, R. and A. Hansen, "Operational Requirements for X.400 Management Domains in the GO-MHS Community", RFC 1649, DOI 10.17487/RFC1649, July 1994, <https://www.rfc-editor.org/info/rfc1649>.

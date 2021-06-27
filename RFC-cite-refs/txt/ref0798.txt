@@ -1,0 +1,1 @@
+Katz, A., "Decoding facsimile data from the Rapicom 450", RFC 798, DOI 10.17487/RFC0798, September 1981, <https://www.rfc-editor.org/info/rfc798>.

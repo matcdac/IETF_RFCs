@@ -1,0 +1,1 @@
+Rose, M., "Post Office Protocol: Version 3: Extended service offerings", RFC 1082, DOI 10.17487/RFC1082, November 1988, <https://www.rfc-editor.org/info/rfc1082>.

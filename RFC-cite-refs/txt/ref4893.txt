@@ -1,0 +1,1 @@
+Vohra, Q. and E. Chen, "BGP Support for Four-octet AS Number Space", RFC 4893, DOI 10.17487/RFC4893, May 2007, <https://www.rfc-editor.org/info/rfc4893>.

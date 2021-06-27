@@ -1,0 +1,1 @@
+Kuehn, P., "Thoughts on Address Resolution for Dual MAC FDDI Networks", RFC 1329, DOI 10.17487/RFC1329, May 1992, <https://www.rfc-editor.org/info/rfc1329>.

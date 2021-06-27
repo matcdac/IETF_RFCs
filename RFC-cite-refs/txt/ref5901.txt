@@ -1,0 +1,1 @@
+Cain, P. and D. Jevans, "Extensions to the IODEF-Document Class for Reporting Phishing", RFC 5901, DOI 10.17487/RFC5901, July 2010, <https://www.rfc-editor.org/info/rfc5901>.

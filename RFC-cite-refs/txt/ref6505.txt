@@ -1,0 +1,1 @@
+McGlashan, S., Melanchuk, T., and C. Boulton, "A Mixer Control Package for the Media Control Channel Framework", RFC 6505, DOI 10.17487/RFC6505, March 2012, <https://www.rfc-editor.org/info/rfc6505>.

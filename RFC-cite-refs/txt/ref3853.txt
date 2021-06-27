@@ -1,0 +1,1 @@
+Peterson, J., "S/MIME Advanced Encryption Standard (AES) Requirement for the Session Initiation Protocol (SIP)", RFC 3853, DOI 10.17487/RFC3853, July 2004, <https://www.rfc-editor.org/info/rfc3853>.

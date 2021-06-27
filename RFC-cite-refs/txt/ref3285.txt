@@ -1,0 +1,1 @@
+Gahrns, M. and T. Hain, "Using Microsoft Word to create Internet Drafts and RFCs", RFC 3285, DOI 10.17487/RFC3285, May 2002, <https://www.rfc-editor.org/info/rfc3285>.

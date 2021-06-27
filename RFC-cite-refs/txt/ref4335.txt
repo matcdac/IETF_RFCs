@@ -1,0 +1,1 @@
+Galbraith, J. and P. Remaker, "The Secure Shell (SSH) Session Channel Break Extension", RFC 4335, DOI 10.17487/RFC4335, January 2006, <https://www.rfc-editor.org/info/rfc4335>.

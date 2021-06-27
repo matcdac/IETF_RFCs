@@ -1,0 +1,1 @@
+Wasserman, M., "Updates to RFC 2418 Regarding the Management of IETF Mailing Lists", BCP 25, RFC 3934, DOI 10.17487/RFC3934, October 2004, <https://www.rfc-editor.org/info/rfc3934>.

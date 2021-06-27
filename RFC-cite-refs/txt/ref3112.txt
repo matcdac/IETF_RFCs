@@ -1,0 +1,1 @@
+Zeilenga, K., "LDAP Authentication Password Schema", RFC 3112, DOI 10.17487/RFC3112, May 2001, <https://www.rfc-editor.org/info/rfc3112>.

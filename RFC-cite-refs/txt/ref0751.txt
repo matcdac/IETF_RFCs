@@ -1,0 +1,1 @@
+Lebling, P., "Survey of FTP mail and MLFL", RFC 751, DOI 10.17487/RFC0751, December 1978, <https://www.rfc-editor.org/info/rfc751>.

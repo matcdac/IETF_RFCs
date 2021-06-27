@@ -1,0 +1,1 @@
+Mayrhofer, A., "IANA Registration for Enumservice 'XMPP'", RFC 4979, DOI 10.17487/RFC4979, August 2007, <https://www.rfc-editor.org/info/rfc4979>.

@@ -1,0 +1,1 @@
+Shi, Y., Ed., Perkins, D., Ed., Elliott, C., Ed., and Y. Zhang, Ed., "Control and Provisioning of Wireless Access Points (CAPWAP) Protocol Base MIB", RFC 5833, DOI 10.17487/RFC5833, May 2010, <https://www.rfc-editor.org/info/rfc5833>.

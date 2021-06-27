@@ -1,0 +1,1 @@
+Rosenberg, J., "A Data Model for Presence", RFC 4479, DOI 10.17487/RFC4479, July 2006, <https://www.rfc-editor.org/info/rfc4479>.

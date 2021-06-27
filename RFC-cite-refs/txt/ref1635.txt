@@ -1,0 +1,1 @@
+Deutsch, P., Emtage, A., and A. Marine, "How to Use Anonymous FTP", FYI 24, RFC 1635, DOI 10.17487/RFC1635, May 1994, <https://www.rfc-editor.org/info/rfc1635>.

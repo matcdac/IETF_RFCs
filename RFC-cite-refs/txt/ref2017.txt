@@ -1,0 +1,1 @@
+Freed, N., Moore, K., and A. Cargille, "Definition of the URL MIME External-Body Access-Type", RFC 2017, DOI 10.17487/RFC2017, October 1996, <https://www.rfc-editor.org/info/rfc2017>.

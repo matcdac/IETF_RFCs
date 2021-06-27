@@ -1,0 +1,1 @@
+Adrangi, F., Lortz, V., Bari, F., and P. Eronen, "Identity Selection Hints for the Extensible Authentication Protocol (EAP)", RFC 4284, DOI 10.17487/RFC4284, January 2006, <https://www.rfc-editor.org/info/rfc4284>.

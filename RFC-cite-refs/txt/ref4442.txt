@@ -1,0 +1,1 @@
+Fries, S. and H. Tschofenig, "Bootstrapping Timed Efficient Stream Loss-Tolerant Authentication (TESLA)", RFC 4442, DOI 10.17487/RFC4442, March 2006, <https://www.rfc-editor.org/info/rfc4442>.

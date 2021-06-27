@@ -1,0 +1,1 @@
+Kaduk, B. and M. Short, "Deprecate Triple-DES (3DES) and RC4 in Kerberos", BCP 218, RFC 8429, DOI 10.17487/RFC8429, October 2018, <https://www.rfc-editor.org/info/rfc8429>.

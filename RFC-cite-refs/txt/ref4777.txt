@@ -1,0 +1,1 @@
+Murphy Jr., T., Rieth, P., and J. Stevens, "IBM's iSeries Telnet Enhancements", RFC 4777, DOI 10.17487/RFC4777, November 2006, <https://www.rfc-editor.org/info/rfc4777>.

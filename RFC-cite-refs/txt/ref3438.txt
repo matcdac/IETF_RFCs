@@ -1,0 +1,1 @@
+Townsley, W., "Layer Two Tunneling Protocol (L2TP) Internet Assigned Numbers Authority (IANA) Considerations Update", BCP 68, RFC 3438, DOI 10.17487/RFC3438, December 2002, <https://www.rfc-editor.org/info/rfc3438>.

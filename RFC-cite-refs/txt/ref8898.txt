@@ -1,0 +1,1 @@
+Shekh-Yusef, R., Holmberg, C., and V. Pascual, "Third-Party Token-Based Authentication and Authorization for Session Initiation Protocol (SIP)", RFC 8898, DOI 10.17487/RFC8898, September 2020, <https://www.rfc-editor.org/info/rfc8898>.

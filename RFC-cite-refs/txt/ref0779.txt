@@ -1,0 +1,1 @@
+Killian, E., "Telnet send-location option", RFC 779, DOI 10.17487/RFC0779, April 1981, <https://www.rfc-editor.org/info/rfc779>.

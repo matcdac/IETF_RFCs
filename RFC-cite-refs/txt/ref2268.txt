@@ -1,0 +1,1 @@
+Rivest, R., "A Description of the RC2(r) Encryption Algorithm", RFC 2268, DOI 10.17487/RFC2268, March 1998, <https://www.rfc-editor.org/info/rfc2268>.

@@ -1,0 +1,1 @@
+Le Roux, J., Ed., "Requirements for Path Computation Element (PCE) Discovery", RFC 4674, DOI 10.17487/RFC4674, October 2006, <https://www.rfc-editor.org/info/rfc4674>.

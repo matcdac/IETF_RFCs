@@ -1,0 +1,1 @@
+Federal Networking Council, "U.S. Government Internet Domain Names", RFC 2146, DOI 10.17487/RFC2146, May 1997, <https://www.rfc-editor.org/info/rfc2146>.

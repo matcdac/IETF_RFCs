@@ -1,0 +1,1 @@
+Griffiths, C., Livingood, J., Popkin, L., Woundy, R., and Y. Yang, "Comcast's ISP Experiences in a Proactive Network Provider Participation for P2P (P4P) Technical Trial", RFC 5632, DOI 10.17487/RFC5632, September 2009, <https://www.rfc-editor.org/info/rfc5632>.

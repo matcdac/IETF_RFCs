@@ -1,0 +1,1 @@
+Waldbusser, S., "Remote Network Monitoring Management Information Base Version 2 using SMIv2", RFC 2021, DOI 10.17487/RFC2021, January 1997, <https://www.rfc-editor.org/info/rfc2021>.

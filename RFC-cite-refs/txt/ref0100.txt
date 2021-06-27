@@ -1,0 +1,1 @@
+Karp, P., "Categorization and guide to NWG/RFCs", RFC 100, DOI 10.17487/RFC0100, February 1971, <https://www.rfc-editor.org/info/rfc100>.

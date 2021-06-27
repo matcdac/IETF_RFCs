@@ -1,0 +1,1 @@
+Manderson, T., Vegoda, L., and S. Kent, "Resource Public Key Infrastructure (RPKI) Objects Issued by IANA", RFC 6491, DOI 10.17487/RFC6491, February 2012, <https://www.rfc-editor.org/info/rfc6491>.

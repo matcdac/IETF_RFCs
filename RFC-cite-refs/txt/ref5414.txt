@@ -1,0 +1,1 @@
+Iino, S., Govindan, S., Sugiura, M., and H. Cheng, "Wireless LAN Control Protocol (WiCoP)", RFC 5414, DOI 10.17487/RFC5414, February 2010, <https://www.rfc-editor.org/info/rfc5414>.

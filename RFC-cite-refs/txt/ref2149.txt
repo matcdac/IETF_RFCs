@@ -1,0 +1,1 @@
+Talpade, R. and M. Ammar, "Multicast Server Architectures for MARS-based ATM multicasting", RFC 2149, DOI 10.17487/RFC2149, May 1997, <https://www.rfc-editor.org/info/rfc2149>.

@@ -1,0 +1,1 @@
+Vainshtein, A. and Y(J). Stein, "Control Protocol Extensions for the Setup of Time-Division Multiplexing (TDM) Pseudowires in MPLS Networks", RFC 5287, DOI 10.17487/RFC5287, August 2008, <https://www.rfc-editor.org/info/rfc5287>.

@@ -1,0 +1,1 @@
+Manning, B., "DISCOVER: Supporting Multicast DNS Queries", RFC 6804, DOI 10.17487/RFC6804, November 2012, <https://www.rfc-editor.org/info/rfc6804>.

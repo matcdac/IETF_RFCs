@@ -1,0 +1,1 @@
+Postel, J. and J. Vernon, "Request For Comments summary notes: 700-799", RFC 800, DOI 10.17487/RFC0800, November 1982, <https://www.rfc-editor.org/info/rfc800>.

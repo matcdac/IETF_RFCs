@@ -1,0 +1,1 @@
+Callaghan, B., "WebNFS Client Specification", RFC 2054, DOI 10.17487/RFC2054, October 1996, <https://www.rfc-editor.org/info/rfc2054>.

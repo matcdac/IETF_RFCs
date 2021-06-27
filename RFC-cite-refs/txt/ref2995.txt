@@ -1,0 +1,1 @@
+Lu, H., Ed., Faynberg, I., Voelker, J., Weissman, M., Zhang, W., Rhim, S., Hwang, J., Ago, S., Moeenuddin, S., Hadvani, S., Nyckelgard, S., Yoakum, J., and L. Robart, "Pre-Spirits Implementations of PSTN-initiated Services", RFC 2995, DOI 10.17487/RFC2995, November 2000, <https://www.rfc-editor.org/info/rfc2995>.

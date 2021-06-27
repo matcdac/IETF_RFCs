@@ -1,0 +1,1 @@
+Ts'o, T., "Telnet Encryption: DES 64 bit Output Feedback", RFC 2953, DOI 10.17487/RFC2953, September 2000, <https://www.rfc-editor.org/info/rfc2953>.

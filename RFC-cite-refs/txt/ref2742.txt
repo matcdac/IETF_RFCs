@@ -1,0 +1,1 @@
+Heintz, L., Gudur, S., and M. Ellison, "Definitions of Managed Objects for Extensible SNMP Agents", RFC 2742, DOI 10.17487/RFC2742, January 2000, <https://www.rfc-editor.org/info/rfc2742>.

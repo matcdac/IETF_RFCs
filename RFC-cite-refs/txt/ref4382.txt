@@ -1,0 +1,1 @@
+Nadeau, T., Ed., and H. van der Linde, Ed., "MPLS/BGP Layer 3 Virtual Private Network (VPN) Management Information Base", RFC 4382, DOI 10.17487/RFC4382, February 2006, <https://www.rfc-editor.org/info/rfc4382>.

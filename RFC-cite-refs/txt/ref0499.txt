@@ -1,0 +1,1 @@
+Reussow, B., "Harvard's network RJE", RFC 499, DOI 10.17487/RFC0499, April 1973, <https://www.rfc-editor.org/info/rfc499>.

@@ -1,0 +1,1 @@
+Chen, V., Ed., Das, S., Zhu, L., Malyar, J., and P. McCann, "Protocol to Access White-Space (PAWS) Databases", RFC 7545, DOI 10.17487/RFC7545, May 2015, <https://www.rfc-editor.org/info/rfc7545>.

@@ -1,0 +1,1 @@
+Henderson, T., Ed., Vogt, C., and J. Arkko, "Host Multihoming with the Host Identity Protocol", RFC 8047, DOI 10.17487/RFC8047, February 2017, <https://www.rfc-editor.org/info/rfc8047>.

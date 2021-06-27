@@ -1,0 +1,1 @@
+Behringer, M., Le Faucheur, F., and B. Weis, "Applicability of Keying Methods for RSVP Security", RFC 6411, DOI 10.17487/RFC6411, October 2011, <https://www.rfc-editor.org/info/rfc6411>.

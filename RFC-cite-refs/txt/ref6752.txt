@@ -1,0 +1,1 @@
+Kirkham, A., "Issues with Private IP Addressing in the Internet", RFC 6752, DOI 10.17487/RFC6752, September 2012, <https://www.rfc-editor.org/info/rfc6752>.

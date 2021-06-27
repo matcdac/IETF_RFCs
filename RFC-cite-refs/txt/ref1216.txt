@@ -1,0 +1,1 @@
+Richard, P. and P. Kynikos, "Gigabit network economics and paradigm shifts", RFC 1216, DOI 10.17487/RFC1216, April 1 1991, <https://www.rfc-editor.org/info/rfc1216>.

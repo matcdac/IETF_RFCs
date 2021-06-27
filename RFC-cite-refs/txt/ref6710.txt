@@ -1,0 +1,1 @@
+Melnikov, A. and K. Carlberg, "Simple Mail Transfer Protocol Extension for Message Transfer Priorities", RFC 6710, DOI 10.17487/RFC6710, August 2012, <https://www.rfc-editor.org/info/rfc6710>.

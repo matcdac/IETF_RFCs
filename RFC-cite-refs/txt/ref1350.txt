@@ -1,0 +1,1 @@
+Sollins, K., "The TFTP Protocol (Revision 2)", STD 33, RFC 1350, DOI 10.17487/RFC1350, July 1992, <https://www.rfc-editor.org/info/rfc1350>.

@@ -1,0 +1,1 @@
+Shand, M. and L. Ginsberg, "Restart Signaling for Intermediate System to Intermediate System (IS-IS)", RFC 3847, DOI 10.17487/RFC3847, July 2004, <https://www.rfc-editor.org/info/rfc3847>.

@@ -1,0 +1,1 @@
+Melvin, J., "IMP-IMP Teletype Communication", RFC 41, DOI 10.17487/RFC0041, March 1970, <https://www.rfc-editor.org/info/rfc41>.

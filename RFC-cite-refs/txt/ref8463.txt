@@ -1,0 +1,1 @@
+Levine, J., "A New Cryptographic Signature Method for DomainKeys Identified Mail (DKIM)", RFC 8463, DOI 10.17487/RFC8463, September 2018, <https://www.rfc-editor.org/info/rfc8463>.

@@ -1,0 +1,1 @@
+Peterson, J., "A Presence Architecture for the Distribution of GEOPRIV Location Objects", RFC 4079, DOI 10.17487/RFC4079, July 2005, <https://www.rfc-editor.org/info/rfc4079>.

@@ -1,0 +1,1 @@
+Harslem, E. and J. Heafner, "Some thoughts on Network Graphics", RFC 94, DOI 10.17487/RFC0094, February 1971, <https://www.rfc-editor.org/info/rfc94>.

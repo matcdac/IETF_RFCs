@@ -1,0 +1,1 @@
+Bunch, S., "Illinois' reply to Maxwell's request for graphics information (NIC 14925)", RFC 472, DOI 10.17487/RFC0472, March 1973, <https://www.rfc-editor.org/info/rfc472>.

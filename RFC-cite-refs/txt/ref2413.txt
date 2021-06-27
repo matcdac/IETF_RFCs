@@ -1,0 +1,1 @@
+Weibel, S., Kunze, J., Lagoze, C., and M. Wolf, "Dublin Core Metadata for Resource Discovery", RFC 2413, DOI 10.17487/RFC2413, September 1998, <https://www.rfc-editor.org/info/rfc2413>.

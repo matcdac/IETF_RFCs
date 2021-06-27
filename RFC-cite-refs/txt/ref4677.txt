@@ -1,0 +1,1 @@
+Hoffman, P. and S. Harris, "The Tao of IETF - A Novice's Guide to the Internet Engineering Task Force", RFC 4677, DOI 10.17487/RFC4677, September 2006, <https://www.rfc-editor.org/info/rfc4677>.

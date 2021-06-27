@@ -1,0 +1,1 @@
+Nadeau, T. and S. Hegde, "Multiprotocol Label Switching (MPLS) Label-Controlled Asynchronous Transfer Mode (ATM) and Frame-Relay Management Interface Definition", RFC 4368, DOI 10.17487/RFC4368, January 2006, <https://www.rfc-editor.org/info/rfc4368>.

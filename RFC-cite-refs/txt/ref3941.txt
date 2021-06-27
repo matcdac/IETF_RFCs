@@ -1,0 +1,1 @@
+Adamson, B., Bormann, C., Handley, M., and J. Macker, "Negative-Acknowledgment (NACK)-Oriented Reliable Multicast (NORM) Building Blocks", RFC 3941, DOI 10.17487/RFC3941, November 2004, <https://www.rfc-editor.org/info/rfc3941>.

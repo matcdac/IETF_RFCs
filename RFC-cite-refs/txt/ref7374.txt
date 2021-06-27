@@ -1,0 +1,1 @@
+Maenpaa, J. and G. Camarillo, "Service Discovery Usage for REsource LOcation And Discovery (RELOAD)", RFC 7374, DOI 10.17487/RFC7374, October 2014, <https://www.rfc-editor.org/info/rfc7374>.

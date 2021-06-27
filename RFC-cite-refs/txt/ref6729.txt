@@ -1,0 +1,1 @@
+Crocker, D. and M. Kucherawy, "Indicating Email Handling States in Trace Fields", RFC 6729, DOI 10.17487/RFC6729, September 2012, <https://www.rfc-editor.org/info/rfc6729>.

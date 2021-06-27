@@ -1,0 +1,1 @@
+Boulton, C., Miniero, L., and G. Munson, "Media Resource Brokering", RFC 6917, DOI 10.17487/RFC6917, April 2013, <https://www.rfc-editor.org/info/rfc6917>.

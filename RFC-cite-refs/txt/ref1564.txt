@@ -1,0 +1,1 @@
+Barker, P. and R. Hedberg, "DSA Metrics (OSI-DS 34 (v3))", RFC 1564, DOI 10.17487/RFC1564, January 1994, <https://www.rfc-editor.org/info/rfc1564>.

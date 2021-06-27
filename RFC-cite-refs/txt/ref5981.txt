@@ -1,0 +1,1 @@
+Manner, J., Stiemerling, M., Tschofenig, H., and R. Bless, Ed., "Authorization for NSIS Signaling Layer Protocols", RFC 5981, DOI 10.17487/RFC5981, February 2011, <https://www.rfc-editor.org/info/rfc5981>.

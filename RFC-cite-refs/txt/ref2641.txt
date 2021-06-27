@@ -1,0 +1,1 @@
+Hamilton, D. and D. Ruffen, "Cabletron's VlanHello Protocol Specification Version 4", RFC 2641, DOI 10.17487/RFC2641, August 1999, <https://www.rfc-editor.org/info/rfc2641>.

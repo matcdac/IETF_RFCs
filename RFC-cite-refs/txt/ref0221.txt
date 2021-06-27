@@ -1,0 +1,1 @@
+Watson, R., "Mail Box Protocol: Version 2", RFC 221, DOI 10.17487/RFC0221, August 1971, <https://www.rfc-editor.org/info/rfc221>.

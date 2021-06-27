@@ -1,0 +1,1 @@
+Loughney, J. and G. Camarillo, "Authentication, Authorization, and Accounting Requirements for the Session Initiation Protocol (SIP)", RFC 3702, DOI 10.17487/RFC3702, February 2004, <https://www.rfc-editor.org/info/rfc3702>.

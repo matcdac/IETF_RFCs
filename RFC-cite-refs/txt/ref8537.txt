@@ -1,0 +1,1 @@
+Gandhi, R., Ed., Shah, H., and J. Whittaker, "Updates to the Fast Reroute Procedures for Co-routed Associated Bidirectional Label Switched Paths (LSPs)", RFC 8537, DOI 10.17487/RFC8537, February 2019, <https://www.rfc-editor.org/info/rfc8537>.

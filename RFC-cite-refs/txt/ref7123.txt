@@ -1,0 +1,1 @@
+Gont, F. and W. Liu, "Security Implications of IPv6 on IPv4 Networks", RFC 7123, DOI 10.17487/RFC7123, February 2014, <https://www.rfc-editor.org/info/rfc7123>.

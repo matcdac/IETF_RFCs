@@ -1,0 +1,1 @@
+Aboba, B., Thaler, D., and L. Esibov, "Link-local Multicast Name Resolution (LLMNR)", RFC 4795, DOI 10.17487/RFC4795, January 2007, <https://www.rfc-editor.org/info/rfc4795>.

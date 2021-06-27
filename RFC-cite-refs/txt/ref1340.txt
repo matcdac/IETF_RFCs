@@ -1,0 +1,1 @@
+Reynolds, J. and J. Postel, "Assigned Numbers", RFC 1340, DOI 10.17487/RFC1340, July 1992, <https://www.rfc-editor.org/info/rfc1340>.

@@ -1,0 +1,1 @@
+Guttman, E., Perkins, C., Veizades, J., and M. Day, "Service Location Protocol, Version 2", RFC 2608, DOI 10.17487/RFC2608, June 1999, <https://www.rfc-editor.org/info/rfc2608>.

@@ -1,0 +1,1 @@
+Campbell, B. and R. Sparks, "Control of Service Context using SIP Request-URI", RFC 3087, DOI 10.17487/RFC3087, April 2001, <https://www.rfc-editor.org/info/rfc3087>.

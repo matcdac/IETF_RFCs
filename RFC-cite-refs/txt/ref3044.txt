@@ -1,0 +1,1 @@
+Rozenfeld, S., "Using The ISSN (International Serial Standard Number) as URN (Uniform Resource Names) within an ISSN-URN Namespace", RFC 3044, DOI 10.17487/RFC3044, January 2001, <https://www.rfc-editor.org/info/rfc3044>.

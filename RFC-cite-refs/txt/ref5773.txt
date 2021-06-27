@@ -1,0 +1,1 @@
+Davies, E. and A. Doria, "Analysis of Inter-Domain Routing Requirements and History", RFC 5773, DOI 10.17487/RFC5773, February 2010, <https://www.rfc-editor.org/info/rfc5773>.

@@ -1,0 +1,1 @@
+Hoffman, P., "Cryptographic Suites for IPsec", RFC 4308, DOI 10.17487/RFC4308, December 2005, <https://www.rfc-editor.org/info/rfc4308>.

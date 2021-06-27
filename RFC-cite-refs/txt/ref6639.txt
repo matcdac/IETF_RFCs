@@ -1,0 +1,1 @@
+King, D., Ed., and M. Venkatesan, Ed., "Multiprotocol Label Switching Transport Profile (MPLS-TP) MIB-Based Management Overview", RFC 6639, DOI 10.17487/RFC6639, June 2012, <https://www.rfc-editor.org/info/rfc6639>.

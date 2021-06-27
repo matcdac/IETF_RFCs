@@ -1,0 +1,1 @@
+Zhuang, Y., Wu, Q., Chen, H., and A. Farrel, "Framework for Scheduled Use of Resources", RFC 8413, DOI 10.17487/RFC8413, July 2018, <https://www.rfc-editor.org/info/rfc8413>.

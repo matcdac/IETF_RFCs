@@ -1,0 +1,1 @@
+Polk, J., Schnizlein, J., and M. Linsner, "Dynamic Host Configuration Protocol Option for Coordinate-based Location Configuration Information", RFC 3825, DOI 10.17487/RFC3825, July 2004, <https://www.rfc-editor.org/info/rfc3825>.

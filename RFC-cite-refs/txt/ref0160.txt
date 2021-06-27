@@ -1,0 +1,1 @@
+Network Information Center. Stanford Research Institute, "RFC brief list", RFC 160, DOI 10.17487/RFC0160, May 1971, <https://www.rfc-editor.org/info/rfc160>.

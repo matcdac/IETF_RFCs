@@ -1,0 +1,1 @@
+Leelanivas, M., Rekhter, Y., and R. Aggarwal, "Graceful Restart Mechanism for Label Distribution Protocol", RFC 3478, DOI 10.17487/RFC3478, February 2003, <https://www.rfc-editor.org/info/rfc3478>.

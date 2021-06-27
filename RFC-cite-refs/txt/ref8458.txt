@@ -1,0 +1,1 @@
+Hakala, J., "Using National Bibliography Numbers as Uniform Resource Names", RFC 8458, DOI 10.17487/RFC8458, October 2018, <https://www.rfc-editor.org/info/rfc8458>.

@@ -1,0 +1,1 @@
+Schulzrinne, H., Polk, J., and H. Tschofenig, "Discovering Location-to-Service Translation (LoST) Servers Using the Dynamic Host Configuration Protocol (DHCP)", RFC 5223, DOI 10.17487/RFC5223, August 2008, <https://www.rfc-editor.org/info/rfc5223>.

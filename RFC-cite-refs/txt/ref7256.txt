@@ -1,0 +1,1 @@
+Le Faucheur, F., Maglione, R., and T. Taylor, "Multicast Control Extensions for the Access Node Control Protocol (ANCP)", RFC 7256, DOI 10.17487/RFC7256, July 2014, <https://www.rfc-editor.org/info/rfc7256>.

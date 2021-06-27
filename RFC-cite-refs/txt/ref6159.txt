@@ -1,0 +1,1 @@
+Tsou, T., Zorn, G., and T. Taylor, Ed., "Session-Specific Explicit Diameter Request Routing", RFC 6159, DOI 10.17487/RFC6159, April 2011, <https://www.rfc-editor.org/info/rfc6159>.

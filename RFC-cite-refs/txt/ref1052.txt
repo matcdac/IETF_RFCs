@@ -1,0 +1,1 @@
+Cerf, V., "IAB recommendations for the development of Internet network management standards", RFC 1052, DOI 10.17487/RFC1052, April 1988, <https://www.rfc-editor.org/info/rfc1052>.

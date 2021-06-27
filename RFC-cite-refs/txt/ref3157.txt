@@ -1,0 +1,1 @@
+Arsenault, A. and S. Farrell, "Securely Available Credentials - Requirements", RFC 3157, DOI 10.17487/RFC3157, August 2001, <https://www.rfc-editor.org/info/rfc3157>.

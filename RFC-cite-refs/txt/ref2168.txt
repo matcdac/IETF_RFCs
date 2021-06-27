@@ -1,0 +1,1 @@
+Daniel, R. and M. Mealling, "Resolution of Uniform Resource Identifiers using the Domain Name System", RFC 2168, DOI 10.17487/RFC2168, June 1997, <https://www.rfc-editor.org/info/rfc2168>.

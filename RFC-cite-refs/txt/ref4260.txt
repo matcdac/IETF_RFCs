@@ -1,0 +1,1 @@
+McCann, P., "Mobile IPv6 Fast Handovers for 802.11 Networks", RFC 4260, DOI 10.17487/RFC4260, November 2005, <https://www.rfc-editor.org/info/rfc4260>.

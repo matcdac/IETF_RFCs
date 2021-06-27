@@ -1,0 +1,1 @@
+Richardson, M. and D. Redelmeier, "Opportunistic Encryption using the Internet Key Exchange (IKE)", RFC 4322, DOI 10.17487/RFC4322, December 2005, <https://www.rfc-editor.org/info/rfc4322>.

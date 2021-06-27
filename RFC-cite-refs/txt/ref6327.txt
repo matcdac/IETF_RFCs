@@ -1,0 +1,1 @@
+Eastlake 3rd, D., Perlman, R., Ghanwani, A., Dutt, D., and V. Manral, "Routing Bridges (RBridges): Adjacency", RFC 6327, DOI 10.17487/RFC6327, July 2011, <https://www.rfc-editor.org/info/rfc6327>.

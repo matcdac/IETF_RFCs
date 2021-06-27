@@ -1,0 +1,1 @@
+Brower, D., Ed., Purvy, B., Daniel, A., Sinykin, M., and J. Smith, "Relational Database Management System (RDBMS) Management Information Base (MIB) using SMIv2", RFC 1697, DOI 10.17487/RFC1697, August 1994, <https://www.rfc-editor.org/info/rfc1697>.

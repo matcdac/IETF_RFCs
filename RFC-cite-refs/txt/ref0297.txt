@@ -1,0 +1,1 @@
+Walden, D., "TIP Message Buffers", RFC 297, DOI 10.17487/RFC0297, January 1972, <https://www.rfc-editor.org/info/rfc297>.

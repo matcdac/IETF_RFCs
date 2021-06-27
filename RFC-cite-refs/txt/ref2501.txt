@@ -1,0 +1,1 @@
+Corson, S. and J. Macker, "Mobile Ad hoc Networking (MANET): Routing Protocol Performance Issues and Evaluation Considerations", RFC 2501, DOI 10.17487/RFC2501, January 1999, <https://www.rfc-editor.org/info/rfc2501>.

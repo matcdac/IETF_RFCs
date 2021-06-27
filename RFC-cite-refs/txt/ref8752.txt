@@ -1,0 +1,1 @@
+Thomson, M. and M. Nottingham, "Report from the IAB Workshop on Exploring Synergy between Content Aggregation and the Publisher Ecosystem (ESCAPE)", RFC 8752, DOI 10.17487/RFC8752, March 2020, <https://www.rfc-editor.org/info/rfc8752>.

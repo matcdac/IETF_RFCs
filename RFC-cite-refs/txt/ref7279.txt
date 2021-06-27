@@ -1,0 +1,1 @@
+Shore, M. and C. Pignataro, "An Acceptable Use Policy for New ICMP Types and Codes", BCP 189, RFC 7279, DOI 10.17487/RFC7279, May 2014, <https://www.rfc-editor.org/info/rfc7279>.

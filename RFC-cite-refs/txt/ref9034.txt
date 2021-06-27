@@ -1,0 +1,1 @@
+Thomas, L., Anamalamudi, S., Anand, S., Hegde, M., and C. Perkins, "Packet Delivery Deadline Time in the Routing Header for IPv6 over Low-Power Wireless Personal Area Networks (6LoWPANs)", RFC 9034, DOI 10.17487/RFC9034, June 2021, <https://www.rfc-editor.org/info/rfc9034>.

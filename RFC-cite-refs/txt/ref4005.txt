@@ -1,0 +1,1 @@
+Calhoun, P., Zorn, G., Spence, D., and D. Mitton, "Diameter Network Access Server Application", RFC 4005, DOI 10.17487/RFC4005, August 2005, <https://www.rfc-editor.org/info/rfc4005>.

@@ -1,0 +1,1 @@
+Morton, A., "Registries for the One-Way Active Measurement Protocol (OWAMP)", RFC 7718, DOI 10.17487/RFC7718, December 2015, <https://www.rfc-editor.org/info/rfc7718>.

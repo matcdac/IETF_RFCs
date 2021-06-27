@@ -1,0 +1,1 @@
+Green, D., Irey, P., Marlow, D., and K. O'Donoghue, "HPN Working Group Input to the IPng Requirements Solicitation", RFC 1679, DOI 10.17487/RFC1679, August 1994, <https://www.rfc-editor.org/info/rfc1679>.

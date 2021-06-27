@@ -1,0 +1,1 @@
+Stokes, E., Byrne, D., Blakley, B., and P. Behera, "Access Control Requirements for LDAP", RFC 2820, DOI 10.17487/RFC2820, May 2000, <https://www.rfc-editor.org/info/rfc2820>.

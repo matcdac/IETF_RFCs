@@ -1,0 +1,1 @@
+Resnick, P. and A. Farrel, "Update to the IETF Anti-Harassment Procedures for the Replacement of the IETF Administrative Oversight Committee (IAOC) with the IETF Administration LLC", BCP 25, RFC 8716, DOI 10.17487/RFC8716, February 2020, <https://www.rfc-editor.org/info/rfc8716>.

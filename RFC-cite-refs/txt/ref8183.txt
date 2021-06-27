@@ -1,0 +1,1 @@
+Austein, R., "An Out-of-Band Setup Protocol for Resource Public Key Infrastructure (RPKI) Production Services", RFC 8183, DOI 10.17487/RFC8183, July 2017, <https://www.rfc-editor.org/info/rfc8183>.

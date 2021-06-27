@@ -1,0 +1,1 @@
+Thaler, D., Handley, M., and D. Estrin, "The Internet Multicast Address Allocation Architecture", RFC 2908, DOI 10.17487/RFC2908, September 2000, <https://www.rfc-editor.org/info/rfc2908>.

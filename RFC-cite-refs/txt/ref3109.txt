@@ -1,0 +1,1 @@
+Braden, R., Bush, R., and J. Klensin, "Request to Move STD 39 to Historic Status", RFC 3109, DOI 10.17487/RFC3109, May 2001, <https://www.rfc-editor.org/info/rfc3109>.

@@ -1,0 +1,1 @@
+Luthi, P., "RTP Payload Format for ITU-T Recommendation G.722.1", RFC 3047, DOI 10.17487/RFC3047, January 2001, <https://www.rfc-editor.org/info/rfc3047>.

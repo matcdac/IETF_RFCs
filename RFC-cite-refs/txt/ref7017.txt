@@ -1,0 +1,1 @@
+Sparks, R., "IMAP Access to IETF Email List Archives", RFC 7017, DOI 10.17487/RFC7017, August 2013, <https://www.rfc-editor.org/info/rfc7017>.

@@ -1,0 +1,1 @@
+Fleming, P. and I. McDonald, "Lightweight Directory Access Protocol (LDAP): Schema for Printer Services", RFC 3712, DOI 10.17487/RFC3712, February 2004, <https://www.rfc-editor.org/info/rfc3712>.

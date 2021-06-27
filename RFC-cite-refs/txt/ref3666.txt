@@ -1,0 +1,1 @@
+Johnston, A., Donovan, S., Sparks, R., Cunningham, C., and K. Summers, "Session Initiation Protocol (SIP) Public Switched Telephone Network (PSTN) Call Flows", BCP 76, RFC 3666, DOI 10.17487/RFC3666, December 2003, <https://www.rfc-editor.org/info/rfc3666>.

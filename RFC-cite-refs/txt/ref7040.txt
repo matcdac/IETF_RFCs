@@ -1,0 +1,1 @@
+Cui, Y., Wu, J., Wu, P., Vautrin, O., and Y. Lee, "Public IPv4-over-IPv6 Access Network", RFC 7040, DOI 10.17487/RFC7040, November 2013, <https://www.rfc-editor.org/info/rfc7040>.

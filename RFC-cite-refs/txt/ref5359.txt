@@ -1,0 +1,1 @@
+Johnston, A., Ed., Sparks, R., Cunningham, C., Donovan, S., and K. Summers, "Session Initiation Protocol Service Examples", BCP 144, RFC 5359, DOI 10.17487/RFC5359, October 2008, <https://www.rfc-editor.org/info/rfc5359>.

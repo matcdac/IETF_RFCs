@@ -1,0 +1,1 @@
+Gurbani, V., Ed., Brusilovsky, A., Faynberg, I., Gato, J., Lu, H., and M. Unmehopa, "The SPIRITS (Services in PSTN requesting Internet Services) Protocol", RFC 3910, DOI 10.17487/RFC3910, October 2004, <https://www.rfc-editor.org/info/rfc3910>.

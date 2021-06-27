@@ -1,0 +1,1 @@
+Harrison, R., Sermersheim, J., and Y. Dong, "Lightweight Directory Access Protocol (LDAP) Bulk Update/Replication Protocol (LBURP)", RFC 4373, DOI 10.17487/RFC4373, January 2006, <https://www.rfc-editor.org/info/rfc4373>.

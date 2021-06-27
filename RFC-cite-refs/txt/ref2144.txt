@@ -1,0 +1,1 @@
+Adams, C., "The CAST-128 Encryption Algorithm", RFC 2144, DOI 10.17487/RFC2144, May 1997, <https://www.rfc-editor.org/info/rfc2144>.

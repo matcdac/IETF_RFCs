@@ -1,0 +1,1 @@
+Peterson, J., "Session Initiation Protocol (SIP) Authenticated Identity Body (AIB) Format", RFC 3893, DOI 10.17487/RFC3893, September 2004, <https://www.rfc-editor.org/info/rfc3893>.

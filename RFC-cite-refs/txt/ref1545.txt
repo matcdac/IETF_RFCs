@@ -1,0 +1,1 @@
+Piscitello, D., "FTP Operation Over Big Address Records (FOOBAR)", RFC 1545, DOI 10.17487/RFC1545, November 1993, <https://www.rfc-editor.org/info/rfc1545>.

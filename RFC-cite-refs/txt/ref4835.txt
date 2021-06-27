@@ -1,0 +1,1 @@
+Manral, V., "Cryptographic Algorithm Implementation Requirements for Encapsulating Security Payload (ESP) and Authentication Header (AH)", RFC 4835, DOI 10.17487/RFC4835, April 2007, <https://www.rfc-editor.org/info/rfc4835>.

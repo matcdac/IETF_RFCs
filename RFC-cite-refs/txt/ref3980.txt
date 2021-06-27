@@ -1,0 +1,1 @@
+Krueger, M., Chadalapaka, M., and R. Elliott, "T11 Network Address Authority (NAA) Naming Format for iSCSI Node Names", RFC 3980, DOI 10.17487/RFC3980, February 2005, <https://www.rfc-editor.org/info/rfc3980>.

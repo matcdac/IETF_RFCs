@@ -1,0 +1,1 @@
+Peterson, J. and A. Cooper, "Report from the IETF Workshop on Peer-to-Peer (P2P) Infrastructure, May 28, 2008", RFC 5594, DOI 10.17487/RFC5594, July 2009, <https://www.rfc-editor.org/info/rfc5594>.

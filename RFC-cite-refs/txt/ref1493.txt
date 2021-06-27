@@ -1,0 +1,1 @@
+Decker, E., Langille, P., Rijsinghani, A., and K. McCloghrie, "Definitions of Managed Objects for Bridges", RFC 1493, DOI 10.17487/RFC1493, July 1993, <https://www.rfc-editor.org/info/rfc1493>.

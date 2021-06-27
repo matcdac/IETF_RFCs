@@ -1,0 +1,1 @@
+Weis, B., Seewald, M., and H. Falk, "Group Domain of Interpretation (GDOI) Protocol Support for IEC 62351 Security Services", RFC 8052, DOI 10.17487/RFC8052, June 2017, <https://www.rfc-editor.org/info/rfc8052>.

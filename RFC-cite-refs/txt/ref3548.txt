@@ -1,0 +1,1 @@
+Josefsson, S., Ed., "The Base16, Base32, and Base64 Data Encodings", RFC 3548, DOI 10.17487/RFC3548, July 2003, <https://www.rfc-editor.org/info/rfc3548>.

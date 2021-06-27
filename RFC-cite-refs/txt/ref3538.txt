@@ -1,0 +1,1 @@
+Kawatsura, Y., "Secure Electronic Transaction (SET) Supplement for the v1.0 Internet Open Trading Protocol (IOTP)", RFC 3538, DOI 10.17487/RFC3538, June 2003, <https://www.rfc-editor.org/info/rfc3538>.

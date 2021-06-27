@@ -1,0 +1,1 @@
+Chen, E. and J. Stewart, "A Framework for Inter-Domain Route Aggregation", RFC 2519, DOI 10.17487/RFC2519, February 1999, <https://www.rfc-editor.org/info/rfc2519>.

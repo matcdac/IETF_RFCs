@@ -1,0 +1,1 @@
+Hoffman, P., Ed., "Publishing the "Tao of the IETF" as a Web Page", RFC 6722, DOI 10.17487/RFC6722, August 2012, <https://www.rfc-editor.org/info/rfc6722>.

@@ -1,0 +1,1 @@
+ESCC X.500/X.400 Task Force, ESnet Site Coordinating Comittee (ESCC), and Energy Sciences Network (ESnet), "Recommendations for the Phase I Deployment of OSI Directory Services (X.500) and OSI Message Handling Services (X.400) within the ESNET Community", RFC 1330, DOI 10.17487/RFC1330, May 1992, <https://www.rfc-editor.org/info/rfc1330>.

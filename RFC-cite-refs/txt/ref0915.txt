@@ -1,0 +1,1 @@
+Elvy, M. and R. Nedved, "Network mail path service", RFC 915, DOI 10.17487/RFC0915, December 1984, <https://www.rfc-editor.org/info/rfc915>.

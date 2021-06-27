@@ -1,0 +1,1 @@
+Hoffman, P., Bonatti, C., and A. Eggen, "Securing X.400 Content with Secure/Multipurpose Internet Mail Extensions (S/MIME)", RFC 3854, DOI 10.17487/RFC3854, July 2004, <https://www.rfc-editor.org/info/rfc3854>.

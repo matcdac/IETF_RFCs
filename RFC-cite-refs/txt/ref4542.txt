@@ -1,0 +1,1 @@
+Baker, F. and J. Polk, "Implementing an Emergency Telecommunications Service (ETS) for Real-Time Services in the Internet Protocol Suite", RFC 4542, DOI 10.17487/RFC4542, May 2006, <https://www.rfc-editor.org/info/rfc4542>.

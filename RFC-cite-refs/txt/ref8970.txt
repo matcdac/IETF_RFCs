@@ -1,0 +1,1 @@
+Slusarz, M., "IMAP4 Extension: Message Preview Generation", RFC 8970, DOI 10.17487/RFC8970, December 2020, <https://www.rfc-editor.org/info/rfc8970>.

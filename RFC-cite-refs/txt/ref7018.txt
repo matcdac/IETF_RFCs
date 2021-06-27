@@ -1,0 +1,1 @@
+Manral, V. and S. Hanna, "Auto-Discovery VPN Problem Statement and Requirements", RFC 7018, DOI 10.17487/RFC7018, September 2013, <https://www.rfc-editor.org/info/rfc7018>.

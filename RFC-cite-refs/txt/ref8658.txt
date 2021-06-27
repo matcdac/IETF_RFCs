@@ -1,0 +1,1 @@
+Jiang, S., Ed., Fu, Y., Ed., Xie, C., Li, T., and M. Boucadair, Ed., "RADIUS Attributes for Softwire Mechanisms Based on Address plus Port (A+P)", RFC 8658, DOI 10.17487/RFC8658, November 2019, <https://www.rfc-editor.org/info/rfc8658>.

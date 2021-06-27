@@ -1,0 +1,1 @@
+Clark, D., "Fault isolation and recovery", RFC 816, DOI 10.17487/RFC0816, July 1982, <https://www.rfc-editor.org/info/rfc816>.

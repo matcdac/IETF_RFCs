@@ -1,0 +1,1 @@
+Reynolds, J., Ed., and S. Ginoza, Ed., "Internet Official Protocol Standards", RFC 3600, DOI 10.17487/RFC3600, November 2003, <https://www.rfc-editor.org/info/rfc3600>.

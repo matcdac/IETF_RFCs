@@ -1,0 +1,1 @@
+Rosenberg, J., "A Watcher Information Event Template-Package for the Session Initiation Protocol (SIP)", RFC 3857, DOI 10.17487/RFC3857, August 2004, <https://www.rfc-editor.org/info/rfc3857>.

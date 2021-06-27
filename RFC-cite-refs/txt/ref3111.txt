@@ -1,0 +1,1 @@
+Guttman, E., "Service Location Protocol Modifications for IPv6", RFC 3111, DOI 10.17487/RFC3111, May 2001, <https://www.rfc-editor.org/info/rfc3111>.

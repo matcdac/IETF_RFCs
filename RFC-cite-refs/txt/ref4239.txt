@@ -1,0 +1,1 @@
+McRae, S. and G. Parsons, "Internet Voice Messaging (IVM)", RFC 4239, DOI 10.17487/RFC4239, November 2005, <https://www.rfc-editor.org/info/rfc4239>.

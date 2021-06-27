@@ -1,0 +1,1 @@
+Crocker, D., "Telnet output horizontal tab disposition option", RFC 654, DOI 10.17487/RFC0654, October 1974, <https://www.rfc-editor.org/info/rfc654>.

@@ -1,0 +1,1 @@
+Allman, M., Floyd, S., and C. Partridge, "Increasing TCP's Initial Window", RFC 2414, DOI 10.17487/RFC2414, September 1998, <https://www.rfc-editor.org/info/rfc2414>.

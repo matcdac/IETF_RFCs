@@ -1,0 +1,1 @@
+Naylor, W. and H. Opderbeck, "Mean round-trip times in the ARPANET", RFC 619, DOI 10.17487/RFC0619, March 1974, <https://www.rfc-editor.org/info/rfc619>.

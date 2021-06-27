@@ -1,0 +1,1 @@
+Pfaff, B. and B. Davie, Ed., "The Open vSwitch Database Management Protocol", RFC 7047, DOI 10.17487/RFC7047, December 2013, <https://www.rfc-editor.org/info/rfc7047>.

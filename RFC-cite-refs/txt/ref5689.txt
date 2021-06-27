@@ -1,0 +1,1 @@
+Daboo, C., "Extended MKCOL for Web Distributed Authoring and Versioning (WebDAV)", RFC 5689, DOI 10.17487/RFC5689, September 2009, <https://www.rfc-editor.org/info/rfc5689>.

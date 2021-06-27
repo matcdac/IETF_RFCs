@@ -1,0 +1,1 @@
+Terada, M. and K. Fujimura, "Voucher Trading System Application Programming Interface (VTS-API)", RFC 4154, DOI 10.17487/RFC4154, September 2005, <https://www.rfc-editor.org/info/rfc4154>.

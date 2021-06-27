@@ -1,0 +1,1 @@
+Clouston, B. and B. Moore, "Definitions of Managed Objects for APPN/HPR in IP Networks", RFC 2584, DOI 10.17487/RFC2584, May 1999, <https://www.rfc-editor.org/info/rfc2584>.

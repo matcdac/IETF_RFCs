@@ -1,0 +1,1 @@
+Patki, D., Gundavelli, S., Lee, J., Fu, Q., and L. Bertz, "Mobile Access Gateway Configuration Parameters Controlled by the Local Mobility Anchor", RFC 8127, DOI 10.17487/RFC8127, August 2017, <https://www.rfc-editor.org/info/rfc8127>.

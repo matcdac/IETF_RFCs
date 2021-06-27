@@ -1,0 +1,1 @@
+Melanchuk, T., Ed., "An Architectural Framework for Media Server Control", RFC 5567, DOI 10.17487/RFC5567, June 2009, <https://www.rfc-editor.org/info/rfc5567>.

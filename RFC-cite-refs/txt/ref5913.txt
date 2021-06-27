@@ -1,0 +1,1 @@
+Turner, S. and S. Chokhani, "Clearance Attribute and Authority Clearance Constraints Certificate Extension", RFC 5913, DOI 10.17487/RFC5913, June 2010, <https://www.rfc-editor.org/info/rfc5913>.

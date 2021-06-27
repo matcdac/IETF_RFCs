@@ -1,0 +1,1 @@
+Long, H., Ye, M., Mirsky, G., D'Alessandro, A., and H. Shah, "OSPF Traffic Engineering (OSPF-TE) Link Availability Extension for Links with Variable Discrete Bandwidth", RFC 8330, DOI 10.17487/RFC8330, February 2018, <https://www.rfc-editor.org/info/rfc8330>.

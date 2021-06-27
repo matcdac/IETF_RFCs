@@ -1,0 +1,1 @@
+Freed, N. and J. Postel, "IANA Charset Registration Procedures", RFC 2278, DOI 10.17487/RFC2278, January 1998, <https://www.rfc-editor.org/info/rfc2278>.

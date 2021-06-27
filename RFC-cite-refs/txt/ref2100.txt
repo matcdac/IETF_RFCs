@@ -1,0 +1,1 @@
+Ashworth, J., "The Naming of Hosts", RFC 2100, DOI 10.17487/RFC2100, April 1 1997, <https://www.rfc-editor.org/info/rfc2100>.

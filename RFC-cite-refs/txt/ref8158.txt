@@ -1,0 +1,1 @@
+Sivakumar, S. and R. Penno, "IP Flow Information Export (IPFIX) Information Elements for Logging NAT Events", RFC 8158, DOI 10.17487/RFC8158, December 2017, <https://www.rfc-editor.org/info/rfc8158>.

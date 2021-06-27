@@ -1,0 +1,1 @@
+Kaplan, H., Ed., Hedayat, K., Venna, N., Jones, P., and N. Stratton, "An Extension to the Session Description Protocol (SDP) and Real-time Transport Protocol (RTP) for Media Loopback", RFC 6849, DOI 10.17487/RFC6849, February 2013, <https://www.rfc-editor.org/info/rfc6849>.

@@ -1,0 +1,1 @@
+Weis, B., Mangla, U., Karl, T., and N. Maheshwari, "Group Domain of Interpretation (GDOI) GROUPKEY-PUSH Acknowledgement Message", RFC 8263, DOI 10.17487/RFC8263, November 2017, <https://www.rfc-editor.org/info/rfc8263>.

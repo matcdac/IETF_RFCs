@@ -1,0 +1,1 @@
+Haskin, D. and E. Allen, "IP Version 6 over PPP", RFC 2023, DOI 10.17487/RFC2023, October 1996, <https://www.rfc-editor.org/info/rfc2023>.

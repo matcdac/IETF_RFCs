@@ -1,0 +1,1 @@
+Alvestrand, H., "The IESG and RFC Editor Documents: Procedures", RFC 3932, DOI 10.17487/RFC3932, October 2004, <https://www.rfc-editor.org/info/rfc3932>.

@@ -1,0 +1,1 @@
+Burchfiel, J., "Speedup of Host-IMP interface", RFC 594, DOI 10.17487/RFC0594, December 1973, <https://www.rfc-editor.org/info/rfc594>.

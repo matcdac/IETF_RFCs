@@ -1,0 +1,1 @@
+Huston, G., "NOPEER Community for Border Gateway Protocol (BGP) Route Scope Control", RFC 3765, DOI 10.17487/RFC3765, April 2004, <https://www.rfc-editor.org/info/rfc3765>.

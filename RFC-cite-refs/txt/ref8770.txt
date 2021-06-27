@@ -1,0 +1,1 @@
+Patel, K., Pillay-Esnault, P., Bhardwaj, M., and S. Bayraktar, "Host Router Support for OSPFv2", RFC 8770, DOI 10.17487/RFC8770, April 2020, <https://www.rfc-editor.org/info/rfc8770>.

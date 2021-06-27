@@ -1,0 +1,1 @@
+Tsou, T., Hao, R., and T. Taylor, Ed., "Realm-Based Redirection In Diameter", RFC 7075, DOI 10.17487/RFC7075, November 2013, <https://www.rfc-editor.org/info/rfc7075>.

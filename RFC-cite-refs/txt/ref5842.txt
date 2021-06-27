@@ -1,0 +1,1 @@
+Clemm, G., Crawford, J., Reschke, J., Ed., and J. Whitehead, "Binding Extensions to Web Distributed Authoring and Versioning (WebDAV)", RFC 5842, DOI 10.17487/RFC5842, April 2010, <https://www.rfc-editor.org/info/rfc5842>.

@@ -1,0 +1,1 @@
+Levinson, E., "Content-ID and Message-ID Uniform Resource Locators", RFC 2111, DOI 10.17487/RFC2111, March 1997, <https://www.rfc-editor.org/info/rfc2111>.

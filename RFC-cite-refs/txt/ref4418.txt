@@ -1,0 +1,1 @@
+Krovetz, T., Ed., "UMAC: Message Authentication Code using Universal Hashing", RFC 4418, DOI 10.17487/RFC4418, March 2006, <https://www.rfc-editor.org/info/rfc4418>.

@@ -1,0 +1,1 @@
+Rose, M., "Management Information Base for network management of TCP/IP-based internets: MIB-II", RFC 1158, DOI 10.17487/RFC1158, May 1990, <https://www.rfc-editor.org/info/rfc1158>.

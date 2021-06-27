@@ -1,0 +1,1 @@
+Crocker, D., Pogran, K., Vittal, J., and D. Henderson, "Proposed official standard for the format of ARPA Network messages", RFC 724, DOI 10.17487/RFC0724, May 1977, <https://www.rfc-editor.org/info/rfc724>.

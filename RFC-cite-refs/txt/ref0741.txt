@@ -1,0 +1,1 @@
+Cohen, D., "Specifications for the Network Voice Protocol (NVP)", RFC 741, DOI 10.17487/RFC0741, November 1977, <https://www.rfc-editor.org/info/rfc741>.

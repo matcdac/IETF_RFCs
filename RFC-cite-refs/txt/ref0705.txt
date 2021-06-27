@@ -1,0 +1,1 @@
+Bryan, R., "Front-end Protocol B6700 version", RFC 705, DOI 10.17487/RFC0705, November 1975, <https://www.rfc-editor.org/info/rfc705>.

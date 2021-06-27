@@ -1,0 +1,1 @@
+Mansfield, S., Ed., Gray, E., Ed., and K. Lam, Ed., "Network Management Framework for MPLS-based Transport Networks", RFC 5950, DOI 10.17487/RFC5950, September 2010, <https://www.rfc-editor.org/info/rfc5950>.

@@ -1,0 +1,1 @@
+Wahl, M. and T. Howes, "Use of Language Codes in LDAP", RFC 2596, DOI 10.17487/RFC2596, May 1999, <https://www.rfc-editor.org/info/rfc2596>.

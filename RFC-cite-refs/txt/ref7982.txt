@@ -1,0 +1,1 @@
+Martinsen, P., Reddy, T., Wing, D., and V. Singh, "Measurement of Round-Trip Time and Fractional Loss Using Session Traversal Utilities for NAT (STUN)", RFC 7982, DOI 10.17487/RFC7982, September 2016, <https://www.rfc-editor.org/info/rfc7982>.

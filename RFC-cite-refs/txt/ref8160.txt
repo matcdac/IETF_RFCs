@@ -1,0 +1,1 @@
+Tatham, S. and D. Tucker, "IUTF8 Terminal Mode in Secure Shell (SSH)", RFC 8160, DOI 10.17487/RFC8160, April 2017, <https://www.rfc-editor.org/info/rfc8160>.

@@ -1,0 +1,1 @@
+Eronen, P., Ed., Hiller, T., and G. Zorn, "Diameter Extensible Authentication Protocol (EAP) Application", RFC 4072, DOI 10.17487/RFC4072, August 2005, <https://www.rfc-editor.org/info/rfc4072>.

@@ -1,0 +1,1 @@
+Foster, B. and F. Andreasen, "Media Gateway Control Protocol (MGCP) Lockstep State Reporting Mechanism", RFC 3992, DOI 10.17487/RFC3992, February 2005, <https://www.rfc-editor.org/info/rfc3992>.

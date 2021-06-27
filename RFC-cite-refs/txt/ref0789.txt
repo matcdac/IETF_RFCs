@@ -1,0 +1,1 @@
+Rosen, E., "Vulnerabilities of network control protocols: An example", RFC 789, DOI 10.17487/RFC0789, July 1981, <https://www.rfc-editor.org/info/rfc789>.

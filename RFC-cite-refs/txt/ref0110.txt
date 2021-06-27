@@ -1,0 +1,1 @@
+Winett, J., "Conventions for Using an IBM 2741 Terminal as a User Console for Access to Network Server Hosts", RFC 110, DOI 10.17487/RFC0110, March 1971, <https://www.rfc-editor.org/info/rfc110>.

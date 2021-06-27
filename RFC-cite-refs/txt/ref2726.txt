@@ -1,0 +1,1 @@
+Zsako, J., "PGP Authentication for RIPE Database Updates", RFC 2726, DOI 10.17487/RFC2726, December 1999, <https://www.rfc-editor.org/info/rfc2726>.

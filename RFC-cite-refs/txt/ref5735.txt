@@ -1,0 +1,1 @@
+Cotton, M. and L. Vegoda, "Special Use IPv4 Addresses", RFC 5735, DOI 10.17487/RFC5735, January 2010, <https://www.rfc-editor.org/info/rfc5735>.

@@ -1,0 +1,1 @@
+Sidhu, D., "Some problems with the specification of the Military Standard Internet Protocol", RFC 963, DOI 10.17487/RFC0963, November 1985, <https://www.rfc-editor.org/info/rfc963>.

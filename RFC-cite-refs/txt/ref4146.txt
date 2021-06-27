@@ -1,0 +1,1 @@
+Gellens, R., "Simple New Mail Notification", RFC 4146, DOI 10.17487/RFC4146, August 2005, <https://www.rfc-editor.org/info/rfc4146>.

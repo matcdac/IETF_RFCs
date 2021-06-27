@@ -1,0 +1,1 @@
+Bergman, R., Lewis, H., and I. McDonald, "Printer MIB v2", RFC 3805, DOI 10.17487/RFC3805, June 2004, <https://www.rfc-editor.org/info/rfc3805>.

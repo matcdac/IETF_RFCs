@@ -1,0 +1,1 @@
+Black, D., McCloghrie, K., and J. Schoenwaelder, "Uniform Resource Identifier (URI) Scheme for the Simple Network Management Protocol (SNMP)", RFC 4088, DOI 10.17487/RFC4088, June 2005, <https://www.rfc-editor.org/info/rfc4088>.

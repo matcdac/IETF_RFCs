@@ -1,0 +1,1 @@
+Retana, A., Nguyen, L., White, R., Zinin, A., and D. McPherson, "OSPF Stub Router Advertisement", RFC 3137, DOI 10.17487/RFC3137, June 2001, <https://www.rfc-editor.org/info/rfc3137>.

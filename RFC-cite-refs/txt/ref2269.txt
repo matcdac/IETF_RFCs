@@ -1,0 +1,1 @@
+Armitage, G., "Using the MARS Model in non-ATM NBMA Networks", RFC 2269, DOI 10.17487/RFC2269, January 1998, <https://www.rfc-editor.org/info/rfc2269>.

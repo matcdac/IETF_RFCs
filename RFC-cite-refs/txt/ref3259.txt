@@ -1,0 +1,1 @@
+Ott, J., Perkins, C., and D. Kutscher, "A Message Bus for Local Coordination", RFC 3259, DOI 10.17487/RFC3259, April 2002, <https://www.rfc-editor.org/info/rfc3259>.

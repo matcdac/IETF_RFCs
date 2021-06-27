@@ -1,0 +1,1 @@
+Pall, G. and G. Zorn, "Microsoft Point-To-Point Encryption (MPPE) Protocol", RFC 3078, DOI 10.17487/RFC3078, March 2001, <https://www.rfc-editor.org/info/rfc3078>.

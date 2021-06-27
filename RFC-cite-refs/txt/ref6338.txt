@@ -1,0 +1,1 @@
+Giralt, V. and R. McDuff, "Definition of a Uniform Resource Name (URN) Namespace for the Schema for Academia (SCHAC)", RFC 6338, DOI 10.17487/RFC6338, August 2011, <https://www.rfc-editor.org/info/rfc6338>.

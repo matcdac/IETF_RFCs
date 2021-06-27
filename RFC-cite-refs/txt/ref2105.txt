@@ -1,0 +1,1 @@
+Rekhter, Y., Davie, B., Katz, D., Rosen, E., and G. Swallow, "Cisco Systems' Tag Switching Architecture Overview", RFC 2105, DOI 10.17487/RFC2105, February 1997, <https://www.rfc-editor.org/info/rfc2105>.

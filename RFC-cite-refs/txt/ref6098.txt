@@ -1,0 +1,1 @@
+Deng, H., Levkowetz, H., Devarapalli, V., Gundavelli, S., and B. Haley, "Generic Notification Message for Mobile IPv4", RFC 6098, DOI 10.17487/RFC6098, April 2012, <https://www.rfc-editor.org/info/rfc6098>.

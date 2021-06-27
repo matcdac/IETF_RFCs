@@ -1,0 +1,1 @@
+Ritter, T., "Regional Broadcast Using an Atmospheric Link Layer", RFC 6217, DOI 10.17487/RFC6217, April 1 2011, <https://www.rfc-editor.org/info/rfc6217>.

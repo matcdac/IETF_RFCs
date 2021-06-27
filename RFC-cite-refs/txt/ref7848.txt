@@ -1,0 +1,1 @@
+Lozano, G., "Mark and Signed Mark Objects Mapping", RFC 7848, DOI 10.17487/RFC7848, June 2016, <https://www.rfc-editor.org/info/rfc7848>.

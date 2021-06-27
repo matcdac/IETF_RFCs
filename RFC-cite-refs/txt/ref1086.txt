@@ -1,0 +1,1 @@
+Onions, J. and M. Rose, "ISO-TP0 bridge between TCP and X.25", RFC 1086, DOI 10.17487/RFC1086, December 1988, <https://www.rfc-editor.org/info/rfc1086>.

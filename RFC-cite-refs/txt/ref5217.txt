@@ -1,0 +1,1 @@
+Shimaoka, M., Ed., Hastings, N., and R. Nielsen, "Memorandum for Multi-Domain Public Key Infrastructure Interoperability", RFC 5217, DOI 10.17487/RFC5217, July 2008, <https://www.rfc-editor.org/info/rfc5217>.

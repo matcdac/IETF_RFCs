@@ -1,0 +1,1 @@
+Hoffman, P., "Registration of Charset and Languages Media Features Tags", RFC 2987, DOI 10.17487/RFC2987, November 2000, <https://www.rfc-editor.org/info/rfc2987>.

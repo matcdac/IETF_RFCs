@@ -1,0 +1,1 @@
+Haskin, D. and E. Allen, "IP Version 6 over PPP", RFC 2472, DOI 10.17487/RFC2472, December 1998, <https://www.rfc-editor.org/info/rfc2472>.

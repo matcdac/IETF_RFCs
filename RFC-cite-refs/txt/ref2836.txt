@@ -1,0 +1,1 @@
+Brim, S., Carpenter, B., and F. Le Faucheur, "Per Hop Behavior Identification Codes", RFC 2836, DOI 10.17487/RFC2836, May 2000, <https://www.rfc-editor.org/info/rfc2836>.

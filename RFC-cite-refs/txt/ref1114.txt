@@ -1,0 +1,1 @@
+Kent, S. and J. Linn, "Privacy enhancement for Internet electronic mail: Part II - certificate-based key management", RFC 1114, DOI 10.17487/RFC1114, August 1989, <https://www.rfc-editor.org/info/rfc1114>.

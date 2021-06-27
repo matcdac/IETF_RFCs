@@ -1,0 +1,1 @@
+Kantor, B., "Internet protocol encapsulation of AX.25 frames", RFC 1226, DOI 10.17487/RFC1226, May 1991, <https://www.rfc-editor.org/info/rfc1226>.

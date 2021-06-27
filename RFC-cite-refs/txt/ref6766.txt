@@ -1,0 +1,1 @@
+Beili, E., "xDSL Multi-Pair Bonding Using Time-Division Inverse Multiplexing (G.Bond/TDIM) MIB", RFC 6766, DOI 10.17487/RFC6766, February 2013, <https://www.rfc-editor.org/info/rfc6766>.

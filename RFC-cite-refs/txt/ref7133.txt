@@ -1,0 +1,1 @@
+Kashima, S., Kobayashi, A., Ed., and P. Aitken, "Information Elements for Data Link Layer Traffic Measurement", RFC 7133, DOI 10.17487/RFC7133, May 2014, <https://www.rfc-editor.org/info/rfc7133>.

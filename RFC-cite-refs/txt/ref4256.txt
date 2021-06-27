@@ -1,0 +1,1 @@
+Cusack, F. and M. Forssen, "Generic Message Exchange Authentication for the Secure Shell Protocol (SSH)", RFC 4256, DOI 10.17487/RFC4256, January 2006, <https://www.rfc-editor.org/info/rfc4256>.

@@ -1,0 +1,1 @@
+Aggarwal, R. and JL. Le Roux, "MPLS Upstream Label Assignment for LDP", RFC 6389, DOI 10.17487/RFC6389, November 2011, <https://www.rfc-editor.org/info/rfc6389>.

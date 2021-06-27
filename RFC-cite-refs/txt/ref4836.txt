@@ -1,0 +1,1 @@
+Beili, E., "Definitions of Managed Objects for IEEE 802.3 Medium Attachment Units (MAUs)", RFC 4836, DOI 10.17487/RFC4836, April 2007, <https://www.rfc-editor.org/info/rfc4836>.

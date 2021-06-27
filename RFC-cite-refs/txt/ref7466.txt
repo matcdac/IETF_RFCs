@@ -1,0 +1,1 @@
+Dearlove, C. and T. Clausen, "An Optimization for the Mobile Ad Hoc Network (MANET) Neighborhood Discovery Protocol (NHDP)", RFC 7466, DOI 10.17487/RFC7466, March 2015, <https://www.rfc-editor.org/info/rfc7466>.

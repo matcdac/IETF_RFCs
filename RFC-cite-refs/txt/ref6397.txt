@@ -1,0 +1,1 @@
+Manderson, T., "Multi-Threaded Routing Toolkit (MRT) Border Gateway Protocol (BGP) Routing Information Export Format with Geo-Location Extensions", RFC 6397, DOI 10.17487/RFC6397, October 2011, <https://www.rfc-editor.org/info/rfc6397>.

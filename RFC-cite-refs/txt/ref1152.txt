@@ -1,0 +1,1 @@
+Partridge, C., "Workshop report: Internet research steering group workshop on very-high-speed networks", RFC 1152, DOI 10.17487/RFC1152, April 1990, <https://www.rfc-editor.org/info/rfc1152>.

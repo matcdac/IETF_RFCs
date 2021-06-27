@@ -1,0 +1,1 @@
+Freed, N., "Sieve Email Filtering: Environment Extension", RFC 5183, DOI 10.17487/RFC5183, May 2008, <https://www.rfc-editor.org/info/rfc5183>.

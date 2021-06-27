@@ -1,0 +1,1 @@
+Raszuk, R., Heitz, J., Lo, A., Zhang, L., and X. Xu, "Simple Virtual Aggregation (S-VA)", RFC 6769, DOI 10.17487/RFC6769, October 2012, <https://www.rfc-editor.org/info/rfc6769>.

@@ -1,0 +1,1 @@
+Beeler, M., "Response time in cross network debugging", RFC 685, DOI 10.17487/RFC0685, April 1975, <https://www.rfc-editor.org/info/rfc685>.

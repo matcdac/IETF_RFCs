@@ -1,0 +1,1 @@
+Malis, A., Ed., Andersson, L., van Helvoort, H., Shin, J., Wang, L., and A. D'Alessandro, "Switching Provider Edge (S-PE) Protection for MPLS and MPLS Transport Profile (MPLS-TP) Static Multi-Segment Pseudowires", RFC 7771, DOI 10.17487/RFC7771, January 2016, <https://www.rfc-editor.org/info/rfc7771>.

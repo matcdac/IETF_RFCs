@@ -1,0 +1,1 @@
+Lottor, M., "Internet Growth (1981-1991)", RFC 1296, DOI 10.17487/RFC1296, January 1992, <https://www.rfc-editor.org/info/rfc1296>.

@@ -1,0 +1,1 @@
+Perlman, R., Eastlake 3rd, D., Zhang, M., Ghanwani, A., and H. Zhai, "Alternatives for Multilevel Transparent Interconnection of Lots of Links (TRILL)", RFC 8243, DOI 10.17487/RFC8243, September 2017, <https://www.rfc-editor.org/info/rfc8243>.

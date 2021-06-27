@@ -1,0 +1,1 @@
+Sluizer, S. and J. Postel, "Mail Transfer Protocol: ISI TOPS20 MTP-NIMAIL interface", RFC 786, DOI 10.17487/RFC0786, July 1981, <https://www.rfc-editor.org/info/rfc786>.

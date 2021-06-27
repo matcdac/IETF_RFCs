@@ -1,0 +1,1 @@
+Sklower, K., Lloyd, B., McGregor, G., Carr, D., and T. Coradetti, "The PPP Multilink Protocol (MP)", RFC 1990, DOI 10.17487/RFC1990, August 1996, <https://www.rfc-editor.org/info/rfc1990>.

@@ -1,0 +1,1 @@
+Rekhter, Y. and T. Li, "An Architecture for IP Address Allocation with CIDR", RFC 1518, DOI 10.17487/RFC1518, September 1993, <https://www.rfc-editor.org/info/rfc1518>.

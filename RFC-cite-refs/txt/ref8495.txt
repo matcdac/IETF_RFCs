@@ -1,0 +1,1 @@
+Gould, J. and K. Feher, "Allocation Token Extension for the Extensible Provisioning Protocol (EPP)", RFC 8495, DOI 10.17487/RFC8495, November 2018, <https://www.rfc-editor.org/info/rfc8495>.

@@ -1,0 +1,1 @@
+Zhang, M., Zhang, X., Eastlake 3rd, D., Perlman, R., and S. Chatterjee, "Transparent Interconnection of Lots of Links (TRILL): MTU Negotiation", RFC 8249, DOI 10.17487/RFC8249, September 2017, <https://www.rfc-editor.org/info/rfc8249>.

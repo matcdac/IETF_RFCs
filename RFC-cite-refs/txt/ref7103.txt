@@ -1,0 +1,1 @@
+Kucherawy, M., Shapiro, G., and N. Freed, "Advice for Safe Handling of Malformed Messages", RFC 7103, DOI 10.17487/RFC7103, January 2014, <https://www.rfc-editor.org/info/rfc7103>.

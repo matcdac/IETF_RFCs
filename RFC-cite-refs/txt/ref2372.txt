@@ -1,0 +1,1 @@
+Evans, K., Klein, J., and J. Lyon, "Transaction Internet Protocol - Requirements and Supplemental Information", RFC 2372, DOI 10.17487/RFC2372, July 1998, <https://www.rfc-editor.org/info/rfc2372>.

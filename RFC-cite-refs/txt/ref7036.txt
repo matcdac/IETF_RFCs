@@ -1,0 +1,1 @@
+Housley, R., "Object Identifier Registry for the Long-Term Archive and Notary Services (LTANS) Working Group", RFC 7036, DOI 10.17487/RFC7036, October 2013, <https://www.rfc-editor.org/info/rfc7036>.

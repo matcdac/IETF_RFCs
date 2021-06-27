@@ -1,0 +1,1 @@
+Kalbfleisch, C., Cole, R., and D. Romascanu, "Definition of Managed Objects for Synthetic Sources for Performance Monitoring Algorithms", RFC 4149, DOI 10.17487/RFC4149, August 2005, <https://www.rfc-editor.org/info/rfc4149>.

@@ -1,0 +1,1 @@
+Eggert, L., "The Role of the IRTF Chair", RFC 7827, DOI 10.17487/RFC7827, March 2016, <https://www.rfc-editor.org/info/rfc7827>.

@@ -1,0 +1,1 @@
+Jacobson, V., "Compressing TCP/IP Headers for Low-Speed Serial Links", RFC 1144, DOI 10.17487/RFC1144, February 1990, <https://www.rfc-editor.org/info/rfc1144>.

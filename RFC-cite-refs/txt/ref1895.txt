@@ -1,0 +1,1 @@
+Levinson, E., "The Application/CALS-1840 Content-type", RFC 1895, DOI 10.17487/RFC1895, February 1996, <https://www.rfc-editor.org/info/rfc1895>.

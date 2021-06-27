@@ -1,0 +1,1 @@
+Case, J., McCloghrie, K., Rose, M., and S. Waldbusser, "Introduction to Community-based SNMPv2", RFC 1901, DOI 10.17487/RFC1901, January 1996, <https://www.rfc-editor.org/info/rfc1901>.

@@ -1,0 +1,1 @@
+Yegin, A., Ed., Ohba, Y., Penno, R., Tsirtsis, G., and C. Wang, "Protocol for Carrying Authentication for Network Access (PANA) Requirements", RFC 4058, DOI 10.17487/RFC4058, May 2005, <https://www.rfc-editor.org/info/rfc4058>.

@@ -1,0 +1,1 @@
+Klyne, G., "Corrections to "A Syntax for Describing Media Feature Sets"", RFC 2738, DOI 10.17487/RFC2738, December 1999, <https://www.rfc-editor.org/info/rfc2738>.

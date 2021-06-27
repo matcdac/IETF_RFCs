@@ -1,0 +1,1 @@
+Ferguson, B., "Statement of upcoming move of NIC/NLS service", RFC 609, DOI 10.17487/RFC0609, January 1974, <https://www.rfc-editor.org/info/rfc609>.

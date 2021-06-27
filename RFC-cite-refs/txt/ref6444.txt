@@ -1,0 +1,1 @@
+Schulzrinne, H., Liess, L., Tschofenig, H., Stark, B., and A. Kuett, "Location Hiding: Problem Statement and Requirements", RFC 6444, DOI 10.17487/RFC6444, January 2012, <https://www.rfc-editor.org/info/rfc6444>.

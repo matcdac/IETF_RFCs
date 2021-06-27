@@ -1,0 +1,1 @@
+Leiba, B., "Registration of Second-Level URN Namespaces under "ietf"", RFC 6924, DOI 10.17487/RFC6924, April 2013, <https://www.rfc-editor.org/info/rfc6924>.

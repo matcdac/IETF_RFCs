@@ -1,0 +1,1 @@
+Thomson, M. and B. Stark, "Working Group GitHub Usage Guidance", RFC 8874, DOI 10.17487/RFC8874, August 2020, <https://www.rfc-editor.org/info/rfc8874>.

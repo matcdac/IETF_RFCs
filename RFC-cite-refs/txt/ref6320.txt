@@ -1,0 +1,1 @@
+Wadhwa, S., Moisand, J., Haag, T., Voigt, N., and T. Taylor, Ed., "Protocol for Access Node Control Mechanism in Broadband Networks", RFC 6320, DOI 10.17487/RFC6320, October 2011, <https://www.rfc-editor.org/info/rfc6320>.

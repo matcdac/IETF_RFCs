@@ -1,0 +1,1 @@
+Woundy, R. and K. Marez, "Cable Device Management Information Base for Data-Over-Cable Service Interface Specification (DOCSIS) Compliant Cable Modems and Cable Modem Termination Systems", RFC 4639, DOI 10.17487/RFC4639, December 2006, <https://www.rfc-editor.org/info/rfc4639>.

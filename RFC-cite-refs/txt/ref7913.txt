@@ -1,0 +1,1 @@
+Holmberg, C., "P-Access-Network-Info ABNF Update", RFC 7913, DOI 10.17487/RFC7913, June 2016, <https://www.rfc-editor.org/info/rfc7913>.

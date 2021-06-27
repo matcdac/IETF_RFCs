@@ -1,0 +1,1 @@
+Harslem, E., "Using network Remote Job Entry", RFC 307, DOI 10.17487/RFC0307, February 1972, <https://www.rfc-editor.org/info/rfc307>.

@@ -1,0 +1,1 @@
+Blanchet, M., "Delay-Tolerant Networking Bundle Protocol IANA Registries", RFC 6255, DOI 10.17487/RFC6255, May 2011, <https://www.rfc-editor.org/info/rfc6255>.

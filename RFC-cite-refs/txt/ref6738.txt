@@ -1,0 +1,1 @@
+Cakulev, V., Lior, A., and S. Mizikovsky, "Diameter IKEv2 SK: Using Shared Keys to Support Interaction between IKEv2 Servers and Diameter Servers", RFC 6738, DOI 10.17487/RFC6738, October 2012, <https://www.rfc-editor.org/info/rfc6738>.

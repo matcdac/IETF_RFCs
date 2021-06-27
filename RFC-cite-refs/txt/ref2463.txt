@@ -1,0 +1,1 @@
+Conta, A. and S. Deering, "Internet Control Message Protocol (ICMPv6) for the Internet Protocol Version 6 (IPv6) Specification", RFC 2463, DOI 10.17487/RFC2463, December 1998, <https://www.rfc-editor.org/info/rfc2463>.

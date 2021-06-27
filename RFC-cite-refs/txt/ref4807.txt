@@ -1,0 +1,1 @@
+Baer, M., Charlet, R., Hardaker, W., Story, R., and C. Wang, "IPsec Security Policy Database Configuration MIB", RFC 4807, DOI 10.17487/RFC4807, March 2007, <https://www.rfc-editor.org/info/rfc4807>.

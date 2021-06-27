@@ -1,0 +1,1 @@
+Hilliard, N., Jasinska, E., Raszuk, R., and N. Bakker, "Internet Exchange BGP Route Server Operations", RFC 7948, DOI 10.17487/RFC7948, September 2016, <https://www.rfc-editor.org/info/rfc7948>.

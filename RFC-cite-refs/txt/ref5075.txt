@@ -1,0 +1,1 @@
+Haberman, B., Ed., and R. Hinden, "IPv6 Router Advertisement Flags Option", RFC 5075, DOI 10.17487/RFC5075, November 2007, <https://www.rfc-editor.org/info/rfc5075>.

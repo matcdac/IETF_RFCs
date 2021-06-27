@@ -1,0 +1,1 @@
+Simpson, W., Ed., "PPP in HDLC-like Framing", STD 51, RFC 1662, DOI 10.17487/RFC1662, July 1994, <https://www.rfc-editor.org/info/rfc1662>.

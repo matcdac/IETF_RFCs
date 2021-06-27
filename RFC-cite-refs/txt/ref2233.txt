@@ -1,0 +1,1 @@
+McCloghrie, K. and F. Kastenholz, "The Interfaces Group MIB using SMIv2", RFC 2233, DOI 10.17487/RFC2233, November 1997, <https://www.rfc-editor.org/info/rfc2233>.

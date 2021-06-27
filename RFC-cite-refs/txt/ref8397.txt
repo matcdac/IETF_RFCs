@@ -1,0 +1,1 @@
+Zhang, M., Eastlake 3rd, D., Perlman, R., Zhai, H., and D. Liu, "Transparent Interconnection of Lots of Links (TRILL) Multilevel Using Unique Nicknames", RFC 8397, DOI 10.17487/RFC8397, May 2018, <https://www.rfc-editor.org/info/rfc8397>.

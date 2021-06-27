@@ -1,0 +1,1 @@
+Houttuin, J. and J. Craigie, "Migrating from X.400(84) to X.400(88)", RFC 1615, DOI 10.17487/RFC1615, May 1994, <https://www.rfc-editor.org/info/rfc1615>.

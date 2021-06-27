@@ -1,0 +1,1 @@
+Poduri, K. and K. Nichols, "Simulation Studies of Increased Initial TCP Window Size", RFC 2415, DOI 10.17487/RFC2415, September 1998, <https://www.rfc-editor.org/info/rfc2415>.

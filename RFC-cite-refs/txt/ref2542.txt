@@ -1,0 +1,1 @@
+Masinter, L., "Terminology and Goals for Internet Fax", RFC 2542, DOI 10.17487/RFC2542, March 1999, <https://www.rfc-editor.org/info/rfc2542>.

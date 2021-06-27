@@ -1,0 +1,1 @@
+Mayrhofer, A. and B. Hoeneisen, "ENUM Validation Architecture", RFC 4725, DOI 10.17487/RFC4725, November 2006, <https://www.rfc-editor.org/info/rfc4725>.

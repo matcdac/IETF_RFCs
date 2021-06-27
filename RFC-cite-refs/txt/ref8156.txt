@@ -1,0 +1,1 @@
+Mrugalski, T. and K. Kinnear, "DHCPv6 Failover Protocol", RFC 8156, DOI 10.17487/RFC8156, June 2017, <https://www.rfc-editor.org/info/rfc8156>.

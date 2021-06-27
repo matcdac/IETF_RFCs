@@ -1,0 +1,1 @@
+Rose, M., "Directory Assistance service", RFC 1202, DOI 10.17487/RFC1202, February 1991, <https://www.rfc-editor.org/info/rfc1202>.

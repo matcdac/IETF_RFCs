@@ -1,0 +1,1 @@
+Crawley, E., Ed., Berger, L., Berson, S., Baker, F., Borden, M., and J. Krawczyk, "A Framework for Integrated Services and RSVP over ATM", RFC 2382, DOI 10.17487/RFC2382, August 1998, <https://www.rfc-editor.org/info/rfc2382>.

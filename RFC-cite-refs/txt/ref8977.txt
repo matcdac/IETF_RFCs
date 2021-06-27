@@ -1,0 +1,1 @@
+Loffredo, M., Martinelli, M., and S. Hollenbeck, "Registration Data Access Protocol (RDAP) Query Parameters for Result Sorting and Paging", RFC 8977, DOI 10.17487/RFC8977, January 2021, <https://www.rfc-editor.org/info/rfc8977>.

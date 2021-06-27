@@ -1,0 +1,1 @@
+Allman, E., Callas, J., Delany, M., Libbey, M., Fenton, J., and M. Thomas, "DomainKeys Identified Mail (DKIM) Signatures", RFC 4871, DOI 10.17487/RFC4871, May 2007, <https://www.rfc-editor.org/info/rfc4871>.

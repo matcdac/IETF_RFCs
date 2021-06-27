@@ -1,0 +1,1 @@
+Parker, J., Ed., "Recommendations for Interoperable IP Networks using Intermediate System to Intermediate System (IS-IS)", RFC 3787, DOI 10.17487/RFC3787, May 2004, <https://www.rfc-editor.org/info/rfc3787>.

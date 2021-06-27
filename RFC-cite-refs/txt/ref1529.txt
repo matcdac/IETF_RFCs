@@ -1,0 +1,1 @@
+Malamud, C. and M. Rose, "Principles of Operation for the TPC.INT Subdomain: Remote Printing -- Administrative Policies", RFC 1529, DOI 10.17487/RFC1529, October 1993, <https://www.rfc-editor.org/info/rfc1529>.

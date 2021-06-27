@@ -1,0 +1,1 @@
+Li, T., Cole, B., Morton, P., and D. Li, "Cisco Hot Standby Router Protocol (HSRP)", RFC 2281, DOI 10.17487/RFC2281, March 1998, <https://www.rfc-editor.org/info/rfc2281>.

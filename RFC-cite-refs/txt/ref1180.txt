@@ -1,0 +1,1 @@
+Socolofsky, T. and C. Kale, "TCP/IP tutorial", RFC 1180, DOI 10.17487/RFC1180, January 1991, <https://www.rfc-editor.org/info/rfc1180>.

@@ -1,0 +1,1 @@
+Korhonen, J., Ed., Jones, M., Morand, L., and T. Tsou, "Clarifications on the Routing of Diameter Requests Based on the Username and the Realm", RFC 5729, DOI 10.17487/RFC5729, December 2009, <https://www.rfc-editor.org/info/rfc5729>.

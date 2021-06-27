@@ -1,0 +1,1 @@
+Atkinson, R., "Default IP MTU for use over ATM AAL5", RFC 1626, DOI 10.17487/RFC1626, May 1994, <https://www.rfc-editor.org/info/rfc1626>.

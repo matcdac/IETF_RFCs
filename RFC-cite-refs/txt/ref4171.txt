@@ -1,0 +1,1 @@
+Tseng, J., Gibbons, K., Travostino, F., Du Laney, C., and J. Souza, "Internet Storage Name Service (iSNS)", RFC 4171, DOI 10.17487/RFC4171, September 2005, <https://www.rfc-editor.org/info/rfc4171>.

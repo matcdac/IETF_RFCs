@@ -1,0 +1,1 @@
+Myers, J. and M. Rose, "Post Office Protocol - Version 3", RFC 1725, DOI 10.17487/RFC1725, November 1994, <https://www.rfc-editor.org/info/rfc1725>.

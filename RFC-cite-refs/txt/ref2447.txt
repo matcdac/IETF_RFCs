@@ -1,0 +1,1 @@
+Dawson, F., Mansour, S., and S. Silverberg, "iCalendar Message-Based Interoperability Protocol (iMIP)", RFC 2447, DOI 10.17487/RFC2447, November 1998, <https://www.rfc-editor.org/info/rfc2447>.

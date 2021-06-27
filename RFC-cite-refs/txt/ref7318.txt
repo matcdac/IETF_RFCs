@@ -1,0 +1,1 @@
+Newton, A. and G. Huston, "Policy Qualifiers in Resource Public Key Infrastructure (RPKI) Certificates", RFC 7318, DOI 10.17487/RFC7318, July 2014, <https://www.rfc-editor.org/info/rfc7318>.

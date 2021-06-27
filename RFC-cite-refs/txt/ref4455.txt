@@ -1,0 +1,1 @@
+Hallak-Stamler, M., Bakke, M., Lederman, Y., Krueger, M., and K. McCloghrie, "Definition of Managed Objects for Small Computer System Interface (SCSI) Entities", RFC 4455, DOI 10.17487/RFC4455, April 2006, <https://www.rfc-editor.org/info/rfc4455>.

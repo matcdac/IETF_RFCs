@@ -1,0 +1,1 @@
+Sikes, C., Ray, B., and R. Abbi, "Definitions of Managed Objects for High Bit-Rate DSL - 2nd generation (HDSL2) and Single-Pair High-Speed Digital Subscriber Line (SHDSL) Lines", RFC 4319, DOI 10.17487/RFC4319, December 2005, <https://www.rfc-editor.org/info/rfc4319>.

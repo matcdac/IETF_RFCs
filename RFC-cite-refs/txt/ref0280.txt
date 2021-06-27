@@ -1,0 +1,1 @@
+Watson, R., "A Draft of Host Names", RFC 280, DOI 10.17487/RFC0280, November 1971, <https://www.rfc-editor.org/info/rfc280>.

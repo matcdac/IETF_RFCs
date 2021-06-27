@@ -1,0 +1,1 @@
+Kelley, K., "Interest in Mixed Integer Programming (MPSX on NIC 360/91 at CCN)", RFC 345, DOI 10.17487/RFC0345, May 1972, <https://www.rfc-editor.org/info/rfc345>.

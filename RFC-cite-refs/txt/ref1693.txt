@@ -1,0 +1,1 @@
+Connolly, T., Amer, P., and P. Conrad, "An Extension to TCP : Partial Order Service", RFC 1693, DOI 10.17487/RFC1693, November 1994, <https://www.rfc-editor.org/info/rfc1693>.

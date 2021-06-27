@@ -1,0 +1,1 @@
+Aitken, P., Ed., Claise, B., B S, S., McDowall, C., and J. Schoenwaelder, "Exporting MIB Variables Using the IP Flow Information Export (IPFIX) Protocol", RFC 8038, DOI 10.17487/RFC8038, May 2017, <https://www.rfc-editor.org/info/rfc8038>.

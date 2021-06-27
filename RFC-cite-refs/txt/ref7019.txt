@@ -1,0 +1,1 @@
+Buford, J. and M. Kolberg, Ed., "Application-Layer Multicast Extensions to REsource LOcation And Discovery (RELOAD)", RFC 7019, DOI 10.17487/RFC7019, September 2013, <https://www.rfc-editor.org/info/rfc7019>.

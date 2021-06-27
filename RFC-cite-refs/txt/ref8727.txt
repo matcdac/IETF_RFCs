@@ -1,0 +1,1 @@
+Takahashi, T., Danyliw, R., and M. Suzuki, "JSON Binding of the Incident Object Description Exchange Format", RFC 8727, DOI 10.17487/RFC8727, August 2020, <https://www.rfc-editor.org/info/rfc8727>.

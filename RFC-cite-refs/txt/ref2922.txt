@@ -1,0 +1,1 @@
+Bierman, A. and K. Jones, "Physical Topology MIB", RFC 2922, DOI 10.17487/RFC2922, September 2000, <https://www.rfc-editor.org/info/rfc2922>.

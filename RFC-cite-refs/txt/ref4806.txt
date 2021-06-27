@@ -1,0 +1,1 @@
+Myers, M. and H. Tschofenig, "Online Certificate Status Protocol (OCSP) Extensions to IKEv2", RFC 4806, DOI 10.17487/RFC4806, February 2007, <https://www.rfc-editor.org/info/rfc4806>.

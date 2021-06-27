@@ -1,0 +1,1 @@
+Shoshani, A. and E. Harslem, "Initial Connection Protocol - Reviewed", RFC 197, DOI 10.17487/RFC0197, July 1971, <https://www.rfc-editor.org/info/rfc197>.

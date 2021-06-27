@@ -1,0 +1,1 @@
+Wahl, M., Alvestrand, H., Hodges, J., and R. Morgan, "Authentication Methods for LDAP", RFC 2829, DOI 10.17487/RFC2829, May 2000, <https://www.rfc-editor.org/info/rfc2829>.

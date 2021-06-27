@@ -1,0 +1,1 @@
+Casner, S. and P. Hoschka, "MIME Type Registration of RTP Payload Formats", RFC 3555, DOI 10.17487/RFC3555, July 2003, <https://www.rfc-editor.org/info/rfc3555>.

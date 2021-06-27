@@ -1,0 +1,1 @@
+Farrel, A., King, D., Li, Y., and F. Zhang, "Generalized Labels for the Flexi-Grid in Lambda Switch Capable (LSC) Label Switching Routers", RFC 7699, DOI 10.17487/RFC7699, November 2015, <https://www.rfc-editor.org/info/rfc7699>.

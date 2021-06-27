@@ -1,0 +1,1 @@
+Huston, G. and G. Michaelson, "Textual Representation of Autonomous System (AS) Numbers", RFC 5396, DOI 10.17487/RFC5396, December 2008, <https://www.rfc-editor.org/info/rfc5396>.

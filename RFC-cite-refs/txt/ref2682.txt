@@ -1,0 +1,1 @@
+Widjaja, I. and A. Elwalid, "Performance Issues in VC-Merge Capable ATM LSRs", RFC 2682, DOI 10.17487/RFC2682, September 1999, <https://www.rfc-editor.org/info/rfc2682>.

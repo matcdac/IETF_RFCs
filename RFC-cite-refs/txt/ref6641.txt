@@ -1,0 +1,1 @@
+Everhart, C., Adamson, W., and J. Zhang, "Using DNS SRV to Specify a Global File Namespace with NFS Version 4", RFC 6641, DOI 10.17487/RFC6641, June 2012, <https://www.rfc-editor.org/info/rfc6641>.

@@ -1,0 +1,1 @@
+Wahl, M., "A Summary of the X.500(96) User Schema for use with LDAPv3", RFC 2256, DOI 10.17487/RFC2256, December 1997, <https://www.rfc-editor.org/info/rfc2256>.

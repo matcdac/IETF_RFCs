@@ -1,0 +1,1 @@
+Jiang, S., Liu, B., and B. Carpenter, "IPv6 Enterprise Network Renumbering Scenarios, Considerations, and Methods", RFC 6879, DOI 10.17487/RFC6879, February 2013, <https://www.rfc-editor.org/info/rfc6879>.

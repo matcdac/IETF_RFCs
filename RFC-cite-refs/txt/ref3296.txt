@@ -1,0 +1,1 @@
+Zeilenga, K., "Named Subordinate References in Lightweight Directory Access Protocol (LDAP) Directories", RFC 3296, DOI 10.17487/RFC3296, July 2002, <https://www.rfc-editor.org/info/rfc3296>.

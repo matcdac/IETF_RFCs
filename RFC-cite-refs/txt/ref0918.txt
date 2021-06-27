@@ -1,0 +1,1 @@
+Reynolds, J., "Post Office Protocol", RFC 918, DOI 10.17487/RFC0918, October 1984, <https://www.rfc-editor.org/info/rfc918>.

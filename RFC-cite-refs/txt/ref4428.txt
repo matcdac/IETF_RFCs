@@ -1,0 +1,1 @@
+Papadimitriou, D., Ed., and E. Mannie, Ed., "Analysis of Generalized Multi-Protocol Label Switching (GMPLS)-based Recovery Mechanisms (including Protection and Restoration)", RFC 4428, DOI 10.17487/RFC4428, March 2006, <https://www.rfc-editor.org/info/rfc4428>.

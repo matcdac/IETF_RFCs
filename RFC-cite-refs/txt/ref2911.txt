@@ -1,0 +1,1 @@
+Hastings, T., Ed., Herriot, R., deBry, R., Isaacson, S., and P. Powell, "Internet Printing Protocol/1.1: Model and Semantics", RFC 2911, DOI 10.17487/RFC2911, September 2000, <https://www.rfc-editor.org/info/rfc2911>.

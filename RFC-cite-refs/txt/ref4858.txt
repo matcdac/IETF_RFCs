@@ -1,0 +1,1 @@
+Levkowetz, H., Meyer, D., Eggert, L., and A. Mankin, "Document Shepherding from Working Group Last Call to Publication", RFC 4858, DOI 10.17487/RFC4858, May 2007, <https://www.rfc-editor.org/info/rfc4858>.

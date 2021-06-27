@@ -1,0 +1,1 @@
+Malamud, C., "Attaching Meaning to Solicitation Class Keywords", RFC 4095, DOI 10.17487/RFC4095, May 2005, <https://www.rfc-editor.org/info/rfc4095>.

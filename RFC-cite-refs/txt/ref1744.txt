@@ -1,0 +1,1 @@
+Huston, G., "Observations on the Management of the Internet Address Space", RFC 1744, DOI 10.17487/RFC1744, December 1994, <https://www.rfc-editor.org/info/rfc1744>.

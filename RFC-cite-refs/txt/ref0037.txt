@@ -1,0 +1,1 @@
+Crocker, S., "Network Meeting Epilogue, etc", RFC 37, DOI 10.17487/RFC0037, March 1970, <https://www.rfc-editor.org/info/rfc37>.

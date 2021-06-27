@@ -1,0 +1,1 @@
+Leonard, S., "Windows Image Media Types", RFC 7903, DOI 10.17487/RFC7903, September 2016, <https://www.rfc-editor.org/info/rfc7903>.

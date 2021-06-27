@@ -1,0 +1,1 @@
+Tesink, K., Ed., "Definitions of Managed Objects for ATM Management", RFC 2515, DOI 10.17487/RFC2515, February 1999, <https://www.rfc-editor.org/info/rfc2515>.

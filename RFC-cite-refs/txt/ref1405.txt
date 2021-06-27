@@ -1,0 +1,1 @@
+Allocchio, C., "Mapping between X.400(1984/1988) and Mail-11 (DECnet mail)", RFC 1405, DOI 10.17487/RFC1405, January 1993, <https://www.rfc-editor.org/info/rfc1405>.

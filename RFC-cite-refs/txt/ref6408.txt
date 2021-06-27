@@ -1,0 +1,1 @@
+Jones, M., Korhonen, J., and L. Morand, "Diameter Straightforward-Naming Authority Pointer (S-NAPTR) Usage", RFC 6408, DOI 10.17487/RFC6408, November 2011, <https://www.rfc-editor.org/info/rfc6408>.

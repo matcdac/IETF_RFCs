@@ -1,0 +1,1 @@
+Hastings, T., Herriot, R., Kugler, C., and H. Lewis, "Internet Printing Protocol (IPP): Job and Printer Set Operations", RFC 3380, DOI 10.17487/RFC3380, September 2002, <https://www.rfc-editor.org/info/rfc3380>.

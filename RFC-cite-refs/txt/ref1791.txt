@@ -1,0 +1,1 @@
+Sung, T., "TCP And UDP Over IPX Networks With Fixed Path MTU", RFC 1791, DOI 10.17487/RFC1791, April 1995, <https://www.rfc-editor.org/info/rfc1791>.

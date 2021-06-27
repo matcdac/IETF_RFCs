@@ -1,0 +1,1 @@
+Coene, L. and J. Pastor-Balbas, "Telephony Signalling Transport over Stream Control Transmission Protocol (SCTP) Applicability Statement", RFC 4166, DOI 10.17487/RFC4166, February 2006, <https://www.rfc-editor.org/info/rfc4166>.

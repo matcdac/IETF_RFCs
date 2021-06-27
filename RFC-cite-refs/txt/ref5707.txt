@@ -1,0 +1,1 @@
+Saleem, A., Xin, Y., and G. Sharratt, "Media Server Markup Language (MSML)", RFC 5707, DOI 10.17487/RFC5707, February 2010, <https://www.rfc-editor.org/info/rfc5707>.

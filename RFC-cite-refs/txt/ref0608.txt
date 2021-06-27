@@ -1,0 +1,1 @@
+Kudlick, M., "Host names on-line", RFC 608, DOI 10.17487/RFC0608, January 1974, <https://www.rfc-editor.org/info/rfc608>.

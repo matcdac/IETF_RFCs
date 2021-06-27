@@ -1,0 +1,1 @@
+Andrews, M., "Adding 100.64.0.0/10 Prefixes to the IPv4 Locally-Served DNS Zones Registry", BCP 163, RFC 7793, DOI 10.17487/RFC7793, May 2016, <https://www.rfc-editor.org/info/rfc7793>.

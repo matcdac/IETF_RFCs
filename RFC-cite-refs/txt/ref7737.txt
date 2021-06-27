@@ -1,0 +1,1 @@
+Akiya, N., Swallow, G., Pignataro, C., Andersson, L., and M. Chen, "Label Switched Path (LSP) Ping and Traceroute Reply Mode Simplification", RFC 7737, DOI 10.17487/RFC7737, January 2016, <https://www.rfc-editor.org/info/rfc7737>.

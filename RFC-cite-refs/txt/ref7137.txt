@@ -1,0 +1,1 @@
+Retana, A. and S. Ratliff, "Use of the OSPF-MANET Interface in Single-Hop Broadcast Networks", RFC 7137, DOI 10.17487/RFC7137, February 2014, <https://www.rfc-editor.org/info/rfc7137>.

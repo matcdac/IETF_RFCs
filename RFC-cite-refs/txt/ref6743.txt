@@ -1,0 +1,1 @@
+RJ Atkinson and SN Bhatti, "ICMP Locator Update Message for the Identifier-Locator Network Protocol for IPv6 (ILNPv6)", RFC 6743, DOI 10.17487/RFC6743, November 2012, <https://www.rfc-editor.org/info/rfc6743>.

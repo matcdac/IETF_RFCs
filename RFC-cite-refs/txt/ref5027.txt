@@ -1,0 +1,1 @@
+Andreasen, F. and D. Wing, "Security Preconditions for Session Description Protocol (SDP) Media Streams", RFC 5027, DOI 10.17487/RFC5027, October 2007, <https://www.rfc-editor.org/info/rfc5027>.

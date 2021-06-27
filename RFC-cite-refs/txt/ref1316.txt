@@ -1,0 +1,1 @@
+Stewart, B., "Definitions of Managed Objects for Character Stream Devices", RFC 1316, DOI 10.17487/RFC1316, April 1992, <https://www.rfc-editor.org/info/rfc1316>.

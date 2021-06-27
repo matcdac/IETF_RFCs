@@ -1,0 +1,1 @@
+Sjoberg, J., Westerlund, M., Lakaniemi, A., and Q. Xie, "Real-Time Transport Protocol (RTP) Payload Format and File Storage Format for the Adaptive Multi-Rate (AMR) and Adaptive Multi-Rate Wideband (AMR-WB) Audio Codecs", RFC 3267, DOI 10.17487/RFC3267, June 2002, <https://www.rfc-editor.org/info/rfc3267>.

@@ -1,0 +1,1 @@
+Solomon, J. and S. Glass, "Mobile-IPv4 Configuration Option for PPP IPCP", RFC 2290, DOI 10.17487/RFC2290, February 1998, <https://www.rfc-editor.org/info/rfc2290>.

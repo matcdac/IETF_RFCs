@@ -1,0 +1,1 @@
+Zorn, G., Wu, Q., and V. Cakulev, "Diameter Attribute-Value Pairs for Cryptographic Key Transport", RFC 6734, DOI 10.17487/RFC6734, October 2012, <https://www.rfc-editor.org/info/rfc6734>.

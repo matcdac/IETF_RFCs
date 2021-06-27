@@ -1,0 +1,1 @@
+Almquist, P. and F. Kastenholz, "Towards Requirements for IP Routers", RFC 1716, DOI 10.17487/RFC1716, November 1994, <https://www.rfc-editor.org/info/rfc1716>.

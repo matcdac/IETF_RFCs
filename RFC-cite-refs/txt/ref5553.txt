@@ -1,0 +1,1 @@
+Farrel, A., Ed., Bradford, R., and JP. Vasseur, "Resource Reservation Protocol (RSVP) Extensions for Path Key Support", RFC 5553, DOI 10.17487/RFC5553, May 2009, <https://www.rfc-editor.org/info/rfc5553>.

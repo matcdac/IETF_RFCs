@@ -1,0 +1,1 @@
+Postel, J., "Assigned numbers", RFC 770, DOI 10.17487/RFC0770, September 1980, <https://www.rfc-editor.org/info/rfc770>.

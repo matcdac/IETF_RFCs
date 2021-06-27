@@ -1,0 +1,1 @@
+Gellens, R., "Deployment Considerations for Lemonade-Compliant Mobile Email", BCP 143, RFC 5383, DOI 10.17487/RFC5383, October 2008, <https://www.rfc-editor.org/info/rfc5383>.

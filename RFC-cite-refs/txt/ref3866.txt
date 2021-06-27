@@ -1,0 +1,1 @@
+Zeilenga, K., Ed., "Language Tags and Ranges in the Lightweight Directory Access Protocol (LDAP)", RFC 3866, DOI 10.17487/RFC3866, July 2004, <https://www.rfc-editor.org/info/rfc3866>.

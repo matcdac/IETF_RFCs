@@ -1,0 +1,1 @@
+Levinson, E., "The MIME Multipart/Related Content-type", RFC 1872, DOI 10.17487/RFC1872, December 1995, <https://www.rfc-editor.org/info/rfc1872>.

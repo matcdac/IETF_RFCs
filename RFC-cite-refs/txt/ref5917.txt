@@ -1,0 +1,1 @@
+Turner, S., "Clearance Sponsor Attribute", RFC 5917, DOI 10.17487/RFC5917, June 2010, <https://www.rfc-editor.org/info/rfc5917>.

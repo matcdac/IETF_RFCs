@@ -1,0 +1,1 @@
+Meyer, D., Schmitz, J., Orange, C., Prior, M., and C. Alaettinoglu, "Using RPSL in Practice", RFC 2650, DOI 10.17487/RFC2650, August 1999, <https://www.rfc-editor.org/info/rfc2650>.

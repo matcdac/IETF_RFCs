@@ -1,0 +1,1 @@
+Kaliski, B., "The MD2 Message-Digest Algorithm", RFC 1319, DOI 10.17487/RFC1319, April 1992, <https://www.rfc-editor.org/info/rfc1319>.

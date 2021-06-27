@@ -1,0 +1,1 @@
+Chen, E. and T. Bates, "An Application of the BGP Community Attribute in Multi-home Routing", RFC 1998, DOI 10.17487/RFC1998, August 1996, <https://www.rfc-editor.org/info/rfc1998>.

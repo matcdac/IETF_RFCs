@@ -1,0 +1,1 @@
+Dutta, A., Ed., Fajardo, V., Ohba, Y., Taniuchi, K., and H. Schulzrinne, "A Framework of Media-Independent Pre-Authentication (MPA) for Inter-Domain Handover Optimization", RFC 6252, DOI 10.17487/RFC6252, June 2011, <https://www.rfc-editor.org/info/rfc6252>.

@@ -1,0 +1,1 @@
+Yasuda, A. and T. Thompson, "Telnet Data Entry Terminal option: DODIIS implementation", RFC 1043, DOI 10.17487/RFC1043, February 1988, <https://www.rfc-editor.org/info/rfc1043>.

@@ -1,0 +1,1 @@
+Schoenwaelder, J. and J. Quittek, "Script MIB Extensibility Protocol Version 1.0", RFC 2593, DOI 10.17487/RFC2593, May 1999, <https://www.rfc-editor.org/info/rfc2593>.

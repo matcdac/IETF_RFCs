@@ -1,0 +1,1 @@
+Black, D., Fridella, S., and J. Glasgow, "Parallel NFS (pNFS) Block/Volume Layout", RFC 5663, DOI 10.17487/RFC5663, January 2010, <https://www.rfc-editor.org/info/rfc5663>.

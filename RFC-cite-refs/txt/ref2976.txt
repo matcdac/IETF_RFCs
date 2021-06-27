@@ -1,0 +1,1 @@
+Donovan, S., "The SIP INFO Method", RFC 2976, DOI 10.17487/RFC2976, October 2000, <https://www.rfc-editor.org/info/rfc2976>.

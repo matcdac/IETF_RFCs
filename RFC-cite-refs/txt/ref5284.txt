@@ -1,0 +1,1 @@
+Swallow, G. and A. Farrel, "User-Defined Errors for RSVP", RFC 5284, DOI 10.17487/RFC5284, August 2008, <https://www.rfc-editor.org/info/rfc5284>.

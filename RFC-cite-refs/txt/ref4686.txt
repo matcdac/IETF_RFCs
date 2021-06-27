@@ -1,0 +1,1 @@
+Fenton, J., "Analysis of Threats Motivating DomainKeys Identified Mail (DKIM)", RFC 4686, DOI 10.17487/RFC4686, September 2006, <https://www.rfc-editor.org/info/rfc4686>.

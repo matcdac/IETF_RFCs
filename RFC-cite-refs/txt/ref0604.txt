@@ -1,0 +1,1 @@
+Postel, J., "Assigned link numbers", RFC 604, DOI 10.17487/RFC0604, December 1973, <https://www.rfc-editor.org/info/rfc604>.

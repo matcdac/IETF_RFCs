@@ -1,0 +1,1 @@
+Hoffman, P., "The gopher URI Scheme", RFC 4266, DOI 10.17487/RFC4266, November 2005, <https://www.rfc-editor.org/info/rfc4266>.

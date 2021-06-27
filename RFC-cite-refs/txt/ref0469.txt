@@ -1,0 +1,1 @@
+Kudlick, M., "Network mail meeting summary", RFC 469, DOI 10.17487/RFC0469, March 1973, <https://www.rfc-editor.org/info/rfc469>.

@@ -1,0 +1,1 @@
+Gill, V., Heasley, J., and D. Meyer, "The Generalized TTL Security Mechanism (GTSM)", RFC 3682, DOI 10.17487/RFC3682, February 2004, <https://www.rfc-editor.org/info/rfc3682>.

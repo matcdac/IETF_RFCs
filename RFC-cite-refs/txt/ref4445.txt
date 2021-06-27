@@ -1,0 +1,1 @@
+Welch, J. and J. Clark, "A Proposed Media Delivery Index (MDI)", RFC 4445, DOI 10.17487/RFC4445, April 2006, <https://www.rfc-editor.org/info/rfc4445>.

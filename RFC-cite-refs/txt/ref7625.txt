@@ -1,0 +1,1 @@
+Hao, J., Maheshwari, P., Huang, R., Andersson, L., and M. Chen, "Architecture of an IP/MPLS Network with Hardened Pipes", RFC 7625, DOI 10.17487/RFC7625, August 2015, <https://www.rfc-editor.org/info/rfc7625>.

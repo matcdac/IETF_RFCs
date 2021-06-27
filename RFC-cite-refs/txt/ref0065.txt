@@ -1,0 +1,1 @@
+Walden, D., "Comments on Host/Host Protocol document #1", RFC 65, DOI 10.17487/RFC0065, August 1970, <https://www.rfc-editor.org/info/rfc65>.

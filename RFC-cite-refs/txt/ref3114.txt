@@ -1,0 +1,1 @@
+Nicolls, W., "Implementing Company Classification Policy with the S/MIME Security Label", RFC 3114, DOI 10.17487/RFC3114, May 2002, <https://www.rfc-editor.org/info/rfc3114>.

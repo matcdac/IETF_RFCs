@@ -1,0 +1,1 @@
+Kucherawy, M., "Authentication-Results Registration for Differentiating among Cryptographic Results", RFC 6008, DOI 10.17487/RFC6008, September 2010, <https://www.rfc-editor.org/info/rfc6008>.

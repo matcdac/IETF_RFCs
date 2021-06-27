@@ -1,0 +1,1 @@
+Zelig, D., Ed., Cohen, R., Ed., and T. Nadeau, Ed., "Synchronous Optical Network/Synchronous Digital Hierarchy (SONET/SDH) Circuit Emulation over Packet (CEP) MIB Using SMIv2", RFC 6240, DOI 10.17487/RFC6240, May 2011, <https://www.rfc-editor.org/info/rfc6240>.

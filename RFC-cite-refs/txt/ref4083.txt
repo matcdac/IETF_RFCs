@@ -1,0 +1,1 @@
+Garcia-Martin, M., "Input 3rd-Generation Partnership Project (3GPP) Release 5 Requirements on the Session Initiation Protocol (SIP)", RFC 4083, DOI 10.17487/RFC4083, May 2005, <https://www.rfc-editor.org/info/rfc4083>.

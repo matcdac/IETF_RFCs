@@ -1,0 +1,1 @@
+Rehbehn, K., Nicklass, O., and G. Mouradian, "Definitions of Managed Objects for Monitoring and Controlling the Frame Relay/ATM PVC Service Interworking Function", RFC 2955, DOI 10.17487/RFC2955, October 2000, <https://www.rfc-editor.org/info/rfc2955>.

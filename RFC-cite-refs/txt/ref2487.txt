@@ -1,0 +1,1 @@
+Hoffman, P., "SMTP Service Extension for Secure SMTP over TLS", RFC 2487, DOI 10.17487/RFC2487, January 1999, <https://www.rfc-editor.org/info/rfc2487>.

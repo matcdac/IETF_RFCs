@@ -1,0 +1,1 @@
+Jennings, C., Jones, P., Barnes, R., and A. Roach, "Double Encryption Procedures for the Secure Real-Time Transport Protocol (SRTP)", RFC 8723, DOI 10.17487/RFC8723, April 2020, <https://www.rfc-editor.org/info/rfc8723>.

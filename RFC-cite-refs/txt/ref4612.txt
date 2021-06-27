@@ -1,0 +1,1 @@
+Jones, P. and H. Tamura, "Real-Time Facsimile (T.38) - audio/t38 MIME Sub-type Registration", RFC 4612, DOI 10.17487/RFC4612, August 2006, <https://www.rfc-editor.org/info/rfc4612>.

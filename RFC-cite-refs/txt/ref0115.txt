@@ -1,0 +1,1 @@
+Watson, R. and J. North, "Some Network Information Center policies on handling documents", RFC 115, DOI 10.17487/RFC0115, April 1971, <https://www.rfc-editor.org/info/rfc115>.

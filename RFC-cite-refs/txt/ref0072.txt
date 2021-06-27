@@ -1,0 +1,1 @@
+Bressler, R., "Proposed Moratorium on Changes to Network Protocol", RFC 72, DOI 10.17487/RFC0072, September 1970, <https://www.rfc-editor.org/info/rfc72>.

@@ -1,0 +1,1 @@
+Degener, J. and P. Guenther, "Sieve Email Filtering: Body Extension", RFC 5173, DOI 10.17487/RFC5173, April 2008, <https://www.rfc-editor.org/info/rfc5173>.

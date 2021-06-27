@@ -1,0 +1,1 @@
+Burmeister, C., Hakenberg, R., Miyazaki, A., Ott, J., Sato, N., and S. Fukunaga, "Extended RTP Profile for Real-time Transport Control Protocol (RTCP)-Based Feedback: Results of the Timing Rule Simulations", RFC 4586, DOI 10.17487/RFC4586, July 2006, <https://www.rfc-editor.org/info/rfc4586>.

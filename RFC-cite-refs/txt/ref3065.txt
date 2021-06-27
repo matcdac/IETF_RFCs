@@ -1,0 +1,1 @@
+Traina, P., McPherson, D., and J. Scudder, "Autonomous System Confederations for BGP", RFC 3065, DOI 10.17487/RFC3065, February 2001, <https://www.rfc-editor.org/info/rfc3065>.

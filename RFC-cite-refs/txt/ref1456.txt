@@ -1,0 +1,1 @@
+Vietnamese Standardization Working Group, "Conventions for Encoding the Vietnamese Language  VISCII: VIetnamese Standard Code for Information Interchange VIQR: VIetnamese Quoted-Readable Specification", RFC 1456, DOI 10.17487/RFC1456, May 1993, <https://www.rfc-editor.org/info/rfc1456>.

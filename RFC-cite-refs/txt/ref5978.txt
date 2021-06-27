@@ -1,0 +1,1 @@
+Manner, J., Bless, R., Loughney, J., and E. Davies, Ed., "Using and Extending the NSIS Protocol Family", RFC 5978, DOI 10.17487/RFC5978, October 2010, <https://www.rfc-editor.org/info/rfc5978>.

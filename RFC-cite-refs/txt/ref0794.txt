@@ -1,0 +1,1 @@
+Cerf, V., "Pre-emption", RFC 794, DOI 10.17487/RFC0794, September 1981, <https://www.rfc-editor.org/info/rfc794>.

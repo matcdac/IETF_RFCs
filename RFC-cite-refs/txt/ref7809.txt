@@ -1,0 +1,1 @@
+Daboo, C., "Calendaring Extensions to WebDAV (CalDAV): Time Zones by Reference", RFC 7809, DOI 10.17487/RFC7809, March 2016, <https://www.rfc-editor.org/info/rfc7809>.

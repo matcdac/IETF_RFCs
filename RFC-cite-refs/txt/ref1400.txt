@@ -1,0 +1,1 @@
+Williamson, S., "Transition and Modernization of the Internet Registration Service", RFC 1400, DOI 10.17487/RFC1400, March 1993, <https://www.rfc-editor.org/info/rfc1400>.

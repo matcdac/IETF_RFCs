@@ -1,0 +1,1 @@
+Papneja, R., Parise, B., Hares, S., Lee, D., and I. Varlashkin, "Basic BGP Convergence Benchmarking Methodology for Data-Plane Convergence", RFC 7747, DOI 10.17487/RFC7747, April 2016, <https://www.rfc-editor.org/info/rfc7747>.

@@ -1,0 +1,1 @@
+Madanapalli, S., Ed., "Analysis of IPv6 Link Models for 802.16 Based Networks", RFC 4968, DOI 10.17487/RFC4968, August 2007, <https://www.rfc-editor.org/info/rfc4968>.

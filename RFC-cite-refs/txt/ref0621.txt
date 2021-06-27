@@ -1,0 +1,1 @@
+Kudlick, M., "NIC user directories at SRI ARC", RFC 621, DOI 10.17487/RFC0621, March 1974, <https://www.rfc-editor.org/info/rfc621>.

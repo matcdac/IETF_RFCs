@@ -1,0 +1,1 @@
+O'Sullivan, T., "Discussion of Telnet Protocol", RFC 139, DOI 10.17487/RFC0139, May 1971, <https://www.rfc-editor.org/info/rfc139>.

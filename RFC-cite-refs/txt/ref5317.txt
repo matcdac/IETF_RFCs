@@ -1,0 +1,1 @@
+Bryant, S., Ed., and L. Andersson, Ed., "Joint Working Team (JWT) Report on MPLS Architectural Considerations for a Transport Profile", RFC 5317, DOI 10.17487/RFC5317, February 2009, <https://www.rfc-editor.org/info/rfc5317>.

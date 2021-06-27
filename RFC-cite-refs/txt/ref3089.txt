@@ -1,0 +1,1 @@
+Kitamura, H., "A SOCKS-based IPv6/IPv4 Gateway Mechanism", RFC 3089, DOI 10.17487/RFC3089, April 2001, <https://www.rfc-editor.org/info/rfc3089>.

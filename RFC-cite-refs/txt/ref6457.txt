@@ -1,0 +1,1 @@
+Takeda, T., Ed., and A. Farrel, "PCC-PCE Communication and PCE Discovery Requirements for Inter-Layer Traffic Engineering", RFC 6457, DOI 10.17487/RFC6457, December 2011, <https://www.rfc-editor.org/info/rfc6457>.

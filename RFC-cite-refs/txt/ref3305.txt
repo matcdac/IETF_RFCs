@@ -1,0 +1,1 @@
+Mealling, M., Ed., and R. Denenberg, Ed., "Report from the Joint W3C/IETF URI Planning Interest Group: Uniform Resource Identifiers (URIs), URLs, and Uniform Resource Names (URNs): Clarifications and Recommendations", RFC 3305, DOI 10.17487/RFC3305, August 2002, <https://www.rfc-editor.org/info/rfc3305>.

@@ -1,0 +1,1 @@
+Koskelainen, P., Ott, J., Schulzrinne, H., and X. Wu, "Requirements for Floor Control Protocols", RFC 4376, DOI 10.17487/RFC4376, February 2006, <https://www.rfc-editor.org/info/rfc4376>.

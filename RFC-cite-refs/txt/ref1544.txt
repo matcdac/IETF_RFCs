@@ -1,0 +1,1 @@
+Rose, M., "The Content-MD5 Header Field", RFC 1544, DOI 10.17487/RFC1544, November 1993, <https://www.rfc-editor.org/info/rfc1544>.

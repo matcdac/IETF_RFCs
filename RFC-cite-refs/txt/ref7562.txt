@@ -1,0 +1,1 @@
+Thakore, D., "Transport Layer Security (TLS) Authorization Using Digital Transmission Content Protection (DTCP) Certificates", RFC 7562, DOI 10.17487/RFC7562, July 2015, <https://www.rfc-editor.org/info/rfc7562>.

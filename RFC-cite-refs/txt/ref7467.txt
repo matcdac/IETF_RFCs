@@ -1,0 +1,1 @@
+Murdock, A., "URN Namespace for the North Atlantic Treaty Organization (NATO)", RFC 7467, DOI 10.17487/RFC7467, April 2015, <https://www.rfc-editor.org/info/rfc7467>.

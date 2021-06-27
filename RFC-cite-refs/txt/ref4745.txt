@@ -1,0 +1,1 @@
+Schulzrinne, H., Tschofenig, H., Morris, J., Cuellar, J., Polk, J., and J. Rosenberg, "Common Policy: A Document Format for Expressing Privacy Preferences", RFC 4745, DOI 10.17487/RFC4745, February 2007, <https://www.rfc-editor.org/info/rfc4745>.

@@ -1,0 +1,1 @@
+Ellison, M. and B. Natale, "Expressing SNMP SMI Datatypes in XML Schema Definition Language", RFC 5935, DOI 10.17487/RFC5935, August 2010, <https://www.rfc-editor.org/info/rfc5935>.

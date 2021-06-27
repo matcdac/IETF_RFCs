@@ -1,0 +1,1 @@
+Myers, J., "SMTP Service Extension for Authentication", RFC 2554, DOI 10.17487/RFC2554, March 1999, <https://www.rfc-editor.org/info/rfc2554>.

@@ -1,0 +1,1 @@
+Kunze, J., "Encoding Dublin Core Metadata in HTML", RFC 2731, DOI 10.17487/RFC2731, December 1999, <https://www.rfc-editor.org/info/rfc2731>.

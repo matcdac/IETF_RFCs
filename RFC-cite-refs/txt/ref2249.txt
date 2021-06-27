@@ -1,0 +1,1 @@
+Freed, N. and S. Kille, "Mail Monitoring MIB", RFC 2249, DOI 10.17487/RFC2249, January 1998, <https://www.rfc-editor.org/info/rfc2249>.

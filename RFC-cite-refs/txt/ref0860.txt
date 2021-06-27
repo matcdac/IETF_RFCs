@@ -1,0 +1,1 @@
+Postel, J. and J. Reynolds, "Telnet Timing Mark Option", STD 31, RFC 860, DOI 10.17487/RFC0860, May 1983, <https://www.rfc-editor.org/info/rfc860>.

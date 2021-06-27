@@ -1,0 +1,1 @@
+Kozat, U. and A. Begen, "Pseudo Content Delivery Protocol (CDP) for Protecting Multiple Source Flows in the Forward Error Correction (FEC) Framework", RFC 6801, DOI 10.17487/RFC6801, November 2012, <https://www.rfc-editor.org/info/rfc6801>.

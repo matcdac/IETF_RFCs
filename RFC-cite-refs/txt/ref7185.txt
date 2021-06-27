@@ -1,0 +1,1 @@
+Dearlove, C., Clausen, T., and P. Jacquet, "Link Metrics for the Mobile Ad Hoc Network (MANET) Routing Protocol OLSRv2 - Rationale", RFC 7185, DOI 10.17487/RFC7185, April 2014, <https://www.rfc-editor.org/info/rfc7185>.

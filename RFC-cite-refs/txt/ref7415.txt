@@ -1,0 +1,1 @@
+Noel, E. and P. Williams, "Session Initiation Protocol (SIP) Rate Control", RFC 7415, DOI 10.17487/RFC7415, February 2015, <https://www.rfc-editor.org/info/rfc7415>.

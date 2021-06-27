@@ -1,0 +1,1 @@
+Leinen, S., "Evaluation of Candidate Protocols for IP Flow Information Export (IPFIX)", RFC 3955, DOI 10.17487/RFC3955, October 2004, <https://www.rfc-editor.org/info/rfc3955>.

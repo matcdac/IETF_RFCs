@@ -1,0 +1,1 @@
+Liu, B., Ed., Ginsberg, L., Decraene, B., Farrer, I., and M. Abrahamsson, "IS-IS Autoconfiguration", RFC 8196, DOI 10.17487/RFC8196, July 2017, <https://www.rfc-editor.org/info/rfc8196>.

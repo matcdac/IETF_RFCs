@@ -1,0 +1,1 @@
+Legg, S., "Abstract Syntax Notation X (ASN.X) Representation of Encoding Instructions for the XML Encoding Rules (XER)", RFC 4914, DOI 10.17487/RFC4914, July 2007, <https://www.rfc-editor.org/info/rfc4914>.

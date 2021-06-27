@@ -1,0 +1,1 @@
+Brownlee, N., "SVG Drawings for RFCs: SVG 1.2 RFC", RFC 7996, DOI 10.17487/RFC7996, December 2016, <https://www.rfc-editor.org/info/rfc7996>.

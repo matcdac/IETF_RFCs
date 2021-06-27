@@ -1,0 +1,1 @@
+Dhody, D., Ed., Gandhi, R., Ed., Palle, U., Singh, R., and L. Fang, "Path Computation Element Communication Protocol (PCEP) Extensions for MPLS-TE Label Switched Path (LSP) Auto-Bandwidth Adjustment with Stateful PCE", RFC 8733, DOI 10.17487/RFC8733, February 2020, <https://www.rfc-editor.org/info/rfc8733>.

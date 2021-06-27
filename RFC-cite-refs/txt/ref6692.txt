@@ -1,0 +1,1 @@
+Clayton, R. and M. Kucherawy, "Source Ports in Abuse Reporting Format (ARF) Reports", RFC 6692, DOI 10.17487/RFC6692, July 2012, <https://www.rfc-editor.org/info/rfc6692>.

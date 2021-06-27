@@ -1,0 +1,1 @@
+White, J., "Telnet Access to UCSB's On-Line System", RFC 216, DOI 10.17487/RFC0216, September 1971, <https://www.rfc-editor.org/info/rfc216>.

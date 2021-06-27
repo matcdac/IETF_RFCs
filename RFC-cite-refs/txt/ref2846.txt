@@ -1,0 +1,1 @@
+Allocchio, C., "GSTN Address Element Extensions in E-mail Services", RFC 2846, DOI 10.17487/RFC2846, June 2000, <https://www.rfc-editor.org/info/rfc2846>.

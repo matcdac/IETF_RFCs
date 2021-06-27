@@ -1,0 +1,1 @@
+King, T., Dietzel, C., Snijders, J., Doering, G., and G. Hankins, "BLACKHOLE Community", RFC 7999, DOI 10.17487/RFC7999, October 2016, <https://www.rfc-editor.org/info/rfc7999>.

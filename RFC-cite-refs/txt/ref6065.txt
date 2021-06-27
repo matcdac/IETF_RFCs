@@ -1,0 +1,1 @@
+Narayan, K., Nelson, D., and R. Presuhn, Ed., "Using Authentication, Authorization, and Accounting Services to Dynamically Provision View-Based Access Control Model User-to-Group Mappings", RFC 6065, DOI 10.17487/RFC6065, December 2010, <https://www.rfc-editor.org/info/rfc6065>.

@@ -1,0 +1,1 @@
+Groves, C. and Y. Lin, "H.248/MEGACO Registration Procedures", BCP 151, RFC 5615, DOI 10.17487/RFC5615, August 2009, <https://www.rfc-editor.org/info/rfc5615>.

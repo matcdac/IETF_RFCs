@@ -1,0 +1,1 @@
+Hardwick, K. and J. Lekashman, "Internet Protocol on Network System's HYPERchannel: Protocol Specification", STD 45, RFC 1044, DOI 10.17487/RFC1044, February 1988, <https://www.rfc-editor.org/info/rfc1044>.

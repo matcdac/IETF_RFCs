@@ -1,0 +1,1 @@
+Haskin, D., "Default Route Advertisement In BGP2 and BGP3 Version of The Border Gateway Protocol", RFC 1397, DOI 10.17487/RFC1397, January 1993, <https://www.rfc-editor.org/info/rfc1397>.

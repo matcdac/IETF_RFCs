@@ -1,0 +1,1 @@
+Nir, Y., "Using the Edwards-Curve Digital Signature Algorithm (EdDSA) in the Internet Key Exchange Protocol Version 2 (IKEv2)", RFC 8420, DOI 10.17487/RFC8420, August 2018, <https://www.rfc-editor.org/info/rfc8420>.

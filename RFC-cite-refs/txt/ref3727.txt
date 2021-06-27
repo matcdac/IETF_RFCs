@@ -1,0 +1,1 @@
+Legg, S., "ASN.1 Module Definition for the LDAP and X.500 Component Matching Rules", RFC 3727, DOI 10.17487/RFC3727, February 2004, <https://www.rfc-editor.org/info/rfc3727>.

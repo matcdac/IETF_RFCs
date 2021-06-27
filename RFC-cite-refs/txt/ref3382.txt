@@ -1,0 +1,1 @@
+deBry, R., Hastings, T., Herriot, R., Ocke, K., and P. Zehler, "Internet Printing Protocol (IPP): The 'collection' attribute syntax", RFC 3382, DOI 10.17487/RFC3382, September 2002, <https://www.rfc-editor.org/info/rfc3382>.

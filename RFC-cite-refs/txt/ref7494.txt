@@ -1,0 +1,1 @@
+Shao, C., Deng, H., Pazhyannur, R., Bari, F., Zhang, R., and S. Matsushima, "IEEE 802.11 Medium Access Control (MAC) Profile for Control and Provisioning of Wireless Access Points (CAPWAP)", RFC 7494, DOI 10.17487/RFC7494, April 2015, <https://www.rfc-editor.org/info/rfc7494>.

@@ -1,0 +1,1 @@
+Hodges, J., Morgan, R., and M. Wahl, "Lightweight Directory Access Protocol (v3): Extension for Transport Layer Security", RFC 2830, DOI 10.17487/RFC2830, May 2000, <https://www.rfc-editor.org/info/rfc2830>.

@@ -1,0 +1,1 @@
+Katz, A., "Format for Bitmap files", RFC 797, DOI 10.17487/RFC0797, September 1981, <https://www.rfc-editor.org/info/rfc797>.

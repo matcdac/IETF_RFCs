@@ -1,0 +1,1 @@
+Kempf, J. and G. Montenegro, "Finding an RSIP Server with SLP", RFC 3105, DOI 10.17487/RFC3105, October 2001, <https://www.rfc-editor.org/info/rfc3105>.

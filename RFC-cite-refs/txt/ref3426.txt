@@ -1,0 +1,1 @@
+Floyd, S., "General Architectural and Policy Considerations", RFC 3426, DOI 10.17487/RFC3426, November 2002, <https://www.rfc-editor.org/info/rfc3426>.

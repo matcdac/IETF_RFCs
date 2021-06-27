@@ -1,0 +1,1 @@
+Crocker, D., "Telnet byte macro option", RFC 729, DOI 10.17487/RFC0729, May 1977, <https://www.rfc-editor.org/info/rfc729>.

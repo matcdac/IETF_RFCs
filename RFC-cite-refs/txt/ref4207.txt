@@ -1,0 +1,1 @@
+Lang, J. and D. Papadimitriou, "Synchronous Optical Network (SONET)/Synchronous Digital Hierarchy (SDH) Encoding for Link Management Protocol (LMP) Test Messages", RFC 4207, DOI 10.17487/RFC4207, October 2005, <https://www.rfc-editor.org/info/rfc4207>.

@@ -1,0 +1,1 @@
+Nystroem, M., "The EAP Protected One-Time Password Protocol (EAP-POTP)", RFC 4793, DOI 10.17487/RFC4793, February 2007, <https://www.rfc-editor.org/info/rfc4793>.

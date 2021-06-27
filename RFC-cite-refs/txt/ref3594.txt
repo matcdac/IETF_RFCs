@@ -1,0 +1,1 @@
+Duffy, P., "PacketCable Security Ticket Control Sub-Option for the DHCP CableLabs Client Configuration (CCC) Option", RFC 3594, DOI 10.17487/RFC3594, September 2003, <https://www.rfc-editor.org/info/rfc3594>.

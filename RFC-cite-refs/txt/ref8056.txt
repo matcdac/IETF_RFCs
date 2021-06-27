@@ -1,0 +1,1 @@
+Gould, J., "Extensible Provisioning Protocol (EPP) and Registration Data Access Protocol (RDAP) Status Mapping", RFC 8056, DOI 10.17487/RFC8056, January 2017, <https://www.rfc-editor.org/info/rfc8056>.

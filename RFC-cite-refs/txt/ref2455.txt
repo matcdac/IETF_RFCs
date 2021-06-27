@@ -1,0 +1,1 @@
+Clouston, B. and B. Moore, "Definitions of Managed Objects for APPN", RFC 2455, DOI 10.17487/RFC2455, November 1998, <https://www.rfc-editor.org/info/rfc2455>.

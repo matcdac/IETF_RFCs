@@ -1,0 +1,1 @@
+Callon, R., "The Twelve Networking Truths", RFC 1925, DOI 10.17487/RFC1925, April 1 1996, <https://www.rfc-editor.org/info/rfc1925>.

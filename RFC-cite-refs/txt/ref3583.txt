@@ -1,0 +1,1 @@
+Chaskar, H., Ed., "Requirements of a Quality of Service (QoS) Solution for Mobile IP", RFC 3583, DOI 10.17487/RFC3583, September 2003, <https://www.rfc-editor.org/info/rfc3583>.

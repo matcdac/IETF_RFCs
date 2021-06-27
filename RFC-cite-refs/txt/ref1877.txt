@@ -1,0 +1,1 @@
+Cobb, S., "PPP Internet Protocol Control Protocol Extensions for Name Server Addresses", RFC 1877, DOI 10.17487/RFC1877, December 1995, <https://www.rfc-editor.org/info/rfc1877>.

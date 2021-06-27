@@ -1,0 +1,1 @@
+Bivens, A., "Server/Application State Protocol v1", RFC 4678, DOI 10.17487/RFC4678, September 2006, <https://www.rfc-editor.org/info/rfc4678>.

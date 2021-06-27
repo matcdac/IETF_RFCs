@@ -1,0 +1,1 @@
+van den Hout, K., Koopal, A., and R. van Mook, "Management of IP numbers by peg-dhcp", RFC 2322, DOI 10.17487/RFC2322, April 1 1998, <https://www.rfc-editor.org/info/rfc2322>.

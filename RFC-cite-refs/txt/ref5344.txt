@@ -1,0 +1,1 @@
+Houri, A., Aoki, E., and S. Parameswar, "Presence and Instant Messaging Peering Use Cases", RFC 5344, DOI 10.17487/RFC5344, October 2008, <https://www.rfc-editor.org/info/rfc5344>.

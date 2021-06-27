@@ -1,0 +1,1 @@
+Wolf, K., "Location-to-Service Translation (LoST) Service List Boundary Extension", RFC 6197, DOI 10.17487/RFC6197, April 2011, <https://www.rfc-editor.org/info/rfc6197>.

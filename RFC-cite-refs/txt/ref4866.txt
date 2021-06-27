@@ -1,0 +1,1 @@
+Arkko, J., Vogt, C., and W. Haddad, "Enhanced Route Optimization for Mobile IPv6", RFC 4866, DOI 10.17487/RFC4866, May 2007, <https://www.rfc-editor.org/info/rfc4866>.

@@ -1,0 +1,1 @@
+Vinocur, J. and K. Murchison, "Network News Transfer Protocol (NNTP) Extension for Authentication", RFC 4643, DOI 10.17487/RFC4643, October 2006, <https://www.rfc-editor.org/info/rfc4643>.

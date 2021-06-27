@@ -1,0 +1,1 @@
+Klensin, J., "Role of the Domain Name System (DNS)", RFC 3467, DOI 10.17487/RFC3467, February 2003, <https://www.rfc-editor.org/info/rfc3467>.

@@ -1,0 +1,1 @@
+Plonka, D., "Embedding Globally-Routable Internet Addresses Considered Harmful", BCP 105, RFC 4085, DOI 10.17487/RFC4085, June 2005, <https://www.rfc-editor.org/info/rfc4085>.

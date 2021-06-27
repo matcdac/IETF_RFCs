@@ -1,0 +1,1 @@
+Koodli, R., "Mobile Networks Considerations for IPv6 Deployment", RFC 6312, DOI 10.17487/RFC6312, July 2011, <https://www.rfc-editor.org/info/rfc6312>.

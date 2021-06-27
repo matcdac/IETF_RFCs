@@ -1,0 +1,1 @@
+Tsiang, D. and G. Suwala, "The Cisco SRP MAC Layer Protocol", RFC 2892, DOI 10.17487/RFC2892, August 2000, <https://www.rfc-editor.org/info/rfc2892>.

@@ -1,0 +1,1 @@
+Michaelson, G. and M. Prior, "Naming Guidelines for the AARNet X.500 Directory Service", RFC 1562, DOI 10.17487/RFC1562, December 1993, <https://www.rfc-editor.org/info/rfc1562>.

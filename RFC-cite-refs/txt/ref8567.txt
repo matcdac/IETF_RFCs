@@ -1,0 +1,1 @@
+Rye, E. and R. Beverly, "Customer Management DNS Resource Records", RFC 8567, DOI 10.17487/RFC8567, April 1 2019, <https://www.rfc-editor.org/info/rfc8567>.

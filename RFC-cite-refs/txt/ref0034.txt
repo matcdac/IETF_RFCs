@@ -1,0 +1,1 @@
+English, W., "Some Brief Preliminary Notes on the Augmentation Research Center Clock", RFC 34, DOI 10.17487/RFC0034, February 1970, <https://www.rfc-editor.org/info/rfc34>.

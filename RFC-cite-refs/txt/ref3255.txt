@@ -1,0 +1,1 @@
+Jones, N. and C. Murton, "Extending Point-to-Point Protocol (PPP) over Synchronous Optical NETwork/Synchronous Digital Hierarchy (SONET/SDH) with virtual concatenation, high order and low order payloads", RFC 3255, DOI 10.17487/RFC3255, April 2002, <https://www.rfc-editor.org/info/rfc3255>.

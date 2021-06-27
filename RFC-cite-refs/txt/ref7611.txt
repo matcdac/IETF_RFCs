@@ -1,0 +1,1 @@
+Uttaro, J., Mohapatra, P., Smith, D., Raszuk, R., and J. Scudder, "BGP ACCEPT_OWN Community Attribute", RFC 7611, DOI 10.17487/RFC7611, August 2015, <https://www.rfc-editor.org/info/rfc7611>.

@@ -1,0 +1,1 @@
+Busi, I., Ed., and D. Allan, Ed., "Operations, Administration, and Maintenance Framework for MPLS-Based Transport Networks", RFC 6371, DOI 10.17487/RFC6371, September 2011, <https://www.rfc-editor.org/info/rfc6371>.

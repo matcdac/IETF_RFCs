@@ -1,0 +1,1 @@
+Lee, Y., Maglione, R., Williams, C., Jacquenet, C., and M. Boucadair, "Deployment Considerations for Dual-Stack Lite", RFC 6908, DOI 10.17487/RFC6908, March 2013, <https://www.rfc-editor.org/info/rfc6908>.

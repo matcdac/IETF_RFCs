@@ -1,0 +1,1 @@
+Shepler, S., "NFS Version 4 Design Considerations", RFC 2624, DOI 10.17487/RFC2624, June 1999, <https://www.rfc-editor.org/info/rfc2624>.

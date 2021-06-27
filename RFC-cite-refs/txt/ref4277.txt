@@ -1,0 +1,1 @@
+McPherson, D. and K. Patel, "Experience with the BGP-4 Protocol", RFC 4277, DOI 10.17487/RFC4277, January 2006, <https://www.rfc-editor.org/info/rfc4277>.

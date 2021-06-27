@@ -1,0 +1,1 @@
+Johnson, P. and R. Thomas, "Maintenance of duplicate databases", RFC 677, DOI 10.17487/RFC0677, January 1975, <https://www.rfc-editor.org/info/rfc677>.

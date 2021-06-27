@@ -1,0 +1,1 @@
+Brungard, D., Ed., "Requirements for Generalized Multi-Protocol Label Switching (GMPLS) Routing for the Automatically Switched Optical Network (ASON)", RFC 4258, DOI 10.17487/RFC4258, November 2005, <https://www.rfc-editor.org/info/rfc4258>.

@@ -1,0 +1,1 @@
+Howes, T., Smith, M., and B. Beecher, "DIXIE Protocol Specification", RFC 1249, DOI 10.17487/RFC1249, August 1991, <https://www.rfc-editor.org/info/rfc1249>.

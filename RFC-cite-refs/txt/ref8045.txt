@@ -1,0 +1,1 @@
+Cheng, D., Korhonen, J., Boucadair, M., and S. Sivakumar, "RADIUS Extensions for IP Port Configuration and Reporting", RFC 8045, DOI 10.17487/RFC8045, January 2017, <https://www.rfc-editor.org/info/rfc8045>.

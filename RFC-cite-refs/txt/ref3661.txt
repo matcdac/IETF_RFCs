@@ -1,0 +1,1 @@
+Foster, B. and C. Sivachelvan, "Media Gateway Control Protocol (MGCP) Return Code Usage", RFC 3661, DOI 10.17487/RFC3661, December 2003, <https://www.rfc-editor.org/info/rfc3661>.

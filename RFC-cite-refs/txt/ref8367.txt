@@ -1,0 +1,1 @@
+Mizrahi, T. and J. Yallouz, "Wrongful Termination of Internet Protocol (IP) Packets", RFC 8367, DOI 10.17487/RFC8367, April 1 2018, <https://www.rfc-editor.org/info/rfc8367>.

@@ -1,0 +1,1 @@
+Vasseur, JP., Ed., Swallow, G., and I. Minei, "Node Behavior upon Originating and Receiving Resource Reservation Protocol (RSVP) Path Error Messages", RFC 5711, DOI 10.17487/RFC5711, January 2010, <https://www.rfc-editor.org/info/rfc5711>.

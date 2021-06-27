@@ -1,0 +1,1 @@
+Parsons, G. and J. Maruszak, "Voice Messaging Client Behaviour", RFC 4024, DOI 10.17487/RFC4024, July 2005, <https://www.rfc-editor.org/info/rfc4024>.

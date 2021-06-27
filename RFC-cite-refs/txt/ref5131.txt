@@ -1,0 +1,1 @@
+McWalter, D., Ed., "A MIB Textual Convention for Language Tags", RFC 5131, DOI 10.17487/RFC5131, December 2007, <https://www.rfc-editor.org/info/rfc5131>.

@@ -1,0 +1,1 @@
+Sinnreich, H., Ed., Johnston, A., Shim, E., and K. Singh, "Simple SIP Usage Scenario for Applications in the Endpoints", RFC 5638, DOI 10.17487/RFC5638, September 2009, <https://www.rfc-editor.org/info/rfc5638>.

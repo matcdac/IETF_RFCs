@@ -1,0 +1,1 @@
+Lougheed, K. and Y. Rekhter, "Border Gateway Protocol 3 (BGP-3)", RFC 1267, DOI 10.17487/RFC1267, October 1991, <https://www.rfc-editor.org/info/rfc1267>.

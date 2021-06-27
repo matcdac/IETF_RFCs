@@ -1,0 +1,1 @@
+Daigle, L., Ed., and Internet Architecture Board, "IAB Processes for Management of IETF Liaison Relationships", BCP 102, RFC 4052, DOI 10.17487/RFC4052, April 2005, <https://www.rfc-editor.org/info/rfc4052>.

@@ -1,0 +1,1 @@
+Polk, J., "Extending the Session Initiation Protocol (SIP) Reason Header for Preemption Events", RFC 4411, DOI 10.17487/RFC4411, February 2006, <https://www.rfc-editor.org/info/rfc4411>.

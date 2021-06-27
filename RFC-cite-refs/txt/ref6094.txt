@@ -1,0 +1,1 @@
+Bhatia, M. and V. Manral, "Summary of Cryptographic Authentication Algorithm Implementation Requirements for Routing Protocols", RFC 6094, DOI 10.17487/RFC6094, February 2011, <https://www.rfc-editor.org/info/rfc6094>.

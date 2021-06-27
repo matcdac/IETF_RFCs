@@ -1,0 +1,1 @@
+Arkko, J. and M. Townsley, "IPv4 Run-Out and IPv4-IPv6 Co-Existence Scenarios", RFC 6127, DOI 10.17487/RFC6127, May 2011, <https://www.rfc-editor.org/info/rfc6127>.

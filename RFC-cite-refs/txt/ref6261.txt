@@ -1,0 +1,1 @@
+Keranen, A., "Encrypted Signaling Transport Modes for the Host Identity Protocol", RFC 6261, DOI 10.17487/RFC6261, May 2011, <https://www.rfc-editor.org/info/rfc6261>.

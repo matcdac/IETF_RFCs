@@ -1,0 +1,1 @@
+Miles, D., Dec, W., Bristow, J., and R. Maglione, "Forcerenew Nonce Authentication", RFC 6704, DOI 10.17487/RFC6704, August 2012, <https://www.rfc-editor.org/info/rfc6704>.

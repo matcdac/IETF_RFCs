@@ -1,0 +1,1 @@
+Bound, J., Pouffary, Y., Klynsma, S., Chown, T., and D. Green, "IPv6 Enterprise Network Analysis - IP Layer 3 Focus", RFC 4852, DOI 10.17487/RFC4852, April 2007, <https://www.rfc-editor.org/info/rfc4852>.

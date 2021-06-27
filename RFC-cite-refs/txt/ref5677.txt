@@ -1,0 +1,1 @@
+Melia, T., Ed., Bajko, G., Das, S., Golmie, N., and JC. Zuniga, "IEEE 802.21 Mobility Services Framework Design (MSFD)", RFC 5677, DOI 10.17487/RFC5677, December 2009, <https://www.rfc-editor.org/info/rfc5677>.

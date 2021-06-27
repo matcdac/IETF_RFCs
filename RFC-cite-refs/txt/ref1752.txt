@@ -1,0 +1,1 @@
+Bradner, S. and A. Mankin, "The Recommendation for the IP Next Generation Protocol", RFC 1752, DOI 10.17487/RFC1752, January 1995, <https://www.rfc-editor.org/info/rfc1752>.

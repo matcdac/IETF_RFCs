@@ -1,0 +1,1 @@
+Tignor, T., "Portable DUAs", RFC 1373, DOI 10.17487/RFC1373, October 1992, <https://www.rfc-editor.org/info/rfc1373>.

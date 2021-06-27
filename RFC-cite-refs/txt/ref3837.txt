@@ -1,0 +1,1 @@
+Barbir, A., Batuner, O., Srinivas, B., Hofmann, M., and H. Orman, "Security Threats and Risks for Open Pluggable Edge Services (OPES)", RFC 3837, DOI 10.17487/RFC3837, August 2004, <https://www.rfc-editor.org/info/rfc3837>.

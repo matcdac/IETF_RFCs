@@ -1,0 +1,1 @@
+Huth, T., Freimann, J., Zimmer, V., and D. Thaler, "DHCPv6 Options for Network Boot", RFC 5970, DOI 10.17487/RFC5970, September 2010, <https://www.rfc-editor.org/info/rfc5970>.

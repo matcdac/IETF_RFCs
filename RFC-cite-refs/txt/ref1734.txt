@@ -1,0 +1,1 @@
+Myers, J., "POP3 AUTHentication command", RFC 1734, DOI 10.17487/RFC1734, December 1994, <https://www.rfc-editor.org/info/rfc1734>.

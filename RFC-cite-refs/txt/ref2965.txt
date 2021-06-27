@@ -1,0 +1,1 @@
+Kristol, D. and L. Montulli, "HTTP State Management Mechanism", RFC 2965, DOI 10.17487/RFC2965, October 2000, <https://www.rfc-editor.org/info/rfc2965>.

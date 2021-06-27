@@ -1,0 +1,1 @@
+Bates, T. and Y. Rekhter, "Scalable Support for Multi-homed Multi-provider Connectivity", RFC 2260, DOI 10.17487/RFC2260, January 1998, <https://www.rfc-editor.org/info/rfc2260>.

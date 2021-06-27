@@ -1,0 +1,1 @@
+Mirsky, G., "Virtual Circuit Connectivity Verification (VCCV) Capability Advertisement for MPLS Transport Profile (MPLS-TP)", RFC 7189, DOI 10.17487/RFC7189, March 2014, <https://www.rfc-editor.org/info/rfc7189>.

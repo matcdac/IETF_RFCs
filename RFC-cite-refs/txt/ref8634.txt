@@ -1,0 +1,1 @@
+Weis, B., Gagliano, R., and K. Patel, "BGPsec Router Certificate Rollover", BCP 224, RFC 8634, DOI 10.17487/RFC8634, August 2019, <https://www.rfc-editor.org/info/rfc8634>.

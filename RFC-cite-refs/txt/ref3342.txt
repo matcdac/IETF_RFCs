@@ -1,0 +1,1 @@
+Dixon, E., Franklin, H., Kint, J., Klyne, G., New, D., Pead, S., Rose, M., and M. Schwartz, "The Application Exchange (APEX) Option Party Pack, Part Deux!", RFC 3342, DOI 10.17487/RFC3342, July 2002, <https://www.rfc-editor.org/info/rfc3342>.

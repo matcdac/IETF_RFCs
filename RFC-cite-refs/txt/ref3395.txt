@@ -1,0 +1,1 @@
+Bierman, A., Bucci, C., Dietz, R., and A. Warth, "Remote Network Monitoring MIB Protocol Identifier Reference Extensions", RFC 3395, DOI 10.17487/RFC3395, September 2002, <https://www.rfc-editor.org/info/rfc3395>.

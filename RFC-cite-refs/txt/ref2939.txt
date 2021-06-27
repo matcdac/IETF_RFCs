@@ -1,0 +1,1 @@
+Droms, R., "Procedures and IANA Guidelines for Definition of New DHCP Options and Message Types", BCP 43, RFC 2939, DOI 10.17487/RFC2939, September 2000, <https://www.rfc-editor.org/info/rfc2939>.

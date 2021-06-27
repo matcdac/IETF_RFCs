@@ -1,0 +1,1 @@
+Malis, A., "ARPANET 1822L Host Access Protocol", RFC 802, DOI 10.17487/RFC0802, November 1981, <https://www.rfc-editor.org/info/rfc802>.

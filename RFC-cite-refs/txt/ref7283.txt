@@ -1,0 +1,1 @@
+Cui, Y., Sun, Q., and T. Lemon, "Handling Unknown DHCPv6 Messages", RFC 7283, DOI 10.17487/RFC7283, July 2014, <https://www.rfc-editor.org/info/rfc7283>.

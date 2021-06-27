@@ -1,0 +1,1 @@
+Halpern, J., "OSI CLNS and LLC1 protocols on Network Systems HYPERchannel", RFC 1223, DOI 10.17487/RFC1223, May 1991, <https://www.rfc-editor.org/info/rfc1223>.

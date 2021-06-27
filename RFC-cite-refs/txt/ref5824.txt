@@ -1,0 +1,1 @@
+Kumaki, K., Ed., Zhang, R., and Y. Kamite, "Requirements for Supporting Customer Resource ReSerVation Protocol (RSVP) and RSVP Traffic Engineering (RSVP-TE) over a BGP/MPLS IP-VPN", RFC 5824, DOI 10.17487/RFC5824, April 2010, <https://www.rfc-editor.org/info/rfc5824>.

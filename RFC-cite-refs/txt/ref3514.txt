@@ -1,0 +1,1 @@
+Bellovin, S., "The Security Flag in the IPv4 Header", RFC 3514, DOI 10.17487/RFC3514, April 1 2003, <https://www.rfc-editor.org/info/rfc3514>.

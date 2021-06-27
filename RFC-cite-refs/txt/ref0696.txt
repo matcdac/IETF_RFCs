@@ -1,0 +1,1 @@
+Cerf, V., "Comments on the IMP/Host and Host/IMP Protocol changes", RFC 696, DOI 10.17487/RFC0696, July 1975, <https://www.rfc-editor.org/info/rfc696>.

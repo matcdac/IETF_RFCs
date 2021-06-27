@@ -1,0 +1,1 @@
+Thaler, D., "Interoperability Rules for Multicast Routing Protocols", RFC 2715, DOI 10.17487/RFC2715, October 1999, <https://www.rfc-editor.org/info/rfc2715>.

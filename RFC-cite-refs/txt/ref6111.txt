@@ -1,0 +1,1 @@
+Zhu, L., "Additional Kerberos Naming Constraints", RFC 6111, DOI 10.17487/RFC6111, April 2011, <https://www.rfc-editor.org/info/rfc6111>.

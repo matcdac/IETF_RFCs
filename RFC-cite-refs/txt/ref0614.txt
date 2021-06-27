@@ -1,0 +1,1 @@
+Pogran, K. and N. Neigus, "Response to RFC 607: "Comments on the File Transfer Protocol"", RFC 614, DOI 10.17487/RFC0614, January 1974, <https://www.rfc-editor.org/info/rfc614>.

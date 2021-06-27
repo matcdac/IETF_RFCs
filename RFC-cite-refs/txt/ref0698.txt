@@ -1,0 +1,1 @@
+Mock, T., "Telnet extended ASCII option", RFC 698, DOI 10.17487/RFC0698, July 1975, <https://www.rfc-editor.org/info/rfc698>.

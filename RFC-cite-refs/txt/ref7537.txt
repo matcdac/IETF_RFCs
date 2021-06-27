@@ -1,0 +1,1 @@
+Decraene, B., Akiya, N., Pignataro, C., Andersson, L., and S. Aldrin, "IANA Registries for LSP Ping Code Points", RFC 7537, DOI 10.17487/RFC7537, May 2015, <https://www.rfc-editor.org/info/rfc7537>.

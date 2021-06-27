@@ -1,0 +1,1 @@
+Housley, R. and J. Solinas, "Suite B in Secure/Multipurpose Internet Mail Extensions (S/MIME)", RFC 5008, DOI 10.17487/RFC5008, September 2007, <https://www.rfc-editor.org/info/rfc5008>.

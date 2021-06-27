@@ -1,0 +1,1 @@
+Levine, J. and P. Hoffman, "Top-Level Domains That Are Already Dotless", RFC 7085, DOI 10.17487/RFC7085, December 2013, <https://www.rfc-editor.org/info/rfc7085>.

@@ -1,0 +1,1 @@
+McKenzie, A., Thomas, R., Tomlinson, R., and K. Pogran, "Note on protocol synch sequences", RFC 529, DOI 10.17487/RFC0529, June 1973, <https://www.rfc-editor.org/info/rfc529>.

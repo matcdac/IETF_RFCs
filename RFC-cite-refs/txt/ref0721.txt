@@ -1,0 +1,1 @@
+Garlick, L., "Out-of-Band Control Signals in a Host-to-Host Protocol", RFC 721, DOI 10.17487/RFC0721, September 1976, <https://www.rfc-editor.org/info/rfc721>.

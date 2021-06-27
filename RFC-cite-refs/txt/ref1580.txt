@@ -1,0 +1,1 @@
+EARN Staff, "Guide to Network Resource Tools", FYI 23, RFC 1580, DOI 10.17487/RFC1580, March 1994, <https://www.rfc-editor.org/info/rfc1580>.

@@ -1,0 +1,1 @@
+Gurbani, V., Ed., Hilt, V., and H. Schulzrinne, "Session Initiation Protocol (SIP) Overload Control", RFC 7339, DOI 10.17487/RFC7339, September 2014, <https://www.rfc-editor.org/info/rfc7339>.

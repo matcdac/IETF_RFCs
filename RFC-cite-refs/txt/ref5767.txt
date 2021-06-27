@@ -1,0 +1,1 @@
+Munakata, M., Schubert, S., and T. Ohba, "User-Agent-Driven Privacy Mechanism for SIP", RFC 5767, DOI 10.17487/RFC5767, April 2010, <https://www.rfc-editor.org/info/rfc5767>.

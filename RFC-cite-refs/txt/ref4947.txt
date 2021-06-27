@@ -1,0 +1,1 @@
+Fairhurst, G. and M. Montpetit, "Address Resolution Mechanisms for IP Datagrams over MPEG-2 Networks", RFC 4947, DOI 10.17487/RFC4947, July 2007, <https://www.rfc-editor.org/info/rfc4947>.

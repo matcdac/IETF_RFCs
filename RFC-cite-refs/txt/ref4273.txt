@@ -1,0 +1,1 @@
+Haas, J., Ed., and S. Hares, Ed., "Definitions of Managed Objects for BGP-4", RFC 4273, DOI 10.17487/RFC4273, January 2006, <https://www.rfc-editor.org/info/rfc4273>.

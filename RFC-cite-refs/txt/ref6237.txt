@@ -1,0 +1,1 @@
+Leiba, B. and A. Melnikov, "IMAP4 Multimailbox SEARCH Extension", RFC 6237, DOI 10.17487/RFC6237, May 2011, <https://www.rfc-editor.org/info/rfc6237>.

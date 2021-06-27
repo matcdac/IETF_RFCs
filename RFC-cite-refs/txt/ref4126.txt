@@ -1,0 +1,1 @@
+Ash, J., "Max Allocation with Reservation Bandwidth Constraints Model for Diffserv-aware MPLS Traffic Engineering & Performance Comparisons", RFC 4126, DOI 10.17487/RFC4126, June 2005, <https://www.rfc-editor.org/info/rfc4126>.

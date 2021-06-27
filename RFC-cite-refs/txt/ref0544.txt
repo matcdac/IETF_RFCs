@@ -1,0 +1,1 @@
+Meyer, N. and K. Kelley, "Locating on-line documentation at SRI-ARC", RFC 544, DOI 10.17487/RFC0544, July 1973, <https://www.rfc-editor.org/info/rfc544>.

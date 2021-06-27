@@ -1,0 +1,1 @@
+Jennings, C., Lowekamp, B., Rescorla, E., Baset, S., Schulzrinne, H., and T. Schmidt, Ed., "A SIP Usage for REsource LOcation And Discovery (RELOAD)", RFC 7904, DOI 10.17487/RFC7904, October 2016, <https://www.rfc-editor.org/info/rfc7904>.

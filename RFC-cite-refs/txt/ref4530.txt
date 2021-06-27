@@ -1,0 +1,1 @@
+Zeilenga, K., "Lightweight Directory Access Protocol (LDAP) entryUUID Operational Attribute", RFC 4530, DOI 10.17487/RFC4530, June 2006, <https://www.rfc-editor.org/info/rfc4530>.

@@ -1,0 +1,1 @@
+Forman, E., "Network Library Information System", RFC 286, DOI 10.17487/RFC0286, December 1971, <https://www.rfc-editor.org/info/rfc286>.

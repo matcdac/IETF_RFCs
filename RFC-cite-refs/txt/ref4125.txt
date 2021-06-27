@@ -1,0 +1,1 @@
+Le Faucheur, F. and W. Lai, "Maximum Allocation Bandwidth Constraints Model for Diffserv-aware MPLS Traffic Engineering", RFC 4125, DOI 10.17487/RFC4125, June 2005, <https://www.rfc-editor.org/info/rfc4125>.

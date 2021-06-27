@@ -1,0 +1,1 @@
+Jackowski, S., Putzolu, D., Crawley, E., and B. Davie, "Integrated Services Mappings for Low Speed Networks", RFC 2688, DOI 10.17487/RFC2688, September 1999, <https://www.rfc-editor.org/info/rfc2688>.

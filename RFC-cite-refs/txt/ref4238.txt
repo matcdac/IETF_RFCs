@@ -1,0 +1,1 @@
+Vaudreuil, G., "Voice Message Routing Service", RFC 4238, DOI 10.17487/RFC4238, October 2005, <https://www.rfc-editor.org/info/rfc4238>.

@@ -1,0 +1,1 @@
+Thomson, M. and J. Winterbottom, "Using Device-Provided Location-Related Measurements in Location Configuration Protocols", RFC 7105, DOI 10.17487/RFC7105, January 2014, <https://www.rfc-editor.org/info/rfc7105>.

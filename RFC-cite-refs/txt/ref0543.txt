@@ -1,0 +1,1 @@
+Meyer, N., "Network journal submission and delivery", RFC 543, DOI 10.17487/RFC0543, July 1973, <https://www.rfc-editor.org/info/rfc543>.

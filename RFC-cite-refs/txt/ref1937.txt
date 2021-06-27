@@ -1,0 +1,1 @@
+Rekhter, Y. and D. Kandlur, ""Local/Remote" Forwarding Decision in Switched Data Link Subnetworks", RFC 1937, DOI 10.17487/RFC1937, May 1996, <https://www.rfc-editor.org/info/rfc1937>.

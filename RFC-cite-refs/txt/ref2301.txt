@@ -1,0 +1,1 @@
+McIntyre, L., Zilles, S., Buckley, R., Venable, D., Parsons, G., and J. Rafferty, "File Format for Internet Fax", RFC 2301, DOI 10.17487/RFC2301, March 1998, <https://www.rfc-editor.org/info/rfc2301>.

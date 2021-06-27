@@ -1,0 +1,1 @@
+Melnikov, A., Leiba, B., and K. Li, "Sieve Notification Mechanism: SIP MESSAGE", RFC 6468, DOI 10.17487/RFC6468, February 2012, <https://www.rfc-editor.org/info/rfc6468>.

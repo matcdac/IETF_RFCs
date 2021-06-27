@@ -1,0 +1,1 @@
+Braden, R., "Host mnemonics proposed in RFC 226 (NIC 7625)", RFC 239, DOI 10.17487/RFC0239, September 1971, <https://www.rfc-editor.org/info/rfc239>.

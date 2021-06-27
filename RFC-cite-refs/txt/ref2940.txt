@@ -1,0 +1,1 @@
+Smith, A., Partain, D., and J. Seligson, "Definitions of Managed Objects for Common Open Policy Service (COPS) Protocol Clients", RFC 2940, DOI 10.17487/RFC2940, October 2000, <https://www.rfc-editor.org/info/rfc2940>.

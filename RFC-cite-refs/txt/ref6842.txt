@@ -1,0 +1,1 @@
+Swamy, N., Halwasia, G., and P. Jhingran, "Client Identifier Option in DHCP Server Replies", RFC 6842, DOI 10.17487/RFC6842, January 2013, <https://www.rfc-editor.org/info/rfc6842>.

@@ -1,0 +1,1 @@
+Hedrick, C., "Routing Information Protocol", RFC 1058, DOI 10.17487/RFC1058, June 1988, <https://www.rfc-editor.org/info/rfc1058>.

@@ -1,0 +1,1 @@
+Richer, J., Ed., and L. Johansson, "Vectors of Trust", RFC 8485, DOI 10.17487/RFC8485, October 2018, <https://www.rfc-editor.org/info/rfc8485>.

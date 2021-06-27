@@ -1,0 +1,1 @@
+Partridge, C. and F. Kastenholz, "Technical Criteria for Choosing IP The Next Generation (IPng)", RFC 1726, DOI 10.17487/RFC1726, December 1994, <https://www.rfc-editor.org/info/rfc1726>.

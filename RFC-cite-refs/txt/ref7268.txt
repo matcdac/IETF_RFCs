@@ -1,0 +1,1 @@
+Aboba, B., Malinen, J., Congdon, P., Salowey, J., and M. Jones, "RADIUS Attributes for IEEE 802 Networks", RFC 7268, DOI 10.17487/RFC7268, July 2014, <https://www.rfc-editor.org/info/rfc7268>.

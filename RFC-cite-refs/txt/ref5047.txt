@@ -1,0 +1,1 @@
+Chadalapaka, M., Hufferd, J., Satran, J., and H. Shah, "DA: Datamover Architecture for the Internet Small Computer System Interface (iSCSI)", RFC 5047, DOI 10.17487/RFC5047, October 2007, <https://www.rfc-editor.org/info/rfc5047>.

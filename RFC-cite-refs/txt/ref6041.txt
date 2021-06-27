@@ -1,0 +1,1 @@
+Crouch, A., Khosravi, H., Doria, A., Ed., Wang, X., and K. Ogawa, "Forwarding and Control Element Separation (ForCES) Applicability Statement", RFC 6041, DOI 10.17487/RFC6041, October 2010, <https://www.rfc-editor.org/info/rfc6041>.

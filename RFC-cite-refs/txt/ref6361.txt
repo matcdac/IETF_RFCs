@@ -1,0 +1,1 @@
+Carlson, J. and D. Eastlake 3rd, "PPP Transparent Interconnection of Lots of Links (TRILL) Protocol Control Protocol", RFC 6361, DOI 10.17487/RFC6361, August 2011, <https://www.rfc-editor.org/info/rfc6361>.

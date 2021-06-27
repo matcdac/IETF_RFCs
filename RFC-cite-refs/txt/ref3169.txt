@@ -1,0 +1,1 @@
+Beadles, M. and D. Mitton, "Criteria for Evaluating Network Access Server Protocols", RFC 3169, DOI 10.17487/RFC3169, September 2001, <https://www.rfc-editor.org/info/rfc3169>.

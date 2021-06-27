@@ -1,0 +1,1 @@
+Stapp, M., "DHCPv6 Bulk Leasequery", RFC 5460, DOI 10.17487/RFC5460, February 2009, <https://www.rfc-editor.org/info/rfc5460>.

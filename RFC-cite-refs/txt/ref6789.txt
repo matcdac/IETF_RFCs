@@ -1,0 +1,1 @@
+Briscoe, B., Ed., Woundy, R., Ed., and A. Cooper, Ed., "Congestion Exposure (ConEx) Concepts and Use Cases", RFC 6789, DOI 10.17487/RFC6789, December 2012, <https://www.rfc-editor.org/info/rfc6789>.

@@ -1,0 +1,1 @@
+T'Joens, Y., Crivellari, P., and B. Sales, "Layer Two Tunnelling Protocol (L2TP): ATM access network extensions", RFC 3301, DOI 10.17487/RFC3301, June 2002, <https://www.rfc-editor.org/info/rfc3301>.

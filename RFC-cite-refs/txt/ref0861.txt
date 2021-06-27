@@ -1,0 +1,1 @@
+Postel, J. and J. Reynolds, "Telnet Extended Options: List Option", STD 32, RFC 861, DOI 10.17487/RFC0861, May 1983, <https://www.rfc-editor.org/info/rfc861>.

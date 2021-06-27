@@ -1,0 +1,1 @@
+Crocker, S., "The Address is the Message", RFC 1776, DOI 10.17487/RFC1776, April 1 1995, <https://www.rfc-editor.org/info/rfc1776>.

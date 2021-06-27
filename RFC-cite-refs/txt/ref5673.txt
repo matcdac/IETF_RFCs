@@ -1,0 +1,1 @@
+Pister, K., Ed., Thubert, P., Ed., Dwars, S., and T. Phinney, "Industrial Routing Requirements in Low-Power and Lossy Networks", RFC 5673, DOI 10.17487/RFC5673, October 2009, <https://www.rfc-editor.org/info/rfc5673>.

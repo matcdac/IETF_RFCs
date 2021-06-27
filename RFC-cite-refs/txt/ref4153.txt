@@ -1,0 +1,1 @@
+Fujimura, K., Terada, M., and D. Eastlake 3rd, "XML Voucher: Generic Voucher Language", RFC 4153, DOI 10.17487/RFC4153, September 2005, <https://www.rfc-editor.org/info/rfc4153>.

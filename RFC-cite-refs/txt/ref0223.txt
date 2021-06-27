@@ -1,0 +1,1 @@
+Melvin, J. and R. Watson, "Network Information Center schedule for network users", RFC 223, DOI 10.17487/RFC0223, September 1971, <https://www.rfc-editor.org/info/rfc223>.

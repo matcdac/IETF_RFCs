@@ -1,0 +1,1 @@
+Taft, E., "Note on socket number assignment", RFC 617, DOI 10.17487/RFC0617, February 1974, <https://www.rfc-editor.org/info/rfc617>.

@@ -1,0 +1,1 @@
+Partridge, C., "Mail routing and the domain system", STD 10, RFC 974, DOI 10.17487/RFC0974, January 1986, <https://www.rfc-editor.org/info/rfc974>.

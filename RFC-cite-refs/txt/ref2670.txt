@@ -1,0 +1,1 @@
+St. Johns, M., Ed., "Radio Frequency (RF) Interface Management Information Base for MCNS/DOCSIS compliant RF interfaces", RFC 2670, DOI 10.17487/RFC2670, August 1999, <https://www.rfc-editor.org/info/rfc2670>.

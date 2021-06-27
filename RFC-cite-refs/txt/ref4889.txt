@@ -1,0 +1,1 @@
+Ng, C., Zhao, F., Watari, M., and P. Thubert, "Network Mobility Route Optimization Solution Space Analysis", RFC 4889, DOI 10.17487/RFC4889, July 2007, <https://www.rfc-editor.org/info/rfc4889>.

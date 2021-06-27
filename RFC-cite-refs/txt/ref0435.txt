@@ -1,0 +1,1 @@
+Cosell, B. and D. Walden, "Telnet issues", RFC 435, DOI 10.17487/RFC0435, January 1973, <https://www.rfc-editor.org/info/rfc435>.

@@ -1,0 +1,1 @@
+White, J., "High-level framework for network-based resource sharing", RFC 707, DOI 10.17487/RFC0707, December 1975, <https://www.rfc-editor.org/info/rfc707>.

@@ -1,0 +1,1 @@
+Penner, J., "TN3270 Current Practices", RFC 1576, DOI 10.17487/RFC1576, January 1994, <https://www.rfc-editor.org/info/rfc1576>.

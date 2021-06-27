@@ -1,0 +1,1 @@
+Mills, D., "Network Time Protocol (NTP)", RFC 958, DOI 10.17487/RFC0958, September 1985, <https://www.rfc-editor.org/info/rfc958>.

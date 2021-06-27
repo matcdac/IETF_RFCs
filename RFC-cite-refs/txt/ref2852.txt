@@ -1,0 +1,1 @@
+Newman, D., "Deliver By SMTP Service Extension", RFC 2852, DOI 10.17487/RFC2852, June 2000, <https://www.rfc-editor.org/info/rfc2852>.

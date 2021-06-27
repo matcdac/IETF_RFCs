@@ -1,0 +1,1 @@
+Floyd, S. and M. Allman, "Comments on the Usefulness of Simple Best-Effort Traffic", RFC 5290, DOI 10.17487/RFC5290, July 2008, <https://www.rfc-editor.org/info/rfc5290>.

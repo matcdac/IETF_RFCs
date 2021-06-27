@@ -1,0 +1,1 @@
+Melnikov, A., Cridland, D., and C. Wilson, "IMAP4 Extensions for Quick Mailbox Resynchronization", RFC 5162, DOI 10.17487/RFC5162, March 2008, <https://www.rfc-editor.org/info/rfc5162>.

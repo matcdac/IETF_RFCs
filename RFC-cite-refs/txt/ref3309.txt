@@ -1,0 +1,1 @@
+Stone, J., Stewart, R., and D. Otis, "Stream Control Transmission Protocol (SCTP) Checksum Change", RFC 3309, DOI 10.17487/RFC3309, September 2002, <https://www.rfc-editor.org/info/rfc3309>.

@@ -1,0 +1,1 @@
+Crawford, M. and C. Huitema, "DNS Extensions to Support IPv6 Address Aggregation and Renumbering", RFC 2874, DOI 10.17487/RFC2874, July 2000, <https://www.rfc-editor.org/info/rfc2874>.

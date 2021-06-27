@@ -1,0 +1,1 @@
+Postel, J., "Address mappings", RFC 796, DOI 10.17487/RFC0796, September 1981, <https://www.rfc-editor.org/info/rfc796>.

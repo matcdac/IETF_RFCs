@@ -1,0 +1,1 @@
+Friedman, B., Nguyen, L., Roy, A., Yeung, D., and A. Zinin, "OSPF Link-Local Signaling", RFC 4813, DOI 10.17487/RFC4813, March 2007, <https://www.rfc-editor.org/info/rfc4813>.

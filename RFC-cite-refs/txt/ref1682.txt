@@ -1,0 +1,1 @@
+Bound, J., "IPng BSD Host Implementation Analysis", RFC 1682, DOI 10.17487/RFC1682, August 1994, <https://www.rfc-editor.org/info/rfc1682>.

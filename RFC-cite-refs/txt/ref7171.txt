@@ -1,0 +1,1 @@
+Cam-Winget, N. and P. Sangster, "PT-EAP: Posture Transport (PT) Protocol for Extensible Authentication Protocol (EAP) Tunnel Methods", RFC 7171, DOI 10.17487/RFC7171, May 2014, <https://www.rfc-editor.org/info/rfc7171>.

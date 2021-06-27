@@ -1,0 +1,1 @@
+Camarillo, G., "A Document Format for Requesting Consent", RFC 5361, DOI 10.17487/RFC5361, October 2008, <https://www.rfc-editor.org/info/rfc5361>.

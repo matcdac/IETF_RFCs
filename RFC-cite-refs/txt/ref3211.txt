@@ -1,0 +1,1 @@
+Gutmann, P., "Password-based Encryption for CMS", RFC 3211, DOI 10.17487/RFC3211, December 2001, <https://www.rfc-editor.org/info/rfc3211>.

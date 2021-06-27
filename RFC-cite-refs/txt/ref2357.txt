@@ -1,0 +1,1 @@
+Mankin, A., Romanow, A., Bradner, S., and V. Paxson, "IETF Criteria for Evaluating Reliable Multicast Transport and Application Protocols", RFC 2357, DOI 10.17487/RFC2357, June 1998, <https://www.rfc-editor.org/info/rfc2357>.

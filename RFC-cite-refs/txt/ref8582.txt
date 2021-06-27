@@ -1,0 +1,1 @@
+Donovan, S., Ed., and E. Noel, "Diameter Overload Rate Control", RFC 8582, DOI 10.17487/RFC8582, August 2019, <https://www.rfc-editor.org/info/rfc8582>.

@@ -1,0 +1,1 @@
+Sisson, G. and B. Laurie, "Derivation of DNS Name Predecessor and Successor", RFC 4471, DOI 10.17487/RFC4471, September 2006, <https://www.rfc-editor.org/info/rfc4471>.

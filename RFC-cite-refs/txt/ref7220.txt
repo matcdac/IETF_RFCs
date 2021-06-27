@@ -1,0 +1,1 @@
+Boucadair, M., Penno, R., and D. Wing, "Description Option for the Port Control Protocol (PCP)", RFC 7220, DOI 10.17487/RFC7220, May 2014, <https://www.rfc-editor.org/info/rfc7220>.

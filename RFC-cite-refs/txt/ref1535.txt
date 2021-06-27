@@ -1,0 +1,1 @@
+Gavron, E., "A Security Problem and Proposed Correction With Widely Deployed DNS Software", RFC 1535, DOI 10.17487/RFC1535, October 1993, <https://www.rfc-editor.org/info/rfc1535>.

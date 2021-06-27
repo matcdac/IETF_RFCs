@@ -1,0 +1,1 @@
+Padlipsky, M., "Perspective on the ARPANET reference model", RFC 871, DOI 10.17487/RFC0871, September 1982, <https://www.rfc-editor.org/info/rfc871>.

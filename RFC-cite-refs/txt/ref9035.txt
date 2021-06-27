@@ -1,0 +1,1 @@
+Thubert, P., Ed., and L. Zhao, "A Routing Protocol for Low-Power and Lossy Networks (RPL) Destination-Oriented Directed Acyclic Graph (DODAG) Configuration Option for the 6LoWPAN Routing Header", RFC 9035, DOI 10.17487/RFC9035, April 2021, <https://www.rfc-editor.org/info/rfc9035>.

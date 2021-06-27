@@ -1,0 +1,1 @@
+Gerhards, R. and C. Lonvick, "Transmission of Syslog Messages over TCP", RFC 6587, DOI 10.17487/RFC6587, April 2012, <https://www.rfc-editor.org/info/rfc6587>.

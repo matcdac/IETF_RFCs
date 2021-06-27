@@ -1,0 +1,1 @@
+Carpenter, B. and R. Hinden, "Adaptation of RFC 1149 for IPv6", RFC 6214, DOI 10.17487/RFC6214, April 1 2011, <https://www.rfc-editor.org/info/rfc6214>.

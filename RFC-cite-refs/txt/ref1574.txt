@@ -1,0 +1,1 @@
+Hares, S. and C. Wittbrodt, "Essential Tools for the OSI Internet", RFC 1574, DOI 10.17487/RFC1574, February 1994, <https://www.rfc-editor.org/info/rfc1574>.

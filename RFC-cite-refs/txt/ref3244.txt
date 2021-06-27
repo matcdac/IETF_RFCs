@@ -1,0 +1,1 @@
+Swift, M., Trostle, J., and J. Brezak, "Microsoft Windows 2000 Kerberos Change Password and Set Password Protocols", RFC 3244, DOI 10.17487/RFC3244, February 2002, <https://www.rfc-editor.org/info/rfc3244>.

@@ -1,0 +1,1 @@
+Martocci, J., Ed., De Mil, P., Riou, N., and W. Vermeylen, "Building Automation Routing Requirements in Low-Power and Lossy Networks", RFC 5867, DOI 10.17487/RFC5867, June 2010, <https://www.rfc-editor.org/info/rfc5867>.

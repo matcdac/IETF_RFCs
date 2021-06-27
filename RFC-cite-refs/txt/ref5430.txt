@@ -1,0 +1,1 @@
+Salter, M., Rescorla, E., and R. Housley, "Suite B Profile for Transport Layer Security (TLS)", RFC 5430, DOI 10.17487/RFC5430, March 2009, <https://www.rfc-editor.org/info/rfc5430>.

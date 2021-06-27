@@ -1,0 +1,1 @@
+O'Sullivan, T., "User/Server Site Protocol: Network Host Questionnaire", RFC 112, DOI 10.17487/RFC0112, April 1971, <https://www.rfc-editor.org/info/rfc112>.

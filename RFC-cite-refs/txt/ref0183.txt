@@ -1,0 +1,1 @@
+Winett, J., "EBCDIC Codes and Their Mapping to ASCII", RFC 183, DOI 10.17487/RFC0183, July 1971, <https://www.rfc-editor.org/info/rfc183>.

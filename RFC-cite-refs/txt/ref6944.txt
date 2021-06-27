@@ -1,0 +1,1 @@
+Rose, S., "Applicability Statement: DNS Security (DNSSEC) DNSKEY Algorithm Implementation Status", RFC 6944, DOI 10.17487/RFC6944, April 2013, <https://www.rfc-editor.org/info/rfc6944>.

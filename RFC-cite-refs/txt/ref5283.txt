@@ -1,0 +1,1 @@
+Decraene, B., Le Roux, JL., and I. Minei, "LDP Extension for Inter-Area Label Switched Paths (LSPs)", RFC 5283, DOI 10.17487/RFC5283, July 2008, <https://www.rfc-editor.org/info/rfc5283>.

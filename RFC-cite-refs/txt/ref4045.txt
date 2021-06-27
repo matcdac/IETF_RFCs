@@ -1,0 +1,1 @@
+Bourdon, G., "Extensions to Support Efficient Carrying of Multicast Traffic in Layer-2 Tunneling Protocol (L2TP)", RFC 4045, DOI 10.17487/RFC4045, April 2005, <https://www.rfc-editor.org/info/rfc4045>.

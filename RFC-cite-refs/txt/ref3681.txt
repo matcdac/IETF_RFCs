@@ -1,0 +1,1 @@
+Bush, R. and R. Fink, "Delegation of E.F.F.3.IP6.ARPA", BCP 80, RFC 3681, DOI 10.17487/RFC3681, January 2004, <https://www.rfc-editor.org/info/rfc3681>.

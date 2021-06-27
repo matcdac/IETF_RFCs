@@ -1,0 +1,1 @@
+Farrel, A., "The Arte of ASCII: Or, An True and Accurate Representation of an Menagerie of Thynges Fabulous and Wonderful in Ye Forme of Character", RFC 8140, DOI 10.17487/RFC8140, April 1 2017, <https://www.rfc-editor.org/info/rfc8140>.

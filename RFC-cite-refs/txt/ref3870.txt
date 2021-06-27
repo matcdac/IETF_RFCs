@@ -1,0 +1,1 @@
+Swartz, A., "application/rdf+xml Media Type Registration", RFC 3870, DOI 10.17487/RFC3870, September 2004, <https://www.rfc-editor.org/info/rfc3870>.

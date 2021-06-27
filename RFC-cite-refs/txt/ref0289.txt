@@ -1,0 +1,1 @@
+Watson, R., "What we hope is an official list of host names", RFC 289, DOI 10.17487/RFC0289, December 1971, <https://www.rfc-editor.org/info/rfc289>.

@@ -1,0 +1,1 @@
+Nikander, P., Henderson, T., Ed., Vogt, C., and J. Arkko, "End-Host Mobility and Multihoming with the Host Identity Protocol", RFC 5206, DOI 10.17487/RFC5206, April 2008, <https://www.rfc-editor.org/info/rfc5206>.

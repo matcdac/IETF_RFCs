@@ -1,0 +1,1 @@
+Krishnan, S., Koodli, R., Loureiro, P., Wu, Q., and A. Dutta, "Localized Routing for Proxy Mobile IPv6", RFC 6705, DOI 10.17487/RFC6705, September 2012, <https://www.rfc-editor.org/info/rfc6705>.

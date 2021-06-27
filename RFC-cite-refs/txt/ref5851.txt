@@ -1,0 +1,1 @@
+Ooghe, S., Voigt, N., Platnic, M., Haag, T., and S. Wadhwa, "Framework and Requirements for an Access Node Control Mechanism in Broadband Multi-Service Networks", RFC 5851, DOI 10.17487/RFC5851, May 2010, <https://www.rfc-editor.org/info/rfc5851>.

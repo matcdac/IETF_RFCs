@@ -1,0 +1,1 @@
+Velvindron, L., "Deprecating RC4 in Secure Shell (SSH)", BCP 227, RFC 8758, DOI 10.17487/RFC8758, April 2020, <https://www.rfc-editor.org/info/rfc8758>.

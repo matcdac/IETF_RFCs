@@ -1,0 +1,1 @@
+Quarterman, J., "Recent Internet Books", RFC 1432, DOI 10.17487/RFC1432, March 1993, <https://www.rfc-editor.org/info/rfc1432>.

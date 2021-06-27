@@ -1,0 +1,1 @@
+Scudder, J., "Revision to Capability Codes Registration Procedures", RFC 8810, DOI 10.17487/RFC8810, August 2020, <https://www.rfc-editor.org/info/rfc8810>.

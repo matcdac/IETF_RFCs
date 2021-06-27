@@ -1,0 +1,1 @@
+Daigle, L., Deutsch, P., Heelan, B., Alpaugh, C., and M. Maclachlan, "Uniform Resource Agents (URAs)", RFC 2016, DOI 10.17487/RFC2016, October 1996, <https://www.rfc-editor.org/info/rfc2016>.

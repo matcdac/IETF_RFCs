@@ -1,0 +1,1 @@
+Newman, P., Edwards, W., Hinden, R., Hoffman, E., Ching Liaw, F., Lyon, T., and G. Minshall, "Ipsilon's General Switch Management Protocol Specification Version 2.0", RFC 2297, DOI 10.17487/RFC2297, March 1998, <https://www.rfc-editor.org/info/rfc2297>.

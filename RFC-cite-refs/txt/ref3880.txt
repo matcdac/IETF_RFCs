@@ -1,0 +1,1 @@
+Lennox, J., Wu, X., and H. Schulzrinne, "Call Processing Language (CPL): A Language for User Control of Internet Telephony Services", RFC 3880, DOI 10.17487/RFC3880, October 2004, <https://www.rfc-editor.org/info/rfc3880>.

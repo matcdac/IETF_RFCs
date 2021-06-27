@@ -1,0 +1,1 @@
+Hutton, A., Uberti, J., and M. Thomson, "The ALPN HTTP Header Field", RFC 7639, DOI 10.17487/RFC7639, August 2015, <https://www.rfc-editor.org/info/rfc7639>.

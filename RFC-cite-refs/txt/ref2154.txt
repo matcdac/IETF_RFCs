@@ -1,0 +1,1 @@
+Murphy, S., Badger, M., and B. Wellington, "OSPF with Digital Signatures", RFC 2154, DOI 10.17487/RFC2154, June 1997, <https://www.rfc-editor.org/info/rfc2154>.

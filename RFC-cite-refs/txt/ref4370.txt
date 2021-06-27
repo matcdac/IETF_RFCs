@@ -1,0 +1,1 @@
+Weltman, R., "Lightweight Directory Access Protocol (LDAP) Proxied Authorization Control", RFC 4370, DOI 10.17487/RFC4370, February 2006, <https://www.rfc-editor.org/info/rfc4370>.

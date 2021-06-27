@@ -1,0 +1,1 @@
+Tamaru, K., "Japanese Character Encoding for Internet Messages", RFC 2237, DOI 10.17487/RFC2237, November 1997, <https://www.rfc-editor.org/info/rfc2237>.

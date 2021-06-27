@@ -1,0 +1,1 @@
+Valencia, A., Littlewood, M., and T. Kolar, "Cisco Layer Two Forwarding (Protocol) "L2F"", RFC 2341, DOI 10.17487/RFC2341, May 1998, <https://www.rfc-editor.org/info/rfc2341>.

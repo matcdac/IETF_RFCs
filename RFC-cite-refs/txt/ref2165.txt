@@ -1,0 +1,1 @@
+Veizades, J., Guttman, E., Perkins, C., and S. Kaplan, "Service Location Protocol", RFC 2165, DOI 10.17487/RFC2165, June 1997, <https://www.rfc-editor.org/info/rfc2165>.

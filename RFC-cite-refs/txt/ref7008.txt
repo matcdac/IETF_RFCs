@@ -1,0 +1,1 @@
+Kiyomoto, S. and W. Shin, "A Description of the KCipher-2 Encryption Algorithm", RFC 7008, DOI 10.17487/RFC7008, August 2013, <https://www.rfc-editor.org/info/rfc7008>.

@@ -1,0 +1,1 @@
+Herriot, R. and T. Hastings, "Internet Printing Protocol (IPP): Event Notifications and Subscriptions", RFC 3995, DOI 10.17487/RFC3995, March 2005, <https://www.rfc-editor.org/info/rfc3995>.

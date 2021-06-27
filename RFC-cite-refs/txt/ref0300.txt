@@ -1,0 +1,1 @@
+North, J., "ARPA Network mailing lists", RFC 300, DOI 10.17487/RFC0300, January 1972, <https://www.rfc-editor.org/info/rfc300>.

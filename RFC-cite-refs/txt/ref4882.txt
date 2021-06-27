@@ -1,0 +1,1 @@
+Koodli, R., "IP Address Location Privacy and Mobile IPv6: Problem Statement", RFC 4882, DOI 10.17487/RFC4882, May 2007, <https://www.rfc-editor.org/info/rfc4882>.

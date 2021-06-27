@@ -1,0 +1,1 @@
+Zeilenga, K. and A. Melnikov, "Security Labels in Internet Email", RFC 7444, DOI 10.17487/RFC7444, February 2015, <https://www.rfc-editor.org/info/rfc7444>.

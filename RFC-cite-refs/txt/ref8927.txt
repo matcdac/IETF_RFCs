@@ -1,0 +1,1 @@
+Carion, U., "JSON Type Definition", RFC 8927, DOI 10.17487/RFC8927, November 2020, <https://www.rfc-editor.org/info/rfc8927>.

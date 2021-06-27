@@ -1,0 +1,1 @@
+McKenzie, A. and J. Postel, "Telnet and FTP implementation schedule change", RFC 593, DOI 10.17487/RFC0593, November 1973, <https://www.rfc-editor.org/info/rfc593>.

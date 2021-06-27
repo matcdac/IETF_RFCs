@@ -1,0 +1,1 @@
+Barker, P., Kille, S., and T. Lenggenhager, "Naming and Structuring Guidelines for X.500 Directory Pilots", RFC 1617, DOI 10.17487/RFC1617, May 1994, <https://www.rfc-editor.org/info/rfc1617>.

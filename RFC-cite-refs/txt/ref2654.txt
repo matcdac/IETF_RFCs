@@ -1,0 +1,1 @@
+Hedberg, R., Greenblatt, B., Moats, R., and M. Wahl, "A Tagged Index Object for use in the Common Indexing Protocol", RFC 2654, DOI 10.17487/RFC2654, August 1999, <https://www.rfc-editor.org/info/rfc2654>.

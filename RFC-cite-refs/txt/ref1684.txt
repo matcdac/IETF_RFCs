@@ -1,0 +1,1 @@
+Jurg, P., "Introduction to White Pages Services based on X.500", RFC 1684, DOI 10.17487/RFC1684, August 1994, <https://www.rfc-editor.org/info/rfc1684>.

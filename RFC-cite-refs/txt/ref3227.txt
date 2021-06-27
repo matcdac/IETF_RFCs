@@ -1,0 +1,1 @@
+Brezinski, D. and T. Killalea, "Guidelines for Evidence Collection and Archiving", BCP 55, RFC 3227, DOI 10.17487/RFC3227, February 2002, <https://www.rfc-editor.org/info/rfc3227>.

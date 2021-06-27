@@ -1,0 +1,1 @@
+Weider, C., Herron, A., Anantha, A., and T. Howes, "LDAP Control Extension for Simple Paged Results Manipulation", RFC 2696, DOI 10.17487/RFC2696, September 1999, <https://www.rfc-editor.org/info/rfc2696>.

@@ -1,0 +1,1 @@
+Templin, F., Gleeson, T., Talwar, M., and D. Thaler, "Intra-Site Automatic Tunnel Addressing Protocol (ISATAP)", RFC 4214, DOI 10.17487/RFC4214, October 2005, <https://www.rfc-editor.org/info/rfc4214>.

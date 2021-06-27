@@ -1,0 +1,1 @@
+Sun, S., Reilly, S., and L. Lannom, "Handle System Namespace and Service Definition", RFC 3651, DOI 10.17487/RFC3651, November 2003, <https://www.rfc-editor.org/info/rfc3651>.

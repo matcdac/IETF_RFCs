@@ -1,0 +1,1 @@
+Nadeau, T., Ed., Kiran Koushik, A., Ed., and R. Mediratta, Ed., "Virtual Private LAN Service (VPLS) Management Information Base", RFC 7257, DOI 10.17487/RFC7257, July 2014, <https://www.rfc-editor.org/info/rfc7257>.

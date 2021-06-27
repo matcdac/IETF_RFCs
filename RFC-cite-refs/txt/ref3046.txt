@@ -1,0 +1,1 @@
+Patrick, M., "DHCP Relay Agent Information Option", RFC 3046, DOI 10.17487/RFC3046, January 2001, <https://www.rfc-editor.org/info/rfc3046>.

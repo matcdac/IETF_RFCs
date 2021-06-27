@@ -1,0 +1,1 @@
+Greenberg, B., "Telnet SUPDUP-Output option", RFC 749, DOI 10.17487/RFC0749, September 1978, <https://www.rfc-editor.org/info/rfc749>.

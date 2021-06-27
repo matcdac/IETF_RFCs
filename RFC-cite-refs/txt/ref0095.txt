@@ -1,0 +1,1 @@
+Crocker, S., "Distribution of NWG/RFC's through the NIC", RFC 95, DOI 10.17487/RFC0095, February 1971, <https://www.rfc-editor.org/info/rfc95>.

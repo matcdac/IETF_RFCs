@@ -1,0 +1,1 @@
+Fishman, G. and S. Bradner, "Internet Engineering Task Force and International Telecommunication Union - Telecommunications Standardization Sector Collaboration Guidelines", RFC 3356, DOI 10.17487/RFC3356, August 2002, <https://www.rfc-editor.org/info/rfc3356>.

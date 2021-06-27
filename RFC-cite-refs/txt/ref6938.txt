@@ -1,0 +1,1 @@
+Scudder, J., "Deprecation of BGP Path Attributes: DPA, ADVERTISER, and RCID_PATH / CLUSTER_ID", RFC 6938, DOI 10.17487/RFC6938, May 2013, <https://www.rfc-editor.org/info/rfc6938>.

@@ -1,0 +1,1 @@
+Kalbfleisch, C., "Applicability of Standards Track MIBs to Management of World Wide Web Servers", RFC 2039, DOI 10.17487/RFC2039, November 1996, <https://www.rfc-editor.org/info/rfc2039>.

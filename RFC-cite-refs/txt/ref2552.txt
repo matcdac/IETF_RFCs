@@ -1,0 +1,1 @@
+Blinov, M., Bessonov, M., and C. Clissmann, "Architecture for the Information Brokerage in the ACTS Project GAIA", RFC 2552, DOI 10.17487/RFC2552, April 1999, <https://www.rfc-editor.org/info/rfc2552>.

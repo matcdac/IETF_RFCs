@@ -1,0 +1,1 @@
+Rose, M., "Principles of Operation for the TPC.INT Subdomain: Radio Paging -- Technical Procedures", RFC 1569, DOI 10.17487/RFC1569, January 1994, <https://www.rfc-editor.org/info/rfc1569>.

@@ -1,0 +1,1 @@
+Munakata, M., Schubert, S., and T. Ohba, "The Integrated Services Digital Network (ISDN) Subaddress Encoding Type for tel URI", RFC 4715, DOI 10.17487/RFC4715, November 2006, <https://www.rfc-editor.org/info/rfc4715>.

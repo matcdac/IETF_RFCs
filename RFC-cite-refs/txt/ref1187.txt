@@ -1,0 +1,1 @@
+Rose, M., McCloghrie, K., and J. Davin, "Bulk Table Retrieval with the SNMP", RFC 1187, DOI 10.17487/RFC1187, October 1990, <https://www.rfc-editor.org/info/rfc1187>.

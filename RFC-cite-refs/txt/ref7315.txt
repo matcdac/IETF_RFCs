@@ -1,0 +1,1 @@
+Jesske, R., Drage, K., and C. Holmberg, "Private Header (P-Header) Extensions to the Session Initiation Protocol (SIP) for the 3GPP", RFC 7315, DOI 10.17487/RFC7315, July 2014, <https://www.rfc-editor.org/info/rfc7315>.

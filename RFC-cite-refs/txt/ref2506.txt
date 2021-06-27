@@ -1,0 +1,1 @@
+Holtman, K., Mutz, A., and T. Hardie, "Media Feature Tag Registration Procedure", BCP 31, RFC 2506, DOI 10.17487/RFC2506, March 1999, <https://www.rfc-editor.org/info/rfc2506>.

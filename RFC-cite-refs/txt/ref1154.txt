@@ -1,0 +1,1 @@
+Robinson, D. and R. Ullmann, "Encoding header field for internet messages", RFC 1154, DOI 10.17487/RFC1154, April 1990, <https://www.rfc-editor.org/info/rfc1154>.

@@ -1,0 +1,1 @@
+Tschofenig, H., Schulzrinne, H., and B. Aboba, Ed., "Trustworthy Location", RFC 7378, DOI 10.17487/RFC7378, December 2014, <https://www.rfc-editor.org/info/rfc7378>.

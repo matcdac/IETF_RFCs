@@ -1,0 +1,1 @@
+Foster, M., McGarry, T., and J. Yu, "Number Portability in the Global Switched Telephone Network (GSTN): An Overview", RFC 3482, DOI 10.17487/RFC3482, February 2003, <https://www.rfc-editor.org/info/rfc3482>.

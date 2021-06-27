@@ -1,0 +1,1 @@
+Kastenholz, F., "Definitions of Managed Objects for the Ethernet-like Interface Types using SMIv2", RFC 1650, DOI 10.17487/RFC1650, August 1994, <https://www.rfc-editor.org/info/rfc1650>.

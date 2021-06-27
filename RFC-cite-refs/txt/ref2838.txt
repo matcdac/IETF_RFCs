@@ -1,0 +1,1 @@
+Zigmond, D. and M. Vickers, "Uniform Resource Identifiers for Television Broadcasts", RFC 2838, DOI 10.17487/RFC2838, May 2000, <https://www.rfc-editor.org/info/rfc2838>.

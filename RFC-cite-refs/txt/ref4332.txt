@@ -1,0 +1,1 @@
+Leung, K., Patel, A., Tsirtsis, G., and E. Klovning, "Cisco's Mobile IPv4 Host Configuration Extensions", RFC 4332, DOI 10.17487/RFC4332, December 2005, <https://www.rfc-editor.org/info/rfc4332>.

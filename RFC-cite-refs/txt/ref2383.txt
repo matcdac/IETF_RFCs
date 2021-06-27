@@ -1,0 +1,1 @@
+Suzuki, M., "ST2+ over ATM Protocol Specification - UNI 3.1 Version", RFC 2383, DOI 10.17487/RFC2383, August 1998, <https://www.rfc-editor.org/info/rfc2383>.

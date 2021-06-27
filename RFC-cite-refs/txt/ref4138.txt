@@ -1,0 +1,1 @@
+Sarolahti, P. and M. Kojo, "Forward RTO-Recovery (F-RTO): An Algorithm for Detecting Spurious Retransmission Timeouts with TCP and the Stream Control Transmission Protocol (SCTP)", RFC 4138, DOI 10.17487/RFC4138, August 2005, <https://www.rfc-editor.org/info/rfc4138>.

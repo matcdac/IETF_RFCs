@@ -1,0 +1,1 @@
+Li, H., Zheng, R., and A. Farrel, "Multi-Segment Pseudowires in Passive Optical Networks", RFC 6456, DOI 10.17487/RFC6456, November 2011, <https://www.rfc-editor.org/info/rfc6456>.

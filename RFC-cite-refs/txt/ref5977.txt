@@ -1,0 +1,1 @@
+Bader, A., Westberg, L., Karagiannis, G., Kappler, C., and T. Phelan, "RMD-QOSM: The NSIS Quality-of-Service Model for Resource Management in Diffserv", RFC 5977, DOI 10.17487/RFC5977, October 2010, <https://www.rfc-editor.org/info/rfc5977>.

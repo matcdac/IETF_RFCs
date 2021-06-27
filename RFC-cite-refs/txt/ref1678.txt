@@ -1,0 +1,1 @@
+Britton, E. and J. Tavs, "IPng Requirements of Large Corporate Networks", RFC 1678, DOI 10.17487/RFC1678, August 1994, <https://www.rfc-editor.org/info/rfc1678>.

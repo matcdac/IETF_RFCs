@@ -1,0 +1,1 @@
+Winett, J., "Telnet logger/server for host LL-67", RFC 466, DOI 10.17487/RFC0466, February 1973, <https://www.rfc-editor.org/info/rfc466>.

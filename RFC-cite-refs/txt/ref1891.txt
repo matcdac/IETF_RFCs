@@ -1,0 +1,1 @@
+Moore, K., "SMTP Service Extension for Delivery Status Notifications", RFC 1891, DOI 10.17487/RFC1891, January 1996, <https://www.rfc-editor.org/info/rfc1891>.

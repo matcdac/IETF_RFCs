@@ -1,0 +1,1 @@
+Silverberg, S., Mansour, S., Dawson, F., and R. Hopson, "iCalendar Transport-Independent Interoperability Protocol (iTIP) Scheduling Events, BusyTime, To-dos and Journal Entries", RFC 2446, DOI 10.17487/RFC2446, November 1998, <https://www.rfc-editor.org/info/rfc2446>.

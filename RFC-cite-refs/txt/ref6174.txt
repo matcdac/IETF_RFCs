@@ -1,0 +1,1 @@
+Juskevicius, E., "Definition of IETF Working Group Document States", RFC 6174, DOI 10.17487/RFC6174, March 2011, <https://www.rfc-editor.org/info/rfc6174>.

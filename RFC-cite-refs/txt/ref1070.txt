@@ -1,0 +1,1 @@
+Hagens, R., Hall, N., and M. Rose, "Use of the Internet as a subnetwork for experimentation with the OSI network layer", RFC 1070, DOI 10.17487/RFC1070, February 1989, <https://www.rfc-editor.org/info/rfc1070>.

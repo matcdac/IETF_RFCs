@@ -1,0 +1,1 @@
+Vyncke, E., "IPv6 over Social Networks", RFC 5514, DOI 10.17487/RFC5514, April 1 2009, <https://www.rfc-editor.org/info/rfc5514>.

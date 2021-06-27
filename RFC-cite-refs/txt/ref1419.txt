@@ -1,0 +1,1 @@
+Minshall, G. and M. Ritter, "SNMP over AppleTalk", RFC 1419, DOI 10.17487/RFC1419, March 1993, <https://www.rfc-editor.org/info/rfc1419>.

@@ -1,0 +1,1 @@
+McConnell, J., "Response to RFC 86: Proposal for Network Standard Format for a Graphics Data Stream", RFC 125, DOI 10.17487/RFC0125, April 1971, <https://www.rfc-editor.org/info/rfc125>.

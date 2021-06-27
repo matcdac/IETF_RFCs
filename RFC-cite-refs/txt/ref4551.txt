@@ -1,0 +1,1 @@
+Melnikov, A. and S. Hole, "IMAP Extension for Conditional STORE Operation or Quick Flag Changes Resynchronization", RFC 4551, DOI 10.17487/RFC4551, June 2006, <https://www.rfc-editor.org/info/rfc4551>.

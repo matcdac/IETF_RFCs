@@ -1,0 +1,1 @@
+Davin, J., Galvin, J., and K. McCloghrie, "SNMP Administrative Model", RFC 1351, DOI 10.17487/RFC1351, July 1992, <https://www.rfc-editor.org/info/rfc1351>.

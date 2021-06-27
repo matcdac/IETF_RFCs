@@ -1,0 +1,1 @@
+Van de Velde, G., Hain, T., Droms, R., Carpenter, B., and E. Klein, "Local Network Protection for IPv6", RFC 4864, DOI 10.17487/RFC4864, May 2007, <https://www.rfc-editor.org/info/rfc4864>.

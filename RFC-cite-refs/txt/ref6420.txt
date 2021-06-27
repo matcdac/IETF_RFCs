@@ -1,0 +1,1 @@
+Cai, Y. and H. Ou, "PIM Multi-Topology ID (MT-ID) Join Attribute", RFC 6420, DOI 10.17487/RFC6420, November 2011, <https://www.rfc-editor.org/info/rfc6420>.

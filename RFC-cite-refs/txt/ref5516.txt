@@ -1,0 +1,1 @@
+Jones, M. and L. Morand, "Diameter Command Code Registration for the Third Generation Partnership Project (3GPP) Evolved Packet System (EPS)", RFC 5516, DOI 10.17487/RFC5516, April 2009, <https://www.rfc-editor.org/info/rfc5516>.

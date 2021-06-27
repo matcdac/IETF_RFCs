@@ -1,0 +1,1 @@
+Solomon, J., "Applicability Statement for IP Mobility Support", RFC 2005, DOI 10.17487/RFC2005, October 1996, <https://www.rfc-editor.org/info/rfc2005>.

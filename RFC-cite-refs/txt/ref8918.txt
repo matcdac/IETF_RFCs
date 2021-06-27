@@ -1,0 +1,1 @@
+Ginsberg, L., Wells, P., Li, T., Przygienda, T., and S. Hegde, "Invalid TLV Handling in IS-IS", RFC 8918, DOI 10.17487/RFC8918, September 2020, <https://www.rfc-editor.org/info/rfc8918>.

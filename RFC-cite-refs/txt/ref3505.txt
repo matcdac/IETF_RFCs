@@ -1,0 +1,1 @@
+Eastlake, D., "Electronic Commerce Modeling Language (ECML): Version 2 Requirements", RFC 3505, DOI 10.17487/RFC3505, March 2003, <https://www.rfc-editor.org/info/rfc3505>.

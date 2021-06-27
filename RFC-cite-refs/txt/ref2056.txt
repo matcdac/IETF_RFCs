@@ -1,0 +1,1 @@
+Denenberg, R., Kunze, J., and D. Lynch, "Uniform Resource Locators for Z39.50", RFC 2056, DOI 10.17487/RFC2056, November 1996, <https://www.rfc-editor.org/info/rfc2056>.

@@ -1,0 +1,1 @@
+Browne, R., Chilikin, A., and T. Mizrahi, "Key Performance Indicator (KPI) Stamping for the Network Service Header (NSH)", RFC 8592, DOI 10.17487/RFC8592, May 2019, <https://www.rfc-editor.org/info/rfc8592>.

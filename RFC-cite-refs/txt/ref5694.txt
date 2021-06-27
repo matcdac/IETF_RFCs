@@ -1,0 +1,1 @@
+Camarillo, G., Ed., and IAB, "Peer-to-Peer (P2P) Architecture: Definition, Taxonomies, Examples, and Applicability", RFC 5694, DOI 10.17487/RFC5694, November 2009, <https://www.rfc-editor.org/info/rfc5694>.

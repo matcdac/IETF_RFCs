@@ -1,0 +1,1 @@
+Kabat, J. and M. Upadhyay, "Generic Security Service API Version 2 : Java Bindings", RFC 2853, DOI 10.17487/RFC2853, June 2000, <https://www.rfc-editor.org/info/rfc2853>.

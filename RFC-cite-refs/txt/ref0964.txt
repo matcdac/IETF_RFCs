@@ -1,0 +1,1 @@
+Sidhu, D. and T. Blumer, "Some problems with the specification of the Military Standard Transmission Control Protocol", RFC 964, DOI 10.17487/RFC0964, November 1985, <https://www.rfc-editor.org/info/rfc964>.

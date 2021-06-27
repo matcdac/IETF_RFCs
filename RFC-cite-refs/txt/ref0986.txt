@@ -1,0 +1,1 @@
+Callon, R. and H. Braun, "Guidelines for the use of Internet-IP addresses in the ISO Connectionless-Mode Network Protocol", RFC 986, DOI 10.17487/RFC0986, June 1986, <https://www.rfc-editor.org/info/rfc986>.

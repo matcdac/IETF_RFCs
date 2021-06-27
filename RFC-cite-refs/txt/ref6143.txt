@@ -1,0 +1,1 @@
+Richardson, T. and J. Levine, "The Remote Framebuffer Protocol", RFC 6143, DOI 10.17487/RFC6143, March 2011, <https://www.rfc-editor.org/info/rfc6143>.

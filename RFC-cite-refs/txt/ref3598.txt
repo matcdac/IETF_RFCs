@@ -1,0 +1,1 @@
+Murchison, K., "Sieve Email Filtering -- Subaddress Extension", RFC 3598, DOI 10.17487/RFC3598, September 2003, <https://www.rfc-editor.org/info/rfc3598>.

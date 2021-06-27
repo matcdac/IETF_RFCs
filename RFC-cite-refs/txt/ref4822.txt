@@ -1,0 +1,1 @@
+Atkinson, R. and M. Fanto, "RIPv2 Cryptographic Authentication", RFC 4822, DOI 10.17487/RFC4822, February 2007, <https://www.rfc-editor.org/info/rfc4822>.

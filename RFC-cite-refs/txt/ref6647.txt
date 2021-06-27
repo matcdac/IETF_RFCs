@@ -1,0 +1,1 @@
+Kucherawy, M. and D. Crocker, "Email Greylisting: An Applicability Statement for SMTP", RFC 6647, DOI 10.17487/RFC6647, June 2012, <https://www.rfc-editor.org/info/rfc6647>.

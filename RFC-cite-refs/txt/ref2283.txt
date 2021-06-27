@@ -1,0 +1,1 @@
+Bates, T., Chandra, R., Katz, D., and Y. Rekhter, "Multiprotocol Extensions for BGP-4", RFC 2283, DOI 10.17487/RFC2283, February 1998, <https://www.rfc-editor.org/info/rfc2283>.

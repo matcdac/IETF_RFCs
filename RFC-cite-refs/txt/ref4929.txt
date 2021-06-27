@@ -1,0 +1,1 @@
+Andersson, L., Ed., and A. Farrel, Ed., "Change Process for Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Protocols and Procedures", BCP 129, RFC 4929, DOI 10.17487/RFC4929, June 2007, <https://www.rfc-editor.org/info/rfc4929>.

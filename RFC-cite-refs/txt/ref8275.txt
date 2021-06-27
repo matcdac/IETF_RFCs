@@ -1,0 +1,1 @@
+Fields, J. and A. Gruenbacher, "Allowing Inheritable NFSv4 Access Control Entries to Override the Umask", RFC 8275, DOI 10.17487/RFC8275, December 2017, <https://www.rfc-editor.org/info/rfc8275>.

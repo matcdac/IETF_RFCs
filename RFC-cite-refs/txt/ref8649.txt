@@ -1,0 +1,1 @@
+Housley, R., "Hash Of Root Key Certificate Extension", RFC 8649, DOI 10.17487/RFC8649, August 2019, <https://www.rfc-editor.org/info/rfc8649>.

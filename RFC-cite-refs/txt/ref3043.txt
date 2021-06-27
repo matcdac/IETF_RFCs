@@ -1,0 +1,1 @@
+Mealling, M., "The Network Solutions Personal Internet Name (PIN): A URN Namespace for People and Organizations", RFC 3043, DOI 10.17487/RFC3043, January 2001, <https://www.rfc-editor.org/info/rfc3043>.

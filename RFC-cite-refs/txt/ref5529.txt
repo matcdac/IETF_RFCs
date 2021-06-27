@@ -1,0 +1,1 @@
+Kato, A., Kanda, M., and S. Kanno, "Modes of Operation for Camellia for Use with IPsec", RFC 5529, DOI 10.17487/RFC5529, April 2009, <https://www.rfc-editor.org/info/rfc5529>.

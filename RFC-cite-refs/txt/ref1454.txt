@@ -1,0 +1,1 @@
+Dixon, T., "Comparison of Proposals for Next Version of IP", RFC 1454, DOI 10.17487/RFC1454, May 1993, <https://www.rfc-editor.org/info/rfc1454>.

@@ -1,0 +1,1 @@
+Lee, H., Lee, S., Yoon, J., Cheon, D., and J. Lee, "The SEED Encryption Algorithm", RFC 4269, DOI 10.17487/RFC4269, December 2005, <https://www.rfc-editor.org/info/rfc4269>.

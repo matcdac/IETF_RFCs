@@ -1,0 +1,1 @@
+Weider, C., Fullton, J., and S. Spero, "Architecture of the Whois++ Index Service", RFC 1913, DOI 10.17487/RFC1913, February 1996, <https://www.rfc-editor.org/info/rfc1913>.

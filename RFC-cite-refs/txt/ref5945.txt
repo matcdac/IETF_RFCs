@@ -1,0 +1,1 @@
+Le Faucheur, F., Manner, J., Wing, D., and A. Guillou, "Resource Reservation Protocol (RSVP) Proxy Approaches", RFC 5945, DOI 10.17487/RFC5945, October 2010, <https://www.rfc-editor.org/info/rfc5945>.

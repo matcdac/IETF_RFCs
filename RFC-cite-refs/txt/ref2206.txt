@@ -1,0 +1,1 @@
+Baker, F., Krawczyk, J., and A. Sastry, "RSVP Management Information Base using SMIv2", RFC 2206, DOI 10.17487/RFC2206, September 1997, <https://www.rfc-editor.org/info/rfc2206>.

@@ -1,0 +1,1 @@
+Hardcastle-Kille, S., "Replication Requirements to provide an Internet Directory using X.500", RFC 1275, DOI 10.17487/RFC1275, November 1991, <https://www.rfc-editor.org/info/rfc1275>.

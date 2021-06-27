@@ -1,0 +1,1 @@
+Perkins, C. and E. Guttman, "DHCP Options for Service Location Protocol", RFC 2610, DOI 10.17487/RFC2610, June 1999, <https://www.rfc-editor.org/info/rfc2610>.

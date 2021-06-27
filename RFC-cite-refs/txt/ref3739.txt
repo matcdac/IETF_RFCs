@@ -1,0 +1,1 @@
+Santesson, S., Nystrom, M., and T. Polk, "Internet X.509 Public Key Infrastructure: Qualified Certificates Profile", RFC 3739, DOI 10.17487/RFC3739, March 2004, <https://www.rfc-editor.org/info/rfc3739>.

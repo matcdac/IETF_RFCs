@@ -1,0 +1,1 @@
+Simpson, W., "PPP in Frame Relay", RFC 1973, DOI 10.17487/RFC1973, June 1996, <https://www.rfc-editor.org/info/rfc1973>.

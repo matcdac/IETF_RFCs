@@ -1,0 +1,1 @@
+Chesterfield, J. and B. Haberman, Ed., "Multicast Group Membership Discovery MIB", RFC 5519, DOI 10.17487/RFC5519, April 2009, <https://www.rfc-editor.org/info/rfc5519>.

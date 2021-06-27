@@ -1,0 +1,1 @@
+Caviglia, D., Bramanti, D., Li, D., and D. McDysan, "Requirements for the Conversion between Permanent Connections and Switched Connections in a Generalized Multiprotocol Label Switching (GMPLS) Network", RFC 5493, DOI 10.17487/RFC5493, April 2009, <https://www.rfc-editor.org/info/rfc5493>.

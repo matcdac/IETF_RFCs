@@ -1,0 +1,1 @@
+Ferguson, B., "Request for monitor host table updates", RFC 620, DOI 10.17487/RFC0620, March 1974, <https://www.rfc-editor.org/info/rfc620>.

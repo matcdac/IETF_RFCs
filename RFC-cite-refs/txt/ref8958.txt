@@ -1,0 +1,1 @@
+Hardie, T., "Updated Registration Rules for URI.ARPA", BCP 65, RFC 8958, DOI 10.17487/RFC8958, December 2020, <https://www.rfc-editor.org/info/rfc8958>.

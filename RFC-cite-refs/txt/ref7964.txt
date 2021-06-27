@@ -1,0 +1,1 @@
+Walton, D., Retana, A., Chen, E., and J. Scudder, "Solutions for BGP Persistent Route Oscillation", RFC 7964, DOI 10.17487/RFC7964, September 2016, <https://www.rfc-editor.org/info/rfc7964>.

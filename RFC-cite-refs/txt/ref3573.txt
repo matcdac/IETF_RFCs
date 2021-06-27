@@ -1,0 +1,1 @@
+Goyret, I., "Signalling of Modem-On-Hold status in Layer 2 Tunneling Protocol (L2TP)", RFC 3573, DOI 10.17487/RFC3573, July 2003, <https://www.rfc-editor.org/info/rfc3573>.

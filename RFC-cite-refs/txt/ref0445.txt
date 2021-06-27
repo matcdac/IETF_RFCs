@@ -1,0 +1,1 @@
+McKenzie, A., "IMP/TIP preventive maintenance schedule", RFC 445, DOI 10.17487/RFC0445, January 1973, <https://www.rfc-editor.org/info/rfc445>.

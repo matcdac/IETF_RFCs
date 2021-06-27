@@ -1,0 +1,1 @@
+Shin, M-K., Ed., Hong, Y-G., Hagino, J., Savola, P., and E. Castro, "Application Aspects of IPv6 Transition", RFC 4038, DOI 10.17487/RFC4038, March 2005, <https://www.rfc-editor.org/info/rfc4038>.

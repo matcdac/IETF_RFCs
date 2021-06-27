@@ -1,0 +1,1 @@
+Dhody, D., "Update to the Include Route Object (IRO) Specification in the Path Computation Element Communication Protocol (PCEP)", RFC 7896, DOI 10.17487/RFC7896, June 2016, <https://www.rfc-editor.org/info/rfc7896>.

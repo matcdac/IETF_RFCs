@@ -1,0 +1,1 @@
+Ng, C., Ernst, T., Paik, E., and M. Bagnulo, "Analysis of Multihoming in Network Mobility Support", RFC 4980, DOI 10.17487/RFC4980, October 2007, <https://www.rfc-editor.org/info/rfc4980>.

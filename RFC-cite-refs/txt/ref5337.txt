@@ -1,0 +1,1 @@
+Newman, C. and A. Melnikov, Ed., "Internationalized Delivery Status and Disposition Notifications", RFC 5337, DOI 10.17487/RFC5337, September 2008, <https://www.rfc-editor.org/info/rfc5337>.

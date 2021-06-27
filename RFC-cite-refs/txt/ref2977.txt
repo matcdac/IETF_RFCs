@@ -1,0 +1,1 @@
+Glass, S., Hiller, T., Jacobs, S., and C. Perkins, "Mobile IP Authentication, Authorization, and Accounting Requirements", RFC 2977, DOI 10.17487/RFC2977, October 2000, <https://www.rfc-editor.org/info/rfc2977>.

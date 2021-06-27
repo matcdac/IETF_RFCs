@@ -1,0 +1,1 @@
+van Elburg, J., Drage, K., Ohsugi, M., Schubert, S., and K. Arai, "The Session Initiation Protocol (SIP) P-Private-Network-Indication Private Header (P-Header)", RFC 7316, DOI 10.17487/RFC7316, July 2014, <https://www.rfc-editor.org/info/rfc7316>.

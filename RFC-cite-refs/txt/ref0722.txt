@@ -1,0 +1,1 @@
+Haverty, J., "Thoughts on Interactions in Distributed Services", RFC 722, DOI 10.17487/RFC0722, September 1976, <https://www.rfc-editor.org/info/rfc722>.

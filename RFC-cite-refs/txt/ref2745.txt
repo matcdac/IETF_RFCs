@@ -1,0 +1,1 @@
+Terzis, A., Braden, B., Vincent, S., and L. Zhang, "RSVP Diagnostic Messages", RFC 2745, DOI 10.17487/RFC2745, January 2000, <https://www.rfc-editor.org/info/rfc2745>.

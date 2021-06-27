@@ -1,0 +1,1 @@
+O'Dell, M., Alvestrand, H., Wijnen, B., and S. Bradner, "Advancement of MIB specifications on the IETF Standards Track", BCP 27, RFC 2438, DOI 10.17487/RFC2438, October 1998, <https://www.rfc-editor.org/info/rfc2438>.

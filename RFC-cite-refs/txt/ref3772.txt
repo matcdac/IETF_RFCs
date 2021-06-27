@@ -1,0 +1,1 @@
+Carlson, J. and R. Winslow, "Point-to-Point Protocol (PPP) Vendor Protocol", RFC 3772, DOI 10.17487/RFC3772, May 2004, <https://www.rfc-editor.org/info/rfc3772>.

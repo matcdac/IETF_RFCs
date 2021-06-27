@@ -1,0 +1,1 @@
+Postel, J., "Character Generator Process", RFC 429, DOI 10.17487/RFC0429, December 1972, <https://www.rfc-editor.org/info/rfc429>.

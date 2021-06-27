@@ -1,0 +1,1 @@
+Hammer-Lahav, E., Ed., and B. Cook, "Web Host Metadata", RFC 6415, DOI 10.17487/RFC6415, October 2011, <https://www.rfc-editor.org/info/rfc6415>.

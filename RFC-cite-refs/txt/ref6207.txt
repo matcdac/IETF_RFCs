@@ -1,0 +1,1 @@
+Denenberg, R., Ed., "The Media Types application/mods+xml, application/mads+xml, application/mets+xml, application/marcxml+xml, and application/sru+xml", RFC 6207, DOI 10.17487/RFC6207, April 2011, <https://www.rfc-editor.org/info/rfc6207>.

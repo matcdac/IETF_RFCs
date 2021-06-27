@@ -1,0 +1,1 @@
+Francis, P., "Pip Header Processing", RFC 1622, DOI 10.17487/RFC1622, May 1994, <https://www.rfc-editor.org/info/rfc1622>.

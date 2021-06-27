@@ -1,0 +1,1 @@
+Daigle, L., "Domain-Based Application Service Location Using URIs and the Dynamic Delegation Discovery Service (DDDS)", RFC 4848, DOI 10.17487/RFC4848, April 2007, <https://www.rfc-editor.org/info/rfc4848>.

@@ -1,0 +1,1 @@
+Berger, A. and D. Romascanu, "Power Ethernet MIB", RFC 3621, DOI 10.17487/RFC3621, December 2003, <https://www.rfc-editor.org/info/rfc3621>.

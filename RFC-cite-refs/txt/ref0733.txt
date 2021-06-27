@@ -1,0 +1,1 @@
+Crocker, D., Vittal, J., Pogran, K., and D. Henderson, "Standard for the format of ARPA network text messages", RFC 733, DOI 10.17487/RFC0733, November 1977, <https://www.rfc-editor.org/info/rfc733>.

@@ -1,0 +1,1 @@
+Keranen, A. and J. Arkko, "Some Measurements on World IPv6 Day from an End-User Perspective", RFC 6948, DOI 10.17487/RFC6948, July 2013, <https://www.rfc-editor.org/info/rfc6948>.

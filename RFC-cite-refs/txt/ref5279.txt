@@ -1,0 +1,1 @@
+Monrad, A. and S. Loreto, "A Uniform Resource Name (URN) Namespace for the 3rd Generation Partnership Project (3GPP)", RFC 5279, DOI 10.17487/RFC5279, July 2008, <https://www.rfc-editor.org/info/rfc5279>.

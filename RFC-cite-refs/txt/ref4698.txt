@@ -1,0 +1,1 @@
+Gunduz, E., Newton, A., and S. Kerr, "IRIS: An Address Registry (areg) Type for the Internet Registry Information Service", RFC 4698, DOI 10.17487/RFC4698, October 2006, <https://www.rfc-editor.org/info/rfc4698>.

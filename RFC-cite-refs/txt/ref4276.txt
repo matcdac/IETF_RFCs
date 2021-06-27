@@ -1,0 +1,1 @@
+Hares, S. and A. Retana, "BGP-4 Implementation Report", RFC 4276, DOI 10.17487/RFC4276, January 2006, <https://www.rfc-editor.org/info/rfc4276>.

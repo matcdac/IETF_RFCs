@@ -1,0 +1,1 @@
+Hinden, R., "Proposed TLA and NLA Assignment Rule", RFC 2450, DOI 10.17487/RFC2450, December 1998, <https://www.rfc-editor.org/info/rfc2450>.

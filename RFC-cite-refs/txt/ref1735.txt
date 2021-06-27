@@ -1,0 +1,1 @@
+Heinanen, J. and R. Govindan, "NBMA Address Resolution Protocol (NARP)", RFC 1735, DOI 10.17487/RFC1735, December 1994, <https://www.rfc-editor.org/info/rfc1735>.

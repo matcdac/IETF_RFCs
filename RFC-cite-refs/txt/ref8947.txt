@@ -1,0 +1,1 @@
+Volz, B., Mrugalski, T., and C. Bernardos, "Link-Layer Address Assignment Mechanism for DHCPv6", RFC 8947, DOI 10.17487/RFC8947, December 2020, <https://www.rfc-editor.org/info/rfc8947>.

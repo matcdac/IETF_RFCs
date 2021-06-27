@@ -1,0 +1,1 @@
+Kielczewski, Z., Ed., Kostick, D., Ed., and K. Shih, Ed., "Definitions of Managed Objects for SNA NAUs using SMIv2", RFC 1665, DOI 10.17487/RFC1665, July 1994, <https://www.rfc-editor.org/info/rfc1665>.

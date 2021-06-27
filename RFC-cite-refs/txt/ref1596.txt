@@ -1,0 +1,1 @@
+Brown, T., Ed., "Definitions of Managed Objects for Frame Relay Service", RFC 1596, DOI 10.17487/RFC1596, March 1994, <https://www.rfc-editor.org/info/rfc1596>.

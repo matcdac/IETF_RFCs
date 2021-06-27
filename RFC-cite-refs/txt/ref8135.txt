@@ -1,0 +1,1 @@
+Danielson, M. and M. Nilsson, "Complex Addressing in IPv6", RFC 8135, DOI 10.17487/RFC8135, April 1 2017, <https://www.rfc-editor.org/info/rfc8135>.

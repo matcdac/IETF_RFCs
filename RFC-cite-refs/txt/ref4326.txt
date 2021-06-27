@@ -1,0 +1,1 @@
+Fairhurst, G. and B. Collini-Nocker, "Unidirectional Lightweight Encapsulation (ULE) for Transmission of IP Datagrams over an MPEG-2 Transport Stream (TS)", RFC 4326, DOI 10.17487/RFC4326, December 2005, <https://www.rfc-editor.org/info/rfc4326>.

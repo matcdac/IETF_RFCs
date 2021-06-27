@@ -1,0 +1,1 @@
+Rosenberg, J., Schulzrinne, H., and P. Kyzivat, "Caller Preferences for the Session Initiation Protocol (SIP)", RFC 3841, DOI 10.17487/RFC3841, August 2004, <https://www.rfc-editor.org/info/rfc3841>.

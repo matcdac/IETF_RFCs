@@ -1,0 +1,1 @@
+Keeni, G., "Textual Conventions for Syslog Management", RFC 5427, DOI 10.17487/RFC5427, March 2009, <https://www.rfc-editor.org/info/rfc5427>.

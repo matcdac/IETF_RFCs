@@ -1,0 +1,1 @@
+Blanchet, M., "A Flexible Method for Managing the Assignment of Bits of an IPv6 Address Block", RFC 3531, DOI 10.17487/RFC3531, April 2003, <https://www.rfc-editor.org/info/rfc3531>.

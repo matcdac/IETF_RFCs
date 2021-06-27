@@ -1,0 +1,1 @@
+Winterbottom, J., Tschofenig, H., Schulzrinne, H., and M. Thomson, "A Location Dereference Protocol Using HTTP-Enabled Location Delivery (HELD)", RFC 6753, DOI 10.17487/RFC6753, October 2012, <https://www.rfc-editor.org/info/rfc6753>.

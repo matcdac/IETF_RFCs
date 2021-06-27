@@ -1,0 +1,1 @@
+Guenther, R., "The Application/MARC Content-type", RFC 2220, DOI 10.17487/RFC2220, October 1997, <https://www.rfc-editor.org/info/rfc2220>.

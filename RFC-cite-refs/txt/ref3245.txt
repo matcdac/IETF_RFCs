@@ -1,0 +1,1 @@
+Klensin, J., Ed., and IAB, "The History and Context of Telephone Number Mapping (ENUM) Operational Decisions: Informational Documents Contributed to ITU-T Study Group 2 (SG2)", RFC 3245, DOI 10.17487/RFC3245, March 2002, <https://www.rfc-editor.org/info/rfc3245>.

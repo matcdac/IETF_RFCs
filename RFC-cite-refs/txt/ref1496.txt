@@ -1,0 +1,1 @@
+Alvestrand, H., Romaguera, J., and K. Jordan, "Rules for downgrading messages from X.400/88 to X.400/84 when MIME content-types are present in the messages", RFC 1496, DOI 10.17487/RFC1496, August 1993, <https://www.rfc-editor.org/info/rfc1496>.

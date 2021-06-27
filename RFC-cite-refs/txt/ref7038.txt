@@ -1,0 +1,1 @@
+Ogier, R., "Use of OSPF-MDR in Single-Hop Broadcast Networks", RFC 7038, DOI 10.17487/RFC7038, October 2013, <https://www.rfc-editor.org/info/rfc7038>.

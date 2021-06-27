@@ -1,0 +1,1 @@
+Meadors, K., Ed., "Electronic Data Interchange - Internet Integration (EDIINT) Features Header Field", RFC 6017, DOI 10.17487/RFC6017, September 2010, <https://www.rfc-editor.org/info/rfc6017>.

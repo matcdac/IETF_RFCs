@@ -1,0 +1,1 @@
+Burger, E. and G. Parsons, "LEMONADE Architecture - Supporting Open Mobile Alliance (OMA) Mobile Email (MEM) Using Internet Mail", RFC 5442, DOI 10.17487/RFC5442, March 2009, <https://www.rfc-editor.org/info/rfc5442>.

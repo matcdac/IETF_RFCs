@@ -1,0 +1,1 @@
+Perkins, D., "Requirements for an Internet Standard Point-to-Point Protocol", RFC 1547, DOI 10.17487/RFC1547, December 1993, <https://www.rfc-editor.org/info/rfc1547>.

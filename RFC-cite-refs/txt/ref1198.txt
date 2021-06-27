@@ -1,0 +1,1 @@
+Scheifler, R., "FYI on the X window system", FYI 6, RFC 1198, DOI 10.17487/RFC1198, January 1991, <https://www.rfc-editor.org/info/rfc1198>.

@@ -1,0 +1,1 @@
+Santesson, S., Medvinsky, A., and J. Ball, "TLS User Mapping Extension", RFC 4681, DOI 10.17487/RFC4681, October 2006, <https://www.rfc-editor.org/info/rfc4681>.

@@ -1,0 +1,1 @@
+Braden, R., "Backup access to the European side of SATNET", RFC 831, DOI 10.17487/RFC0831, December 1982, <https://www.rfc-editor.org/info/rfc831>.

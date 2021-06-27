@@ -1,0 +1,1 @@
+Leech, M., "Chinese Lottery Cryptanalysis Revisited: The Internet as a Codebreaking Tool", RFC 3607, DOI 10.17487/RFC3607, September 2003, <https://www.rfc-editor.org/info/rfc3607>.

@@ -1,0 +1,1 @@
+Davison, M., "ILMI-Based Server Discovery for ATMARP", RFC 2601, DOI 10.17487/RFC2601, June 1999, <https://www.rfc-editor.org/info/rfc2601>.

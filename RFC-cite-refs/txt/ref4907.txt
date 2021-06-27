@@ -1,0 +1,1 @@
+Aboba, B., Ed., "Architectural Implications of Link Indications", RFC 4907, DOI 10.17487/RFC4907, June 2007, <https://www.rfc-editor.org/info/rfc4907>.

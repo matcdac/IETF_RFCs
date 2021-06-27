@@ -1,0 +1,1 @@
+Rekhter, Y., Ed., and T. Li, Ed., "A Border Gateway Protocol 4 (BGP-4)", RFC 1654, DOI 10.17487/RFC1654, July 1994, <https://www.rfc-editor.org/info/rfc1654>.

@@ -1,0 +1,1 @@
+Liebsch, M., Ed., Singh, A., Ed., Chaskar, H., Funato, D., and E. Shim, "Candidate Access Router Discovery (CARD)", RFC 4066, DOI 10.17487/RFC4066, July 2005, <https://www.rfc-editor.org/info/rfc4066>.

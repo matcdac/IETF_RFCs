@@ -1,0 +1,1 @@
+Case, J., McCloghrie, K., Rose, M., and S. Waldbusser, "Transport Mappings for Version 2 of the Simple Network Management Protocol (SNMPv2)", RFC 1906, DOI 10.17487/RFC1906, January 1996, <https://www.rfc-editor.org/info/rfc1906>.

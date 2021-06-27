@@ -1,0 +1,1 @@
+Turner, S., "Elliptic Curve Algorithms for Cryptographic Message Syntax (CMS) Asymmetric Key Package Content Type", RFC 6162, DOI 10.17487/RFC6162, April 2011, <https://www.rfc-editor.org/info/rfc6162>.

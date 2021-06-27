@@ -1,0 +1,1 @@
+Lottor, M., "Simple File Transfer Protocol", RFC 913, DOI 10.17487/RFC0913, September 1984, <https://www.rfc-editor.org/info/rfc913>.

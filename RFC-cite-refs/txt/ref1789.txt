@@ -1,0 +1,1 @@
+Yang, C., "INETPhone: Telephone Services and Servers on Internet", RFC 1789, DOI 10.17487/RFC1789, April 1995, <https://www.rfc-editor.org/info/rfc1789>.

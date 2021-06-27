@@ -1,0 +1,1 @@
+Behringer, M., Retana, A., White, R., and G. Huston, "A Framework for Defining Network Complexity", RFC 7980, DOI 10.17487/RFC7980, October 2016, <https://www.rfc-editor.org/info/rfc7980>.

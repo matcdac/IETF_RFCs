@@ -1,0 +1,1 @@
+Levine, J. and P. Hoffman, "Variants in Second-Level Names Registered in Top-Level Domains", RFC 6927, DOI 10.17487/RFC6927, May 2013, <https://www.rfc-editor.org/info/rfc6927>.

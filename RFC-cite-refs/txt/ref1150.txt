@@ -1,0 +1,1 @@
+Malkin, G. and J. Reynolds, "FYI on FYI: Introduction to the FYI Notes", RFC 1150, DOI 10.17487/RFC1150, March 1990, <https://www.rfc-editor.org/info/rfc1150>.

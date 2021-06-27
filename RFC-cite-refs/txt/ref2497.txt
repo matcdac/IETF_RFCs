@@ -1,0 +1,1 @@
+Souvatzis, I., "Transmission of IPv6 Packets over ARCnet Networks", RFC 2497, DOI 10.17487/RFC2497, January 1999, <https://www.rfc-editor.org/info/rfc2497>.

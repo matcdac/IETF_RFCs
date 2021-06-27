@@ -1,0 +1,1 @@
+Schulzrinne, H., "CIPID: Contact Information for the Presence Information Data Format", RFC 4482, DOI 10.17487/RFC4482, July 2006, <https://www.rfc-editor.org/info/rfc4482>.

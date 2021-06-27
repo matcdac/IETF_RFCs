@@ -1,0 +1,1 @@
+Gwinn, A., "Simple Network Paging Protocol - Version 2", RFC 1645, DOI 10.17487/RFC1645, July 1994, <https://www.rfc-editor.org/info/rfc1645>.

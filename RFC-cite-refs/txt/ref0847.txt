@@ -1,0 +1,1 @@
+Westine, A., Smallberg, D., and J. Postel, "Summary of Smallberg surveys", RFC 847, DOI 10.17487/RFC0847, February 1983, <https://www.rfc-editor.org/info/rfc847>.

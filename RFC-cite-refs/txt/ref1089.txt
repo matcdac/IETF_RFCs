@@ -1,0 +1,1 @@
+Schoffstall, M., Davin, C., Fedor, M., and J. Case, "SNMP over Ethernet", RFC 1089, DOI 10.17487/RFC1089, February 1989, <https://www.rfc-editor.org/info/rfc1089>.

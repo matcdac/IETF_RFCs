@@ -1,0 +1,1 @@
+Arkko, J. and I. van Beijnum, "Failure Detection and Locator Pair Exploration Protocol for IPv6 Multihoming", RFC 5534, DOI 10.17487/RFC5534, June 2009, <https://www.rfc-editor.org/info/rfc5534>.

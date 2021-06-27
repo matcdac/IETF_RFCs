@@ -1,0 +1,1 @@
+Crawford, M., "Transmission of IPv6 Packets Over FDDI", RFC 2019, DOI 10.17487/RFC2019, October 1996, <https://www.rfc-editor.org/info/rfc2019>.

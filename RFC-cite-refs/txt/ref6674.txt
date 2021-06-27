@@ -1,0 +1,1 @@
+Brockners, F., Gundavelli, S., Speicher, S., and D. Ward, "Gateway-Initiated Dual-Stack Lite Deployment", RFC 6674, DOI 10.17487/RFC6674, July 2012, <https://www.rfc-editor.org/info/rfc6674>.

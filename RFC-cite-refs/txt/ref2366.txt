@@ -1,0 +1,1 @@
+Chung, C. and M. Greene, "Definitions of Managed Objects for Multicast over UNI 3.0/3.1 based ATM Networks", RFC 2366, DOI 10.17487/RFC2366, July 1998, <https://www.rfc-editor.org/info/rfc2366>.

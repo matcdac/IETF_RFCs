@@ -1,0 +1,1 @@
+Yu, J., "Number Portability Parameters for the "tel" URI", RFC 4694, DOI 10.17487/RFC4694, October 2006, <https://www.rfc-editor.org/info/rfc4694>.

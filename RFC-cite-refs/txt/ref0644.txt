@@ -1,0 +1,1 @@
+Thomas, R., "On the problem of signature authentication for network mail", RFC 644, DOI 10.17487/RFC0644, July 1974, <https://www.rfc-editor.org/info/rfc644>.

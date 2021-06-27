@@ -1,0 +1,1 @@
+Danley, M., Mulligan, D., Morris, J., and J. Peterson, "Threat Analysis of the Geopriv Protocol", RFC 3694, DOI 10.17487/RFC3694, February 2004, <https://www.rfc-editor.org/info/rfc3694>.

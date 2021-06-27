@@ -1,0 +1,1 @@
+Lyon, J., Evans, K., and J. Klein, "Transaction Internet Protocol Version 3.0", RFC 2371, DOI 10.17487/RFC2371, July 1998, <https://www.rfc-editor.org/info/rfc2371>.

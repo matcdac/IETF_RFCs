@@ -1,0 +1,1 @@
+Schoenwaelder, J. and J. Quittek, "Script MIB Extensibility Protocol Version 1.1", RFC 3179, DOI 10.17487/RFC3179, October 2001, <https://www.rfc-editor.org/info/rfc3179>.

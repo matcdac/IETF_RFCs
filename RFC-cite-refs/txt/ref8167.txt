@@ -1,0 +1,1 @@
+Lever, C., "Bidirectional Remote Procedure Call on RPC-over-RDMA Transports", RFC 8167, DOI 10.17487/RFC8167, June 2017, <https://www.rfc-editor.org/info/rfc8167>.

@@ -1,0 +1,1 @@
+Fink, R. and R. Hinden, "6bone (IPv6 Testing Address Allocation) Phaseout", RFC 3701, DOI 10.17487/RFC3701, March 2004, <https://www.rfc-editor.org/info/rfc3701>.

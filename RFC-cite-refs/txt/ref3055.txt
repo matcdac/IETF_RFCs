@@ -1,0 +1,1 @@
+Krishnaswamy, M. and D. Romascanu, "Management Information Base for the PINT Services Architecture", RFC 3055, DOI 10.17487/RFC3055, February 2001, <https://www.rfc-editor.org/info/rfc3055>.

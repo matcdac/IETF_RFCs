@@ -1,0 +1,1 @@
+Eronen, P., Tschofenig, H., and Y. Sheffer, "An Extension for EAP-Only Authentication in IKEv2", RFC 5998, DOI 10.17487/RFC5998, September 2010, <https://www.rfc-editor.org/info/rfc5998>.

@@ -1,0 +1,1 @@
+Dawkins, S., Montenegro, G., Kojo, M., and V. Magret, "End-to-end Performance Implications of Slow Links", BCP 48, RFC 3150, DOI 10.17487/RFC3150, July 2001, <https://www.rfc-editor.org/info/rfc3150>.

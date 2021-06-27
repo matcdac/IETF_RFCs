@@ -1,0 +1,1 @@
+Daniele, M., Wijnen, B., Ellison, M., and D. Francisco, "Agent Extensibility (AgentX) Protocol Version 1", RFC 2741, DOI 10.17487/RFC2741, January 2000, <https://www.rfc-editor.org/info/rfc2741>.

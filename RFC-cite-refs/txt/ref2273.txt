@@ -1,0 +1,1 @@
+Levi, D., Meyer, P., and B. Stewart, "SNMPv3 Applications", RFC 2273, DOI 10.17487/RFC2273, January 1998, <https://www.rfc-editor.org/info/rfc2273>.

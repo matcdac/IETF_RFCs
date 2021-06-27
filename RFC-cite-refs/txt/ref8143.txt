@@ -1,0 +1,1 @@
+Elie, J., "Using Transport Layer Security (TLS) with Network News Transfer Protocol (NNTP)", RFC 8143, DOI 10.17487/RFC8143, April 2017, <https://www.rfc-editor.org/info/rfc8143>.

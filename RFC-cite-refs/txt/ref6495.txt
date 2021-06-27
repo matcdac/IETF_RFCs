@@ -1,0 +1,1 @@
+Gagliano, R., Krishnan, S., and A. Kukec, "Subject Key Identifier (SKI) SEcure Neighbor Discovery (SEND) Name Type Fields", RFC 6495, DOI 10.17487/RFC6495, February 2012, <https://www.rfc-editor.org/info/rfc6495>.

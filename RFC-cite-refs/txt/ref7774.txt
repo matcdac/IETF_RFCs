@@ -1,0 +1,1 @@
+Doi, Y. and M. Gillmore, "Multicast Protocol for Low-Power and Lossy Networks (MPL) Parameter Configuration Option for DHCPv6", RFC 7774, DOI 10.17487/RFC7774, March 2016, <https://www.rfc-editor.org/info/rfc7774>.

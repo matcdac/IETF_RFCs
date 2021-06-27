@@ -1,0 +1,1 @@
+Civanlar, M., Cash, G., and B. Haskell, "AT&T's Error Resilient Video Transmission Technique", RFC 2448, DOI 10.17487/RFC2448, November 1998, <https://www.rfc-editor.org/info/rfc2448>.

@@ -1,0 +1,1 @@
+Cheng, B., Wiggins, D., and L. Berger, Ed., "Dynamic Link Exchange Protocol (DLEP) Control-Plane-Based Pause Extension", RFC 8651, DOI 10.17487/RFC8651, October 2019, <https://www.rfc-editor.org/info/rfc8651>.

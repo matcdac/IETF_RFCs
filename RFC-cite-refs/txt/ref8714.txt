@@ -1,0 +1,1 @@
+Arkko, J. and T. Hardie, "Update to the Process for Selection of Trustees for the IETF Trust", BCP 101, RFC 8714, DOI 10.17487/RFC8714, February 2020, <https://www.rfc-editor.org/info/rfc8714>.

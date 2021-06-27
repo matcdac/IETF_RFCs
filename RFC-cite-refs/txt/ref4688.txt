@@ -1,0 +1,1 @@
+Rushing, S., "A Uniform Resource Name (URN) Namespace for Aerospace and Defence Industries Association of Europe (ASD) Specification 1000D", RFC 4688, DOI 10.17487/RFC4688, October 2006, <https://www.rfc-editor.org/info/rfc4688>.

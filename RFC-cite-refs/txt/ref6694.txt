@@ -1,0 +1,1 @@
+Moonesamy, S., Ed., "The "about" URI Scheme", RFC 6694, DOI 10.17487/RFC6694, August 2012, <https://www.rfc-editor.org/info/rfc6694>.

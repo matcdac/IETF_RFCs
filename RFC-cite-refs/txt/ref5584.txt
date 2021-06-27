@@ -1,0 +1,1 @@
+Hatanaka, M. and J. Matsumoto, "RTP Payload Format for the Adaptive TRansform Acoustic Coding (ATRAC) Family", RFC 5584, DOI 10.17487/RFC5584, July 2009, <https://www.rfc-editor.org/info/rfc5584>.

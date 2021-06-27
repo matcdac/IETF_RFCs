@@ -1,0 +1,1 @@
+Clemm, G., Amsden, J., Ellison, T., Kaler, C., and J. Whitehead, "Versioning Extensions to WebDAV (Web Distributed Authoring and Versioning)", RFC 3253, DOI 10.17487/RFC3253, March 2002, <https://www.rfc-editor.org/info/rfc3253>.

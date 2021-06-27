@@ -1,0 +1,1 @@
+Arkko, J., "IETF Administrative Support Activity 2.0: Update to the Process for Selection of Trustees for the IETF Trust", RFC 8715, DOI 10.17487/RFC8715, February 2020, <https://www.rfc-editor.org/info/rfc8715>.

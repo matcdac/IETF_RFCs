@@ -1,0 +1,1 @@
+Callon, R. and D. Haskin, "Routing Aspects of IPv6 Transition", RFC 2185, DOI 10.17487/RFC2185, September 1997, <https://www.rfc-editor.org/info/rfc2185>.

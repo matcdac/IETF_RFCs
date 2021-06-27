@@ -1,0 +1,1 @@
+Showalter, T., "Sieve: A Mail Filtering Language", RFC 3028, DOI 10.17487/RFC3028, January 2001, <https://www.rfc-editor.org/info/rfc3028>.

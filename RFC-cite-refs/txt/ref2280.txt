@@ -1,0 +1,1 @@
+Alaettinoglu, C., Bates, T., Gerich, E., Karrenberg, D., Meyer, D., Terpstra, M., and C. Villamizar, "Routing Policy Specification Language (RPSL)", RFC 2280, DOI 10.17487/RFC2280, January 1998, <https://www.rfc-editor.org/info/rfc2280>.

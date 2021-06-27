@@ -1,0 +1,1 @@
+Taylor, T., Ed., Tschofenig, H., Schulzrinne, H., and M. Shanmugam, "Security Threats and Requirements for Emergency Call Marking and Mapping", RFC 5069, DOI 10.17487/RFC5069, January 2008, <https://www.rfc-editor.org/info/rfc5069>.

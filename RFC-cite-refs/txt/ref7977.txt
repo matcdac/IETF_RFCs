@@ -1,0 +1,1 @@
+Dunkley, P., Llewellyn, G., Pascual, V., Salgueiro, G., and R. Ravindranath, "The WebSocket Protocol as a Transport for the Message Session Relay Protocol (MSRP)", RFC 7977, DOI 10.17487/RFC7977, September 2016, <https://www.rfc-editor.org/info/rfc7977>.

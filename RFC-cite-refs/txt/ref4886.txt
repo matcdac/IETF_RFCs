@@ -1,0 +1,1 @@
+Ernst, T., "Network Mobility Support Goals and Requirements", RFC 4886, DOI 10.17487/RFC4886, July 2007, <https://www.rfc-editor.org/info/rfc4886>.

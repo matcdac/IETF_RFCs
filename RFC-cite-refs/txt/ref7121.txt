@@ -1,0 +1,1 @@
+Ogawa, K., Wang, W., Haleplidis, E., and J. Hadi Salim, "High Availability within a Forwarding and Control Element Separation (ForCES) Network Element", RFC 7121, DOI 10.17487/RFC7121, February 2014, <https://www.rfc-editor.org/info/rfc7121>.

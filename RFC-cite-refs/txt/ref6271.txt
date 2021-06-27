@@ -1,0 +1,1 @@
+Mule, J-F., "Requirements for SIP-Based Session Peering", RFC 6271, DOI 10.17487/RFC6271, June 2011, <https://www.rfc-editor.org/info/rfc6271>.

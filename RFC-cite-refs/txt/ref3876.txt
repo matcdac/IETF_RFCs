@@ -1,0 +1,1 @@
+Chadwick, D. and S. Mullan, "Returning Matched Values with the Lightweight Directory Access Protocol version 3 (LDAPv3)", RFC 3876, DOI 10.17487/RFC3876, September 2004, <https://www.rfc-editor.org/info/rfc3876>.

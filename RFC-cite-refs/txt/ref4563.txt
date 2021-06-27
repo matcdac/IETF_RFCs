@@ -1,0 +1,1 @@
+Carrara, E., Lehtovirta, V., and K. Norrman, "The Key ID Information Type for the General Extension Payload in Multimedia Internet KEYing (MIKEY)", RFC 4563, DOI 10.17487/RFC4563, June 2006, <https://www.rfc-editor.org/info/rfc4563>.

@@ -1,0 +1,1 @@
+Kuegler, D. and Y. Sheffer, "Password Authenticated Connection Establishment with the Internet Key Exchange Protocol version 2 (IKEv2)", RFC 6631, DOI 10.17487/RFC6631, June 2012, <https://www.rfc-editor.org/info/rfc6631>.

@@ -1,0 +1,1 @@
+Lee, Y., Ed., Bernstein, G., Ed., Martensson, J., Takeda, T., Tsuritani, T., and O. Gonzalez de Dios, "Path Computation Element Communication Protocol (PCEP) Requirements for Wavelength Switched Optical Network (WSON) Routing and Wavelength Assignment", RFC 7449, DOI 10.17487/RFC7449, February 2015, <https://www.rfc-editor.org/info/rfc7449>.

@@ -1,0 +1,1 @@
+Zhou, L., Kong, N., Wei, J., Yao, J., and J. Gould, "Organization Extension for the Extensible Provisioning Protocol (EPP)", RFC 8544, DOI 10.17487/RFC8544, April 2019, <https://www.rfc-editor.org/info/rfc8544>.

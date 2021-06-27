@@ -1,0 +1,1 @@
+Thomson, M. and R. Bellis, "Location Information Server (LIS) Discovery Using IP Addresses and Reverse DNS", RFC 7216, DOI 10.17487/RFC7216, April 2014, <https://www.rfc-editor.org/info/rfc7216>.

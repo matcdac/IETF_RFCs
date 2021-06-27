@@ -1,0 +1,1 @@
+Law, L. and J. Solinas, "Suite B Cryptographic Suites for IPsec", RFC 6379, DOI 10.17487/RFC6379, October 2011, <https://www.rfc-editor.org/info/rfc6379>.

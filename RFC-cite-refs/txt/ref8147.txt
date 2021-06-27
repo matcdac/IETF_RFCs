@@ -1,0 +1,1 @@
+Gellens, R. and H. Tschofenig, "Next-Generation Pan-European eCall", RFC 8147, DOI 10.17487/RFC8147, May 2017, <https://www.rfc-editor.org/info/rfc8147>.

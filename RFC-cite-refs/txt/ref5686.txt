@@ -1,0 +1,1 @@
+Hiwasaki, Y. and H. Ohmuro, "RTP Payload Format for mU-law EMbedded Codec for Low-delay IP Communication (UEMCLIP) Speech Codec", RFC 5686, DOI 10.17487/RFC5686, October 2009, <https://www.rfc-editor.org/info/rfc5686>.

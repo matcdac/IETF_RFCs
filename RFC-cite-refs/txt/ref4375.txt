@@ -1,0 +1,1 @@
+Carlberg, K., "Emergency Telecommunications Services (ETS) Requirements for a Single Administrative Domain", RFC 4375, DOI 10.17487/RFC4375, January 2006, <https://www.rfc-editor.org/info/rfc4375>.

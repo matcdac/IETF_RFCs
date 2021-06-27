@@ -1,0 +1,1 @@
+Rose, M. and D. Cass, "ISO Transport Service on top of the TCP Version: 3", STD 35, RFC 1006, DOI 10.17487/RFC1006, May 1987, <https://www.rfc-editor.org/info/rfc1006>.

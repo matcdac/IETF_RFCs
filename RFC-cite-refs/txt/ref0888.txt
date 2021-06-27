@@ -1,0 +1,1 @@
+Seamonson, L. and E. Rosen, ""STUB" Exterior Gateway Protocol", RFC 888, DOI 10.17487/RFC0888, January 1984, <https://www.rfc-editor.org/info/rfc888>.

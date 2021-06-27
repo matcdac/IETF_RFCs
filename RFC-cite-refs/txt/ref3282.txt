@@ -1,0 +1,1 @@
+Alvestrand, H., "Content Language Headers", RFC 3282, DOI 10.17487/RFC3282, May 2002, <https://www.rfc-editor.org/info/rfc3282>.

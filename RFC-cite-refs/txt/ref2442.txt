@@ -1,0 +1,1 @@
+Freed, N., Newman, D., Belissent, J., and M. Hoy, "The Batch SMTP Media Type", RFC 2442, DOI 10.17487/RFC2442, November 1998, <https://www.rfc-editor.org/info/rfc2442>.

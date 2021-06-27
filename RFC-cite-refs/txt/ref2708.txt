@@ -1,0 +1,1 @@
+Bergman, R., "Job Submission Protocol Mapping Recommendations for the Job Monitoring MIB", RFC 2708, DOI 10.17487/RFC2708, November 1999, <https://www.rfc-editor.org/info/rfc2708>.

@@ -1,0 +1,1 @@
+Seidman, J., "A Proposed Extension to HTML : Client-Side Image Maps", RFC 1980, DOI 10.17487/RFC1980, August 1996, <https://www.rfc-editor.org/info/rfc1980>.

@@ -1,0 +1,1 @@
+Rogge, H. and E. Baccelli, "Directional Airtime Metric Based on Packet Sequence Numbers for Optimized Link State Routing Version 2 (OLSRv2)", RFC 7779, DOI 10.17487/RFC7779, April 2016, <https://www.rfc-editor.org/info/rfc7779>.

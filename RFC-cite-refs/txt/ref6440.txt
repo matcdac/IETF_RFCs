@@ -1,0 +1,1 @@
+Zorn, G., Wu, Q., and Y. Wang, "The EAP Re-authentication Protocol (ERP) Local Domain Name DHCPv6 Option", RFC 6440, DOI 10.17487/RFC6440, December 2011, <https://www.rfc-editor.org/info/rfc6440>.

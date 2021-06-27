@@ -1,0 +1,1 @@
+Coene, L., "Stream Control Transmission Protocol Applicability Statement", RFC 3257, DOI 10.17487/RFC3257, April 2002, <https://www.rfc-editor.org/info/rfc3257>.

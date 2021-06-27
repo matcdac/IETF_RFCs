@@ -1,0 +1,1 @@
+Walden, D., "Message-ID numbers", RFC 533, DOI 10.17487/RFC0533, July 1973, <https://www.rfc-editor.org/info/rfc533>.

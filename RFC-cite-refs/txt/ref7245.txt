@@ -1,0 +1,1 @@
+Hutton, A., Ed., Portman, L., Ed., Jain, R., and K. Rehor, "An Architecture for Media Recording Using the Session Initiation Protocol", RFC 7245, DOI 10.17487/RFC7245, May 2014, <https://www.rfc-editor.org/info/rfc7245>.

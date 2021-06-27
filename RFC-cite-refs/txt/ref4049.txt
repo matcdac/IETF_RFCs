@@ -1,0 +1,1 @@
+Housley, R., "BinaryTime: An Alternate Format for Representing Date and Time in ASN.1", RFC 4049, DOI 10.17487/RFC4049, April 2005, <https://www.rfc-editor.org/info/rfc4049>.

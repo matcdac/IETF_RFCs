@@ -1,0 +1,1 @@
+Saint-Andre, P., "Mapping the Extensible Messaging and Presence Protocol (XMPP) to Common Presence and Instant Messaging (CPIM)", RFC 3922, DOI 10.17487/RFC3922, October 2004, <https://www.rfc-editor.org/info/rfc3922>.

@@ -1,0 +1,1 @@
+Ash, G., Ed., Bader, A., Ed., Kappler, C., Ed., and D. Oran, Ed., "QSPEC Template for the Quality-of-Service NSIS Signaling Layer Protocol (NSLP)", RFC 5975, DOI 10.17487/RFC5975, October 2010, <https://www.rfc-editor.org/info/rfc5975>.

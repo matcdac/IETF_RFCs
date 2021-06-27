@@ -1,0 +1,1 @@
+Jiang, Y., Ed., Yong, L., and M. Paul, "Ethernet-Tree (E-Tree) Support in Virtual Private LAN Service (VPLS)", RFC 7796, DOI 10.17487/RFC7796, March 2016, <https://www.rfc-editor.org/info/rfc7796>.

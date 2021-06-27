@@ -1,0 +1,1 @@
+Gomez, C., Kovatsch, M., Tian, H., and Z. Cao, Ed., "Energy-Efficient Features of Internet of Things Protocols", RFC 8352, DOI 10.17487/RFC8352, April 2018, <https://www.rfc-editor.org/info/rfc8352>.

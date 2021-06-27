@@ -1,0 +1,1 @@
+Eastlake 3rd, D., "xNAME RCODE and Status Bits Clarification", RFC 6604, DOI 10.17487/RFC6604, April 2012, <https://www.rfc-editor.org/info/rfc6604>.

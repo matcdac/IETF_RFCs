@@ -1,0 +1,1 @@
+Wolfe, S., "Comments on IMP/Host Protocol changes (RFCs 687 and 690)", RFC 692, DOI 10.17487/RFC0692, June 1975, <https://www.rfc-editor.org/info/rfc692>.

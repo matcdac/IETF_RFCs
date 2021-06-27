@@ -1,0 +1,1 @@
+Crocker, D. and J. Postel, "Thoughts on the mail protocol proposed in RFC 524", RFC 539, DOI 10.17487/RFC0539, July 1973, <https://www.rfc-editor.org/info/rfc539>.

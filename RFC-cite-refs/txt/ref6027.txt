@@ -1,0 +1,1 @@
+Nir, Y., "IPsec Cluster Problem Statement", RFC 6027, DOI 10.17487/RFC6027, October 2010, <https://www.rfc-editor.org/info/rfc6027>.

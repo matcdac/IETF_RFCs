@@ -1,0 +1,1 @@
+Hares, S. and D. Hares, "BGP-4 MIB Implementation Survey", RFC 4275, DOI 10.17487/RFC4275, January 2006, <https://www.rfc-editor.org/info/rfc4275>.

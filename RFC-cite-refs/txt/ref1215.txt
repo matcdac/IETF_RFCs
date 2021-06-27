@@ -1,0 +1,1 @@
+Rose, M., "Convention for defining traps for use with the SNMP", RFC 1215, DOI 10.17487/RFC1215, March 1991, <https://www.rfc-editor.org/info/rfc1215>.

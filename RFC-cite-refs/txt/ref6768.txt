@@ -1,0 +1,1 @@
+Beili, E., "ATM-Based xDSL Bonded Interfaces MIB", RFC 6768, DOI 10.17487/RFC6768, February 2013, <https://www.rfc-editor.org/info/rfc6768>.

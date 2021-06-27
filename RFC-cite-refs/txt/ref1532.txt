@@ -1,0 +1,1 @@
+Wimer, W., "Clarifications and Extensions for the Bootstrap Protocol", RFC 1532, DOI 10.17487/RFC1532, October 1993, <https://www.rfc-editor.org/info/rfc1532>.

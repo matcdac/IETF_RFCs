@@ -1,0 +1,1 @@
+Shen, S., Mao, Y., and NSS. Murthy, "Using Advanced Encryption Standard Counter Mode (AES-CTR) with the Internet Key Exchange version 02 (IKEv2) Protocol", RFC 5930, DOI 10.17487/RFC5930, July 2010, <https://www.rfc-editor.org/info/rfc5930>.

@@ -1,0 +1,1 @@
+Cerf, V., Harslem, E., Heafner, J., Metcalfe, B., and J. White, "The Data Reconfiguration Service -- Compiler/Interpreter Implementation Notes", RFC 194, DOI 10.17487/RFC0194, July 1971, <https://www.rfc-editor.org/info/rfc194>.

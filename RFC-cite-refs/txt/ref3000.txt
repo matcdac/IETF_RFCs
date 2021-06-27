@@ -1,0 +1,1 @@
+Reynolds, J., Braden, R., Ginoza, S., and L. Shiota, "Internet Official Protocol Standards", RFC 3000, DOI 10.17487/RFC3000, November 2001, <https://www.rfc-editor.org/info/rfc3000>.

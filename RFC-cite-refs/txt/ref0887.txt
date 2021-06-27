@@ -1,0 +1,1 @@
+Accetta, M., "Resource Location Protocol", RFC 887, DOI 10.17487/RFC0887, December 1983, <https://www.rfc-editor.org/info/rfc887>.

@@ -1,0 +1,1 @@
+Winter, S. and J. Salowey, "Update to the Extensible Authentication Protocol (EAP) Applicability Statement for Application Bridging for Federated Access Beyond Web (ABFAB)", RFC 7057, DOI 10.17487/RFC7057, December 2013, <https://www.rfc-editor.org/info/rfc7057>.

@@ -1,0 +1,1 @@
+Stokes, A., "London Node Is Now Up", RFC 588, DOI 10.17487/RFC0588, October 1973, <https://www.rfc-editor.org/info/rfc588>.

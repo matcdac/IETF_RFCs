@@ -1,0 +1,1 @@
+Friend, R. and R. Monsour, "IP Payload Compression Using LZS", RFC 2395, DOI 10.17487/RFC2395, December 1998, <https://www.rfc-editor.org/info/rfc2395>.

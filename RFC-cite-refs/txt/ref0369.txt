@@ -1,0 +1,1 @@
+Pickens, J., "Evaluation of ARPANET services January-March, 1972", RFC 369, DOI 10.17487/RFC0369, July 1972, <https://www.rfc-editor.org/info/rfc369>.

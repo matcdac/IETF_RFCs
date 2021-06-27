@@ -1,0 +1,1 @@
+Eastlake 3rd, D., "Domain Name System (DNS) IANA Considerations", RFC 6195, DOI 10.17487/RFC6195, March 2011, <https://www.rfc-editor.org/info/rfc6195>.

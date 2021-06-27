@@ -1,0 +1,1 @@
+International Organization for Standardization, "Final text of DIS 8473, Protocol for Providing the Connectionless-mode Network Service", RFC 994, DOI 10.17487/RFC0994, March 1986, <https://www.rfc-editor.org/info/rfc994>.

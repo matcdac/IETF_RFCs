@@ -1,0 +1,1 @@
+Latham, D., "DoD statement on Open Systems Interconnection protocols", RFC 1039, DOI 10.17487/RFC1039, January 1988, <https://www.rfc-editor.org/info/rfc1039>.

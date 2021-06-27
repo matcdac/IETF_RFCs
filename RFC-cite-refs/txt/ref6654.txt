@@ -1,0 +1,1 @@
+Tsou, T., Zhou, C., Taylor, T., and Q. Chen, "Gateway-Initiated IPv6 Rapid Deployment on IPv4 Infrastructures (GI 6rd)", RFC 6654, DOI 10.17487/RFC6654, July 2012, <https://www.rfc-editor.org/info/rfc6654>.

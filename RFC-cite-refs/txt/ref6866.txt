@@ -1,0 +1,1 @@
+Carpenter, B. and S. Jiang, "Problem Statement for Renumbering IPv6 Hosts with Static Addresses in Enterprise Networks", RFC 6866, DOI 10.17487/RFC6866, February 2013, <https://www.rfc-editor.org/info/rfc6866>.

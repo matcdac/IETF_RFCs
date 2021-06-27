@@ -1,0 +1,1 @@
+Kreuter, R., "RTP Payload Format for a 64 kbit/s Transparent Call", RFC 4040, DOI 10.17487/RFC4040, April 2005, <https://www.rfc-editor.org/info/rfc4040>.

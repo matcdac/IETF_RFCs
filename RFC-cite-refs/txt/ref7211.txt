@@ -1,0 +1,1 @@
+Hartman, S. and D. Zhang, "Operations Model for Router Keying", RFC 7211, DOI 10.17487/RFC7211, June 2014, <https://www.rfc-editor.org/info/rfc7211>.

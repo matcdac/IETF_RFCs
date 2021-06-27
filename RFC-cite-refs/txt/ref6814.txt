@@ -1,0 +1,1 @@
+Pignataro, C. and F. Gont, "Formally Deprecating Some IPv4 Options", RFC 6814, DOI 10.17487/RFC6814, November 2012, <https://www.rfc-editor.org/info/rfc6814>.

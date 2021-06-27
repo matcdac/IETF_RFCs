@@ -1,0 +1,1 @@
+Throop, D., "SNMP MIB extension for Multiprotocol Interconnect over X.25", RFC 1461, DOI 10.17487/RFC1461, May 1993, <https://www.rfc-editor.org/info/rfc1461>.

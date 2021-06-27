@@ -1,0 +1,1 @@
+Carlberg, K. and R. Atkinson, "General Requirements for Emergency Telecommunication Service (ETS)", RFC 3689, DOI 10.17487/RFC3689, February 2004, <https://www.rfc-editor.org/info/rfc3689>.

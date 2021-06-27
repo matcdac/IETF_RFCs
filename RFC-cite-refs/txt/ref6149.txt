@@ -1,0 +1,1 @@
+Turner, S. and L. Chen, "MD2 to Historic Status", RFC 6149, DOI 10.17487/RFC6149, March 2011, <https://www.rfc-editor.org/info/rfc6149>.

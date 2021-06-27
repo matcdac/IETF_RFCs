@@ -1,0 +1,1 @@
+Yegin, A., Moses, D., and S. Jeon, "On-Demand Mobility Management", RFC 8653, DOI 10.17487/RFC8653, October 2019, <https://www.rfc-editor.org/info/rfc8653>.

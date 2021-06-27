@@ -1,0 +1,1 @@
+Josefsson, S. and L. Hornquist Astrand, "Context Token Encapsulate/Decapsulate and OID Comparison Functions for the Generic Security Service Application Program Interface (GSS-API)", RFC 6339, DOI 10.17487/RFC6339, August 2011, <https://www.rfc-editor.org/info/rfc6339>.

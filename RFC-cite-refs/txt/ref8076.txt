@@ -1,0 +1,1 @@
+Knauf, A., Schmidt, T., Ed., Hege, G., and M. Waehlisch, "A Usage for Shared Resources in RELOAD (ShaRe)", RFC 8076, DOI 10.17487/RFC8076, March 2017, <https://www.rfc-editor.org/info/rfc8076>.

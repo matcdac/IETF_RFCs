@@ -1,0 +1,1 @@
+Melnikov, A. and K. Carlberg, "Tunneling of SMTP Message Transfer Priorities", RFC 6758, DOI 10.17487/RFC6758, October 2012, <https://www.rfc-editor.org/info/rfc6758>.

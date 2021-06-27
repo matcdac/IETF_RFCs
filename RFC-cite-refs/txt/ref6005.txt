@@ -1,0 +1,1 @@
+Berger, L. and D. Fedyk, "Generalized MPLS (GMPLS) Support for Metro Ethernet Forum and G.8011 User Network Interface (UNI)", RFC 6005, DOI 10.17487/RFC6005, October 2010, <https://www.rfc-editor.org/info/rfc6005>.

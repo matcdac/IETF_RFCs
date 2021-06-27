@@ -1,0 +1,1 @@
+Le Faucheur, F., Polk, J., and K. Carlberg, "RSVP Extensions for Admission Priority", RFC 6401, DOI 10.17487/RFC6401, October 2011, <https://www.rfc-editor.org/info/rfc6401>.

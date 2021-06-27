@@ -1,0 +1,1 @@
+Kovitz, B., "MIME Media Type for the Systems Biology Markup Language (SBML)", RFC 3823, DOI 10.17487/RFC3823, June 2004, <https://www.rfc-editor.org/info/rfc3823>.

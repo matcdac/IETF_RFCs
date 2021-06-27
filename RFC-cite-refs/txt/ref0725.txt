@@ -1,0 +1,1 @@
+Day, J. and G. Grossman, "RJE protocol for a resource sharing network", RFC 725, DOI 10.17487/RFC0725, March 1977, <https://www.rfc-editor.org/info/rfc725>.

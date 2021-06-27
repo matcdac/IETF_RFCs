@@ -1,0 +1,1 @@
+Andrews, M., "Extension Mechanisms for DNS (EDNS) EXPIRE Option", RFC 7314, DOI 10.17487/RFC7314, July 2014, <https://www.rfc-editor.org/info/rfc7314>.

@@ -1,0 +1,1 @@
+Kennedy, H., "Pi Digit Generation Protocol", RFC 3091, DOI 10.17487/RFC3091, April 1 2001, <https://www.rfc-editor.org/info/rfc3091>.

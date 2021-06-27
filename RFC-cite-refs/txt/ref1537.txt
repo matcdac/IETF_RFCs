@@ -1,0 +1,1 @@
+Beertema, P., "Common DNS Data File Configuration Errors", RFC 1537, DOI 10.17487/RFC1537, October 1993, <https://www.rfc-editor.org/info/rfc1537>.

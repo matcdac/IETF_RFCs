@@ -1,0 +1,1 @@
+Bernstein, G., Mannie, E., Sharma, V., and E. Gray, "Framework for Generalized Multi-Protocol Label Switching (GMPLS)-based Control of Synchronous Digital Hierarchy/Synchronous Optical Networking (SDH/SONET) Networks", RFC 4257, DOI 10.17487/RFC4257, December 2005, <https://www.rfc-editor.org/info/rfc4257>.

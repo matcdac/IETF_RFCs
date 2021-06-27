@@ -1,0 +1,1 @@
+Camarillo, G., Nikander, P., Hautakorpi, J., Keranen, A., and A. Johnston, "HIP BONE: Host Identity Protocol (HIP) Based Overlay Networking Environment (BONE)", RFC 6079, DOI 10.17487/RFC6079, January 2011, <https://www.rfc-editor.org/info/rfc6079>.

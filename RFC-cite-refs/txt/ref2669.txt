@@ -1,0 +1,1 @@
+St. Johns, M., Ed., "DOCSIS Cable Device MIB Cable Device Management Information Base for DOCSIS compliant Cable Modems and Cable Modem Termination Systems", RFC 2669, DOI 10.17487/RFC2669, August 1999, <https://www.rfc-editor.org/info/rfc2669>.

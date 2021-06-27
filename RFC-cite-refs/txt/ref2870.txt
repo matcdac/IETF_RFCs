@@ -1,0 +1,1 @@
+Bush, R., Karrenberg, D., Kosters, M., and R. Plzak, "Root Name Server Operational Requirements", RFC 2870, DOI 10.17487/RFC2870, June 2000, <https://www.rfc-editor.org/info/rfc2870>.

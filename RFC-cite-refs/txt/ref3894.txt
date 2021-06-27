@@ -1,0 +1,1 @@
+Degener, J., "Sieve Extension: Copying Without Side Effects", RFC 3894, DOI 10.17487/RFC3894, October 2004, <https://www.rfc-editor.org/info/rfc3894>.

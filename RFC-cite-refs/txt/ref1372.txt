@@ -1,0 +1,1 @@
+Hedrick, C. and D. Borman, "Telnet Remote Flow Control Option", RFC 1372, DOI 10.17487/RFC1372, October 1992, <https://www.rfc-editor.org/info/rfc1372>.

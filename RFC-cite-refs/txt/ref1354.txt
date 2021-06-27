@@ -1,0 +1,1 @@
+Baker, F., "IP Forwarding Table MIB", RFC 1354, DOI 10.17487/RFC1354, July 1992, <https://www.rfc-editor.org/info/rfc1354>.

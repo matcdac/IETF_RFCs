@@ -1,0 +1,1 @@
+Eastlake 3rd, D. and T. Goldstein, "ECML v1: Field Names for E-Commerce", RFC 2706, DOI 10.17487/RFC2706, October 1999, <https://www.rfc-editor.org/info/rfc2706>.

@@ -1,0 +1,1 @@
+Walden, D. and J. Levin, "Interim Revision to Appendix F of BBN 1822", RFC 716, DOI 10.17487/RFC0716, May 1976, <https://www.rfc-editor.org/info/rfc716>.

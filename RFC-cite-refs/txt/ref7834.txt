@@ -1,0 +1,1 @@
+Saucez, D., Iannone, L., Cabellos, A., and F. Coras, "Locator/ID Separation Protocol (LISP) Impact", RFC 7834, DOI 10.17487/RFC7834, April 2016, <https://www.rfc-editor.org/info/rfc7834>.

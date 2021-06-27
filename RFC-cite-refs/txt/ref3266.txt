@@ -1,0 +1,1 @@
+Olson, S., Camarillo, G., and A. Roach, "Support for IPv6 in Session Description Protocol (SDP)", RFC 3266, DOI 10.17487/RFC3266, June 2002, <https://www.rfc-editor.org/info/rfc3266>.

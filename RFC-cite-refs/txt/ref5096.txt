@@ -1,0 +1,1 @@
+Devarapalli, V., "Mobile IPv6 Experimental Messages", RFC 5096, DOI 10.17487/RFC5096, December 2007, <https://www.rfc-editor.org/info/rfc5096>.

@@ -1,0 +1,1 @@
+Mannie, E. and D. Papadimitriou, "Generalized Multi-Protocol Label Switching (GMPLS) Extensions for Synchronous Optical Network (SONET) and Synchronous Digital Hierarchy (SDH) Control", RFC 3946, DOI 10.17487/RFC3946, October 2004, <https://www.rfc-editor.org/info/rfc3946>.

@@ -1,0 +1,1 @@
+Dreibholz, T. and J. Mulik, "Reliable Server Pooling MIB Module Definition", RFC 5525, DOI 10.17487/RFC5525, April 2009, <https://www.rfc-editor.org/info/rfc5525>.

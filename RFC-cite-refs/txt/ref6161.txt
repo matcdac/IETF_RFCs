@@ -1,0 +1,1 @@
+Turner, S., "Elliptic Curve Algorithms for Cryptographic Message Syntax (CMS) Encrypted Key Package Content Type", RFC 6161, DOI 10.17487/RFC6161, April 2011, <https://www.rfc-editor.org/info/rfc6161>.

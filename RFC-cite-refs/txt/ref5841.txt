@@ -1,0 +1,1 @@
+Hay, R. and W. Turkal, "TCP Option to Denote Packet Mood", RFC 5841, DOI 10.17487/RFC5841, April 1 2010, <https://www.rfc-editor.org/info/rfc5841>.

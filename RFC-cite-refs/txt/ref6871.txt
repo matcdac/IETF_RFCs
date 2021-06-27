@@ -1,0 +1,1 @@
+Gilman, R., Even, R., and F. Andreasen, "Session Description Protocol (SDP) Media Capabilities Negotiation", RFC 6871, DOI 10.17487/RFC6871, February 2013, <https://www.rfc-editor.org/info/rfc6871>.

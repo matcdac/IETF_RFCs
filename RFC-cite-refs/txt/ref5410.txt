@@ -1,0 +1,1 @@
+Jerichow, A., Ed., and L. Piron, "Multimedia Internet KEYing (MIKEY) General Extension Payload for Open Mobile Alliance BCAST 1.0", RFC 5410, DOI 10.17487/RFC5410, January 2009, <https://www.rfc-editor.org/info/rfc5410>.

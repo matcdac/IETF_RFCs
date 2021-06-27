@@ -1,0 +1,1 @@
+Metcalfe, R., ""The stockings were hung by the chimney with care"", RFC 602, DOI 10.17487/RFC0602, December 1973, <https://www.rfc-editor.org/info/rfc602>.

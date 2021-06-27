@@ -1,0 +1,1 @@
+Harrington, D., Ed., "Templates for Internet-Drafts Containing MIB Modules", BCP 139, RFC 5249, DOI 10.17487/RFC5249, July 2008, <https://www.rfc-editor.org/info/rfc5249>.

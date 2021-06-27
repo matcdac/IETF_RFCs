@@ -1,0 +1,1 @@
+Lind, S. and P. Pfautz, "Infrastructure ENUM Requirements", RFC 5067, DOI 10.17487/RFC5067, November 2007, <https://www.rfc-editor.org/info/rfc5067>.

@@ -1,0 +1,1 @@
+Meyer, D. and K. Patel, "BGP-4 Protocol Analysis", RFC 4274, DOI 10.17487/RFC4274, January 2006, <https://www.rfc-editor.org/info/rfc4274>.

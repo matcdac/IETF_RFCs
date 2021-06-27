@@ -1,0 +1,1 @@
+Pignataro, C., "The Null Packet", RFC 6592, DOI 10.17487/RFC6592, April 1 2012, <https://www.rfc-editor.org/info/rfc6592>.

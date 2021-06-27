@@ -1,0 +1,1 @@
+Mallory, T. and A. Kullberg, "Incremental updating of the Internet checksum", RFC 1141, DOI 10.17487/RFC1141, January 1990, <https://www.rfc-editor.org/info/rfc1141>.

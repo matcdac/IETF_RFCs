@@ -1,0 +1,1 @@
+Malkin, G., "Who's Who in the Internet: Biographies of IAB, IESG and IRSG Members", RFC 1251, DOI 10.17487/RFC1251, August 1991, <https://www.rfc-editor.org/info/rfc1251>.

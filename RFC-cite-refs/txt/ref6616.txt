@@ -1,0 +1,1 @@
+Lear, E., Tschofenig, H., Mauldin, H., and S. Josefsson, "A Simple Authentication and Security Layer (SASL) and Generic Security Service Application Program Interface (GSS-API) Mechanism for OpenID", RFC 6616, DOI 10.17487/RFC6616, May 2012, <https://www.rfc-editor.org/info/rfc6616>.

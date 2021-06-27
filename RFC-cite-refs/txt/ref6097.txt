@@ -1,0 +1,1 @@
+Korhonen, J. and V. Devarapalli, "Local Mobility Anchor (LMA) Discovery for Proxy Mobile IPv6", RFC 6097, DOI 10.17487/RFC6097, February 2011, <https://www.rfc-editor.org/info/rfc6097>.

@@ -1,0 +1,1 @@
+Melnikov, A., "Sieve Email Filtering: Imap4flags Extension", RFC 5232, DOI 10.17487/RFC5232, January 2008, <https://www.rfc-editor.org/info/rfc5232>.

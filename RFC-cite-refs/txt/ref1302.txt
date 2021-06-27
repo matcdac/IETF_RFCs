@@ -1,0 +1,1 @@
+Sitzler, D., Smith, P., and A. Marine, "Building a Network Information Services Infrastructure", FYI 12, RFC 1302, DOI 10.17487/RFC1302, February 1992, <https://www.rfc-editor.org/info/rfc1302>.

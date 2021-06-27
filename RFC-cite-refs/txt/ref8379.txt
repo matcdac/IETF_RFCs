@@ -1,0 +1,1 @@
+Hegde, S., Sarkar, P., Gredler, H., Nanduri, M., and L. Jalil, "OSPF Graceful Link Shutdown", RFC 8379, DOI 10.17487/RFC8379, May 2018, <https://www.rfc-editor.org/info/rfc8379>.

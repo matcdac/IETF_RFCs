@@ -1,0 +1,1 @@
+Conta, A. and S. Deering, "Internet Control Message Protocol (ICMPv6) for the Internet Protocol Version 6 (IPv6)", RFC 1885, DOI 10.17487/RFC1885, December 1995, <https://www.rfc-editor.org/info/rfc1885>.

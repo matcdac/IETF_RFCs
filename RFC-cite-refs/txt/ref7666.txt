@@ -1,0 +1,1 @@
+Asai, H., MacFaden, M., Schoenwaelder, J., Shima, K., and T. Tsou, "Management Information Base for Virtual Machines Controlled by a Hypervisor", RFC 7666, DOI 10.17487/RFC7666, October 2015, <https://www.rfc-editor.org/info/rfc7666>.

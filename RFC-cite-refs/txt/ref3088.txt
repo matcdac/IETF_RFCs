@@ -1,0 +1,1 @@
+Zeilenga, K., "OpenLDAP Root Service An experimental LDAP referral service", RFC 3088, DOI 10.17487/RFC3088, April 2001, <https://www.rfc-editor.org/info/rfc3088>.

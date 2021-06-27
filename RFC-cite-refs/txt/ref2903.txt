@@ -1,0 +1,1 @@
+de Laat, C., Gross, G., Gommans, L., Vollbrecht, J., and D. Spence, "Generic AAA Architecture", RFC 2903, DOI 10.17487/RFC2903, August 2000, <https://www.rfc-editor.org/info/rfc2903>.

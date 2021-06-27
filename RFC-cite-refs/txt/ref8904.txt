@@ -1,0 +1,1 @@
+Vesely, A., "DNS Whitelist (DNSWL) Email Authentication Method Extension", RFC 8904, DOI 10.17487/RFC8904, September 2020, <https://www.rfc-editor.org/info/rfc8904>.

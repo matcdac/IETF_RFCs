@@ -1,0 +1,1 @@
+Freed, N. and K. Moore, "MIME Parameter Value and Encoded Word Extensions: Character Sets, Languages, and Continuations", RFC 2184, DOI 10.17487/RFC2184, August 1997, <https://www.rfc-editor.org/info/rfc2184>.

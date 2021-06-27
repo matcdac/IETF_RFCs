@@ -1,0 +1,1 @@
+Carpenter, B., Baker, F., and M. Roberts, "Memorandum of Understanding Concerning the Technical Work of the Internet Assigned Numbers Authority", RFC 2860, DOI 10.17487/RFC2860, June 2000, <https://www.rfc-editor.org/info/rfc2860>.

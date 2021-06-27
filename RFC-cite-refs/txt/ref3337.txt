@@ -1,0 +1,1 @@
+Thompson, B., Koren, T., and B. Buffam, "Class Extensions for PPP over Asynchronous Transfer Mode Adaptation Layer 2", RFC 3337, DOI 10.17487/RFC3337, December 2002, <https://www.rfc-editor.org/info/rfc3337>.

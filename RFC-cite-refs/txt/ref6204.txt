@@ -1,0 +1,1 @@
+Singh, H., Beebee, W., Donley, C., Stark, B., and O. Troan, Ed., "Basic Requirements for IPv6 Customer Edge Routers", RFC 6204, DOI 10.17487/RFC6204, April 2011, <https://www.rfc-editor.org/info/rfc6204>.

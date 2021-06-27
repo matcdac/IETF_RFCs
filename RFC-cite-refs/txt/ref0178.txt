@@ -1,0 +1,1 @@
+Cotton, I., "Network graphic attention handling", RFC 178, DOI 10.17487/RFC0178, June 1971, <https://www.rfc-editor.org/info/rfc178>.

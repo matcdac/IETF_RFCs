@@ -1,0 +1,1 @@
+Zimmermann, A., Eddy, W., and L. Eggert, "Moving Outdated TCP Extensions and TCP-Related Documents to Historic or Informational Status", RFC 7805, DOI 10.17487/RFC7805, April 2016, <https://www.rfc-editor.org/info/rfc7805>.

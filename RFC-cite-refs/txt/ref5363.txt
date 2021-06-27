@@ -1,0 +1,1 @@
+Camarillo, G. and A. Roach, "Framework and Security Considerations for Session Initiation Protocol (SIP) URI-List Services", RFC 5363, DOI 10.17487/RFC5363, October 2008, <https://www.rfc-editor.org/info/rfc5363>.

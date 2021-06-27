@@ -1,0 +1,1 @@
+Mockapetris, P., "DNS encoding of network names and other types", RFC 1101, DOI 10.17487/RFC1101, April 1989, <https://www.rfc-editor.org/info/rfc1101>.

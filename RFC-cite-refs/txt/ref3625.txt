@@ -1,0 +1,1 @@
+Gellens, R. and H. Garudadri, "The QCP File Format and Media Types for Speech Data", RFC 3625, DOI 10.17487/RFC3625, September 2003, <https://www.rfc-editor.org/info/rfc3625>.

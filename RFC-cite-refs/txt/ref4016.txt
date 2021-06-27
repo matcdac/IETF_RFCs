@@ -1,0 +1,1 @@
+Parthasarathy, M., "Protocol for Carrying Authentication and Network Access (PANA) Threat Analysis and Security Requirements", RFC 4016, DOI 10.17487/RFC4016, March 2005, <https://www.rfc-editor.org/info/rfc4016>.

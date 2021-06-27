@@ -1,0 +1,1 @@
+Housley, R., "Using ChaCha20-Poly1305 Authenticated Encryption in the Cryptographic Message Syntax (CMS)", RFC 8103, DOI 10.17487/RFC8103, February 2017, <https://www.rfc-editor.org/info/rfc8103>.

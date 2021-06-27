@@ -1,0 +1,1 @@
+Skinner, T., "Logical Message Synchronization", RFC 58, DOI 10.17487/RFC0058, June 1970, <https://www.rfc-editor.org/info/rfc58>.

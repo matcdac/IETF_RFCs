@@ -1,0 +1,1 @@
+Asaeda, H., Meyer, K., and W. Lee, Ed., "Mtrace Version 2: Traceroute Facility for IP Multicast", RFC 8487, DOI 10.17487/RFC8487, October 2018, <https://www.rfc-editor.org/info/rfc8487>.

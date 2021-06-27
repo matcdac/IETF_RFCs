@@ -1,0 +1,1 @@
+Hornig, C., "A Standard for the Transmission of IP Datagrams over Ethernet Networks", STD 41, RFC 894, DOI 10.17487/RFC0894, April 1984, <https://www.rfc-editor.org/info/rfc894>.

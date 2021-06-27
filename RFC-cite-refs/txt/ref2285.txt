@@ -1,0 +1,1 @@
+Mandeville, R., "Benchmarking Terminology for LAN Switching Devices", RFC 2285, DOI 10.17487/RFC2285, February 1998, <https://www.rfc-editor.org/info/rfc2285>.

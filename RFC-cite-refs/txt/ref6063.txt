@@ -1,0 +1,1 @@
+Doherty, A., Pei, M., Machani, S., and M. Nystrom, "Dynamic Symmetric Key Provisioning Protocol (DSKPP)", RFC 6063, DOI 10.17487/RFC6063, December 2010, <https://www.rfc-editor.org/info/rfc6063>.

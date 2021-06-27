@@ -1,0 +1,1 @@
+Crispin, M., "Telnet logout option", RFC 727, DOI 10.17487/RFC0727, April 1977, <https://www.rfc-editor.org/info/rfc727>.

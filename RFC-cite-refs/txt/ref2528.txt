@@ -1,0 +1,1 @@
+Housley, R. and W. Polk, "Internet X.509 Public Key Infrastructure Representation of Key Exchange Algorithm (KEA) Keys in Internet X.509 Public Key Infrastructure Certificates", RFC 2528, DOI 10.17487/RFC2528, March 1999, <https://www.rfc-editor.org/info/rfc2528>.

@@ -1,0 +1,1 @@
+Khermosh, L., "Managed Objects of Ethernet Passive Optical Networks (EPON)", RFC 4837, DOI 10.17487/RFC4837, July 2007, <https://www.rfc-editor.org/info/rfc4837>.

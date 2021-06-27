@@ -1,0 +1,1 @@
+Crocker, D., "Telnet output linefeed disposition", RFC 658, DOI 10.17487/RFC0658, October 1974, <https://www.rfc-editor.org/info/rfc658>.

@@ -1,0 +1,1 @@
+McCloghrie, K. and E. Decker, "IEEE 802.5 MIB using SMIv2", RFC 1743, DOI 10.17487/RFC1743, December 1994, <https://www.rfc-editor.org/info/rfc1743>.

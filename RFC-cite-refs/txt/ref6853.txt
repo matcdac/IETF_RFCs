@@ -1,0 +1,1 @@
+Brzozowski, J., Tremblay, J., Chen, J., and T. Mrugalski, "DHCPv6 Redundancy Deployment Considerations", BCP 180, RFC 6853, DOI 10.17487/RFC6853, February 2013, <https://www.rfc-editor.org/info/rfc6853>.

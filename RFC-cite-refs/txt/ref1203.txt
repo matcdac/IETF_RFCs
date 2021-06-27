@@ -1,0 +1,1 @@
+Rice, J., "Interactive Mail Access Protocol: Version 3", RFC 1203, DOI 10.17487/RFC1203, February 1991, <https://www.rfc-editor.org/info/rfc1203>.

@@ -1,0 +1,1 @@
+Smallberg, D., "Who talks TCP? - survey of 22 February 1983", RFC 846, DOI 10.17487/RFC0846, February 1983, <https://www.rfc-editor.org/info/rfc846>.

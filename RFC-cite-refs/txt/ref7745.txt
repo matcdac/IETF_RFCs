@@ -1,0 +1,1 @@
+Manderson, T., "XML Schemas for Reverse DNS Management", RFC 7745, DOI 10.17487/RFC7745, January 2016, <https://www.rfc-editor.org/info/rfc7745>.

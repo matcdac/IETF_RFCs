@@ -1,0 +1,1 @@
+The Internet Society and Sun Microsystems, "An Agreement Between the Internet Society, the IETF, and Sun Microsystems, Inc. in the matter of NFS V.4 Protocols", RFC 2339, DOI 10.17487/RFC2339, May 1998, <https://www.rfc-editor.org/info/rfc2339>.

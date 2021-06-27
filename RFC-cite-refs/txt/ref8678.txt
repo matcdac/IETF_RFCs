@@ -1,0 +1,1 @@
+Baker, F., Bowers, C., and J. Linkova, "Enterprise Multihoming using Provider-Assigned IPv6 Addresses without Network Prefix Translation: Requirements and Solutions", RFC 8678, DOI 10.17487/RFC8678, December 2019, <https://www.rfc-editor.org/info/rfc8678>.

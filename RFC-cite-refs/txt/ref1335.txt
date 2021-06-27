@@ -1,0 +1,1 @@
+Wang, Z. and J. Crowcroft, "A Two-Tier Address Structure for the Internet: A Solution to the Problem of Address Space Exhaustion", RFC 1335, DOI 10.17487/RFC1335, May 1992, <https://www.rfc-editor.org/info/rfc1335>.

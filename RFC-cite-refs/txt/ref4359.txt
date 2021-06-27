@@ -1,0 +1,1 @@
+Weis, B., "The Use of RSA/SHA-1 Signatures within Encapsulating Security Payload (ESP) and Authentication Header (AH)", RFC 4359, DOI 10.17487/RFC4359, January 2006, <https://www.rfc-editor.org/info/rfc4359>.

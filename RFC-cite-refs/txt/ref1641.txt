@@ -1,0 +1,1 @@
+Goldsmith, D. and M. Davis, "Using Unicode with MIME", RFC 1641, DOI 10.17487/RFC1641, July 1994, <https://www.rfc-editor.org/info/rfc1641>.

@@ -1,0 +1,1 @@
+Meyer, G., "The PPP Encryption Control Protocol (ECP)", RFC 1968, DOI 10.17487/RFC1968, June 1996, <https://www.rfc-editor.org/info/rfc1968>.

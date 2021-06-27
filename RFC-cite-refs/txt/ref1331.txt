@@ -1,0 +1,1 @@
+Simpson, W., "The Point-to-Point Protocol (PPP) for the Transmission of Multi-protocol Datagrams over Point-to-Point Links", RFC 1331, DOI 10.17487/RFC1331, May 1992, <https://www.rfc-editor.org/info/rfc1331>.

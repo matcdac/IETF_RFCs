@@ -1,0 +1,1 @@
+Fowler, D., Ed., "Definitions of Managed Objects for the DS1, E1, DS2 and E2 Interface Types", RFC 2495, DOI 10.17487/RFC2495, January 1999, <https://www.rfc-editor.org/info/rfc2495>.

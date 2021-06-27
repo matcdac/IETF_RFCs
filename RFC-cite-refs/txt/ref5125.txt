@@ -1,0 +1,1 @@
+Taylor, T., "Reclassification of RFC 3525 to Historic", RFC 5125, DOI 10.17487/RFC5125, February 2008, <https://www.rfc-editor.org/info/rfc5125>.

@@ -1,0 +1,1 @@
+Siddiqui, A., Romascanu, D., and E. Golovinsky, "Real-time Application Quality-of-Service Monitoring (RAQMON) MIB", RFC 4711, DOI 10.17487/RFC4711, October 2006, <https://www.rfc-editor.org/info/rfc4711>.

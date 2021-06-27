@@ -1,0 +1,1 @@
+Zhou, X., Korhonen, J., Williams, C., Gundavelli, S., and CJ. Bernardos, "Prefix Delegation Support for Proxy Mobile IPv6", RFC 7148, DOI 10.17487/RFC7148, March 2014, <https://www.rfc-editor.org/info/rfc7148>.

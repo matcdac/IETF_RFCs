@@ -1,0 +1,1 @@
+Perkins, D. and R. Hobby, "Point-to-Point Protocol (PPP) initial configuration options", RFC 1172, DOI 10.17487/RFC1172, July 1990, <https://www.rfc-editor.org/info/rfc1172>.

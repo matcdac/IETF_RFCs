@@ -1,0 +1,1 @@
+Daboo, C., Douglass, M., and S. Lees, "xCal: The XML Format for iCalendar", RFC 6321, DOI 10.17487/RFC6321, August 2011, <https://www.rfc-editor.org/info/rfc6321>.

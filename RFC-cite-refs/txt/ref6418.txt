@@ -1,0 +1,1 @@
+Blanchet, M. and P. Seite, "Multiple Interfaces and Provisioning Domains Problem Statement", RFC 6418, DOI 10.17487/RFC6418, November 2011, <https://www.rfc-editor.org/info/rfc6418>.

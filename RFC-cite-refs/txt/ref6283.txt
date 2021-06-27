@@ -1,0 +1,1 @@
+Jerman Blazic, A., Saljic, S., and T. Gondrom, "Extensible Markup Language Evidence Record Syntax (XMLERS)", RFC 6283, DOI 10.17487/RFC6283, July 2011, <https://www.rfc-editor.org/info/rfc6283>.

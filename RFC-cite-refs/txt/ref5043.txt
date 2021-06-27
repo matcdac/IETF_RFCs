@@ -1,0 +1,1 @@
+Bestler, C., Ed., and R. Stewart, Ed., "Stream Control Transmission Protocol (SCTP) Direct Data Placement (DDP) Adaptation", RFC 5043, DOI 10.17487/RFC5043, October 2007, <https://www.rfc-editor.org/info/rfc5043>.

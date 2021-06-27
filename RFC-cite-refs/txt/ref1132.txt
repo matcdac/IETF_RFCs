@@ -1,0 +1,1 @@
+McLaughlin, L., "Standard for the transmission of 802.2 packets over IPX networks", STD 49, RFC 1132, DOI 10.17487/RFC1132, November 1989, <https://www.rfc-editor.org/info/rfc1132>.

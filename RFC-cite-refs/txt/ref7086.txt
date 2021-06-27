@@ -1,0 +1,1 @@
+Keranen, A., Camarillo, G., and J. Maenpaa, "Host Identity Protocol-Based Overlay Networking Environment (HIP BONE) Instance Specification for REsource LOcation And Discovery (RELOAD)", RFC 7086, DOI 10.17487/RFC7086, January 2014, <https://www.rfc-editor.org/info/rfc7086>.

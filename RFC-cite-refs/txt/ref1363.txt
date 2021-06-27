@@ -1,0 +1,1 @@
+Partridge, C., "A Proposed Flow Specification", RFC 1363, DOI 10.17487/RFC1363, September 1992, <https://www.rfc-editor.org/info/rfc1363>.

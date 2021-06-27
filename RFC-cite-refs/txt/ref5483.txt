@@ -1,0 +1,1 @@
+Conroy, L. and K. Fujiwara, "ENUM Implementation Issues and Experiences", RFC 5483, DOI 10.17487/RFC5483, March 2009, <https://www.rfc-editor.org/info/rfc5483>.

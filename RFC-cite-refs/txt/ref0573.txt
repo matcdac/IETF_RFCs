@@ -1,0 +1,1 @@
+Bhushan, A., "DATA AND FILE TRANSFER - SOME MEASUREMENT RESULTS", RFC 573, DOI 10.17487/RFC0573, September 1973, <https://www.rfc-editor.org/info/rfc573>.

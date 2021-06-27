@@ -1,0 +1,1 @@
+Shen, C., Schulzrinne, H., and A. Koike, "A Session Initiation Protocol (SIP) Load-Control Event Package", RFC 7200, DOI 10.17487/RFC7200, April 2014, <https://www.rfc-editor.org/info/rfc7200>.

@@ -1,0 +1,1 @@
+Nash, D., "ODETTE File Transfer Protocol", RFC 2204, DOI 10.17487/RFC2204, September 1997, <https://www.rfc-editor.org/info/rfc2204>.

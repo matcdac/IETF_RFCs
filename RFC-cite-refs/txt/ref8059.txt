@@ -1,0 +1,1 @@
+Arango, J., Venaas, S., Kouvelas, I., and D. Farinacci, "PIM Join Attributes for Locator/ID Separation Protocol (LISP) Environments", RFC 8059, DOI 10.17487/RFC8059, January 2017, <https://www.rfc-editor.org/info/rfc8059>.

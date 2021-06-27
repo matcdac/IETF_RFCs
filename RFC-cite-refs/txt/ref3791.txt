@@ -1,0 +1,1 @@
+Olvera, C. and P. Nesser, II, "Survey of IPv4 Addresses in Currently Deployed IETF Routing Area Standards Track and Experimental Documents", RFC 3791, DOI 10.17487/RFC3791, June 2004, <https://www.rfc-editor.org/info/rfc3791>.

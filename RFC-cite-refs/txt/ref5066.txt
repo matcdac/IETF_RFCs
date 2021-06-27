@@ -1,0 +1,1 @@
+Beili, E., "Ethernet in the First Mile Copper (EFMCu) Interfaces MIB", RFC 5066, DOI 10.17487/RFC5066, November 2007, <https://www.rfc-editor.org/info/rfc5066>.

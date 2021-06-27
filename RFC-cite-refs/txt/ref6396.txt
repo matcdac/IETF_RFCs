@@ -1,0 +1,1 @@
+Blunk, L., Karir, M., and C. Labovitz, "Multi-Threaded Routing Toolkit (MRT) Routing Information Export Format", RFC 6396, DOI 10.17487/RFC6396, October 2011, <https://www.rfc-editor.org/info/rfc6396>.

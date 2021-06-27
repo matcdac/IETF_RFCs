@@ -1,0 +1,1 @@
+Atlas, A., Tiruveedhula, K., Bowers, C., Tantsura, J., and IJ. Wijnands, "LDP Extensions to Support Maximally Redundant Trees", RFC 8320, DOI 10.17487/RFC8320, February 2018, <https://www.rfc-editor.org/info/rfc8320>.

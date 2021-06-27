@@ -1,0 +1,1 @@
+Almesberger, W., Le Boudec, J., and P. Oechslin, "Application REQuested IP over ATM (AREQUIPA)", RFC 2170, DOI 10.17487/RFC2170, July 1997, <https://www.rfc-editor.org/info/rfc2170>.

@@ -1,0 +1,1 @@
+Moy, J., "OSPF specification", RFC 1131, DOI 10.17487/RFC1131, October 1989, <https://www.rfc-editor.org/info/rfc1131>.

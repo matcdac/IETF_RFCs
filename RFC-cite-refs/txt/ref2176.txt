@@ -1,0 +1,1 @@
+Murakami, K. and M. Maruyama, "IPv4 over MAPOS Version 1", RFC 2176, DOI 10.17487/RFC2176, June 1997, <https://www.rfc-editor.org/info/rfc2176>.

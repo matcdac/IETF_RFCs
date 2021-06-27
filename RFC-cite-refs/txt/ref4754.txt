@@ -1,0 +1,1 @@
+Fu, D. and J. Solinas, "IKE and IKEv2 Authentication Using the Elliptic Curve Digital Signature Algorithm (ECDSA)", RFC 4754, DOI 10.17487/RFC4754, January 2007, <https://www.rfc-editor.org/info/rfc4754>.

@@ -1,0 +1,1 @@
+Shimizu, S., Kawano, T., Murakami, K., and E. Beier, "MAPOS/PPP Tunneling mode", RFC 3186, DOI 10.17487/RFC3186, December 2001, <https://www.rfc-editor.org/info/rfc3186>.

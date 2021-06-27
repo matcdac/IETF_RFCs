@@ -1,0 +1,1 @@
+Hoffman, D., Fernando, G., and V. Goyal, "RTP Payload Format for MPEG1/MPEG2 Video", RFC 2038, DOI 10.17487/RFC2038, October 1996, <https://www.rfc-editor.org/info/rfc2038>.

@@ -1,0 +1,1 @@
+Internet Architecture Board and L. Chapin, "Applicability Statement for OSPF", RFC 1370, DOI 10.17487/RFC1370, October 1992, <https://www.rfc-editor.org/info/rfc1370>.

@@ -1,0 +1,1 @@
+Levin, O., "Telephone Number Mapping (ENUM) Service Registration for H.323", RFC 3762, DOI 10.17487/RFC3762, April 2004, <https://www.rfc-editor.org/info/rfc3762>.

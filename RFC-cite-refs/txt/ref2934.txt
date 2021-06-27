@@ -1,0 +1,1 @@
+McCloghrie, K., Farinacci, D., Thaler, D., and B. Fenner, "Protocol Independent Multicast MIB for IPv4", RFC 2934, DOI 10.17487/RFC2934, October 2000, <https://www.rfc-editor.org/info/rfc2934>.

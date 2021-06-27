@@ -1,0 +1,1 @@
+George, R., Leiba, B., and A. Melnikov, "Sieve Email Filtering: Use of Presence Information with Auto-Responder Functionality", RFC 6133, DOI 10.17487/RFC6133, July 2011, <https://www.rfc-editor.org/info/rfc6133>.

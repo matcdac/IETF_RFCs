@@ -1,0 +1,1 @@
+Rao, S., Zinin, A., and A. Roy, "Detecting Inactive Neighbors over OSPF Demand Circuits (DC)", RFC 3883, DOI 10.17487/RFC3883, October 2004, <https://www.rfc-editor.org/info/rfc3883>.

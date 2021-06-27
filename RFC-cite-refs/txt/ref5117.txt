@@ -1,0 +1,1 @@
+Westerlund, M. and S. Wenger, "RTP Topologies", RFC 5117, DOI 10.17487/RFC5117, January 2008, <https://www.rfc-editor.org/info/rfc5117>.

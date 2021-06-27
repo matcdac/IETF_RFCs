@@ -1,0 +1,1 @@
+Aboba, B. and J. Vollbrecht, "Proxy Chaining and Policy Implementation in Roaming", RFC 2607, DOI 10.17487/RFC2607, June 1999, <https://www.rfc-editor.org/info/rfc2607>.

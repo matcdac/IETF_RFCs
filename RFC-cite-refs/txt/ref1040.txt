@@ -1,0 +1,1 @@
+Linn, J., "Privacy enhancement for Internet electronic mail: Part I: Message encipherment and authentication procedures", RFC 1040, DOI 10.17487/RFC1040, January 1988, <https://www.rfc-editor.org/info/rfc1040>.

@@ -1,0 +1,1 @@
+Boschi, E., Trammell, B., Mark, L., and T. Zseby, "Exporting Type Information for IP Flow Information Export (IPFIX) Information Elements", RFC 5610, DOI 10.17487/RFC5610, July 2009, <https://www.rfc-editor.org/info/rfc5610>.

@@ -1,0 +1,1 @@
+Kaplan, H., "Internationalizing IPv6 Using 128-Bit Unicode", RFC 8369, DOI 10.17487/RFC8369, April 1 2018, <https://www.rfc-editor.org/info/rfc8369>.

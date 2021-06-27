@@ -1,0 +1,1 @@
+Alvestrand, H., "Carrying PostScript in X.400 and MIME", RFC 2160, DOI 10.17487/RFC2160, January 1998, <https://www.rfc-editor.org/info/rfc2160>.
