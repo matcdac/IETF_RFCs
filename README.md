@@ -156,7 +156,9 @@ https://www.rfc-editor.org/rfc/rfc9059.xml
 
 https://tools.ietf.org/pdf/rfc9059.xml
 
-BIBTEX
+Cite BIBTEX
+
+https://datatracker.ietf.org/doc/rfc12/bibtex/
 
 https://datatracker.ietf.org/doc/rfc9059/bibtex
 
