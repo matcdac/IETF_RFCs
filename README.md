@@ -124,27 +124,43 @@ To download the latest updates in this current repository, and append the output
 https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file
 
 
-## All RFCs - till date 27 June 2021 ##
+## Helpful Links ##
 
-[All - Descending Order - HTML](https://www.rfc-editor.org/rfc-index2.html)
+[Index - Standards - Minimal](https://www.rfc-editor.org/standards)
 
-[Latest 100 - Descending Order - HTML](https://www.rfc-editor.org/rfc-index-100d.html)
+[Index - Internet Standards / Draft Standards / Proposed Standards - Detailed](https://www.rfc-editor.org/standards.php?showRET=Y&showOBS=Y&sortkey=STDRET&sorting=ASC&sort_number=)
 
-[All - Ascending Order - HTML](https://www.rfc-editor.org/rfc-index.html)
+[Index - Standards - RFC - Info](https://www.ietf.org/standards/rfcs/)
 
-[All - Ascending Order - TXT](https://www.rfc-editor.org/rfc-index.txt)
+[BPC (Best Current Practices) - All](https://www.ietf.org/rfc/bcp-index.txt)
 
-[All - Ascending Order - TXT - Mirror](https://www.ietf.org/download/rfc-index.txt)
+[RFC (Request for Comments) - All - Descending Order - HTML](https://www.rfc-editor.org/rfc-index2.html)
 
-[All - Ascending Order - TXT - Mirror 2](https://www.rfc-editor.org/in-notes/rfc-index.txt)
+[RFC - Latest 100 - Descending Order - HTML](https://www.rfc-editor.org/rfc-index-100d.html)
 
-[All - Ascending Order - XML](https://www.rfc-editor.org/rfc-index.xml)
+[RFC - All - Ascending Order - HTML](https://www.rfc-editor.org/rfc-index.html)
 
-[All - Ascending Order - XML - Mirror](https://www.rfc-editor.org/in-notes/rfc-index.xml)
+[RFC - All - Ascending Order - TXT](https://www.rfc-editor.org/rfc-index.txt)
 
-[First 100 - Ascending Order - HTML](https://www.rfc-editor.org/rfc-index-100a.html)
+[RFC - All - Ascending Order - TXT - Mirror](https://www.ietf.org/download/rfc-index.txt)
 
-[Index - Standards](https://www.rfc-editor.org/standards)
+[RFC - All - Ascending Order - TXT - Mirror 2](https://www.rfc-editor.org/in-notes/rfc-index.txt)
+
+[RFC - All - Ascending Order - XML](https://www.rfc-editor.org/rfc-index.xml)
+
+[RFC - All - Ascending Order - XML - Mirror](https://www.rfc-editor.org/in-notes/rfc-index.xml)
+
+[RFC - First 100 - Ascending Order - HTML](https://www.rfc-editor.org/rfc-index-100a.html)
+
+[RFC - Retreival](https://www.rfc-editor.org/retrieve/)
+
+[RFC - Bulk Download](https://www.rfc-editor.org/retrieve/bulk/)
+
+[RFC - Errata - Search / Report](https://www.rfc-editor.org/errata.php)
+
+[RFC - Editorial Guidelines and Procedures](https://www.rfc-editor.org/policy.html)
+
+[Style Guide](https://www.rfc-editor.org/styleguide/)
 
 [Search - Informational](https://www.rfc-editor.org/search/rfc_search_detail.php?sortkey=Number&sorting=DESC&page=All&pubstatus%5B%5D=Standards%20Track&std_trk=Internet%20Standard)
 
@@ -152,20 +168,51 @@ https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file
 
 [Search - Mirror 2](https://datatracker.ietf.org/doc/)
 
+[RFC - HomePage](https://www.rfc-editor.org/)
+
+[IEFT (Internet Engineering Task Force) - HomePage](https://www.ietf.org/)
+
 [WikiPedia](https://en.wikipedia.org/wiki/List_of_RFCs)
 
-[HomePage - Request for Comments](https://www.rfc-editor.org/)
 
-[Info - Request for Comments](https://www.ietf.org/standards/rfcs/)
+## Internet Standards (STD) ##
 
-[Retreival - Request for Comments](https://www.rfc-editor.org/retrieve/)
+Root
 
-[HomePage - Internet Engineering Task Force](https://www.ietf.org/)
+https://www.rfc-editor.org/info/std3
 
-[Bulk Download - Request for Comments](https://www.rfc-editor.org/retrieve/bulk/)
+Cite TXT
+
+https://www.rfc-editor.org/refs/ref-std3.txt
 
 
-## Resource Original Documents & Citation Reference Links ###
+## Best Current Practice (BCP) ##
+
+Search Index
+
+https://www.rfc-editor.org/search/rfc_search_detail.php?page=All&rfc=bcp
+
+BCP Root
+
+https://www.rfc-editor.org/info/bcp3
+
+Cite TXT
+
+https://www.rfc-editor.org/refs/ref-bcp3.txt
+
+
+## Intellectual Property Rights (IPR) ##
+
+Search Index
+
+https://datatracker.ietf.org/ipr/search/
+
+Particular RFC
+
+https://datatracker.ietf.org/ipr/search/?draft=&rfc=rfc1915&submit=rfc
+
+
+## Request for Comments (RFC) - Resource Original Documents & Citation Reference Links ###
 
 Consider an Individual RFC, say `rfc9059`, it will be available at :
 
@@ -176,6 +223,12 @@ https://www.rfc-editor.org/info/rfc9059
 IEFT Root
 
 https://datatracker.ietf.org/doc/rfc9059
+
+HTML with inline ERRATA / ERRATUM
+
+https://www.rfc-editor.org/rfc/inline-errata/rfc2739.html
+
+https://www.rfc-editor.org/rfc/inline-errata/rfc6350.html
 
 HTML
 
@@ -202,6 +255,10 @@ XML
 https://www.rfc-editor.org/rfc/rfc9059.xml
 
 https://tools.ietf.org/pdf/rfc9059.xml
+
+ERRATA
+
+https://www.rfc-editor.org/errata/rfc2739
 
 Cite BIBTEX
 
