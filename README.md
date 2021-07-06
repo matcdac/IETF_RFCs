@@ -5,6 +5,13 @@
 [https://github.com/matcdac/IETF_RFCs](https://github.com/matcdac/IETF_RFCs)
 
 
+## File / Name Search ##
+
+Click on the below link, and type in the `rfc<number>`, or `rfc<number>.<extension>`
+
+[https://github.com/matcdac/IETF_RFCs/find/master](https://github.com/matcdac/IETF_RFCs/find/master)
+
+
 ## About ##
 
 This repository contains all the Internet Standards specified in the RFC (Request for Comments) documents, published by the the IEFT (Internet Engineering Task Force) Society
