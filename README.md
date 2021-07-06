@@ -50,6 +50,8 @@ But still, if you want to "do it yourself"
 
 	```cd RFC-docs```
 
+	```./download-RFCs-html-inline-errata.sh &> html-inline-errata.out```
+
 	```./download-RFCs-txt.sh &> txt.out```
 
 	```./download-RFCs-pdf.sh &> pdf.out```
@@ -95,6 +97,8 @@ To download the latest updates in this current repository, and append the output
 * RFCs
 
 	```cd RFC-docs```
+
+	```./download-RFCs-html-inline-errata.sh &>> html-inline-errata.out```
 
 	```./download-RFCs-txt.sh &>> txt.out```
 
