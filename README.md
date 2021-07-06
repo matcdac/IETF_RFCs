@@ -9,7 +9,7 @@
 
 This repository contains all the Internet Standards specified in the RFC (Request for Comments) documents, published by the the IEFT (Internet Engineering Task Force) Society
 
-To view the RFCs, browse into the `RFC-docs` directory, and the respective sub directories `txt`, `pdf`, `html`, `ps`, `xml`, `pdf-original`
+To view the RFCs, browse into the `RFC-docs` directory, and the respective sub directories `html-inline-errata`, `txt`, `pdf`, `html`, `ps`, `xml`, `pdf-original`
 
 To cite the RFCs, browse into the `RFC-cite-refs` directory, and the respective sub directories `txt`, `xml`, `bib`
 
