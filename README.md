@@ -243,7 +243,7 @@ https://datatracker.ietf.org/list/nonwg
 
 ## Groups by Area / Parent ##
 
-#### <a href="https://datatracker.ietf.org/wg/#art" style="text-decoration:underline; color:#733a87">Applications and Real-Time</a> ####
+#### <a href="https://datatracker.ietf.org/wg/#art" style="text-decoration:underline; color:#733a87; !important">Applications and Real-Time</a> ####
 
    <a href="https://datatracker.ietf.org/ag/artarea/">artarea — Applications and Real-Time Area Open Meeting</a>
 
@@ -307,7 +307,7 @@ https://datatracker.ietf.org/list/nonwg
 
    <a href="https://datatracker.ietf.org/wg/wpack/">wpack — Web Packaging</a>
 
-#### <a href="https://datatracker.ietf.org/wg/#gen" style="text-decoration:underline; color:#733a87">General</a> ####
+#### <a href="https://datatracker.ietf.org/wg/#gen" style="text-decoration:underline; color:#733a87; !important">General</a> ####
 
    <a href="https://datatracker.ietf.org/ag/genarea/">genarea — General Area Open Meeting</a>
 
@@ -315,7 +315,7 @@ https://datatracker.ietf.org/list/nonwg
 
    <a href="https://datatracker.ietf.org/wg/shmoo/">shmoo — Stay Home Meet Only Online</a>
 
-#### <a href="https://datatracker.ietf.org/wg/#int" style="text-decoration:underline; color:#733a87">Internet</a> ####
+#### <a href="https://datatracker.ietf.org/wg/#int" style="text-decoration:underline; color:#733a87; !important">Internet</a> ####
 
    <a href="https://datatracker.ietf.org/wg/6lo/">6lo — IPv6 over Networks of Resource-constrained Nodes</a>
 
@@ -351,7 +351,7 @@ https://datatracker.ietf.org/list/nonwg
 
    <a href="https://datatracker.ietf.org/wg/tictoc/">tictoc — Timing over IP Connection and Transfer of Clock</a>
 
-#### <a href="https://datatracker.ietf.org/wg/#ops" style="text-decoration:underline; color:#733a87">Ops &amp; Mgmt</a> ####
+#### <a href="https://datatracker.ietf.org/wg/#ops" style="text-decoration:underline; color:#733a87; !important">Ops &amp; Mgmt</a> ####
 
    <a href="https://datatracker.ietf.org/wg/anima/">anima — Autonomic Networking Integrated Model and Approach</a>
 
@@ -385,7 +385,7 @@ https://datatracker.ietf.org/list/nonwg
 
    <a href="https://datatracker.ietf.org/wg/v6ops/">v6ops — IPv6 Operations</a>
 
-#### <a href="https://datatracker.ietf.org/wg/#rtg" style="text-decoration:underline; color:#733a87">Routing</a> ####
+#### <a href="https://datatracker.ietf.org/wg/#rtg" style="text-decoration:underline; color:#733a87; !important">Routing</a> ####
 
    <a href="https://datatracker.ietf.org/wg/babel/">babel — Babel routing protocol</a>
 
@@ -435,7 +435,7 @@ https://datatracker.ietf.org/list/nonwg
 
    <a href="https://datatracker.ietf.org/wg/teas/">teas — Traffic Engineering Architecture and Signaling</a>
 
-#### <a href="https://datatracker.ietf.org/wg/#sec" style="text-decoration:underline; color:#733a87">Security</a> ####
+#### <a href="https://datatracker.ietf.org/wg/#sec" style="text-decoration:underline; color:#733a87; !important">Security</a> ####
 
    <a href="https://datatracker.ietf.org/wg/ace/">ace — Authentication and Authorization for Constrained Environments</a>
 
@@ -487,7 +487,7 @@ https://datatracker.ietf.org/list/nonwg
 
    <a href="https://datatracker.ietf.org/wg/trans/">trans — Public Notary Transparency</a>
 
-#### <a href="https://datatracker.ietf.org/wg/#tsv" style="text-decoration:underline; color:#733a87">Transport</a> ####
+#### <a href="https://datatracker.ietf.org/wg/#tsv" style="text-decoration:underline; color:#733a87; !important">Transport</a> ####
 
    <a href="https://datatracker.ietf.org/wg/alto/">alto — Application-Layer Traffic Optimization</a>
 
@@ -513,7 +513,7 @@ https://datatracker.ietf.org/list/nonwg
 
    <a href="https://datatracker.ietf.org/wg/tsvwg/">tsvwg — Transport Area Working Group</a>
 
-#### <a href="https://datatracker.ietf.org/rg/" style="text-decoration:underline; color:#733a87">IRTF</a> ####
+#### <a href="https://datatracker.ietf.org/rg/" style="text-decoration:underline; color:#733a87; !important">IRTF</a> ####
 
    <a href="https://datatracker.ietf.org/rag/anrw/">anrw — ACM/IRTF Applied Networking Research Workshop</a>
 
